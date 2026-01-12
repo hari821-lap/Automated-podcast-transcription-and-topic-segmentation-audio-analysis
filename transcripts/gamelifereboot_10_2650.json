@@ -1,0 +1,263 @@
+{
+  "result": [
+    {
+      "conf": 0.860783,
+      "end": 3.96,
+      "start": 3.9,
+      "word": "you"
+    },
+    {
+      "conf": 0.860783,
+      "end": 4.14,
+      "start": 3.96,
+      "word": "know"
+    },
+    {
+      "conf": 0.657958,
+      "end": 4.23,
+      "start": 4.14,
+      "word": "i"
+    },
+    {
+      "conf": 0.93612,
+      "end": 4.92,
+      "start": 4.56,
+      "word": "see"
+    },
+    {
+      "conf": 0.93612,
+      "end": 5.28,
+      "start": 5.13,
+      "word": "the"
+    },
+    {
+      "conf": 0.93612,
+      "end": 5.7,
+      "start": 5.28,
+      "word": "signs"
+    },
+    {
+      "conf": 0.349068,
+      "end": 5.82,
+      "start": 5.7,
+      "word": "on"
+    },
+    {
+      "conf": 0.874232,
+      "end": 5.97,
+      "start": 5.82,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.6,
+      "start": 6.093773,
+      "word": "very"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.9,
+      "start": 6.63,
+      "word": "large"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.2,
+      "start": 6.9,
+      "word": "scale"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.29,
+      "start": 7.2,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.502546,
+      "start": 7.29,
+      "word": "one"
+    },
+    {
+      "conf": 0.703378,
+      "end": 7.59,
+      "start": 7.502546,
+      "word": "the"
+    },
+    {
+      "conf": 0.703378,
+      "end": 8.01,
+      "start": 7.59,
+      "word": "beach"
+    },
+    {
+      "conf": 0.852995,
+      "end": 8.4,
+      "start": 8.19,
+      "word": "or"
+    },
+    {
+      "conf": 0.852995,
+      "end": 8.581377,
+      "start": 8.4,
+      "word": "he's"
+    },
+    {
+      "conf": 0.924127,
+      "end": 8.769821,
+      "start": 8.612354,
+      "word": "like"
+    },
+    {
+      "conf": 0.425026,
+      "end": 11.038362,
+      "start": 10.946785,
+      "word": "a"
+    },
+    {
+      "conf": 0.569017,
+      "end": 12.24,
+      "start": 11.931424,
+      "word": "healthy"
+    },
+    {
+      "conf": 0.332256,
+      "end": 13.62,
+      "start": 13.35,
+      "word": "sudden"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.67,
+      "start": 17.43,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.03,
+      "start": 17.67,
+      "word": "spoke"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.27,
+      "start": 18.03,
+      "word": "with"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.93,
+      "start": 18.54,
+      "word": "rich"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.14,
+      "start": 18.96,
+      "word": "hill"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.32,
+      "start": 19.14,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.62,
+      "start": 19.41,
+      "word": "now"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.83,
+      "start": 19.62,
+      "word": "he"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.04,
+      "start": 19.83,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.28,
+      "start": 20.04,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.76,
+      "start": 20.28,
+      "word": "original"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.18,
+      "start": 20.76,
+      "word": "creator"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.48,
+      "start": 21.18,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.87,
+      "start": 21.54,
+      "word": "john"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.14,
+      "start": 21.87,
+      "word": "madden"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.86,
+      "start": 22.29,
+      "word": "football"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.19,
+      "start": 22.98,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.43,
+      "start": 23.19,
+      "word": "he's"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.76,
+      "start": 23.43,
+      "word": "currently"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.21,
+      "start": 23.76,
+      "word": "chief"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.69,
+      "start": 24.21,
+      "word": "creative"
+    },
+    {
+      "conf": 0.460545,
+      "end": 24.99,
+      "start": 24.69,
+      "word": "officer"
+    }
+  ],
+  "text": "you know i see the signs on a very large scale of one the beach or he's like a healthy sudden i spoke with rich hill and now he is the original creator of john madden football and he's currently chief creative officer"
+}

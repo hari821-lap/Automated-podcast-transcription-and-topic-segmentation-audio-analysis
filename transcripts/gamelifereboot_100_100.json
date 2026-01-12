@@ -1,0 +1,389 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 1.14,
+      "start": 0.87,
+      "word": "here"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.32,
+      "start": 1.14,
+      "word": "at"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.77,
+      "start": 1.32,
+      "word": "wired"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.92,
+      "start": 1.77,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.07,
+      "start": 1.92,
+      "word": "with"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.25,
+      "start": 2.07,
+      "word": "me"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.31,
+      "start": 2.25,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.4,
+      "start": 2.31,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.88,
+      "start": 2.4,
+      "word": "studio"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.54,
+      "start": 2.91,
+      "word": "as"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.96,
+      "start": 3.54,
+      "word": "usual"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.56,
+      "start": 3.99,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.01,
+      "start": 4.71,
+      "word": "peter"
+    },
+    {
+      "conf": 0.363138,
+      "end": 5.28,
+      "start": 5.01,
+      "word": "ruben"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.61,
+      "start": 5.28,
+      "word": "senior"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.91,
+      "start": 5.61,
+      "word": "editor"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.09,
+      "start": 5.91,
+      "word": "at"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.78,
+      "start": 6.09,
+      "word": "wired"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.5,
+      "start": 7.14,
+      "word": "and"
+    },
+    {
+      "conf": 0.776369,
+      "end": 7.8,
+      "start": 7.5,
+      "word": "lara"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.28,
+      "start": 7.8,
+      "word": "hudson"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.88,
+      "start": 8.28,
+      "word": "contributor"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.33,
+      "start": 8.91,
+      "word": "wired"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.35,
+      "start": 10.02,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.53,
+      "start": 10.35,
+      "word": "here"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.68,
+      "start": 10.53,
+      "word": "we"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.92,
+      "start": 10.68,
+      "word": "are"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.31,
+      "start": 10.95,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.64,
+      "start": 11.374677,
+      "word": "on"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.97,
+      "start": 11.64,
+      "word": "today's"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.6,
+      "start": 11.97,
+      "word": "podcast"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.05,
+      "start": 12.63,
+      "word": "what"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.5,
+      "start": 13.26,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.68,
+      "start": 13.5,
+      "word": "just"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.83,
+      "start": 13.68,
+      "word": "want"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.89,
+      "start": 13.83,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.25,
+      "start": 13.89,
+      "word": "point"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.88,
+      "start": 14.25,
+      "word": "out"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.3,
+      "start": 15.15,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.45,
+      "start": 15.3,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.57,
+      "start": 15.45,
+      "word": "is"
+    },
+    {
+      "conf": 0.783848,
+      "end": 15.84,
+      "start": 15.57,
+      "word": "our"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.14,
+      "start": 15.84,
+      "word": "one"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.462288,
+      "start": 16.14,
+      "word": "hundred"
+    },
+    {
+      "conf": 0.49651,
+      "end": 17.212104,
+      "start": 16.47,
+      "word": "episode"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.67,
+      "start": 17.212104,
+      "word": "also"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.15,
+      "start": 17.67,
+      "word": "true"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.81,
+      "start": 18.27,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.14,
+      "start": 18.81,
+      "word": "game"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.5,
+      "start": 19.14,
+      "word": "live"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.98,
+      "start": 19.56,
+      "word": "audio"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.64,
+      "start": 19.98,
+      "word": "podcast"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.82,
+      "start": 20.67,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.97,
+      "start": 20.82,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.3,
+      "start": 20.97,
+      "word": "current"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.81,
+      "start": 21.3,
+      "word": "form"
+    },
+    {
+      "conf": 0.545971,
+      "end": 22.342945,
+      "start": 21.87,
+      "word": "our"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.83,
+      "start": 22.5,
+      "word": "audio"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.31,
+      "start": 22.83,
+      "word": "engineer"
+    },
+    {
+      "conf": 0.745043,
+      "end": 23.88,
+      "start": 23.49,
+      "word": "surely"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.21,
+      "start": 23.88,
+      "word": "actually"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.72,
+      "start": 24.21,
+      "word": "reminded"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.87,
+      "start": 24.72,
+      "word": "me"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.96,
+      "start": 24.87,
+      "word": "of"
+    }
+  ],
+  "text": "here at wired and with me in the studio as usual is peter ruben senior editor at wired and lara hudson contributor wired and here we are so on today's podcast what i just want to point out that this is our one hundred episode also true of game live audio podcast in it's current form our audio engineer surely actually reminded me of"
+}

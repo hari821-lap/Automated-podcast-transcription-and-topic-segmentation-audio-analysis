@@ -1,0 +1,515 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.36,
+      "start": 0.03,
+      "word": "yeah"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.6,
+      "start": 0.42,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.72,
+      "start": 0.6,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.44,
+      "start": 0.72,
+      "word": "system"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.07,
+      "start": 1.83,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.4,
+      "start": 2.07,
+      "word": "just"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.52,
+      "start": 2.43,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.39,
+      "start": 2.52,
+      "word": "playful"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.96,
+      "start": 3.63,
+      "word": "sort"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.05,
+      "start": 3.96,
+      "word": "of"
+    },
+    {
+      "conf": 0.579097,
+      "end": 4.250813,
+      "start": 4.05,
+      "word": "thing"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.53,
+      "start": 4.38,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.8,
+      "start": 4.53,
+      "word": "all"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.01,
+      "start": 4.8,
+      "word": "these"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.19,
+      "start": 5.01,
+      "word": "sort"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.28,
+      "start": 5.19,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.88,
+      "start": 5.28,
+      "word": "interactive"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.21,
+      "start": 5.88,
+      "word": "things"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.36,
+      "start": 6.21,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.48,
+      "start": 6.36,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.81,
+      "start": 6.48,
+      "word": "can"
+    },
+    {
+      "conf": 0.485578,
+      "end": 6.987919,
+      "start": 6.84,
+      "word": "be"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.11,
+      "start": 6.987919,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.26,
+      "start": 7.11,
+      "word": "can"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.44,
+      "start": 7.26,
+      "word": "do"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.62,
+      "start": 7.44,
+      "word": "with"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.92,
+      "start": 7.62,
+      "word": "them"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.94,
+      "start": 8.79,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.0,
+      "start": 8.94,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.6,
+      "start": 9.03,
+      "word": "always"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.81,
+      "start": 9.66,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.02,
+      "start": 9.81,
+      "word": "keep"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.53,
+      "start": 10.02,
+      "word": "bringing"
+    },
+    {
+      "conf": 0.885014,
+      "end": 12.095756,
+      "start": 11.22,
+      "word": "gameplay"
+    },
+    {
+      "conf": 0.58997,
+      "end": 12.39,
+      "start": 12.095756,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.54,
+      "start": 12.39,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.6,
+      "start": 12.54,
+      "word": "it"
+    },
+    {
+      "conf": 0.879807,
+      "end": 12.84,
+      "start": 12.6,
+      "word": "doesn't"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.5,
+      "start": 12.84,
+      "word": "just"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.770739,
+      "start": 13.5,
+      "word": "feel"
+    },
+    {
+      "conf": 0.685758,
+      "end": 13.885966,
+      "start": 13.770739,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.04,
+      "start": 13.885966,
+      "word": "don't"
+    },
+    {
+      "conf": 0.50964,
+      "end": 14.220001,
+      "start": 14.040001,
+      "word": "either"
+    },
+    {
+      "conf": 0.874063,
+      "end": 14.399999,
+      "start": 14.249999,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.64,
+      "start": 14.4,
+      "word": "not"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.791191,
+      "start": 14.64,
+      "word": "it's"
+    },
+    {
+      "conf": 0.909757,
+      "end": 14.91,
+      "start": 14.791191,
+      "word": "not"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.3,
+      "start": 14.937293,
+      "word": "just"
+    },
+    {
+      "conf": 0.862636,
+      "end": 15.54,
+      "start": 15.3,
+      "word": "gone"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.84,
+      "start": 15.54,
+      "word": "home"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.17,
+      "start": 15.87,
+      "word": "right"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.29,
+      "start": 16.17,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.47,
+      "start": 16.29,
+      "word": "not"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.62,
+      "start": 16.47,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.77,
+      "start": 16.62,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.43,
+      "start": 16.77,
+      "word": "simply"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.76,
+      "start": 17.43,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.33,
+      "start": 18.0,
+      "word": "click"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.45,
+      "start": 18.33,
+      "word": "on"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.63,
+      "start": 18.45,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.9,
+      "start": 18.63,
+      "word": "thing"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.99,
+      "start": 18.9,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.23,
+      "start": 18.99,
+      "word": "listen"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.29,
+      "start": 19.23,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.68,
+      "start": 19.29,
+      "word": "story"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.13,
+      "start": 19.68,
+      "word": "happen"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.25,
+      "start": 20.16,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.37,
+      "start": 20.25,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.699998,
+      "start": 20.37,
+      "word": "because"
+    },
+    {
+      "conf": 0.530554,
+      "end": 20.849998,
+      "start": 20.699998,
+      "word": "there"
+    },
+    {
+      "conf": 0.530554,
+      "end": 20.969998,
+      "start": 20.849998,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.06,
+      "start": 20.97,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.3,
+      "start": 21.06,
+      "word": "brick"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.78,
+      "start": 21.3,
+      "word": "throwing"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.08,
+      "start": 21.99,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.29,
+      "start": 22.08,
+      "word": "because"
+    },
+    {
+      "conf": 0.705321,
+      "end": 22.44,
+      "start": 22.29,
+      "word": "there's"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.83,
+      "start": 22.44,
+      "word": "water"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.28,
+      "start": 22.83,
+      "word": "guns"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.46,
+      "start": 23.28,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.61,
+      "start": 23.46,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.88,
+      "start": 23.67,
+      "word": "does"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.33,
+      "start": 23.88,
+      "word": "actually"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.63,
+      "start": 24.33,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.87,
+      "start": 24.66,
+      "word": "it"
+    }
+  ],
+  "text": "yeah and it's system it's just a playful sort of thing like all these sort of interactive things that you can be you can do with them and it always they keep bringing gameplay in so it doesn't just feel it don't either it's not it's not just gone home right it's not it's that simply like click on this thing and listen to story happen you know because there is the brick throwing and because there's water guns like the does actually like it"
+}

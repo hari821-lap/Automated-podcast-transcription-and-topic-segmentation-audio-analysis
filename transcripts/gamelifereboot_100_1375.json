@@ -1,0 +1,617 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.18,
+      "start": 0.017846,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.39,
+      "start": 0.18,
+      "word": "front"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.51,
+      "start": 0.39,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.78,
+      "start": 0.51,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.93,
+      "start": 0.81,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.082511,
+      "start": 0.93,
+      "word": "know"
+    },
+    {
+      "conf": 0.807684,
+      "end": 1.196874,
+      "start": 1.082511,
+      "word": "what"
+    },
+    {
+      "conf": 0.654241,
+      "end": 1.26,
+      "start": 1.196874,
+      "word": "they"
+    },
+    {
+      "conf": 0.832059,
+      "end": 1.44,
+      "start": 1.26,
+      "word": "kind"
+    },
+    {
+      "conf": 0.832059,
+      "end": 1.5,
+      "start": 1.44,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.71,
+      "start": 1.5,
+      "word": "make"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.8,
+      "start": 1.71,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.95,
+      "start": 1.8,
+      "word": "do"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.07,
+      "start": 1.95,
+      "word": "it"
+    },
+    {
+      "conf": 0.786988,
+      "end": 2.37,
+      "start": 2.25,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.61,
+      "start": 2.37,
+      "word": "throw"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.73,
+      "start": 2.61,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.12,
+      "start": 2.73,
+      "word": "brick"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.6,
+      "start": 3.42,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.17,
+      "start": 3.6,
+      "word": "infected"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.53,
+      "start": 4.32,
+      "word": "kill"
+    },
+    {
+      "conf": 0.65217,
+      "end": 4.614795,
+      "start": 4.53,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.04,
+      "start": 4.614795,
+      "word": "humans"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.4,
+      "start": 5.04,
+      "word": "pretty"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.88,
+      "start": 5.49,
+      "word": "pretty"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.84,
+      "start": 6.0,
+      "word": "decisively"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.17,
+      "start": 7.02,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.65,
+      "start": 7.17,
+      "word": "second"
+    },
+    {
+      "conf": 0.536384,
+      "end": 7.89,
+      "start": 7.71,
+      "word": "one"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.07,
+      "start": 7.92,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.22,
+      "start": 8.07,
+      "word": "me"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.34,
+      "start": 8.22,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.4,
+      "start": 8.34,
+      "word": "he"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.61,
+      "start": 8.4,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.79,
+      "start": 8.61,
+      "word": "gonna"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.040671,
+      "start": 8.79,
+      "word": "say"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.18,
+      "start": 9.069664,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.33,
+      "start": 9.18,
+      "word": "i've"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.48,
+      "start": 9.33,
+      "word": "had"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.601351,
+      "start": 9.48,
+      "word": "that"
+    },
+    {
+      "conf": 0.241036,
+      "end": 9.894299,
+      "start": 9.601351,
+      "word": "player"
+    },
+    {
+      "conf": 0.649432,
+      "end": 10.05,
+      "start": 9.915375,
+      "word": "two"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.26,
+      "start": 10.05,
+      "word": "different"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.47,
+      "start": 10.26,
+      "word": "way"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.722347,
+      "start": 10.5,
+      "word": "oh"
+    },
+    {
+      "conf": 0.705773,
+      "end": 11.16,
+      "start": 10.77,
+      "word": "really"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.76,
+      "start": 11.22,
+      "word": "yeah"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.85,
+      "start": 11.76,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.06,
+      "start": 11.85,
+      "word": "think"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.12,
+      "start": 12.06,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.48,
+      "start": 12.12,
+      "word": "depends"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.63,
+      "start": 12.48,
+      "word": "on"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.9,
+      "start": 12.63,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.14,
+      "start": 12.9,
+      "word": "where"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.29,
+      "start": 13.14,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.650516,
+      "start": 13.29,
+      "word": "are"
+    },
+    {
+      "conf": 0.683528,
+      "end": 13.77,
+      "start": 13.650516,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.04,
+      "start": 13.77,
+      "word": "like"
+    },
+    {
+      "conf": 0.434144,
+      "end": 14.31,
+      "start": 14.04,
+      "word": "well"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.4,
+      "start": 14.322465,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.76,
+      "start": 14.4,
+      "word": "throw"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.94,
+      "start": 14.76,
+      "word": "it"
+    },
+    {
+      "conf": 0.593452,
+      "end": 15.118106,
+      "start": 14.97,
+      "word": "will"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.39,
+      "start": 15.118106,
+      "word": "either"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.57,
+      "start": 15.42,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.02,
+      "start": 15.57,
+      "word": "cool"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.41,
+      "start": 16.11,
+      "word": "right"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.86,
+      "start": 16.47,
+      "word": "leg"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.04,
+      "start": 16.89,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.13,
+      "start": 17.04,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.37,
+      "start": 17.13,
+      "word": "could"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.88,
+      "start": 17.37,
+      "word": "potentially"
+    },
+    {
+      "conf": 0.746755,
+      "end": 18.09,
+      "start": 17.88,
+      "word": "work"
+    },
+    {
+      "conf": 0.746755,
+      "end": 18.24,
+      "start": 18.09,
+      "word": "out"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.51,
+      "start": 18.24,
+      "word": "different"
+    },
+    {
+      "conf": 0.711898,
+      "end": 18.81,
+      "start": 18.51,
+      "word": "ways"
+    },
+    {
+      "conf": 0.713012,
+      "end": 18.908606,
+      "start": 18.81,
+      "word": "the"
+    },
+    {
+      "conf": 0.584271,
+      "end": 19.02,
+      "start": 18.908606,
+      "word": "yeah"
+    },
+    {
+      "conf": 0.967983,
+      "end": 19.2,
+      "start": 19.05,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.44,
+      "start": 19.2,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.62,
+      "start": 19.44,
+      "word": "that"
+    },
+    {
+      "conf": 0.700266,
+      "end": 19.737801,
+      "start": 19.62,
+      "word": "is"
+    },
+    {
+      "conf": 0.814376,
+      "end": 19.94289,
+      "start": 19.74,
+      "word": "cool"
+    },
+    {
+      "conf": 0.610096,
+      "end": 20.063051,
+      "start": 19.95,
+      "word": "it"
+    },
+    {
+      "conf": 0.750855,
+      "end": 20.16,
+      "start": 20.063051,
+      "word": "it"
+    },
+    {
+      "conf": 0.954871,
+      "end": 20.37,
+      "start": 20.162862,
+      "word": "said"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.58,
+      "start": 20.37,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.39,
+      "start": 20.79,
+      "word": "dynamic"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.78,
+      "start": 21.69,
+      "word": "i"
+    },
+    {
+      "conf": 0.903484,
+      "end": 21.96,
+      "start": 21.78,
+      "word": "just"
+    },
+    {
+      "conf": 0.871453,
+      "end": 22.05,
+      "start": 21.96,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.23,
+      "start": 22.05,
+      "word": "kind"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.29,
+      "start": 22.23,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.5,
+      "start": 22.29,
+      "word": "thought"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.62,
+      "start": 22.5,
+      "word": "that"
+    },
+    {
+      "conf": 0.918498,
+      "end": 22.77,
+      "start": 22.62,
+      "word": "the"
+    },
+    {
+      "conf": 0.688918,
+      "end": 23.22,
+      "start": 22.77,
+      "word": "beaches"
+    },
+    {
+      "conf": 0.5374,
+      "end": 23.82,
+      "start": 23.52,
+      "word": "yeah"
+    },
+    {
+      "conf": 0.858484,
+      "end": 24.18,
+      "start": 23.94,
+      "word": "they"
+    },
+    {
+      "conf": 0.858484,
+      "end": 24.51,
+      "start": 24.24,
+      "word": "did"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.78,
+      "start": 24.63,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.96,
+      "start": 24.78,
+      "word": "fact"
+    }
+  ],
+  "text": "in front of you you know what they kind of make you do it you throw the brick the infected kill the humans pretty pretty decisively the second one for me and he was gonna say but i've had that player two different way oh really yeah i think it depends on like where they are and like well you throw it will either was cool right leg that it could potentially work out different ways the yeah that is that is cool it it said it's dynamic i just i kind of thought that the beaches yeah they did in fact"
+}

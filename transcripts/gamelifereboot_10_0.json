@@ -1,0 +1,221 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 7.95,
+      "start": 7.62,
+      "word": "hello"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.52,
+      "start": 7.95,
+      "word": "everyone"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.09,
+      "start": 8.64,
+      "word": "welcome"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.6,
+      "start": 9.33,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.99,
+      "start": 9.66,
+      "word": "your"
+    },
+    {
+      "conf": 0.25475,
+      "end": 10.26,
+      "start": 10.02,
+      "word": "aim"
+    },
+    {
+      "conf": 0.810978,
+      "end": 10.47,
+      "start": 10.26,
+      "word": "like"
+    },
+    {
+      "conf": 0.290504,
+      "end": 11.04,
+      "start": 10.47,
+      "word": "patasse"
+    },
+    {
+      "conf": 0.472452,
+      "end": 11.31,
+      "start": 11.07,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.97,
+      "start": 11.4,
+      "word": "friday"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.38,
+      "start": 12.21,
+      "word": "february"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.89,
+      "start": 13.38,
+      "word": "twenty"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.76,
+      "start": 14.04,
+      "word": "first"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.39,
+      "start": 14.97,
+      "word": "nice"
+    },
+    {
+      "conf": 0.740221,
+      "end": 16.11,
+      "start": 15.39,
+      "word": "phonetic"
+    },
+    {
+      "conf": 0.591383,
+      "end": 16.53,
+      "start": 16.11,
+      "word": "others"
+    },
+    {
+      "conf": 0.41262,
+      "end": 16.917466,
+      "start": 16.62,
+      "word": "aren't"
+    },
+    {
+      "conf": 0.59219,
+      "end": 17.19,
+      "start": 16.917466,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.686425,
+      "start": 17.4,
+      "word": "yeah"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.97,
+      "start": 17.833575,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.15,
+      "start": 17.97,
+      "word": "was"
+    },
+    {
+      "conf": 0.42859,
+      "end": 18.449976,
+      "start": 18.27,
+      "word": "and"
+    },
+    {
+      "conf": 0.786846,
+      "end": 18.6,
+      "start": 18.449976,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.99,
+      "start": 18.603809,
+      "word": "really"
+    },
+    {
+      "conf": 0.615809,
+      "end": 19.679998,
+      "start": 18.99,
+      "word": "stringent"
+    },
+    {
+      "conf": 0.613447,
+      "end": 20.13,
+      "start": 19.86,
+      "word": "here"
+    },
+    {
+      "conf": 0.667723,
+      "end": 20.46,
+      "start": 20.16,
+      "word": "saying"
+    },
+    {
+      "conf": 0.911017,
+      "end": 20.55,
+      "start": 20.46,
+      "word": "i"
+    },
+    {
+      "conf": 0.870253,
+      "end": 20.883182,
+      "start": 20.55,
+      "word": "like"
+    },
+    {
+      "conf": 0.695372,
+      "end": 21.900002,
+      "start": 21.24,
+      "word": "arm"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.8,
+      "start": 22.44,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.22,
+      "start": 22.8,
+      "word": "ah"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.73,
+      "start": 23.37,
+      "word": "yes"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.82,
+      "start": 23.73,
+      "word": "the"
+    },
+    {
+      "conf": 0.796148,
+      "end": 24.42,
+      "start": 23.82,
+      "word": "saw"
+    },
+    {
+      "conf": 0.86338,
+      "end": 24.84,
+      "start": 24.45,
+      "word": "your"
+    }
+  ],
+  "text": "hello everyone welcome to your aim like patasse is friday february twenty first nice phonetic others aren't you yeah that was and a really stringent here saying i like arm and ah yes the saw your"
+}

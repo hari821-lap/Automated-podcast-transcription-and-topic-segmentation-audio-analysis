@@ -1,0 +1,503 @@
+{
+  "result": [
+    {
+      "conf": 0.373953,
+      "end": 0.48,
+      "start": 0.15,
+      "word": "off"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.81,
+      "start": 0.69,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.02,
+      "start": 0.81,
+      "word": "get"
+    },
+    {
+      "conf": 0.826557,
+      "end": 1.05,
+      "start": 1.02,
+      "word": "a"
+    },
+    {
+      "conf": 0.826557,
+      "end": 1.29,
+      "start": 1.05,
+      "word": "bunch"
+    },
+    {
+      "conf": 0.826557,
+      "end": 1.38,
+      "start": 1.29,
+      "word": "of"
+    },
+    {
+      "conf": 0.73679,
+      "end": 1.71,
+      "start": 1.41,
+      "word": "map"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.49,
+      "start": 2.01,
+      "word": "boatload"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.55,
+      "start": 2.49,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.15,
+      "start": 2.55,
+      "word": "experience"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.45,
+      "start": 3.15,
+      "word": "points"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.6,
+      "start": 3.45,
+      "word": "for"
+    },
+    {
+      "conf": 0.552932,
+      "end": 3.84,
+      "start": 3.6,
+      "word": "haven't"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.11,
+      "start": 3.84,
+      "word": "done"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.44,
+      "start": 4.11,
+      "word": "that"
+    },
+    {
+      "conf": 0.837604,
+      "end": 5.636992,
+      "start": 5.46,
+      "word": "he"
+    },
+    {
+      "conf": 0.749612,
+      "end": 6.0,
+      "start": 5.636992,
+      "word": "ended"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.27,
+      "start": 6.09,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.54,
+      "start": 6.27,
+      "word": "feel"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.72,
+      "start": 6.54,
+      "word": "really"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.872036,
+      "start": 6.72,
+      "word": "good"
+    },
+    {
+      "conf": 0.944379,
+      "end": 7.11,
+      "start": 6.872036,
+      "word": "about"
+    },
+    {
+      "conf": 0.603729,
+      "end": 7.53,
+      "start": 7.11,
+      "word": "sets"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.98,
+      "start": 7.86,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.4,
+      "start": 7.98,
+      "word": "actually"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.61,
+      "start": 8.4,
+      "word": "feel"
+    },
+    {
+      "conf": 0.809301,
+      "end": 8.76,
+      "start": 8.61,
+      "word": "good"
+    },
+    {
+      "conf": 0.809301,
+      "end": 8.928625,
+      "start": 8.76,
+      "word": "yeah"
+    },
+    {
+      "conf": 0.831282,
+      "end": 9.030962,
+      "start": 8.928625,
+      "word": "i"
+    },
+    {
+      "conf": 0.418522,
+      "end": 9.373857,
+      "start": 9.030962,
+      "word": "type"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.54,
+      "start": 9.373857,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.84,
+      "start": 9.54,
+      "word": "did"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.56,
+      "start": 10.26,
+      "word": "yeah"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.74,
+      "start": 10.56,
+      "word": "that's"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.19,
+      "start": 10.74,
+      "word": "absolutely"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.43,
+      "start": 11.19,
+      "word": "true"
+    },
+    {
+      "conf": 0.541211,
+      "end": 11.520001,
+      "start": 11.430001,
+      "word": "i"
+    },
+    {
+      "conf": 0.831128,
+      "end": 11.82,
+      "start": 11.53656,
+      "word": "yeah"
+    },
+    {
+      "conf": 0.803281,
+      "end": 12.24,
+      "start": 11.97,
+      "word": "yes"
+    },
+    {
+      "conf": 0.834751,
+      "end": 12.42,
+      "start": 12.24,
+      "word": "there's"
+    },
+    {
+      "conf": 0.335922,
+      "end": 12.735745,
+      "start": 12.603289,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.863216,
+      "start": 12.735745,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.38,
+      "start": 12.934667,
+      "word": "moment"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.561631,
+      "start": 13.38,
+      "word": "when"
+    },
+    {
+      "conf": 0.558103,
+      "end": 13.625006,
+      "start": 13.561631,
+      "word": "you"
+    },
+    {
+      "conf": 0.72479,
+      "end": 13.830001,
+      "start": 13.625006,
+      "word": "get"
+    },
+    {
+      "conf": 0.469516,
+      "end": 14.16,
+      "start": 13.830001,
+      "word": "on"
+    },
+    {
+      "conf": 0.526808,
+      "end": 14.772662,
+      "start": 14.669999,
+      "word": "as"
+    },
+    {
+      "conf": 0.529899,
+      "end": 15.029999,
+      "start": 14.772662,
+      "word": "i"
+    },
+    {
+      "conf": 0.63597,
+      "end": 15.36,
+      "start": 15.035352,
+      "word": "will"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.66,
+      "start": 15.48,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.17,
+      "start": 15.66,
+      "word": "never"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.53,
+      "start": 16.17,
+      "word": "thought"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.74,
+      "start": 16.53,
+      "word": "about"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.1,
+      "start": 16.74,
+      "word": "myself"
+    },
+    {
+      "conf": 0.763399,
+      "end": 17.22,
+      "start": 17.1,
+      "word": "as"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.7,
+      "start": 17.22,
+      "word": "having"
+    },
+    {
+      "conf": 0.863731,
+      "end": 18.57,
+      "start": 17.79,
+      "word": "lost"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.78,
+      "start": 18.574089,
+      "word": "if"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.87,
+      "start": 18.78,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.08,
+      "start": 18.87,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.32,
+      "start": 19.11,
+      "word": "able"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.38,
+      "start": 19.32,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.77,
+      "start": 19.56,
+      "word": "get"
+    },
+    {
+      "conf": 0.871345,
+      "end": 19.92,
+      "start": 19.77,
+      "word": "up"
+    },
+    {
+      "conf": 0.606408,
+      "end": 20.04,
+      "start": 19.92,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.31,
+      "start": 20.04,
+      "word": "drop"
+    },
+    {
+      "conf": 0.682929,
+      "end": 20.58,
+      "start": 20.31,
+      "word": "ship"
+    },
+    {
+      "conf": 0.7223,
+      "end": 21.15,
+      "start": 21.06,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.39,
+      "start": 21.15,
+      "word": "also"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.54,
+      "start": 21.39,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.72,
+      "start": 21.54,
+      "word": "get"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.81,
+      "start": 21.72,
+      "word": "on"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.9,
+      "start": 21.81,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.17,
+      "start": 21.9,
+      "word": "drop"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.47,
+      "start": 22.17,
+      "word": "ship"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.1,
+      "start": 22.5,
+      "word": "depending"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.31,
+      "start": 23.13,
+      "word": "on"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.46,
+      "start": 23.31,
+      "word": "how"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.91,
+      "start": 23.49,
+      "word": "earlier"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.27,
+      "start": 23.91,
+      "word": "there"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.69,
+      "start": 24.42,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.99,
+      "start": 24.69,
+      "word": "are"
+    }
+  ],
+  "text": "off you get a bunch of map boatload of experience points for haven't done that he ended you feel really good about sets you actually feel good yeah i type i did yeah that's absolutely true i yeah yes there's the a moment when you get on as i will i never thought about myself as having lost if i was able to get up the drop ship and also you get on the drop ship depending on how earlier there you are"
+}

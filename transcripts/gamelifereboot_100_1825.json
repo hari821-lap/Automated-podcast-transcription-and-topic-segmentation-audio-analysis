@@ -1,0 +1,527 @@
+{
+  "result": [
+    {
+      "conf": 0.808416,
+      "end": 0.269648,
+      "start": 0.18,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.39,
+      "start": 0.269648,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.69,
+      "start": 0.39,
+      "word": "like"
+    },
+    {
+      "conf": 0.529157,
+      "end": 0.9,
+      "start": 0.72,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.44,
+      "start": 0.942376,
+      "word": "story"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.71,
+      "start": 1.44,
+      "word": "click"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.89,
+      "start": 1.71,
+      "word": "on"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.25,
+      "start": 1.89,
+      "word": "things"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.34,
+      "start": 2.25,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.46,
+      "start": 2.34,
+      "word": "your"
+    },
+    {
+      "conf": 0.679424,
+      "end": 2.698469,
+      "start": 2.46,
+      "word": "get"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.12,
+      "start": 2.698469,
+      "word": "story"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.451138,
+      "start": 3.12,
+      "word": "told"
+    },
+    {
+      "conf": 0.856314,
+      "end": 3.561484,
+      "start": 3.451138,
+      "word": "to"
+    },
+    {
+      "conf": 0.652699,
+      "end": 3.651236,
+      "start": 3.561484,
+      "word": "you"
+    },
+    {
+      "conf": 0.301816,
+      "end": 3.78,
+      "start": 3.651236,
+      "word": "your"
+    },
+    {
+      "conf": 0.91417,
+      "end": 4.05,
+      "start": 3.814969,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.32,
+      "start": 4.05,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.71,
+      "start": 4.32,
+      "word": "sounds"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.13,
+      "start": 4.71,
+      "word": "great"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.34,
+      "start": 5.16,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.67,
+      "start": 5.34,
+      "word": "can't"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.88,
+      "start": 5.67,
+      "word": "wait"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.94,
+      "start": 5.88,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.09,
+      "start": 5.94,
+      "word": "do"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.39,
+      "start": 6.09,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.53,
+      "start": 7.2,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.77,
+      "start": 7.53,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.31,
+      "start": 7.77,
+      "word": "imagine"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.49,
+      "start": 8.31,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.91,
+      "start": 8.49,
+      "word": "average"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.27,
+      "start": 8.91,
+      "word": "last"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.36,
+      "start": 9.27,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.51,
+      "start": 9.36,
+      "word": "us"
+    },
+    {
+      "conf": 0.870416,
+      "end": 9.9,
+      "start": 9.51,
+      "word": "player"
+    },
+    {
+      "conf": 0.870416,
+      "end": 10.05,
+      "start": 9.9,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.56,
+      "start": 10.05,
+      "word": "not"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.25,
+      "start": 10.77,
+      "word": "really"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.61,
+      "start": 11.31,
+      "word": "me"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.79,
+      "start": 11.64,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.91,
+      "start": 11.79,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.0,
+      "start": 11.91,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.21,
+      "start": 12.0,
+      "word": "think"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.42,
+      "start": 12.21,
+      "word": "they're"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.75,
+      "start": 12.42,
+      "word": "really"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.08,
+      "start": 12.75,
+      "word": "looking"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.23,
+      "start": 13.08,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.53,
+      "start": 13.23,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.95,
+      "start": 13.53,
+      "word": "action"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.28,
+      "start": 13.95,
+      "word": "packed"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.73,
+      "start": 14.28,
+      "word": "gameplay"
+    },
+    {
+      "conf": 0.376097,
+      "end": 14.91,
+      "start": 14.73,
+      "word": "are"
+    },
+    {
+      "conf": 0.982204,
+      "end": 14.999445,
+      "start": 14.91,
+      "word": "and"
+    },
+    {
+      "conf": 0.410146,
+      "end": 15.12,
+      "start": 14.999445,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.45,
+      "start": 15.167107,
+      "word": "there's"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.75,
+      "start": 15.48,
+      "word": "there's"
+    },
+    {
+      "conf": 0.556309,
+      "end": 16.02,
+      "start": 15.75,
+      "word": "meet"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.142303,
+      "start": 16.02,
+      "word": "on"
+    },
+    {
+      "conf": 0.711433,
+      "end": 16.29,
+      "start": 16.142303,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.77,
+      "start": 16.294446,
+      "word": "bones"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.92,
+      "start": 16.77,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.13,
+      "start": 16.92,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.43,
+      "start": 17.13,
+      "word": "like"
+    },
+    {
+      "conf": 0.589627,
+      "end": 17.65021,
+      "start": 17.43,
+      "word": "there's"
+    },
+    {
+      "conf": 0.762803,
+      "end": 17.76,
+      "start": 17.65021,
+      "word": "is"
+    },
+    {
+      "conf": 0.583002,
+      "end": 17.91,
+      "start": 17.76,
+      "word": "there"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.3,
+      "start": 17.918611,
+      "word": "certainly"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.51,
+      "start": 18.3,
+      "word": "that"
+    },
+    {
+      "conf": 0.642802,
+      "end": 18.69,
+      "start": 18.51,
+      "word": "there"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.81,
+      "start": 18.69,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.11,
+      "start": 18.81,
+      "word": "them"
+    },
+    {
+      "conf": 0.693061,
+      "end": 19.74,
+      "start": 19.56,
+      "word": "are"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.83,
+      "start": 19.74,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.98,
+      "start": 19.83,
+      "word": "there's"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.31,
+      "start": 19.98,
+      "word": "also"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.85,
+      "start": 20.31,
+      "word": "another"
+    },
+    {
+      "conf": 0.855278,
+      "end": 21.54,
+      "start": 21.3,
+      "word": "big"
+    },
+    {
+      "conf": 0.557895,
+      "end": 21.72,
+      "start": 21.54,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.41,
+      "start": 21.93,
+      "word": "character"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.8,
+      "start": 22.41,
+      "word": "moment"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.49,
+      "start": 22.86,
+      "word": "rising"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.82,
+      "start": 23.49,
+      "word": "moment"
+    },
+    {
+      "conf": 0.471937,
+      "end": 23.907435,
+      "start": 23.82,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.36,
+      "start": 23.907435,
+      "word": "happens"
+    },
+    {
+      "conf": 0.748052,
+      "end": 24.79552,
+      "start": 24.69,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.904537,
+      "start": 24.79552,
+      "word": "if"
+    },
+    {
+      "conf": 0.372102,
+      "end": 24.99,
+      "start": 24.904537,
+      "word": "you"
+    }
+  ],
+  "text": "and it's like it story click on things in your get story told to you your like that sounds great i can't wait to do this but i imagine the average last of us player is not really me you know i think they're really looking for like action packed gameplay are and they there's there's meet on this bones you know like there's is there certainly that there for them are but there's also another big in character moment rising moment that happens and if you"
+}

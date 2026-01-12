@@ -1,0 +1,635 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.12,
+      "start": 0.0,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.48,
+      "start": 0.12,
+      "word": "also"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.63,
+      "start": 0.48,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.75,
+      "start": 0.63,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.87,
+      "start": 0.75,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.14,
+      "start": 0.87,
+      "word": "there's"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.56,
+      "start": 1.14,
+      "word": "no"
+    },
+    {
+      "conf": 0.665401,
+      "end": 2.326228,
+      "start": 2.13,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.49,
+      "start": 2.326228,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.73,
+      "start": 2.49,
+      "word": "only"
+    },
+    {
+      "conf": 0.811143,
+      "end": 3.36,
+      "start": 2.73,
+      "word": "stakes"
+    },
+    {
+      "conf": 0.811143,
+      "end": 3.48,
+      "start": 3.39,
+      "word": "are"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.6,
+      "start": 3.48,
+      "word": "the"
+    },
+    {
+      "conf": 0.847924,
+      "end": 4.11,
+      "start": 3.6,
+      "word": "stakes"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.38,
+      "start": 4.11,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.56,
+      "start": 4.41,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.83,
+      "start": 4.56,
+      "word": "make"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.98,
+      "start": 4.83,
+      "word": "up"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.16,
+      "start": 4.98,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.34,
+      "start": 5.16,
+      "word": "each"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.61,
+      "start": 5.34,
+      "word": "other"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.03,
+      "start": 5.67,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.48,
+      "start": 6.33,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.66,
+      "start": 6.48,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.84,
+      "start": 6.66,
+      "word": "who"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.99,
+      "start": 6.84,
+      "word": "can"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.23,
+      "start": 6.99,
+      "word": "throw"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.32,
+      "start": 7.23,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.65,
+      "start": 7.32,
+      "word": "most"
+    },
+    {
+      "conf": 0.412783,
+      "end": 7.73671,
+      "start": 7.68,
+      "word": "or"
+    },
+    {
+      "conf": 0.939711,
+      "end": 7.86,
+      "start": 7.73671,
+      "word": "who"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.98,
+      "start": 7.86,
+      "word": "can"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.22,
+      "start": 7.98,
+      "word": "break"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.31,
+      "start": 8.22,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.46,
+      "start": 8.31,
+      "word": "most"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.7,
+      "start": 8.46,
+      "word": "car"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.12,
+      "start": 8.7,
+      "word": "windows"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.3,
+      "start": 9.192892,
+      "word": "who"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.45,
+      "start": 9.3,
+      "word": "can"
+    },
+    {
+      "conf": 0.762442,
+      "end": 9.6,
+      "start": 9.45,
+      "word": "hit"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.72,
+      "start": 9.6,
+      "word": "each"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.9,
+      "start": 9.72,
+      "word": "other"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.99,
+      "start": 9.9,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.26,
+      "start": 9.99,
+      "word": "most"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.32,
+      "start": 10.26,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.38,
+      "start": 10.32,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.71,
+      "start": 10.38,
+      "word": "water"
+    },
+    {
+      "conf": 0.22606,
+      "end": 11.07,
+      "start": 10.86,
+      "word": "flow"
+    },
+    {
+      "conf": 0.879039,
+      "end": 11.19,
+      "start": 11.07,
+      "word": "and"
+    },
+    {
+      "conf": 0.879039,
+      "end": 11.31,
+      "start": 11.19,
+      "word": "if"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.49,
+      "start": 11.4,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.64,
+      "start": 11.49,
+      "word": "mean"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.73,
+      "start": 11.64,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.09,
+      "start": 11.73,
+      "word": "thing"
+    },
+    {
+      "conf": 0.859788,
+      "end": 12.3,
+      "start": 12.12,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.63,
+      "start": 12.40373,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.9,
+      "start": 12.63,
+      "word": "played"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.32,
+      "start": 12.9,
+      "word": "through"
+    },
+    {
+      "conf": 0.69676,
+      "end": 13.62,
+      "start": 13.35,
+      "word": "our"
+    },
+    {
+      "conf": 0.561233,
+      "end": 13.95,
+      "start": 13.62,
+      "word": "plan"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.07,
+      "start": 13.963163,
+      "word": "through"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.25,
+      "start": 14.07,
+      "word": "that"
+    },
+    {
+      "conf": 0.782052,
+      "end": 14.52,
+      "start": 14.25,
+      "word": "sequence"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.58,
+      "start": 14.52,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.82,
+      "start": 14.58,
+      "word": "couple"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.12,
+      "start": 14.82,
+      "word": "times"
+    },
+    {
+      "conf": 0.901345,
+      "end": 15.25567,
+      "start": 15.12,
+      "word": "me"
+    },
+    {
+      "conf": 0.47082,
+      "end": 15.45,
+      "start": 15.27,
+      "word": "as"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.6,
+      "start": 15.45,
+      "word": "if"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.78,
+      "start": 15.6,
+      "word": "you"
+    },
+    {
+      "conf": 0.945032,
+      "end": 16.006763,
+      "start": 15.78,
+      "word": "win"
+    },
+    {
+      "conf": 0.386217,
+      "end": 16.14,
+      "start": 16.02,
+      "word": "or"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.62,
+      "start": 16.176531,
+      "word": "sequence"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.68,
+      "start": 16.62,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.77,
+      "start": 16.68,
+      "word": "get"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.86,
+      "start": 16.77,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.16,
+      "start": 16.86,
+      "word": "ask"
+    },
+    {
+      "conf": 0.726482,
+      "end": 17.46,
+      "start": 17.16,
+      "word": "rally"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.73,
+      "start": 17.46,
+      "word": "one"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.15,
+      "start": 17.73,
+      "word": "question"
+    },
+    {
+      "conf": 0.58808,
+      "end": 18.45,
+      "start": 18.18,
+      "word": "oh"
+    },
+    {
+      "conf": 0.845063,
+      "end": 18.898614,
+      "start": 18.451906,
+      "word": "racial"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.29,
+      "start": 18.898614,
+      "word": "answer"
+    },
+    {
+      "conf": 0.84895,
+      "end": 19.47,
+      "start": 19.29,
+      "word": "it"
+    },
+    {
+      "conf": 0.568891,
+      "end": 19.8,
+      "start": 19.47,
+      "word": "alec"
+    },
+    {
+      "conf": 0.597851,
+      "end": 19.983113,
+      "start": 19.8,
+      "word": "one"
+    },
+    {
+      "conf": 0.471635,
+      "end": 20.159042,
+      "start": 19.983113,
+      "word": "little"
+    },
+    {
+      "conf": 0.59135,
+      "end": 20.34,
+      "start": 20.159042,
+      "word": "he"
+    },
+    {
+      "conf": 0.59135,
+      "end": 20.718503,
+      "start": 20.34,
+      "word": "answers"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.12,
+      "start": 20.718503,
+      "word": "second"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.39,
+      "start": 21.12,
+      "word": "plane"
+    },
+    {
+      "conf": 0.487533,
+      "end": 21.48,
+      "start": 21.39,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.54,
+      "start": 21.48,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.69,
+      "start": 21.54,
+      "word": "get"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.81,
+      "start": 21.69,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.17,
+      "start": 21.81,
+      "word": "answer"
+    },
+    {
+      "conf": 0.677884,
+      "end": 22.44,
+      "start": 22.17,
+      "word": "yet"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.34,
+      "start": 22.86,
+      "word": "ah"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.73,
+      "start": 23.55,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.12,
+      "start": 23.73,
+      "word": "yeah"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.27,
+      "start": 24.15,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.42,
+      "start": 24.27,
+      "word": "don't"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.63,
+      "start": 24.42,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.75,
+      "start": 24.63,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.93,
+      "start": 24.75,
+      "word": "was"
+    }
+  ],
+  "text": "the also like that but there's no the the only stakes are the stakes that they make up for each other like you know who can throw the most or who can break the most car windows who can hit each other the most of the water flow and if i mean the thing i i played through our plan through that sequence a couple times me as if you win or sequence you get to ask rally one question oh racial answer it alec one little he answers second plane it to get the answer yet ah but yeah i don't know it was"
+}

@@ -1,0 +1,467 @@
+{
+  "result": [
+    {
+      "conf": 0.567715,
+      "end": 0.78,
+      "start": 0.556572,
+      "word": "whole"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.11,
+      "start": 0.78,
+      "word": "minute"
+    },
+    {
+      "conf": 0.854287,
+      "end": 1.62,
+      "start": 1.41,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.852327,
+      "start": 1.671367,
+      "word": "and"
+    },
+    {
+      "conf": 0.404611,
+      "end": 2.16,
+      "start": 1.86,
+      "word": "game"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.22,
+      "start": 2.16,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.67,
+      "start": 2.22,
+      "word": "lot"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.76,
+      "start": 2.67,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.36,
+      "start": 2.76,
+      "word": "experience"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.66,
+      "start": 3.36,
+      "word": "points"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.26,
+      "start": 3.66,
+      "word": "because"
+    },
+    {
+      "conf": 0.472204,
+      "end": 4.32,
+      "start": 4.26,
+      "word": "he"
+    },
+    {
+      "conf": 0.472204,
+      "end": 4.62,
+      "start": 4.32,
+      "word": "likes"
+    },
+    {
+      "conf": 0.373946,
+      "end": 4.74,
+      "start": 4.62,
+      "word": "of"
+    },
+    {
+      "conf": 0.768811,
+      "end": 4.95,
+      "start": 4.74814,
+      "word": "out"
+    },
+    {
+      "conf": 0.751711,
+      "end": 5.22,
+      "start": 4.95,
+      "word": "some"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.82,
+      "start": 5.386042,
+      "word": "things"
+    },
+    {
+      "conf": 0.770749,
+      "end": 5.94,
+      "start": 5.82,
+      "word": "you"
+    },
+    {
+      "conf": 0.477226,
+      "end": 6.087254,
+      "start": 5.94,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.45,
+      "start": 6.087254,
+      "word": "while"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.6,
+      "start": 6.48,
+      "word": "the"
+    },
+    {
+      "conf": 0.709454,
+      "end": 7.08,
+      "start": 6.6,
+      "word": "title"
+    },
+    {
+      "conf": 0.586809,
+      "end": 7.86,
+      "start": 7.44,
+      "word": "i'm"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.07,
+      "start": 7.92,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.16,
+      "start": 8.07,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.37,
+      "start": 8.16,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.67,
+      "start": 8.37,
+      "word": "felt"
+    },
+    {
+      "conf": 0.969805,
+      "end": 9.151858,
+      "start": 8.97,
+      "word": "that"
+    },
+    {
+      "conf": 0.360141,
+      "end": 9.478392,
+      "start": 9.151858,
+      "word": "fabric"
+    },
+    {
+      "conf": 0.322182,
+      "end": 9.69,
+      "start": 9.478392,
+      "word": "deck"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.35,
+      "start": 10.011771,
+      "word": "was"
+    },
+    {
+      "conf": 0.715736,
+      "end": 10.56,
+      "start": 10.35,
+      "word": "also"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.77,
+      "start": 10.568528,
+      "word": "nice"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.04,
+      "start": 10.77,
+      "word": "about"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.34,
+      "start": 11.04,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.700487,
+      "start": 11.49,
+      "word": "that"
+    },
+    {
+      "conf": 0.853116,
+      "end": 11.82,
+      "start": 11.700487,
+      "word": "to"
+    },
+    {
+      "conf": 0.951144,
+      "end": 11.976337,
+      "start": 11.82,
+      "word": "to"
+    },
+    {
+      "conf": 0.51719,
+      "end": 12.689339,
+      "start": 12.480001,
+      "word": "is"
+    },
+    {
+      "conf": 0.908992,
+      "end": 12.99,
+      "start": 12.689339,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.1,
+      "start": 13.83,
+      "word": "being"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.19,
+      "start": 14.1,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.25,
+      "start": 14.19,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.58,
+      "start": 14.25,
+      "word": "titan"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.73,
+      "start": 14.58,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.12,
+      "start": 14.73,
+      "word": "taking"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.3,
+      "start": 15.12,
+      "word": "out"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.84,
+      "start": 15.3,
+      "word": "titans"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.38,
+      "start": 16.17,
+      "word": "are"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.8,
+      "start": 16.38,
+      "word": "valued"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.01,
+      "start": 16.8,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.22,
+      "start": 17.01,
+      "word": "much"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.7,
+      "start": 17.22,
+      "word": "more"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.45,
+      "start": 17.94,
+      "word": "than"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.2,
+      "start": 18.69,
+      "word": "killing"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.65,
+      "start": 19.41,
+      "word": "as"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.8,
+      "start": 19.65,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.46,
+      "start": 19.8,
+      "word": "soldier"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.94,
+      "start": 20.64,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.12,
+      "start": 20.94,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.24,
+      "start": 21.12,
+      "word": "can"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.39,
+      "start": 21.24,
+      "word": "have"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.69,
+      "start": 21.39,
+      "word": "people"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.87,
+      "start": 21.69,
+      "word": "who"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.05,
+      "start": 21.87,
+      "word": "are"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.2,
+      "start": 22.05,
+      "word": "kind"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.26,
+      "start": 22.2,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.56,
+      "start": 22.26,
+      "word": "really"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.8,
+      "start": 22.56,
+      "word": "lone"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.07,
+      "start": 22.8,
+      "word": "wolf"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.37,
+      "start": 23.16,
+      "word": "run"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.46,
+      "start": 23.37,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.7,
+      "start": 23.46,
+      "word": "gun"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.12,
+      "start": 23.7,
+      "word": "players"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.42,
+      "start": 24.18,
+      "word": "any"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.6,
+      "start": 24.42,
+      "word": "other"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.81,
+      "start": 24.6,
+      "word": "team"
+    }
+  ],
+  "text": "whole minute and and game a lot of experience points because he likes of out some things you know while the title i'm you know that felt that fabric deck was also nice about that that to to is that being in a titan and taking out titans are valued so much more than killing as a soldier so you can have people who are kind of really lone wolf run and gun players any other team"
+}

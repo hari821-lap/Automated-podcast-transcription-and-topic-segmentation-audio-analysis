@@ -1,0 +1,599 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.18,
+      "start": 0.0,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.48,
+      "start": 0.18,
+      "word": "didn't"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.63,
+      "start": 0.51,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.9,
+      "start": 0.63,
+      "word": "think"
+    },
+    {
+      "conf": 0.78437,
+      "end": 0.96,
+      "start": 0.9,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.38,
+      "start": 1.08,
+      "word": "really"
+    },
+    {
+      "conf": 0.574426,
+      "end": 1.731519,
+      "start": 1.38,
+      "word": "changed"
+    },
+    {
+      "conf": 0.827992,
+      "end": 1.759282,
+      "start": 1.731519,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.89,
+      "start": 1.759282,
+      "word": "lot"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.95,
+      "start": 1.89,
+      "word": "of"
+    },
+    {
+      "conf": 0.965663,
+      "end": 2.46,
+      "start": 1.98,
+      "word": "dialogue"
+    },
+    {
+      "conf": 0.557489,
+      "end": 2.94,
+      "start": 2.64,
+      "word": "sleeve"
+    },
+    {
+      "conf": 0.490852,
+      "end": 3.028851,
+      "start": 2.94,
+      "word": "and"
+    },
+    {
+      "conf": 0.552287,
+      "end": 3.197969,
+      "start": 3.028851,
+      "word": "tie"
+    },
+    {
+      "conf": 0.552287,
+      "end": 3.33,
+      "start": 3.216015,
+      "word": "up"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.601967,
+      "start": 3.33,
+      "word": "front"
+    },
+    {
+      "conf": 0.298834,
+      "end": 3.689397,
+      "start": 3.601967,
+      "word": "they're"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.84,
+      "start": 3.689397,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.14,
+      "start": 3.84,
+      "word": "yeah"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.62,
+      "start": 4.41,
+      "word": "there's"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.71,
+      "start": 4.62,
+      "word": "no"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.07,
+      "start": 4.71,
+      "word": "murdering"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.25,
+      "start": 5.07,
+      "word": "here"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.4,
+      "start": 5.25,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.55,
+      "start": 5.4,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.73,
+      "start": 5.55,
+      "word": "some"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.0,
+      "start": 5.73,
+      "word": "people"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.18,
+      "start": 6.0,
+      "word": "just"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.39,
+      "start": 6.18,
+      "word": "might"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.66,
+      "start": 6.39,
+      "word": "talk"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.96,
+      "start": 6.66,
+      "word": "about"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.32,
+      "start": 6.96,
+      "word": "murdering"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.47,
+      "start": 7.32,
+      "word": "each"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.01,
+      "start": 7.47,
+      "word": "other"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.513952,
+      "start": 8.04,
+      "word": "murdering"
+    },
+    {
+      "conf": 0.899201,
+      "end": 8.79,
+      "start": 8.52,
+      "word": "you"
+    },
+    {
+      "conf": 0.638797,
+      "end": 8.88,
+      "start": 8.79,
+      "word": "are"
+    },
+    {
+      "conf": 0.827018,
+      "end": 9.0,
+      "start": 8.88,
+      "word": "would"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.27,
+      "start": 9.095189,
+      "word": "just"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.6,
+      "start": 9.27,
+      "word": "ignore"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.78,
+      "start": 9.6,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.38,
+      "start": 10.26,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.59,
+      "start": 10.38,
+      "word": "know"
+    },
+    {
+      "conf": 0.61063,
+      "end": 10.89,
+      "start": 10.71,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.211559,
+      "start": 10.89,
+      "word": "just"
+    },
+    {
+      "conf": 0.547264,
+      "end": 12.140698,
+      "start": 11.955065,
+      "word": "that"
+    },
+    {
+      "conf": 0.914904,
+      "end": 12.57,
+      "start": 12.319317,
+      "word": "didn't"
+    },
+    {
+      "conf": 0.696315,
+      "end": 12.84,
+      "start": 12.57,
+      "word": "have"
+    },
+    {
+      "conf": 0.521084,
+      "end": 12.898147,
+      "start": 12.84,
+      "word": "the"
+    },
+    {
+      "conf": 0.974281,
+      "end": 13.17,
+      "start": 12.898147,
+      "word": "right"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.462284,
+      "start": 13.192014,
+      "word": "right"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.71,
+      "start": 13.463056,
+      "word": "right"
+    },
+    {
+      "conf": 0.584945,
+      "end": 13.86,
+      "start": 13.8,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.07,
+      "start": 13.86,
+      "word": "sort"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.16,
+      "start": 14.07,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.82,
+      "start": 14.16,
+      "word": "refurbishing"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.63,
+      "start": 15.18,
+      "word": "yeah"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.888259,
+      "start": 15.75,
+      "word": "but"
+    },
+    {
+      "conf": 0.608659,
+      "end": 15.99,
+      "start": 15.9,
+      "word": "other"
+    },
+    {
+      "conf": 0.608659,
+      "end": 16.11,
+      "start": 15.99,
+      "word": "than"
+    },
+    {
+      "conf": 0.752738,
+      "end": 16.2,
+      "start": 16.11,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.38,
+      "start": 16.2,
+      "word": "it's"
+    },
+    {
+      "conf": 0.63927,
+      "end": 16.56,
+      "start": 16.38,
+      "word": "it's"
+    },
+    {
+      "conf": 0.543066,
+      "end": 16.68,
+      "start": 16.56,
+      "word": "or"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.92,
+      "start": 16.701643,
+      "word": "if"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.25,
+      "start": 16.98,
+      "word": "any"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.37,
+      "start": 17.25,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.67,
+      "start": 17.37,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.06,
+      "start": 17.67,
+      "word": "sounds"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.57,
+      "start": 18.06,
+      "word": "interesting"
+    },
+    {
+      "conf": 0.658708,
+      "end": 18.66,
+      "start": 18.57,
+      "word": "the"
+    },
+    {
+      "conf": 0.936608,
+      "end": 18.861857,
+      "start": 18.66,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.99,
+      "start": 18.861857,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.11,
+      "start": 18.99,
+      "word": "will"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.38,
+      "start": 19.11,
+      "word": "enjoy"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.56,
+      "start": 19.38,
+      "word": "this"
+    },
+    {
+      "conf": 0.976278,
+      "end": 19.83,
+      "start": 19.56,
+      "word": "game"
+    },
+    {
+      "conf": 0.626924,
+      "end": 19.95,
+      "start": 19.83,
+      "word": "the"
+    },
+    {
+      "conf": 0.626924,
+      "end": 20.22,
+      "start": 19.95,
+      "word": "rules"
+    },
+    {
+      "conf": 0.873505,
+      "end": 20.28,
+      "start": 20.22,
+      "word": "are"
+    },
+    {
+      "conf": 0.873505,
+      "end": 20.4,
+      "start": 20.28,
+      "word": "you"
+    },
+    {
+      "conf": 0.611429,
+      "end": 20.49,
+      "start": 20.4,
+      "word": "have"
+    },
+    {
+      "conf": 0.659914,
+      "end": 20.97,
+      "start": 20.49,
+      "word": "williams"
+    },
+    {
+      "conf": 0.978353,
+      "end": 21.42,
+      "start": 21.09,
+      "word": "yeah"
+    },
+    {
+      "conf": 0.575584,
+      "end": 21.69,
+      "start": 21.45,
+      "word": "william"
+    },
+    {
+      "conf": 0.818083,
+      "end": 21.819771,
+      "start": 21.69,
+      "word": "as"
+    },
+    {
+      "conf": 0.221239,
+      "end": 22.11,
+      "start": 21.820025,
+      "word": "boroughs"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.29,
+      "start": 22.11,
+      "word": "made"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.32,
+      "start": 22.29,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.62,
+      "start": 22.32,
+      "word": "video"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.89,
+      "start": 22.62,
+      "word": "game"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.98,
+      "start": 22.89,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.19,
+      "start": 22.98,
+      "word": "might"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.31,
+      "start": 23.19,
+      "word": "be"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.73,
+      "start": 23.31,
+      "word": "somewhat"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.97,
+      "start": 23.73,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.27,
+      "start": 23.97,
+      "word": "this"
+    },
+    {
+      "conf": 0.575381,
+      "end": 24.57,
+      "start": 24.36,
+      "word": "it"
+    },
+    {
+      "conf": 0.894551,
+      "end": 24.93,
+      "start": 24.580704,
+      "word": "school"
+    }
+  ],
+  "text": "they didn't i think it really changed a lot of dialogue sleeve and tie up front they're like yeah there's no murdering here but like some people just might talk about murdering each other murdering you are would just ignore it you know is just that didn't have the right right right a sort of refurbishing yeah but other than the it's it's or if any of that sounds interesting the you you will enjoy this game the rules are you have williams yeah william as boroughs made a video game it might be somewhat like this it school"
+}

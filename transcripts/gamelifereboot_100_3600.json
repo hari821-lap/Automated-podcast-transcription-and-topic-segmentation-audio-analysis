@@ -1,0 +1,443 @@
+{
+  "result": [
+    {
+      "conf": 0.821337,
+      "end": 0.45,
+      "start": 0.266677,
+      "word": "as"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.78,
+      "start": 0.45,
+      "word": "put"
+    },
+    {
+      "conf": 0.821158,
+      "end": 1.14,
+      "start": 0.96,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.92,
+      "start": 1.2,
+      "word": "explicitly"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.04,
+      "start": 1.92,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.28,
+      "start": 2.04,
+      "word": "which"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.7,
+      "start": 2.43,
+      "word": "people"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.94,
+      "start": 2.7,
+      "word": "talk"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.15,
+      "start": 2.94,
+      "word": "about"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.45,
+      "start": 3.15,
+      "word": "murder"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.6,
+      "start": 3.45,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.69,
+      "start": 3.6,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.9,
+      "start": 3.69,
+      "word": "never"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.26,
+      "start": 3.9,
+      "word": "happened"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.71,
+      "start": 4.26,
+      "word": "now"
+    },
+    {
+      "conf": 0.959012,
+      "end": 4.89,
+      "start": 4.71,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.01,
+      "start": 4.89,
+      "word": "the"
+    },
+    {
+      "conf": 0.296034,
+      "end": 5.37,
+      "start": 5.01,
+      "word": "never"
+    },
+    {
+      "conf": 0.959107,
+      "end": 5.64,
+      "start": 5.420699,
+      "word": "cut"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.76,
+      "start": 5.64,
+      "word": "up"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.15,
+      "start": 5.76,
+      "word": "methods"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.6,
+      "start": 6.15,
+      "word": "yeah"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.87,
+      "start": 6.69,
+      "word": "on"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.93,
+      "start": 6.87,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.17,
+      "start": 6.93,
+      "word": "game"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.32,
+      "start": 7.17,
+      "word": "now"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.65,
+      "start": 7.32,
+      "word": "yeah"
+    },
+    {
+      "conf": 0.618159,
+      "end": 8.13,
+      "start": 7.8,
+      "word": "ah"
+    },
+    {
+      "conf": 0.618159,
+      "end": 9.75,
+      "start": 9.21,
+      "word": "ah"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.05,
+      "start": 9.77291,
+      "word": "that's"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.35,
+      "start": 10.05,
+      "word": "cool"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.8,
+      "start": 10.44,
+      "word": "yeah"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.37,
+      "start": 11.31,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.55,
+      "start": 11.37,
+      "word": "guess"
+    },
+    {
+      "conf": 0.30822,
+      "end": 11.728643,
+      "start": 11.64,
+      "word": "you"
+    },
+    {
+      "conf": 0.449183,
+      "end": 12.0,
+      "start": 11.728643,
+      "word": "drove"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.26,
+      "start": 13.08,
+      "word": "my"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.65,
+      "start": 13.26,
+      "word": "game"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.1,
+      "start": 13.95,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.34,
+      "start": 14.1,
+      "word": "close"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.52,
+      "start": 14.34,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.76,
+      "start": 14.52,
+      "word": "out"
+    },
+    {
+      "conf": 0.894526,
+      "end": 15.33,
+      "start": 15.0,
+      "word": "his"
+    },
+    {
+      "conf": 0.75516,
+      "end": 15.63,
+      "start": 15.33,
+      "word": "arm"
+    },
+    {
+      "conf": 0.62741,
+      "end": 16.11,
+      "start": 15.69,
+      "word": "a"
+    },
+    {
+      "conf": 0.424681,
+      "end": 16.44,
+      "start": 16.11,
+      "word": "dog"
+    },
+    {
+      "conf": 0.62741,
+      "end": 16.59,
+      "start": 16.466871,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.86,
+      "start": 16.59,
+      "word": "called"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.01,
+      "start": 16.86,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.25,
+      "start": 17.01,
+      "word": "actually"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.52,
+      "start": 17.25,
+      "word": "called"
+    },
+    {
+      "conf": 0.748631,
+      "end": 18.09,
+      "start": 17.64,
+      "word": "weapon"
+    },
+    {
+      "conf": 0.71191,
+      "end": 18.48,
+      "start": 18.09754,
+      "word": "shop"
+    },
+    {
+      "conf": 0.606374,
+      "end": 18.69,
+      "start": 18.48,
+      "word": "day"
+    },
+    {
+      "conf": 0.779393,
+      "end": 18.81,
+      "start": 18.69,
+      "word": "or"
+    },
+    {
+      "conf": 0.434153,
+      "end": 19.064101,
+      "start": 18.81,
+      "word": "must"
+    },
+    {
+      "conf": 0.835672,
+      "end": 19.38,
+      "start": 19.064101,
+      "word": "say"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.68,
+      "start": 19.44,
+      "word": "which"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.86,
+      "start": 19.68,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.52,
+      "start": 19.86,
+      "word": "continuing"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.61,
+      "start": 20.52,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.88,
+      "start": 20.67,
+      "word": "think"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.15,
+      "start": 20.88,
+      "word": "the"
+    },
+    {
+      "conf": 0.869959,
+      "end": 21.69,
+      "start": 21.6,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.17,
+      "start": 21.69,
+      "word": "tradition"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.41,
+      "start": 22.17,
+      "word": "now"
+    },
+    {
+      "conf": 0.710881,
+      "end": 22.65,
+      "start": 22.41,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.1,
+      "start": 22.8,
+      "word": "just"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.43,
+      "start": 23.1,
+      "word": "not"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.09,
+      "start": 23.43,
+      "word": "translating"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.18,
+      "start": 24.09,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.69,
+      "start": 24.18,
+      "word": "japanese"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.99,
+      "start": 24.69,
+      "word": "title"
+    }
+  ],
+  "text": "as put it explicitly in which people talk about murder but it never happened now that the never cut up methods yeah on a game now yeah ah ah that's cool yeah i guess you drove my game to close this out his arm a dog is called it's actually called weapon shop day or must say which is continuing i think the the tradition now of just not translating the japanese title"
+}

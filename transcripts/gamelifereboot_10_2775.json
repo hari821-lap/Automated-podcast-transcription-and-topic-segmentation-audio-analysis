@@ -1,0 +1,299 @@
+{
+  "result": [
+    {
+      "conf": 0.672548,
+      "end": 0.18,
+      "start": 0.0,
+      "word": "that"
+    },
+    {
+      "conf": 0.793095,
+      "end": 0.51,
+      "start": 0.21,
+      "word": "would"
+    },
+    {
+      "conf": 0.763828,
+      "end": 0.629898,
+      "start": 0.51,
+      "word": "be"
+    },
+    {
+      "conf": 0.674174,
+      "end": 0.99,
+      "start": 0.629898,
+      "word": "here"
+    },
+    {
+      "conf": 0.641303,
+      "end": 1.822912,
+      "start": 1.597839,
+      "word": "for"
+    },
+    {
+      "conf": 0.435424,
+      "end": 2.194054,
+      "start": 1.995923,
+      "word": "your"
+    },
+    {
+      "conf": 0.317798,
+      "end": 2.43,
+      "start": 2.194054,
+      "word": "hear"
+    },
+    {
+      "conf": 0.54847,
+      "end": 2.7,
+      "start": 2.43,
+      "word": "why"
+    },
+    {
+      "conf": 0.964642,
+      "end": 2.85,
+      "start": 2.7,
+      "word": "who"
+    },
+    {
+      "conf": 0.964642,
+      "end": 2.97,
+      "start": 2.85,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.211061,
+      "start": 2.97,
+      "word": "your"
+    },
+    {
+      "conf": 0.964642,
+      "end": 3.48,
+      "start": 3.33,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.63,
+      "start": 3.48,
+      "word": "your"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.9,
+      "start": 3.63,
+      "word": "feet"
+    },
+    {
+      "conf": 0.793416,
+      "end": 4.141568,
+      "start": 4.02,
+      "word": "or"
+    },
+    {
+      "conf": 0.914708,
+      "end": 4.32,
+      "start": 4.141568,
+      "word": "it's"
+    },
+    {
+      "conf": 0.523497,
+      "end": 5.490036,
+      "start": 5.01,
+      "word": "vital"
+    },
+    {
+      "conf": 0.351452,
+      "end": 5.64,
+      "start": 5.490036,
+      "word": "her"
+    },
+    {
+      "conf": 0.571563,
+      "end": 5.842652,
+      "start": 5.721196,
+      "word": "you"
+    },
+    {
+      "conf": 0.758206,
+      "end": 7.918397,
+      "start": 7.708423,
+      "word": "are"
+    },
+    {
+      "conf": 0.968095,
+      "end": 8.31,
+      "start": 7.924466,
+      "word": "helping"
+    },
+    {
+      "conf": 0.968095,
+      "end": 8.49,
+      "start": 8.31,
+      "word": "us"
+    },
+    {
+      "conf": 0.968095,
+      "end": 8.79,
+      "start": 8.49,
+      "word": "out"
+    },
+    {
+      "conf": 0.586722,
+      "end": 9.387743,
+      "start": 9.15,
+      "word": "there"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.66,
+      "start": 9.387743,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.73,
+      "start": 11.4,
+      "word": "was"
+    },
+    {
+      "conf": 0.530687,
+      "end": 12.21,
+      "start": 11.82,
+      "word": "saying"
+    },
+    {
+      "conf": 0.765305,
+      "end": 12.72,
+      "start": 12.57,
+      "word": "he"
+    },
+    {
+      "conf": 0.370755,
+      "end": 13.259663,
+      "start": 12.720001,
+      "word": "tweeted"
+    },
+    {
+      "conf": 0.970069,
+      "end": 13.35,
+      "start": 13.259663,
+      "word": "the"
+    },
+    {
+      "conf": 0.609694,
+      "end": 13.5,
+      "start": 13.35,
+      "word": "are"
+    },
+    {
+      "conf": 0.392195,
+      "end": 13.91789,
+      "start": 13.8,
+      "word": "you"
+    },
+    {
+      "conf": 0.839111,
+      "end": 14.34,
+      "start": 13.91789,
+      "word": "swing"
+    },
+    {
+      "conf": 0.672654,
+      "end": 14.61,
+      "start": 14.49,
+      "word": "a"
+    },
+    {
+      "conf": 0.672654,
+      "end": 14.94,
+      "start": 14.61,
+      "word": "bat"
+    },
+    {
+      "conf": 0.413249,
+      "end": 17.290089,
+      "start": 16.977936,
+      "word": "why"
+    },
+    {
+      "conf": 0.658665,
+      "end": 18.06,
+      "start": 17.64,
+      "word": "was"
+    },
+    {
+      "conf": 0.976743,
+      "end": 18.45,
+      "start": 18.12,
+      "word": "he"
+    },
+    {
+      "conf": 0.580121,
+      "end": 18.51,
+      "start": 18.45,
+      "word": "a"
+    },
+    {
+      "conf": 0.580121,
+      "end": 18.87,
+      "start": 18.51,
+      "word": "video"
+    },
+    {
+      "conf": 0.35733,
+      "end": 20.254682,
+      "start": 20.162867,
+      "word": "or"
+    },
+    {
+      "conf": 0.494634,
+      "end": 20.46,
+      "start": 20.254682,
+      "word": "we're"
+    },
+    {
+      "conf": 0.982098,
+      "end": 21.03,
+      "start": 20.460987,
+      "word": "all"
+    },
+    {
+      "conf": 0.618233,
+      "end": 22.41,
+      "start": 21.96,
+      "word": "his"
+    },
+    {
+      "conf": 0.389698,
+      "end": 23.614054,
+      "start": 23.07,
+      "word": "response"
+    },
+    {
+      "conf": 0.772619,
+      "end": 23.85,
+      "start": 23.614054,
+      "word": "see"
+    },
+    {
+      "conf": 0.772619,
+      "end": 24.102951,
+      "start": 23.85,
+      "word": "how"
+    },
+    {
+      "conf": 0.998078,
+      "end": 24.39,
+      "start": 24.244113,
+      "word": "his"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.99,
+      "start": 24.39,
+      "word": "disciples"
+    }
+  ],
+  "text": "that would be here for your hear why who is your is your feet or it's vital her you are helping us out there i was saying he tweeted the are you swing a bat why was he a video or we're all his response see how his disciples"
+}

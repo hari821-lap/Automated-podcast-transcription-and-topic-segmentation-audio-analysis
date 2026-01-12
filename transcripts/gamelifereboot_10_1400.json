@@ -1,0 +1,413 @@
+{
+  "result": [
+    {
+      "conf": 0.430393,
+      "end": 0.15,
+      "start": 0.0,
+      "word": "the"
+    },
+    {
+      "conf": 0.627815,
+      "end": 0.709298,
+      "start": 0.236776,
+      "word": "devoured"
+    },
+    {
+      "conf": 0.692502,
+      "end": 0.78,
+      "start": 0.709298,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.14,
+      "start": 0.782058,
+      "word": "humans"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.26,
+      "start": 1.14,
+      "word": "as"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.380425,
+      "start": 1.26,
+      "word": "they"
+    },
+    {
+      "conf": 0.978698,
+      "end": 1.62,
+      "start": 1.380425,
+      "word": "beat"
+    },
+    {
+      "conf": 0.816481,
+      "end": 1.74,
+      "start": 1.62,
+      "word": "up"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.52,
+      "start": 2.07,
+      "word": "reading"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.66,
+      "start": 2.64,
+      "word": "substantially"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.29,
+      "start": 3.99,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.44,
+      "start": 4.29,
+      "word": "i"
+    },
+    {
+      "conf": 0.485674,
+      "end": 4.77,
+      "start": 4.44,
+      "word": "played"
+    },
+    {
+      "conf": 0.418298,
+      "end": 5.55,
+      "start": 5.1,
+      "word": "am"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.82,
+      "start": 5.64,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.06,
+      "start": 5.82,
+      "word": "then"
+    },
+    {
+      "conf": 0.453042,
+      "end": 6.234016,
+      "start": 6.06,
+      "word": "get"
+    },
+    {
+      "conf": 0.730194,
+      "end": 6.54,
+      "start": 6.234016,
+      "word": "anyway"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.66,
+      "start": 6.54,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.02,
+      "start": 6.66,
+      "word": "next"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.53,
+      "start": 7.02,
+      "word": "encounter"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.8,
+      "start": 7.53,
+      "word": "after"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.22,
+      "start": 7.8,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.94,
+      "start": 8.52,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.11,
+      "start": 9.39,
+      "word": "definitely"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.17,
+      "start": 10.11,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.35,
+      "start": 10.17,
+      "word": "little"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.47,
+      "start": 10.35,
+      "word": "bit"
+    },
+    {
+      "conf": 0.46268,
+      "end": 10.95,
+      "start": 10.47,
+      "word": "or"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.94,
+      "start": 11.79,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.39,
+      "start": 11.94,
+      "word": "infected"
+    },
+    {
+      "conf": 0.709973,
+      "end": 12.45,
+      "start": 12.39,
+      "word": "or"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.75,
+      "start": 12.45,
+      "word": "sort"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.93,
+      "start": 12.75,
+      "word": "of"
+    },
+    {
+      "conf": 0.79729,
+      "end": 13.56,
+      "start": 13.02,
+      "word": "infected"
+    },
+    {
+      "conf": 0.589727,
+      "end": 13.62,
+      "start": 13.56,
+      "word": "are"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.83,
+      "start": 13.62,
+      "word": "way"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.07,
+      "start": 13.83,
+      "word": "over"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.46,
+      "start": 14.07,
+      "word": "here"
+    },
+    {
+      "conf": 0.890461,
+      "end": 14.58,
+      "start": 14.46,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.999999,
+      "start": 14.58,
+      "word": "humans"
+    },
+    {
+      "conf": 0.719074,
+      "end": 15.121852,
+      "start": 14.999999,
+      "word": "are"
+    },
+    {
+      "conf": 0.567628,
+      "end": 15.476548,
+      "start": 15.121852,
+      "word": "feel"
+    },
+    {
+      "conf": 0.585536,
+      "end": 15.60481,
+      "start": 15.488851,
+      "word": "be"
+    },
+    {
+      "conf": 0.607535,
+      "end": 15.78,
+      "start": 15.605722,
+      "word": "more"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.35,
+      "start": 15.78,
+      "word": "closer"
+    },
+    {
+      "conf": 0.281856,
+      "end": 17.16,
+      "start": 16.71,
+      "word": "quarters"
+    },
+    {
+      "conf": 0.760474,
+      "end": 17.37,
+      "start": 17.251589,
+      "word": "they're"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.751996,
+      "start": 17.377185,
+      "word": "closer"
+    },
+    {
+      "conf": 0.445948,
+      "end": 18.48,
+      "start": 17.833445,
+      "word": "move"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.83,
+      "start": 19.59,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.34,
+      "start": 19.83,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.55,
+      "start": 20.37,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.61,
+      "start": 20.55,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.88,
+      "start": 20.61,
+      "word": "little"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.15,
+      "start": 20.88,
+      "word": "bit"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.6,
+      "start": 21.3,
+      "word": "more"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.23,
+      "start": 21.6,
+      "word": "complicated"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.32,
+      "start": 22.23,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.59,
+      "start": 22.32,
+      "word": "terms"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.74,
+      "start": 22.59,
+      "word": "of"
+    },
+    {
+      "conf": 0.501946,
+      "end": 22.98,
+      "start": 22.74,
+      "word": "well"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.16,
+      "start": 22.98,
+      "word": "what"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.37,
+      "start": 23.16,
+      "word": "about"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.82,
+      "start": 23.37,
+      "word": "you"
+    },
+    {
+      "conf": 0.693981,
+      "end": 24.51,
+      "start": 24.36,
+      "word": "how"
+    },
+    {
+      "conf": 0.693981,
+      "end": 24.6,
+      "start": 24.51,
+      "word": "are"
+    },
+    {
+      "conf": 0.693981,
+      "end": 24.72,
+      "start": 24.6,
+      "word": "they"
+    }
+  ],
+  "text": "the devoured the humans as they beat up reading substantially of i played am but then get anyway the next encounter after that is definitely a little bit or the infected or sort of infected are way over here and humans are feel be more closer quarters they're closer move and so it's a little bit more complicated in terms of well what about you how are they"
+}

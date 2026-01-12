@@ -1,0 +1,599 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.93,
+      "start": 0.63,
+      "word": "where"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.99,
+      "start": 0.93,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.2,
+      "start": 0.99,
+      "word": "mean"
+    },
+    {
+      "conf": 0.814888,
+      "end": 1.47,
+      "start": 1.2,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.8,
+      "start": 1.56,
+      "word": "if"
+    },
+    {
+      "conf": 0.844012,
+      "end": 1.98,
+      "start": 1.8,
+      "word": "you"
+    },
+    {
+      "conf": 0.844012,
+      "end": 2.07,
+      "start": 1.98,
+      "word": "have"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.43,
+      "start": 2.07,
+      "word": "read"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.63,
+      "start": 3.48,
+      "word": "or"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.69,
+      "start": 3.63,
+      "word": "if"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.84,
+      "start": 3.69,
+      "word": "you've"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.08,
+      "start": 3.84,
+      "word": "actually"
+    },
+    {
+      "conf": 0.759397,
+      "end": 4.254744,
+      "start": 4.08,
+      "word": "played"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.32,
+      "start": 4.254744,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.5,
+      "start": 4.32,
+      "word": "game"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.59,
+      "start": 4.5,
+      "word": "at"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.8,
+      "start": 4.59,
+      "word": "all"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.07,
+      "start": 4.83,
+      "word": "ellie"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.34,
+      "start": 5.07,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.94,
+      "start": 5.46,
+      "word": "barely"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.15,
+      "start": 5.94,
+      "word": "are"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.48,
+      "start": 6.15,
+      "word": "already"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.72,
+      "start": 6.48,
+      "word": "tells"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.84,
+      "start": 6.72,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.93,
+      "start": 6.84,
+      "word": "how"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.08,
+      "start": 6.93,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.17,
+      "start": 7.08,
+      "word": "is"
+    },
+    {
+      "conf": 0.855801,
+      "end": 7.29,
+      "start": 7.17,
+      "word": "going"
+    },
+    {
+      "conf": 0.855801,
+      "end": 7.35,
+      "start": 7.29,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.65,
+      "start": 7.35,
+      "word": "end"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.07,
+      "start": 7.92,
+      "word": "in"
+    },
+    {
+      "conf": 0.563496,
+      "end": 8.13,
+      "start": 8.07,
+      "word": "or"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.28,
+      "start": 8.13,
+      "word": "she"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.4,
+      "start": 8.28,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.52,
+      "start": 8.4,
+      "word": "with"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.58,
+      "start": 8.52,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.03,
+      "start": 8.58,
+      "word": "friend"
+    },
+    {
+      "conf": 0.603555,
+      "end": 9.48,
+      "start": 9.36,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.63,
+      "start": 9.48,
+      "word": "how"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.78,
+      "start": 9.63,
+      "word": "she"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.08,
+      "start": 9.78,
+      "word": "originally"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.41,
+      "start": 10.08,
+      "word": "appeared"
+    },
+    {
+      "conf": 0.849759,
+      "end": 10.5,
+      "start": 10.41,
+      "word": "they"
+    },
+    {
+      "conf": 0.849759,
+      "end": 10.71,
+      "start": 10.5,
+      "word": "both"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.98,
+      "start": 10.71,
+      "word": "got"
+    },
+    {
+      "conf": 0.761977,
+      "end": 11.37,
+      "start": 10.98,
+      "word": "it"
+    },
+    {
+      "conf": 0.674159,
+      "end": 12.09,
+      "start": 11.82,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.24,
+      "start": 12.12,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.36,
+      "start": 12.24,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.6,
+      "start": 12.36,
+      "word": "she"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.93,
+      "start": 12.6,
+      "word": "didn't"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.29,
+      "start": 12.93,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.853422,
+      "start": 13.59,
+      "word": "see"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.16,
+      "start": 13.86,
+      "word": "kind"
+    },
+    {
+      "conf": 0.843999,
+      "end": 14.22,
+      "start": 14.16,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.52,
+      "start": 14.22468,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.67,
+      "start": 14.52,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.82,
+      "start": 14.67,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.91,
+      "start": 14.82,
+      "word": "is"
+    },
+    {
+      "conf": 0.734696,
+      "end": 15.03,
+      "start": 14.91,
+      "word": "going"
+    },
+    {
+      "conf": 0.734696,
+      "end": 15.09,
+      "start": 15.03,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.542554,
+      "start": 15.09,
+      "word": "happen"
+    },
+    {
+      "conf": 0.837831,
+      "end": 15.66,
+      "start": 15.542554,
+      "word": "the"
+    },
+    {
+      "conf": 0.889671,
+      "end": 15.84,
+      "start": 15.66,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.65,
+      "start": 16.52946,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.843746,
+      "start": 16.65,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.16,
+      "start": 16.92,
+      "word": "there's"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.34,
+      "start": 17.16,
+      "word": "one"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.64,
+      "start": 17.34,
+      "word": "moment"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.0,
+      "start": 17.64,
+      "word": "when"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.33,
+      "start": 18.18,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.48,
+      "start": 18.33,
+      "word": "get"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.57,
+      "start": 18.48,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.08,
+      "start": 18.57,
+      "word": "carousel"
+    },
+    {
+      "conf": 0.742236,
+      "end": 19.32,
+      "start": 19.08,
+      "word": "going"
+    },
+    {
+      "conf": 0.742236,
+      "end": 19.38,
+      "start": 19.32,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.5,
+      "start": 19.38,
+      "word": "get"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.56,
+      "start": 19.5,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.86,
+      "start": 19.56,
+      "word": "power"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.22,
+      "start": 19.86,
+      "word": "going"
+    },
+    {
+      "conf": 0.602886,
+      "end": 20.31,
+      "start": 20.22,
+      "word": "in"
+    },
+    {
+      "conf": 0.923967,
+      "end": 20.37,
+      "start": 20.31,
+      "word": "the"
+    },
+    {
+      "conf": 0.517519,
+      "end": 20.609998,
+      "start": 20.37,
+      "word": "mall"
+    },
+    {
+      "conf": 0.593552,
+      "end": 20.88,
+      "start": 20.61,
+      "word": "again"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.51,
+      "start": 21.27,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.6,
+      "start": 21.51,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.75,
+      "start": 21.6,
+      "word": "know"
+    },
+    {
+      "conf": 0.613564,
+      "end": 21.930002,
+      "start": 21.750002,
+      "word": "l"
+    },
+    {
+      "conf": 0.767618,
+      "end": 22.08,
+      "start": 21.953416,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.56,
+      "start": 22.082833,
+      "word": "on"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.83,
+      "start": 22.74,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.4,
+      "start": 22.83,
+      "word": "carousel"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.52,
+      "start": 23.4,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.76,
+      "start": 23.52,
+      "word": "then"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.88,
+      "start": 23.79,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.21,
+      "start": 23.88,
+      "word": "moment"
+    },
+    {
+      "conf": 0.755947,
+      "end": 24.51,
+      "start": 24.21,
+      "word": "riley"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.84,
+      "start": 24.51,
+      "word": "jumps"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.99,
+      "start": 24.84,
+      "word": "on"
+    }
+  ],
+  "text": "where i mean and if you have read or if you've actually played the game at all ellie is barely are already tells you how this is going to end in or she was with a friend is how she originally appeared they both got it in you know she didn't i see kind of know that this is going to happen the and you know there's one moment when they get the carousel going to get the power going in the mall again and you know l is on the carousel and then the moment riley jumps on"
+}

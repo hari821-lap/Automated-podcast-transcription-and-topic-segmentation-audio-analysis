@@ -1,0 +1,371 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.27,
+      "start": 0.15,
+      "word": "would"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.45,
+      "start": 0.27,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.72,
+      "start": 0.45,
+      "word": "rate"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.02,
+      "start": 0.84,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.23,
+      "start": 1.02,
+      "word": "right"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.82,
+      "start": 2.49,
+      "word": "right"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.95223,
+      "start": 4.777502,
+      "word": "but"
+    },
+    {
+      "conf": 0.972216,
+      "end": 5.04,
+      "start": 4.95223,
+      "word": "it"
+    },
+    {
+      "conf": 0.54215,
+      "end": 5.25,
+      "start": 5.04,
+      "word": "will"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.4,
+      "start": 5.25,
+      "word": "all"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.03,
+      "start": 5.4,
+      "word": "seriousness"
+    },
+    {
+      "conf": 0.954456,
+      "end": 6.204637,
+      "start": 6.03,
+      "word": "i"
+    },
+    {
+      "conf": 0.5814,
+      "end": 6.57,
+      "start": 6.21,
+      "word": "might"
+    },
+    {
+      "conf": 0.5814,
+      "end": 7.44,
+      "start": 7.26,
+      "word": "have"
+    },
+    {
+      "conf": 0.773906,
+      "end": 7.89,
+      "start": 7.44,
+      "word": "local"
+    },
+    {
+      "conf": 0.841777,
+      "end": 8.101022,
+      "start": 7.92,
+      "word": "your"
+    },
+    {
+      "conf": 0.745801,
+      "end": 8.37,
+      "start": 8.101022,
+      "word": "guys"
+    },
+    {
+      "conf": 0.684237,
+      "end": 8.82,
+      "start": 8.37,
+      "word": "works"
+    },
+    {
+      "conf": 0.418246,
+      "end": 9.33,
+      "start": 9.15,
+      "word": "that"
+    },
+    {
+      "conf": 0.558282,
+      "end": 9.75,
+      "start": 9.33,
+      "word": "way"
+    },
+    {
+      "conf": 0.506554,
+      "end": 10.10221,
+      "start": 9.99,
+      "word": "of"
+    },
+    {
+      "conf": 0.293734,
+      "end": 10.41,
+      "start": 10.10221,
+      "word": "idaho"
+    },
+    {
+      "conf": 0.442435,
+      "end": 11.61,
+      "start": 11.31,
+      "word": "vice"
+    },
+    {
+      "conf": 0.777191,
+      "end": 11.85,
+      "start": 11.617535,
+      "word": "you're"
+    },
+    {
+      "conf": 0.996271,
+      "end": 12.181074,
+      "start": 11.880651,
+      "word": "really"
+    },
+    {
+      "conf": 0.930762,
+      "end": 12.538702,
+      "start": 12.181074,
+      "word": "getting"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.751705,
+      "start": 12.538702,
+      "word": "really"
+    },
+    {
+      "conf": 0.506809,
+      "end": 12.96,
+      "start": 12.751705,
+      "word": "bad"
+    },
+    {
+      "conf": 0.660876,
+      "end": 13.170001,
+      "start": 12.960001,
+      "word": "as"
+    },
+    {
+      "conf": 0.925738,
+      "end": 13.634561,
+      "start": 13.516898,
+      "word": "i"
+    },
+    {
+      "conf": 0.767562,
+      "end": 13.770001,
+      "start": 13.634561,
+      "word": "don't"
+    },
+    {
+      "conf": 0.978507,
+      "end": 14.04,
+      "start": 13.776468,
+      "word": "actually"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.16,
+      "start": 14.04,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.28,
+      "start": 14.16,
+      "word": "what"
+    },
+    {
+      "conf": 0.92766,
+      "end": 14.34,
+      "start": 14.28,
+      "word": "you"
+    },
+    {
+      "conf": 0.880546,
+      "end": 14.64,
+      "start": 14.34,
+      "word": "say"
+    },
+    {
+      "conf": 0.830621,
+      "end": 14.91,
+      "start": 14.79,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.12,
+      "start": 14.920162,
+      "word": "pretty"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.345523,
+      "start": 15.12,
+      "word": "much"
+    },
+    {
+      "conf": 0.601246,
+      "end": 15.48,
+      "start": 15.359999,
+      "word": "is"
+    },
+    {
+      "conf": 0.601246,
+      "end": 15.75,
+      "start": 15.48,
+      "word": "left"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.17,
+      "start": 15.75,
+      "word": "say"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.68,
+      "start": 16.38,
+      "word": "those"
+    },
+    {
+      "conf": 0.723104,
+      "end": 16.77,
+      "start": 16.68,
+      "word": "are"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.13,
+      "start": 16.778307,
+      "word": "bringing"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.19,
+      "start": 17.13,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.58,
+      "start": 17.19,
+      "word": "video"
+    },
+    {
+      "conf": 0.465882,
+      "end": 19.2,
+      "start": 18.87,
+      "word": "card"
+    },
+    {
+      "conf": 0.329953,
+      "end": 19.29,
+      "start": 19.2,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.62,
+      "start": 19.295193,
+      "word": "really"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.946179,
+      "start": 19.62,
+      "word": "good"
+    },
+    {
+      "conf": 0.403484,
+      "end": 20.1,
+      "start": 19.95,
+      "word": "at"
+    },
+    {
+      "conf": 0.294447,
+      "end": 22.11,
+      "start": 21.9,
+      "word": "out"
+    },
+    {
+      "conf": 0.398791,
+      "end": 22.65,
+      "start": 22.29,
+      "word": "that"
+    },
+    {
+      "conf": 0.904984,
+      "end": 23.07,
+      "start": 22.95,
+      "word": "a"
+    },
+    {
+      "conf": 0.939677,
+      "end": 23.4,
+      "start": 23.07,
+      "word": "point"
+    },
+    {
+      "conf": 0.912244,
+      "end": 24.12,
+      "start": 23.97,
+      "word": "where"
+    },
+    {
+      "conf": 0.866383,
+      "end": 24.466628,
+      "start": 24.290786,
+      "word": "i"
+    },
+    {
+      "conf": 0.74954,
+      "end": 24.661514,
+      "start": 24.57,
+      "word": "know"
+    },
+    {
+      "conf": 0.792681,
+      "end": 24.728207,
+      "start": 24.661514,
+      "word": "i"
+    },
+    {
+      "conf": 0.375508,
+      "end": 24.990002,
+      "start": 24.810002,
+      "word": "see"
+    }
+  ],
+  "text": "would you rate this right right but it will all seriousness i might have local your guys works that way of idaho vice you're really getting really bad as i don't actually know what you say i pretty much is left say those are bringing a video card of really good at out that a point where i know i see"
+}

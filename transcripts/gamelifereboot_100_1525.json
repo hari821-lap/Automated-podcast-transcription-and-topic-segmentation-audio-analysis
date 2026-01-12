@@ -1,0 +1,551 @@
+{
+  "result": [
+    {
+      "conf": 0.58466,
+      "end": 0.146542,
+      "start": 0.06,
+      "word": "as"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.3,
+      "start": 0.146542,
+      "word": "she"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.57,
+      "start": 0.3,
+      "word": "pretty"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.99,
+      "start": 0.57,
+      "word": "much"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.07,
+      "start": 1.38,
+      "word": "created"
+    },
+    {
+      "conf": 0.755947,
+      "end": 2.58,
+      "start": 2.13,
+      "word": "riley"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.76,
+      "start": 2.58,
+      "word": "she"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.15,
+      "start": 2.76,
+      "word": "designed"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.33,
+      "start": 3.15,
+      "word": "her"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.23,
+      "start": 3.75,
+      "word": "arm"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.53,
+      "start": 4.23,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.01,
+      "start": 4.62,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.43,
+      "start": 5.25,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.67,
+      "start": 5.43,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.94,
+      "start": 5.67,
+      "word": "cool"
+    },
+    {
+      "conf": 0.62485,
+      "end": 6.0,
+      "start": 5.94,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.06,
+      "start": 6.011255,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.27,
+      "start": 6.06,
+      "word": "way"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.45,
+      "start": 6.27,
+      "word": "that"
+    },
+    {
+      "conf": 0.919541,
+      "end": 6.57,
+      "start": 6.45,
+      "word": "you"
+    },
+    {
+      "conf": 0.919541,
+      "end": 6.663531,
+      "start": 6.57,
+      "word": "know"
+    },
+    {
+      "conf": 0.632053,
+      "end": 6.719451,
+      "start": 6.663531,
+      "word": "it"
+    },
+    {
+      "conf": 0.828894,
+      "end": 6.96,
+      "start": 6.719451,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.26,
+      "start": 7.11,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.47,
+      "start": 7.26,
+      "word": "came"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.56,
+      "start": 7.47,
+      "word": "out"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.62,
+      "start": 7.56,
+      "word": "of"
+    },
+    {
+      "conf": 0.862171,
+      "end": 7.74,
+      "start": 7.62,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.16,
+      "start": 7.744135,
+      "word": "process"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.22,
+      "start": 8.16,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.49,
+      "start": 8.22,
+      "word": "making"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.61,
+      "start": 8.49,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.15,
+      "start": 8.61,
+      "word": "comic"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.63,
+      "start": 9.36,
+      "word": "yeah"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.75,
+      "start": 9.63,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.93,
+      "start": 9.75,
+      "word": "then"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.23,
+      "start": 9.93,
+      "word": "then"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.38,
+      "start": 10.23,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.59,
+      "start": 10.38,
+      "word": "made"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.65,
+      "start": 10.59,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.89,
+      "start": 10.65,
+      "word": "game"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.98,
+      "start": 10.89,
+      "word": "out"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.07,
+      "start": 10.98,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.147539,
+      "start": 11.07,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.4,
+      "start": 11.202461,
+      "word": "there's"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.61,
+      "start": 11.4,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.82,
+      "start": 11.61,
+      "word": "many"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.3,
+      "start": 11.82,
+      "word": "elements"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.14,
+      "start": 12.66,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.38,
+      "start": 13.2,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.626942,
+      "start": 13.38,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.25,
+      "start": 13.68,
+      "word": "comic"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.18,
+      "start": 15.0,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.42,
+      "start": 15.18,
+      "word": "also"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.05,
+      "start": 15.42,
+      "word": "encounter"
+    },
+    {
+      "conf": 0.750675,
+      "end": 16.38,
+      "start": 16.05,
+      "word": "own"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.71,
+      "start": 16.44,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.01,
+      "start": 16.71,
+      "word": "video"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.28,
+      "start": 17.01,
+      "word": "game"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.46,
+      "start": 17.28,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.0,
+      "start": 17.46,
+      "word": "basically"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.09,
+      "start": 18.0,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.39,
+      "start": 18.09,
+      "word": "mortal"
+    },
+    {
+      "conf": 0.59747,
+      "end": 18.75,
+      "start": 18.39,
+      "word": "kombat"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.96,
+      "start": 18.75,
+      "word": "video"
+    },
+    {
+      "conf": 0.832562,
+      "end": 19.227367,
+      "start": 18.96,
+      "word": "games"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.47,
+      "start": 19.227367,
+      "word": "like"
+    },
+    {
+      "conf": 0.778858,
+      "end": 20.01,
+      "start": 19.68,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.22,
+      "start": 20.04,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.34,
+      "start": 20.22,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.49,
+      "start": 20.34,
+      "word": "can"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.64,
+      "start": 20.49,
+      "word": "use"
+    },
+    {
+      "conf": 0.84986,
+      "end": 20.88,
+      "start": 20.64,
+      "word": "mortal"
+    },
+    {
+      "conf": 0.507766,
+      "end": 21.27,
+      "start": 20.88,
+      "word": "kombat"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.39,
+      "start": 21.27,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.48,
+      "start": 21.39,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.63,
+      "start": 21.48,
+      "word": "made"
+    },
+    {
+      "conf": 0.767253,
+      "end": 21.72,
+      "start": 21.63,
+      "word": "of"
+    },
+    {
+      "conf": 0.892346,
+      "end": 21.75,
+      "start": 21.72,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.02,
+      "start": 21.75323,
+      "word": "different"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.26,
+      "start": 22.02,
+      "word": "one"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.38,
+      "start": 22.26,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.59,
+      "start": 22.38,
+      "word": "then"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.95,
+      "start": 22.59,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.31,
+      "start": 23.022969,
+      "word": "faith"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.46,
+      "start": 23.31,
+      "word": "me"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.64,
+      "start": 23.46,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.06,
+      "start": 23.64,
+      "word": "character"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.3,
+      "start": 24.06,
+      "word": "called"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.69,
+      "start": 24.33,
+      "word": "angel"
+    },
+    {
+      "conf": 0.469503,
+      "end": 24.93,
+      "start": 24.69,
+      "word": "night"
+    }
+  ],
+  "text": "as she pretty much created riley she designed her arm and it's it's so cool in a way that you know it was it came out of this process of making this comic yeah and then then they made the game out of it there's so many elements and in the comic they also encounter own this video game it's basically a mortal kombat video games like that but they can use mortal kombat so they made of a different one and then so faith me this character called angel night"
+}

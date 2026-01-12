@@ -1,0 +1,467 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 3.273966,
+      "start": 2.91,
+      "word": "after"
+    },
+    {
+      "conf": 0.59448,
+      "end": 3.45,
+      "start": 3.273966,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.81,
+      "start": 3.48,
+      "word": "spoke"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.99,
+      "start": 3.81,
+      "word": "with"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.35,
+      "start": 3.99,
+      "word": "steve"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.47,
+      "start": 4.35,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.86,
+      "start": 4.47,
+      "word": "actually"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.1,
+      "start": 4.86,
+      "word": "found"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.55,
+      "start": 5.1,
+      "word": "myself"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.88,
+      "start": 5.58,
+      "word": "face"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.97,
+      "start": 5.88,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.42,
+      "start": 5.97,
+      "word": "face"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.93,
+      "start": 6.63,
+      "word": "with"
+    },
+    {
+      "conf": 0.432756,
+      "end": 7.35,
+      "start": 7.14,
+      "word": "about"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.56,
+      "start": 7.35,
+      "word": "one"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.74,
+      "start": 7.56,
+      "word": "but"
+    },
+    {
+      "conf": 0.879245,
+      "end": 8.34,
+      "start": 7.8,
+      "word": "two"
+    },
+    {
+      "conf": 0.754478,
+      "end": 8.966157,
+      "start": 8.7,
+      "word": "indie"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.21,
+      "start": 8.966157,
+      "word": "game"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.779999,
+      "start": 9.21,
+      "word": "creators"
+    },
+    {
+      "conf": 0.533455,
+      "end": 9.92492,
+      "start": 9.779999,
+      "word": "of"
+    },
+    {
+      "conf": 0.475783,
+      "end": 10.08,
+      "start": 9.92492,
+      "word": "who's"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.44,
+      "start": 10.08,
+      "word": "games"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.59,
+      "start": 10.44,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.86,
+      "start": 10.59,
+      "word": "play"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.01,
+      "start": 10.86,
+      "word": "over"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.07,
+      "start": 11.01,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.37,
+      "start": 11.07,
+      "word": "last"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.58,
+      "start": 11.37,
+      "word": "year"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.79,
+      "start": 11.58,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.94,
+      "start": 11.79,
+      "word": "had"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.15,
+      "start": 11.94,
+      "word": "just"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.51,
+      "start": 12.15,
+      "word": "loved"
+    },
+    {
+      "conf": 0.562366,
+      "end": 13.47,
+      "start": 13.23,
+      "word": "right"
+    },
+    {
+      "conf": 0.562366,
+      "end": 13.62,
+      "start": 13.47,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.16,
+      "start": 13.974236,
+      "word": "who"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.4,
+      "start": 14.16,
+      "word": "made"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.49,
+      "start": 14.4,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.82,
+      "start": 14.49,
+      "word": "stanley"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.3,
+      "start": 14.82,
+      "word": "parable"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.45,
+      "start": 15.3,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.57,
+      "start": 15.45,
+      "word": "he"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.72,
+      "start": 15.57,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.05,
+      "start": 15.72,
+      "word": "walking"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.23,
+      "start": 16.05,
+      "word": "down"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.32,
+      "start": 16.23,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.44,
+      "start": 16.32,
+      "word": "red"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.77,
+      "start": 16.44,
+      "word": "carpet"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.98,
+      "start": 16.77,
+      "word": "with"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.49,
+      "start": 17.13,
+      "word": "lucas"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.85,
+      "start": 17.49,
+      "word": "pope"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.18,
+      "start": 18.0,
+      "word": "who"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.470918,
+      "start": 18.18,
+      "word": "made"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.87,
+      "start": 18.489082,
+      "word": "papers"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.29,
+      "start": 18.87,
+      "word": "please"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.47,
+      "start": 19.29,
+      "word": "which"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.68,
+      "start": 19.47,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.13,
+      "start": 19.68,
+      "word": "wired"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.58,
+      "start": 20.22,
+      "word": "game"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.73,
+      "start": 20.58,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.85,
+      "start": 20.73,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.15,
+      "start": 20.85,
+      "word": "year"
+    },
+    {
+      "conf": 0.848623,
+      "end": 21.24,
+      "start": 21.15,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.48,
+      "start": 21.244541,
+      "word": "twenty"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.08,
+      "start": 21.48,
+      "word": "thirteen"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.07,
+      "start": 22.77,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.16,
+      "start": 23.07,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.34,
+      "start": 23.16,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.64,
+      "start": 23.34,
+      "word": "really"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.97,
+      "start": 23.64,
+      "word": "excited"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.03,
+      "start": 23.97,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.24,
+      "start": 24.03,
+      "word": "talk"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.3,
+      "start": 24.24,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.39,
+      "start": 24.3,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.72,
+      "start": 24.39,
+      "word": "bathroom"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.81,
+      "start": 24.72,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.99,
+      "start": 24.81,
+      "word": "ahead"
+    }
+  ],
+  "text": "after i spoke with steve i actually found myself face to face with about one but two indie game creators of who's games i play over the last year and had just loved right in who made the stanley parable and he was walking down the red carpet with lucas pope who made papers please which was wired game of the year in twenty thirteen and i was really excited to talk to the bathroom and ahead"
+}

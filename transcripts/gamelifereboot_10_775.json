@@ -1,0 +1,401 @@
+{
+  "result": [
+    {
+      "conf": 0.546778,
+      "end": 0.33,
+      "start": 0.06,
+      "word": "work"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.66,
+      "start": 0.343597,
+      "word": "he's"
+    },
+    {
+      "conf": 0.631139,
+      "end": 0.862045,
+      "start": 0.66,
+      "word": "no"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.23,
+      "start": 0.862045,
+      "word": "moments"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.32,
+      "start": 1.23,
+      "word": "where"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.38,
+      "start": 1.32,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.5,
+      "start": 1.38,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.89,
+      "start": 1.5,
+      "word": "not"
+    },
+    {
+      "conf": 0.952028,
+      "end": 1.95,
+      "start": 1.89,
+      "word": "the"
+    },
+    {
+      "conf": 0.952028,
+      "end": 2.25,
+      "start": 1.95,
+      "word": "worst"
+    },
+    {
+      "conf": 0.696594,
+      "end": 2.52,
+      "start": 2.25,
+      "word": "person"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.27,
+      "start": 2.82,
+      "word": "i'm"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.96,
+      "start": 3.48,
+      "word": "so"
+    },
+    {
+      "conf": 0.639679,
+      "end": 4.17,
+      "start": 4.02,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.29,
+      "start": 4.17,
+      "word": "we"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.56,
+      "start": 4.29,
+      "word": "never"
+    },
+    {
+      "conf": 0.385532,
+      "end": 4.95,
+      "start": 4.56,
+      "word": "won"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.82,
+      "start": 5.61,
+      "word": "but"
+    },
+    {
+      "conf": 0.853877,
+      "end": 6.06,
+      "start": 5.85,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.84,
+      "start": 6.18,
+      "word": "always"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.26032,
+      "start": 6.99,
+      "word": "had"
+    },
+    {
+      "conf": 0.771726,
+      "end": 7.32,
+      "start": 7.26032,
+      "word": "a"
+    },
+    {
+      "conf": 0.46013,
+      "end": 7.98,
+      "start": 7.41,
+      "word": "wax"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.43,
+      "start": 8.053804,
+      "word": "because"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.85,
+      "start": 8.49,
+      "word": "even"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.06,
+      "start": 8.85,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.78,
+      "start": 9.06,
+      "word": "defeat"
+    },
+    {
+      "conf": 0.52194,
+      "end": 10.65,
+      "start": 10.35,
+      "word": "there"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.044435,
+      "start": 10.65,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.765677,
+      "start": 11.31,
+      "word": "element"
+    },
+    {
+      "conf": 0.685274,
+      "end": 11.908147,
+      "start": 11.79,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.03,
+      "start": 11.908147,
+      "word": "you"
+    },
+    {
+      "conf": 0.85615,
+      "end": 12.27,
+      "start": 12.03,
+      "word": "could"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.54,
+      "start": 12.36,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.72,
+      "start": 12.54,
+      "word": "could"
+    },
+    {
+      "conf": 0.837414,
+      "end": 13.08,
+      "start": 12.72,
+      "word": "win"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.56,
+      "start": 13.08,
+      "word": "defeat"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.728848,
+      "start": 13.59,
+      "word": "or"
+    },
+    {
+      "conf": 0.628259,
+      "end": 14.010001,
+      "start": 13.740001,
+      "word": "lose"
+    },
+    {
+      "conf": 0.622961,
+      "end": 14.34,
+      "start": 14.010001,
+      "word": "defeat"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.67,
+      "start": 14.46,
+      "word": "yeah"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.18,
+      "start": 14.67,
+      "word": "because"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.39,
+      "start": 15.18,
+      "word": "if"
+    },
+    {
+      "conf": 0.405371,
+      "end": 15.87,
+      "start": 15.42,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.5,
+      "start": 16.17,
+      "word": "after"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.65,
+      "start": 16.5,
+      "word": "your"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.28,
+      "start": 16.65,
+      "word": "defeated"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.36,
+      "start": 17.43,
+      "word": "manage"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.87,
+      "start": 18.51,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.35,
+      "start": 18.96,
+      "word": "run"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.5,
+      "start": 19.38,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.62,
+      "start": 19.5,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.95,
+      "start": 19.62,
+      "word": "drop"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.31,
+      "start": 19.95,
+      "word": "ship"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.97,
+      "start": 20.7,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.24,
+      "start": 20.97,
+      "word": "get"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.753393,
+      "start": 21.24,
+      "word": "yourself"
+    },
+    {
+      "conf": 0.411308,
+      "end": 22.11,
+      "start": 21.78,
+      "word": "onto"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.2,
+      "start": 22.11,
+      "word": "the"
+    },
+    {
+      "conf": 0.67949,
+      "end": 22.562188,
+      "start": 22.2,
+      "word": "drops"
+    },
+    {
+      "conf": 0.554448,
+      "end": 22.8,
+      "start": 22.562188,
+      "word": "yet"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.22,
+      "start": 22.83,
+      "word": "without"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.88,
+      "start": 23.25,
+      "word": "dying"
+    },
+    {
+      "conf": 0.964116,
+      "end": 24.33,
+      "start": 24.09,
+      "word": "and"
+    },
+    {
+      "conf": 0.651301,
+      "end": 24.586822,
+      "start": 24.401818,
+      "word": "and"
+    },
+    {
+      "conf": 0.568987,
+      "end": 24.990002,
+      "start": 24.586822,
+      "word": "blast"
+    }
+  ],
+  "text": "work he's no moments where i was not the worst person i'm so but we never won but i always had a wax because even in defeat there was element of you could you could win defeat or lose defeat yeah because if you after your defeated manage to run to the drop ship and get yourself onto the drops yet without dying and and blast"
+}

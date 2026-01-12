@@ -1,0 +1,527 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.51,
+      "start": 0.33,
+      "word": "she"
+    },
+    {
+      "conf": 0.682046,
+      "end": 0.66,
+      "start": 0.51,
+      "word": "ends"
+    },
+    {
+      "conf": 0.682046,
+      "end": 0.75,
+      "start": 0.66,
+      "word": "up"
+    },
+    {
+      "conf": 0.682046,
+      "end": 0.84,
+      "start": 0.75,
+      "word": "in"
+    },
+    {
+      "conf": 0.682046,
+      "end": 1.5,
+      "start": 0.84,
+      "word": "rehearsal"
+    },
+    {
+      "conf": 0.768143,
+      "end": 2.393795,
+      "start": 2.015914,
+      "word": "whatever"
+    },
+    {
+      "conf": 0.598568,
+      "end": 2.512333,
+      "start": 2.393795,
+      "word": "with"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.58,
+      "start": 2.512333,
+      "word": "the"
+    },
+    {
+      "conf": 0.876823,
+      "end": 2.820217,
+      "start": 2.58,
+      "word": "last"
+    },
+    {
+      "conf": 0.542482,
+      "end": 3.03,
+      "start": 2.820217,
+      "word": "names"
+    },
+    {
+      "conf": 0.522933,
+      "end": 3.15,
+      "start": 3.03,
+      "word": "all"
+    },
+    {
+      "conf": 0.911411,
+      "end": 3.45,
+      "start": 3.15,
+      "word": "blocked"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.69,
+      "start": 3.45,
+      "word": "out"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.38,
+      "start": 3.78,
+      "word": "because"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.62,
+      "start": 4.47,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.68,
+      "start": 4.62,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.16,
+      "start": 4.68,
+      "word": "password"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.73,
+      "start": 5.34,
+      "word": "you"
+    },
+    {
+      "conf": 0.791261,
+      "end": 6.257747,
+      "start": 5.97,
+      "word": "know"
+    },
+    {
+      "conf": 0.798508,
+      "end": 6.39,
+      "start": 6.257747,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.570701,
+      "start": 6.404145,
+      "word": "know"
+    },
+    {
+      "conf": 0.606008,
+      "end": 7.08,
+      "start": 6.570701,
+      "word": "nowadays"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.29,
+      "start": 7.08,
+      "word": "last"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.68,
+      "start": 7.29,
+      "word": "names"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.25,
+      "start": 8.1,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.49,
+      "start": 8.25,
+      "word": "anyway"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.67,
+      "start": 8.49,
+      "word": "there's"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.88,
+      "start": 8.67,
+      "word": "kind"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.97,
+      "start": 8.88,
+      "word": "of"
+    },
+    {
+      "conf": 0.823793,
+      "end": 9.06,
+      "start": 8.97,
+      "word": "an"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.45,
+      "start": 9.09,
+      "word": "awkward"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.81,
+      "start": 9.45,
+      "word": "moment"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.23,
+      "start": 9.93,
+      "word": "tina"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.41,
+      "start": 10.23,
+      "word": "to"
+    },
+    {
+      "conf": 0.881054,
+      "end": 10.59,
+      "start": 10.41,
+      "word": "them"
+    },
+    {
+      "conf": 0.727023,
+      "end": 10.98,
+      "start": 10.71,
+      "word": "yeah"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.28,
+      "start": 11.07,
+      "word": "which"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.58,
+      "start": 11.28,
+      "word": "kind"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.79,
+      "start": 11.58,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.45,
+      "start": 12.36,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.66,
+      "start": 12.45,
+      "word": "know"
+    },
+    {
+      "conf": 0.278154,
+      "end": 13.23,
+      "start": 12.982271,
+      "word": "am"
+    },
+    {
+      "conf": 0.977038,
+      "end": 13.379428,
+      "start": 13.23,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.77,
+      "start": 13.379428,
+      "word": "riley's"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.008267,
+      "start": 13.77,
+      "word": "always"
+    },
+    {
+      "conf": 0.376183,
+      "end": 14.13,
+      "start": 14.01,
+      "word": "had"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.67,
+      "start": 14.22,
+      "word": "been"
+    },
+    {
+      "conf": 0.528482,
+      "end": 15.0,
+      "start": 14.73,
+      "word": "choose"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.33,
+      "start": 15.0,
+      "word": "originally"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.661428,
+      "start": 15.33,
+      "word": "created"
+    },
+    {
+      "conf": 0.682838,
+      "end": 15.717037,
+      "start": 15.661428,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.84,
+      "start": 15.717037,
+      "word": "be"
+    },
+    {
+      "conf": 0.862661,
+      "end": 16.11,
+      "start": 15.84,
+      "word": "sort"
+    },
+    {
+      "conf": 0.862661,
+      "end": 16.171058,
+      "start": 16.11,
+      "word": "of"
+    },
+    {
+      "conf": 0.815293,
+      "end": 16.2,
+      "start": 16.171058,
+      "word": "a"
+    },
+    {
+      "conf": 0.581992,
+      "end": 16.65,
+      "start": 16.219043,
+      "word": "mental"
+    },
+    {
+      "conf": 0.720907,
+      "end": 16.92,
+      "start": 16.65,
+      "word": "thing"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.28,
+      "start": 17.13,
+      "word": "he"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.73,
+      "start": 17.28,
+      "word": "relishes"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.0,
+      "start": 17.73,
+      "word": "couple"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.51,
+      "start": 18.0,
+      "word": "years"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.69,
+      "start": 18.57,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.87,
+      "start": 18.69,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.29,
+      "start": 18.87,
+      "word": "older"
+    },
+    {
+      "conf": 0.791017,
+      "end": 19.59,
+      "start": 19.35,
+      "word": "yeah"
+    },
+    {
+      "conf": 0.42857,
+      "end": 20.13,
+      "start": 20.04,
+      "word": "i"
+    },
+    {
+      "conf": 0.42857,
+      "end": 20.22,
+      "start": 20.13,
+      "word": "have"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.4,
+      "start": 20.22,
+      "word": "always"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.520588,
+      "start": 20.4,
+      "word": "been"
+    },
+    {
+      "conf": 0.900137,
+      "end": 20.55,
+      "start": 20.520588,
+      "word": "a"
+    },
+    {
+      "conf": 0.900137,
+      "end": 21.09,
+      "start": 20.55,
+      "word": "closeness"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.48,
+      "start": 21.36,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.54,
+      "start": 21.48,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.9,
+      "start": 21.54,
+      "word": "course"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.05,
+      "start": 21.9,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.23,
+      "start": 22.05,
+      "word": "know"
+    },
+    {
+      "conf": 0.812178,
+      "end": 22.42793,
+      "start": 22.26,
+      "word": "l"
+    },
+    {
+      "conf": 0.485418,
+      "end": 22.56,
+      "start": 22.44,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.83,
+      "start": 22.56,
+      "word": "very"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.16,
+      "start": 22.83,
+      "word": "angry"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.28,
+      "start": 23.16,
+      "word": "at"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.46,
+      "start": 23.28,
+      "word": "her"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.12,
+      "start": 23.55,
+      "word": "because"
+    },
+    {
+      "conf": 0.893008,
+      "end": 24.33,
+      "start": 24.18,
+      "word": "you"
+    },
+    {
+      "conf": 0.893008,
+      "end": 24.42,
+      "start": 24.33,
+      "word": "know"
+    },
+    {
+      "conf": 0.914797,
+      "end": 24.607866,
+      "start": 24.42,
+      "word": "she"
+    },
+    {
+      "conf": 0.535132,
+      "end": 24.930002,
+      "start": 24.607866,
+      "word": "abandoned"
+    }
+  ],
+  "text": "she ends up in rehearsal whatever with the last names all blocked out because like a password you know you know nowadays last names but anyway there's kind of an awkward moment tina to them yeah which kind of you know am and riley's always had been choose originally created to be sort of a mental thing he relishes couple years you know older yeah i have always been a closeness and of course you know l is very angry at her because you know she abandoned"
+}

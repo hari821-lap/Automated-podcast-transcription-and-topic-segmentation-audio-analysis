@@ -1,0 +1,389 @@
+{
+  "result": [
+    {
+      "conf": 0.590979,
+      "end": 0.48,
+      "start": 0.27,
+      "word": "with"
+    },
+    {
+      "conf": 0.893138,
+      "end": 1.32,
+      "start": 0.81,
+      "word": "steve"
+    },
+    {
+      "conf": 0.681099,
+      "end": 1.77,
+      "start": 1.35,
+      "word": "painter"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.37,
+      "start": 1.86,
+      "word": "operator"
+    },
+    {
+      "conf": 0.872256,
+      "end": 2.73,
+      "start": 2.43,
+      "word": "gone"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.24,
+      "start": 2.76,
+      "word": "home"
+    },
+    {
+      "conf": 0.473562,
+      "end": 3.69,
+      "start": 3.48,
+      "word": "up"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.870286,
+      "start": 3.69,
+      "word": "for"
+    },
+    {
+      "conf": 0.932573,
+      "end": 3.9,
+      "start": 3.870286,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.11,
+      "start": 3.9,
+      "word": "little"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.32,
+      "start": 4.11,
+      "word": "bit"
+    },
+    {
+      "conf": 0.477427,
+      "end": 4.56,
+      "start": 4.35,
+      "word": "on"
+    },
+    {
+      "conf": 0.80328,
+      "end": 4.68,
+      "start": 4.566915,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.04,
+      "start": 4.8,
+      "word": "red"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.43,
+      "start": 5.07,
+      "word": "carpet"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.33,
+      "start": 6.18,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.6,
+      "start": 6.33,
+      "word": "have"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.84,
+      "start": 6.63,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.08,
+      "start": 6.84,
+      "word": "have"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.44,
+      "start": 7.08,
+      "word": "any"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.25,
+      "start": 7.56,
+      "word": "regrets"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.43,
+      "start": 8.25,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.61,
+      "start": 8.43,
+      "word": "have"
+    },
+    {
+      "conf": 0.93113,
+      "end": 8.97,
+      "start": 8.61,
+      "word": "anything"
+    },
+    {
+      "conf": 0.619126,
+      "end": 9.36,
+      "start": 9.09,
+      "word": "else"
+    },
+    {
+      "conf": 0.436421,
+      "end": 9.63,
+      "start": 9.48,
+      "word": "have"
+    },
+    {
+      "conf": 0.35806,
+      "end": 9.69,
+      "start": 9.63,
+      "word": "to"
+    },
+    {
+      "conf": 0.619126,
+      "end": 9.923213,
+      "start": 9.693797,
+      "word": "see"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.08,
+      "start": 9.923213,
+      "word": "what"
+    },
+    {
+      "conf": 0.946934,
+      "end": 10.2,
+      "start": 10.08,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.33,
+      "start": 12.12,
+      "word": "what"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.54,
+      "start": 12.33,
+      "word": "you"
+    },
+    {
+      "conf": 0.942059,
+      "end": 12.72,
+      "start": 12.54,
+      "word": "see"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.974915,
+      "start": 12.721739,
+      "word": "like"
+    },
+    {
+      "conf": 0.455468,
+      "end": 13.483155,
+      "start": 13.2,
+      "word": "going"
+    },
+    {
+      "conf": 0.291666,
+      "end": 13.800916,
+      "start": 13.483155,
+      "word": "thing"
+    },
+    {
+      "conf": 0.568067,
+      "end": 13.95,
+      "start": 13.800916,
+      "word": "i"
+    },
+    {
+      "conf": 0.595526,
+      "end": 14.123607,
+      "start": 13.95,
+      "word": "feel"
+    },
+    {
+      "conf": 0.913185,
+      "end": 14.305428,
+      "start": 14.123607,
+      "word": "like"
+    },
+    {
+      "conf": 0.962572,
+      "end": 14.61,
+      "start": 14.305428,
+      "word": "i"
+    },
+    {
+      "conf": 0.962572,
+      "end": 15.168316,
+      "start": 14.76,
+      "word": "wish"
+    },
+    {
+      "conf": 0.65902,
+      "end": 16.62,
+      "start": 16.53,
+      "word": "or"
+    },
+    {
+      "conf": 0.826391,
+      "end": 16.8,
+      "start": 16.62,
+      "word": "does"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.92,
+      "start": 16.8,
+      "word": "he"
+    },
+    {
+      "conf": 0.826391,
+      "end": 17.16,
+      "start": 16.92,
+      "word": "have"
+    },
+    {
+      "conf": 0.980507,
+      "end": 17.67,
+      "start": 17.34,
+      "word": "like"
+    },
+    {
+      "conf": 0.980507,
+      "end": 17.88,
+      "start": 17.67,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.33,
+      "start": 17.88,
+      "word": "where"
+    },
+    {
+      "conf": 0.919212,
+      "end": 18.54,
+      "start": 18.396583,
+      "word": "is"
+    },
+    {
+      "conf": 0.919212,
+      "end": 18.84,
+      "start": 18.54,
+      "word": "where"
+    },
+    {
+      "conf": 0.765904,
+      "end": 19.5,
+      "start": 19.29,
+      "word": "we're"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.71,
+      "start": 19.5,
+      "word": "very"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.1,
+      "start": 19.71,
+      "word": "lucky"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.460064,
+      "start": 20.1,
+      "word": "to"
+    },
+    {
+      "conf": 0.904896,
+      "end": 20.727947,
+      "start": 20.460064,
+      "word": "not"
+    },
+    {
+      "conf": 0.437004,
+      "end": 20.809471,
+      "start": 20.727947,
+      "word": "have"
+    },
+    {
+      "conf": 0.767946,
+      "end": 20.97,
+      "start": 20.809471,
+      "word": "at"
+    },
+    {
+      "conf": 0.770486,
+      "end": 21.66,
+      "start": 21.33,
+      "word": "the"
+    },
+    {
+      "conf": 0.457925,
+      "end": 22.41,
+      "start": 21.9,
+      "word": "high"
+    },
+    {
+      "conf": 0.375152,
+      "end": 23.82,
+      "start": 23.25,
+      "word": "reviews"
+    },
+    {
+      "conf": 0.507565,
+      "end": 24.071283,
+      "start": 23.927089,
+      "word": "the"
+    },
+    {
+      "conf": 0.461411,
+      "end": 24.39,
+      "start": 24.09,
+      "word": "i"
+    },
+    {
+      "conf": 0.523123,
+      "end": 24.660002,
+      "start": 24.420002,
+      "word": "have"
+    },
+    {
+      "conf": 0.523123,
+      "end": 24.990002,
+      "start": 24.660002,
+      "word": "several"
+    }
+  ],
+  "text": "with steve painter operator gone home up for a little bit on the red carpet you have you have any regrets you have anything else have to see what it what you see like going thing i feel like i wish or does he have like that where is where we're very lucky to not have at the high reviews the i have several"
+}

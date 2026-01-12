@@ -1,0 +1,539 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.36,
+      "start": 0.06,
+      "word": "because"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.54,
+      "start": 0.36,
+      "word": "that's"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.63,
+      "start": 0.54,
+      "word": "how"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.72,
+      "start": 0.63,
+      "word": "the"
+    },
+    {
+      "conf": 0.861635,
+      "end": 0.866265,
+      "start": 0.72,
+      "word": "say"
+    },
+    {
+      "conf": 0.917889,
+      "end": 1.08,
+      "start": 0.866265,
+      "word": "school"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.290876,
+      "start": 1.08,
+      "word": "also"
+    },
+    {
+      "conf": 0.760943,
+      "end": 1.35,
+      "start": 1.290876,
+      "word": "i"
+    },
+    {
+      "conf": 0.374812,
+      "end": 1.468754,
+      "start": 1.35,
+      "word": "say"
+    },
+    {
+      "conf": 0.736318,
+      "end": 1.56,
+      "start": 1.468754,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.89,
+      "start": 1.56,
+      "word": "start"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.37,
+      "start": 1.89,
+      "word": "over"
+    },
+    {
+      "conf": 0.857515,
+      "end": 2.52,
+      "start": 2.43,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.58,
+      "start": 2.52,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.7,
+      "start": 2.58,
+      "word": "can"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.82,
+      "start": 2.7,
+      "word": "be"
+    },
+    {
+      "conf": 0.414393,
+      "end": 2.97,
+      "start": 2.82,
+      "word": "any"
+    },
+    {
+      "conf": 0.8401,
+      "end": 3.15,
+      "start": 3.104673,
+      "word": "i"
+    },
+    {
+      "conf": 0.543045,
+      "end": 3.45,
+      "start": 3.156851,
+      "word": "wanna"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.66,
+      "start": 3.45,
+      "word": "be"
+    },
+    {
+      "conf": 0.790356,
+      "end": 4.29,
+      "start": 3.66,
+      "word": "know"
+    },
+    {
+      "conf": 0.640961,
+      "end": 4.620455,
+      "start": 4.5,
+      "word": "what"
+    },
+    {
+      "conf": 0.715737,
+      "end": 4.8,
+      "start": 4.620455,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.16,
+      "start": 5.01,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.73,
+      "start": 5.16,
+      "word": "downloadable"
+    },
+    {
+      "conf": 0.675782,
+      "end": 5.94,
+      "start": 5.73,
+      "word": "game"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.06,
+      "start": 5.944384,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.12,
+      "start": 6.06,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.63,
+      "start": 6.12,
+      "word": "playstation"
+    },
+    {
+      "conf": 0.550326,
+      "end": 6.93,
+      "start": 6.63,
+      "word": "veto"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.2,
+      "start": 6.93,
+      "word": "right"
+    },
+    {
+      "conf": 0.885262,
+      "end": 7.524822,
+      "start": 7.2,
+      "word": "yes"
+    },
+    {
+      "conf": 0.275071,
+      "end": 7.89,
+      "start": 7.71,
+      "word": "is"
+    },
+    {
+      "conf": 0.90951,
+      "end": 8.04,
+      "start": 7.89,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.58,
+      "start": 8.13,
+      "word": "yes"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.15,
+      "start": 8.85,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.3,
+      "start": 9.15,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.42,
+      "start": 9.3,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.72,
+      "start": 9.42,
+      "word": "ideas"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.17,
+      "start": 9.72,
+      "word": "everyone"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.32,
+      "start": 10.17,
+      "word": "else"
+    },
+    {
+      "conf": 0.741868,
+      "end": 10.38,
+      "start": 10.32,
+      "word": "at"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.47,
+      "start": 10.38,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.98,
+      "start": 10.47,
+      "word": "school"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.19,
+      "start": 11.01,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.31,
+      "start": 11.19,
+      "word": "an"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.76,
+      "start": 11.34,
+      "word": "ultimate"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.18,
+      "start": 11.76,
+      "word": "something"
+    },
+    {
+      "conf": 0.83083,
+      "end": 12.27,
+      "start": 12.18,
+      "word": "where"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.36,
+      "start": 12.27,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.51,
+      "start": 12.36,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.66,
+      "start": 12.51,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.2,
+      "start": 12.69,
+      "word": "ultimate"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.74,
+      "start": 13.26,
+      "word": "baseball"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.25,
+      "start": 13.74,
+      "word": "player"
+    },
+    {
+      "conf": 0.776668,
+      "end": 14.64,
+      "start": 14.31,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.03,
+      "start": 14.85,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.51,
+      "start": 15.06,
+      "word": "ultimate"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.23,
+      "start": 15.51,
+      "word": "programmer"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.5,
+      "start": 16.29,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.62,
+      "start": 16.5,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.86,
+      "start": 16.62,
+      "word": "some"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.22,
+      "start": 16.86,
+      "word": "reason"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.34,
+      "start": 17.22,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.46,
+      "start": 17.34,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.88,
+      "start": 17.46,
+      "word": "ultimate"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.3,
+      "start": 17.88,
+      "word": "fashion"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.6,
+      "start": 18.3,
+      "word": "model"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.69,
+      "start": 18.6,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.87,
+      "start": 18.69,
+      "word": "put"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.05,
+      "start": 18.87,
+      "word": "her"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.47,
+      "start": 19.05,
+      "word": "into"
+    },
+    {
+      "conf": 0.718619,
+      "end": 19.791515,
+      "start": 19.53,
+      "word": "okay"
+    },
+    {
+      "conf": 0.722708,
+      "end": 19.89,
+      "start": 19.791515,
+      "word": "his"
+    },
+    {
+      "conf": 0.862608,
+      "end": 20.19,
+      "start": 19.897095,
+      "word": "eighties"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.55,
+      "start": 20.19,
+      "word": "wrestling"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.85,
+      "start": 20.55,
+      "word": "icon"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.18,
+      "start": 20.88,
+      "word": "ultimate"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.6,
+      "start": 21.18,
+      "word": "warrior"
+    },
+    {
+      "conf": 0.93005,
+      "end": 21.72,
+      "start": 21.6,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.83,
+      "start": 22.307166,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.04,
+      "start": 22.89,
+      "word": "there"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.285865,
+      "start": 23.04,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.61,
+      "start": 23.421954,
+      "word": "there's"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.73,
+      "start": 23.61,
+      "word": "an"
+    },
+    {
+      "conf": 0.963122,
+      "end": 24.181796,
+      "start": 23.76,
+      "word": "ultimate"
+    },
+    {
+      "conf": 0.443514,
+      "end": 24.27,
+      "start": 24.181796,
+      "word": "what"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.75,
+      "start": 24.27,
+      "word": "hacksaw"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.99,
+      "start": 24.75,
+      "word": "jim"
+    }
+  ],
+  "text": "because that's how the say school also i say they start over and i can be any i wanna be know what like a downloadable game for the playstation veto right yes is of yes so but the ideas everyone else at the school is an ultimate something where it's like the ultimate baseball player like the ultimate programmer like for some reason is the ultimate fashion model they put her into okay his eighties wrestling icon ultimate warrior that know there is there's an ultimate what hacksaw jim"
+}

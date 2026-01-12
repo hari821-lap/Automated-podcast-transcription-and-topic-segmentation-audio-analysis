@@ -1,0 +1,431 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.51,
+      "start": 0.39,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.684609,
+      "start": 0.51,
+      "word": "don't"
+    },
+    {
+      "conf": 0.6654,
+      "end": 1.05,
+      "start": 0.69,
+      "word": "either"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.32,
+      "start": 1.2,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.5,
+      "start": 1.32,
+      "word": "just"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.707043,
+      "start": 1.5,
+      "word": "couldn't"
+    },
+    {
+      "conf": 0.450716,
+      "end": 2.14539,
+      "start": 1.83,
+      "word": "find"
+    },
+    {
+      "conf": 0.397069,
+      "end": 2.34,
+      "start": 2.14539,
+      "word": "high"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.73,
+      "start": 2.52,
+      "word": "my"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.21,
+      "start": 2.73,
+      "word": "computer"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.81,
+      "start": 3.3,
+      "word": "that's"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.23,
+      "start": 3.9,
+      "word": "that's"
+    },
+    {
+      "conf": 0.694357,
+      "end": 4.47,
+      "start": 4.23,
+      "word": "days"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.62,
+      "start": 4.47,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.98,
+      "start": 4.62,
+      "word": "blamed"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.64,
+      "start": 4.98,
+      "word": "myself"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.0,
+      "start": 5.67,
+      "word": "yeah"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.57,
+      "start": 6.0,
+      "word": "exactly"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.08,
+      "start": 6.66,
+      "word": "see"
+    },
+    {
+      "conf": 0.503007,
+      "end": 7.68,
+      "start": 7.5,
+      "word": "i'm"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.01,
+      "start": 7.77,
+      "word": "going"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.1,
+      "start": 8.01,
+      "word": "to"
+    },
+    {
+      "conf": 0.919772,
+      "end": 8.34,
+      "start": 8.1,
+      "word": "pick"
+    },
+    {
+      "conf": 0.755013,
+      "end": 8.64,
+      "start": 8.46,
+      "word": "the"
+    },
+    {
+      "conf": 0.773902,
+      "end": 9.03,
+      "start": 8.662595,
+      "word": "he"
+    },
+    {
+      "conf": 0.773902,
+      "end": 9.27,
+      "start": 9.03,
+      "word": "could"
+    },
+    {
+      "conf": 0.973088,
+      "end": 9.69,
+      "start": 9.27,
+      "word": "happen"
+    },
+    {
+      "conf": 0.919849,
+      "end": 10.408502,
+      "start": 10.2,
+      "word": "now"
+    },
+    {
+      "conf": 0.521171,
+      "end": 10.53,
+      "start": 10.408502,
+      "word": "i'd"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.07,
+      "start": 10.68,
+      "word": "imagine"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.43,
+      "start": 11.07,
+      "word": "glory"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.7,
+      "start": 11.43,
+      "word": "home"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.06,
+      "start": 11.7,
+      "word": "fast"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.48,
+      "start": 12.06,
+      "word": "forwarding"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.78,
+      "start": 12.48,
+      "word": "through"
+    },
+    {
+      "conf": 0.836019,
+      "end": 13.44,
+      "start": 12.78,
+      "word": "podcast"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.04,
+      "start": 13.56,
+      "word": "everything"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.22795,
+      "start": 14.04,
+      "word": "else"
+    },
+    {
+      "conf": 0.631888,
+      "end": 14.365529,
+      "start": 14.22795,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.73,
+      "start": 14.365529,
+      "word": "anyone"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.91,
+      "start": 14.73,
+      "word": "else"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.24,
+      "start": 14.91,
+      "word": "said"
+    },
+    {
+      "conf": 0.466921,
+      "end": 15.72,
+      "start": 15.57,
+      "word": "to"
+    },
+    {
+      "conf": 0.723066,
+      "end": 15.93,
+      "start": 15.730902,
+      "word": "try"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.05,
+      "start": 15.938307,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.26,
+      "start": 16.05,
+      "word": "get"
+    },
+    {
+      "conf": 0.893937,
+      "end": 17.43,
+      "start": 17.28,
+      "word": "i"
+    },
+    {
+      "conf": 0.36906,
+      "end": 17.664855,
+      "start": 17.43,
+      "word": "got"
+    },
+    {
+      "conf": 0.716027,
+      "end": 18.341104,
+      "start": 17.955767,
+      "word": "name"
+    },
+    {
+      "conf": 0.562291,
+      "end": 18.687495,
+      "start": 18.48,
+      "word": "has"
+    },
+    {
+      "conf": 0.548906,
+      "end": 19.5,
+      "start": 19.32,
+      "word": "but"
+    },
+    {
+      "conf": 0.724026,
+      "end": 19.59,
+      "start": 19.5,
+      "word": "i"
+    },
+    {
+      "conf": 0.921526,
+      "end": 19.77,
+      "start": 19.602859,
+      "word": "be"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.19,
+      "start": 19.77,
+      "word": "myself"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.385438,
+      "start": 20.19,
+      "word": "to"
+    },
+    {
+      "conf": 0.514606,
+      "end": 20.607026,
+      "start": 20.43,
+      "word": "see"
+    },
+    {
+      "conf": 0.41339,
+      "end": 20.76,
+      "start": 20.607026,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.97,
+      "start": 20.777598,
+      "word": "can"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.09,
+      "start": 20.97,
+      "word": "be"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.54,
+      "start": 21.09,
+      "word": "myself"
+    },
+    {
+      "conf": 0.891028,
+      "end": 21.69,
+      "start": 21.54,
+      "word": "to"
+    },
+    {
+      "conf": 0.891028,
+      "end": 21.87,
+      "start": 21.69,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.47,
+      "start": 22.17,
+      "word": "ah"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.74,
+      "start": 22.47,
+      "word": "my"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.31,
+      "start": 22.74,
+      "word": "preschooler"
+    },
+    {
+      "conf": 0.52425,
+      "end": 23.474996,
+      "start": 23.310002,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.67,
+      "start": 23.534277,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.03,
+      "start": 23.67,
+      "word": "editor"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.39,
+      "start": 24.06,
+      "word": "of"
+    },
+    {
+      "conf": 0.675847,
+      "end": 24.777437,
+      "start": 24.45,
+      "word": "game"
+    },
+    {
+      "conf": 0.786727,
+      "end": 24.99,
+      "start": 24.777437,
+      "word": "like"
+    }
+  ],
+  "text": "i don't either i just couldn't find high my computer that's that's days i blamed myself yeah exactly see i'm going to pick the he could happen now i'd imagine glory home fast forwarding through podcast everything else that anyone else said to try to get i got name has but i be myself to see you can be myself to it ah my preschooler i the editor of game like"
+}

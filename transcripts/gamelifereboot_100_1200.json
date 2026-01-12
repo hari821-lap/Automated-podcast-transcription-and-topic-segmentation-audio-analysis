@@ -1,0 +1,677 @@
+{
+  "result": [
+    {
+      "conf": 0.840587,
+      "end": 0.18,
+      "start": 0.0,
+      "word": "there"
+    },
+    {
+      "conf": 0.840587,
+      "end": 0.27,
+      "start": 0.18,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.39,
+      "start": 0.27,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.87,
+      "start": 0.39,
+      "word": "super"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.23,
+      "start": 0.87,
+      "word": "cut"
+    },
+    {
+      "conf": 0.721828,
+      "end": 1.89,
+      "start": 1.35,
+      "word": "however"
+    },
+    {
+      "conf": 0.98736,
+      "end": 2.19,
+      "start": 1.906136,
+      "word": "deep"
+    },
+    {
+      "conf": 0.764228,
+      "end": 2.43,
+      "start": 2.19,
+      "word": "dive"
+    },
+    {
+      "conf": 0.770678,
+      "end": 2.627436,
+      "start": 2.457498,
+      "word": "with"
+    },
+    {
+      "conf": 0.763666,
+      "end": 2.88,
+      "start": 2.750195,
+      "word": "is"
+    },
+    {
+      "conf": 0.662668,
+      "end": 3.0,
+      "start": 2.88,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.48,
+      "start": 3.03,
+      "word": "audio"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.84,
+      "start": 3.63,
+      "word": "oh"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.99,
+      "start": 3.84,
+      "word": "no"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.14,
+      "start": 3.99,
+      "word": "no"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.26,
+      "start": 4.14,
+      "word": "no"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.53,
+      "start": 4.26,
+      "word": "no"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.74,
+      "start": 4.56,
+      "word": "it's"
+    },
+    {
+      "conf": 0.796077,
+      "end": 4.86,
+      "start": 4.74,
+      "word": "him"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.95,
+      "start": 4.86,
+      "word": "as"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.01,
+      "start": 4.95,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.19,
+      "start": 5.01,
+      "word": "think"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.79,
+      "start": 5.19,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.0,
+      "start": 5.85,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.33,
+      "start": 6.0,
+      "word": "uncut"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.541416,
+      "start": 6.33,
+      "word": "ones"
+    },
+    {
+      "conf": 0.600924,
+      "end": 6.69,
+      "start": 6.541416,
+      "word": "like"
+    },
+    {
+      "conf": 0.684877,
+      "end": 7.23,
+      "start": 7.05,
+      "word": "and"
+    },
+    {
+      "conf": 0.871982,
+      "end": 7.32,
+      "start": 7.23,
+      "word": "are"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.56,
+      "start": 7.32,
+      "word": "now"
+    },
+    {
+      "conf": 0.746633,
+      "end": 7.83,
+      "start": 7.62,
+      "word": "she's"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.89,
+      "start": 7.83,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.34,
+      "start": 7.89,
+      "word": "thousand"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.61,
+      "start": 8.37,
+      "word": "more"
+    },
+    {
+      "conf": 0.603003,
+      "end": 8.79,
+      "start": 8.61,
+      "word": "were"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.97,
+      "start": 8.79,
+      "word": "yeah"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.18,
+      "start": 8.97,
+      "word": "three"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.42,
+      "start": 9.18,
+      "word": "thousand"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.63,
+      "start": 9.42,
+      "word": "words"
+    },
+    {
+      "conf": 0.649259,
+      "end": 9.93,
+      "start": 9.63,
+      "word": "versus"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.05,
+      "start": 9.93,
+      "word": "two"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.378651,
+      "start": 10.05,
+      "word": "thousand"
+    },
+    {
+      "conf": 0.500637,
+      "end": 10.560001,
+      "start": 10.410001,
+      "word": "where"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.71,
+      "start": 10.579308,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.83,
+      "start": 10.71,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.16,
+      "start": 10.83,
+      "word": "actually"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.28,
+      "start": 11.16,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.49,
+      "start": 11.28,
+      "word": "there's"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.55,
+      "start": 11.49,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.88,
+      "start": 11.55,
+      "word": "short"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.21,
+      "start": 11.88,
+      "word": "version"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.3,
+      "start": 12.21,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.45,
+      "start": 12.3,
+      "word": "can"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.66,
+      "start": 12.45,
+      "word": "read"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.75,
+      "start": 12.66,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.84,
+      "start": 12.75,
+      "word": "then"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.99,
+      "start": 12.84,
+      "word": "there's"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.05,
+      "start": 12.99,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.32,
+      "start": 13.05,
+      "word": "long"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.59,
+      "start": 13.32,
+      "word": "version"
+    },
+    {
+      "conf": 0.746259,
+      "end": 13.745188,
+      "start": 13.59,
+      "word": "yeah"
+    },
+    {
+      "conf": 0.381067,
+      "end": 13.83,
+      "start": 13.745188,
+      "word": "if"
+    },
+    {
+      "conf": 0.711503,
+      "end": 13.92,
+      "start": 13.83,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.16,
+      "start": 13.92,
+      "word": "really"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.31,
+      "start": 14.16,
+      "word": "want"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.37,
+      "start": 14.31,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.504644,
+      "start": 14.37,
+      "word": "get"
+    },
+    {
+      "conf": 0.488127,
+      "end": 14.55,
+      "start": 14.52,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.67,
+      "start": 14.555605,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.88,
+      "start": 14.67,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.42,
+      "start": 15.0,
+      "word": "talking"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.66,
+      "start": 15.42,
+      "word": "about"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.78,
+      "start": 15.66,
+      "word": "some"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.84,
+      "start": 15.78,
+      "word": "of"
+    },
+    {
+      "conf": 0.639112,
+      "end": 15.9,
+      "start": 15.84,
+      "word": "the"
+    },
+    {
+      "conf": 0.639112,
+      "end": 16.05,
+      "start": 15.9,
+      "word": "more"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.56,
+      "start": 16.05,
+      "word": "specific"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.98,
+      "start": 16.56,
+      "word": "things"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.16,
+      "start": 17.04,
+      "word": "if"
+    },
+    {
+      "conf": 0.815646,
+      "end": 17.256852,
+      "start": 17.16,
+      "word": "you"
+    },
+    {
+      "conf": 0.753196,
+      "end": 17.4,
+      "start": 17.256852,
+      "word": "know"
+    },
+    {
+      "conf": 0.221145,
+      "end": 17.61,
+      "start": 17.4,
+      "word": "yet"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.73,
+      "start": 17.621212,
+      "word": "if"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.85,
+      "start": 17.73,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.97,
+      "start": 17.85,
+      "word": "look"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.127863,
+      "start": 17.97,
+      "word": "for"
+    },
+    {
+      "conf": 0.617051,
+      "end": 18.204862,
+      "start": 18.127863,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.3,
+      "start": 18.204862,
+      "word": "on"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.36,
+      "start": 18.3,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.69,
+      "start": 18.36,
+      "word": "site"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.87,
+      "start": 18.69,
+      "word": "you'll"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.2,
+      "start": 18.87,
+      "word": "get"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.59,
+      "start": 19.26,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.89,
+      "start": 19.59,
+      "word": "short"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.25,
+      "start": 19.98,
+      "word": "cut"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.55,
+      "start": 20.25,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.88,
+      "start": 20.67,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.12,
+      "start": 20.88,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.27,
+      "start": 21.12,
+      "word": "we"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.6,
+      "start": 21.27,
+      "word": "link"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.84,
+      "start": 21.6,
+      "word": "out"
+    },
+    {
+      "conf": 0.89729,
+      "end": 22.38,
+      "start": 21.84,
+      "word": "to"
+    },
+    {
+      "conf": 0.572745,
+      "end": 22.943196,
+      "start": 22.799998,
+      "word": "the"
+    },
+    {
+      "conf": 0.508931,
+      "end": 23.31,
+      "start": 22.95,
+      "word": "longer"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.49,
+      "start": 23.4,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.67,
+      "start": 23.49,
+      "word": "one"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.857991,
+      "start": 23.67,
+      "word": "that"
+    },
+    {
+      "conf": 0.733656,
+      "end": 24.027676,
+      "start": 23.88,
+      "word": "no"
+    },
+    {
+      "conf": 0.854736,
+      "end": 24.149998,
+      "start": 24.027676,
+      "word": "one"
+    },
+    {
+      "conf": 0.657676,
+      "end": 24.239998,
+      "start": 24.149998,
+      "word": "the"
+    },
+    {
+      "conf": 0.595366,
+      "end": 24.45,
+      "start": 24.252021,
+      "word": "neil"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.96,
+      "start": 24.45,
+      "word": "promoted"
+    }
+  ],
+  "text": "there is a super cut however deep dive with is the audio oh no no no no it's him as i think the the uncut ones like and are now she's a thousand more were yeah three thousand words versus two thousand where it is actually so there's a short version you can read and then there's a long version yeah if you really want to get a i like talking about some of the more specific things if you know yet if you look for it on the site you'll get a short cut but in that we link out to the longer the one that no one the neil promoted"
+}

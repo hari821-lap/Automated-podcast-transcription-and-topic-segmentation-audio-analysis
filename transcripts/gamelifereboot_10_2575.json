@@ -1,0 +1,377 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 1.29,
+      "start": 1.14,
+      "word": "i'm"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.47,
+      "start": 1.29,
+      "word": "just"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.77,
+      "start": 1.47,
+      "word": "sitting"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.92,
+      "start": 1.77,
+      "word": "here"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.19,
+      "start": 1.92,
+      "word": "going"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.436361,
+      "start": 2.19,
+      "word": "like"
+    },
+    {
+      "conf": 0.692793,
+      "end": 3.33,
+      "start": 2.76,
+      "word": "cases"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.17,
+      "start": 3.892929,
+      "word": "so"
+    },
+    {
+      "conf": 0.942517,
+      "end": 4.59,
+      "start": 4.17,
+      "word": "good"
+    },
+    {
+      "conf": 0.889539,
+      "end": 4.92,
+      "start": 4.77,
+      "word": "i"
+    },
+    {
+      "conf": 0.889539,
+      "end": 5.126536,
+      "start": 4.92,
+      "word": "feel"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.315099,
+      "start": 5.126536,
+      "word": "like"
+    },
+    {
+      "conf": 0.470344,
+      "end": 5.58,
+      "start": 5.43,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.12,
+      "start": 5.582648,
+      "word": "hardly"
+    },
+    {
+      "conf": 0.914228,
+      "end": 7.02,
+      "start": 6.72,
+      "word": "even"
+    },
+    {
+      "conf": 0.859474,
+      "end": 7.186182,
+      "start": 7.02,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.324216,
+      "start": 7.186182,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.65,
+      "start": 7.324216,
+      "word": "chris"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.032013,
+      "start": 7.65,
+      "word": "farley"
+    },
+    {
+      "conf": 0.501207,
+      "end": 8.508326,
+      "start": 8.04,
+      "word": "interview"
+    },
+    {
+      "conf": 0.690873,
+      "end": 8.7,
+      "start": 8.52,
+      "word": "it's"
+    },
+    {
+      "conf": 0.864118,
+      "end": 8.88,
+      "start": 8.7,
+      "word": "like"
+    },
+    {
+      "conf": 0.590694,
+      "end": 9.72,
+      "start": 9.54,
+      "word": "are"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.11,
+      "start": 10.02,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.38,
+      "start": 10.11,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.95,
+      "start": 10.53,
+      "word": "remember"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.07,
+      "start": 10.95,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.64,
+      "start": 11.07,
+      "word": "beatles"
+    },
+    {
+      "conf": 0.570663,
+      "end": 12.798481,
+      "start": 12.599999,
+      "word": "you"
+    },
+    {
+      "conf": 0.599524,
+      "end": 13.35,
+      "start": 12.822409,
+      "word": "emigrate"
+    },
+    {
+      "conf": 0.853868,
+      "end": 13.587974,
+      "start": 13.38,
+      "word": "you've"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.83,
+      "start": 13.587974,
+      "word": "ever"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.98,
+      "start": 13.83,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.22,
+      "start": 13.98,
+      "word": "know"
+    },
+    {
+      "conf": 0.847035,
+      "end": 14.43,
+      "start": 14.22,
+      "word": "our"
+    },
+    {
+      "conf": 0.578449,
+      "end": 14.939999,
+      "start": 14.43,
+      "word": "scouts"
+    },
+    {
+      "conf": 0.827856,
+      "end": 15.239999,
+      "start": 14.939999,
+      "word": "well"
+    },
+    {
+      "conf": 0.721794,
+      "end": 15.93,
+      "start": 15.48,
+      "word": "let's"
+    },
+    {
+      "conf": 0.640396,
+      "end": 16.32,
+      "start": 16.05,
+      "word": "all"
+    },
+    {
+      "conf": 0.902255,
+      "end": 16.83,
+      "start": 16.320412,
+      "word": "agree"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.7,
+      "start": 17.48309,
+      "word": "we"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.88,
+      "start": 17.7,
+      "word": "get"
+    },
+    {
+      "conf": 0.858916,
+      "end": 18.176287,
+      "start": 17.88,
+      "word": "out"
+    },
+    {
+      "conf": 0.752574,
+      "end": 18.51,
+      "start": 18.18,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.56,
+      "start": 19.2,
+      "word": "that's"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.86,
+      "start": 19.56,
+      "word": "that's"
+    },
+    {
+      "conf": 0.769387,
+      "end": 20.04,
+      "start": 19.86,
+      "word": "what"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.52,
+      "start": 20.04,
+      "word": "interviews"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.82,
+      "start": 20.52,
+      "word": "really"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.031736,
+      "start": 20.82,
+      "word": "are"
+    },
+    {
+      "conf": 0.781628,
+      "end": 21.457531,
+      "start": 21.031736,
+      "word": "reviewed"
+    },
+    {
+      "conf": 0.527467,
+      "end": 21.81,
+      "start": 21.457531,
+      "word": "headed"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.02,
+      "start": 21.81,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.2,
+      "start": 22.02,
+      "word": "look"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.41,
+      "start": 22.2,
+      "word": "each"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.624345,
+      "start": 22.41,
+      "word": "other"
+    },
+    {
+      "conf": 0.586762,
+      "end": 22.722288,
+      "start": 22.624345,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.83,
+      "start": 22.722288,
+      "word": "the"
+    },
+    {
+      "conf": 0.790774,
+      "end": 23.1,
+      "start": 22.83,
+      "word": "eyes"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.37,
+      "start": 23.1,
+      "word": "little"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.58,
+      "start": 23.37,
+      "word": "bit"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.564772,
+      "start": 24.18,
+      "word": "more"
+    }
+  ],
+  "text": "i'm just sitting here going like cases so good i feel like is hardly even the the chris farley interview it's like are the i remember the beatles you emigrate you've ever you know our scouts well let's all agree we get out like that's that's what interviews really are reviewed headed like look each other in the eyes little bit more"
+}

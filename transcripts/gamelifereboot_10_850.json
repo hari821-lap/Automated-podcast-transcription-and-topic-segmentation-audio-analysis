@@ -1,0 +1,485 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.48,
+      "start": 0.125825,
+      "word": "rating"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.93,
+      "start": 0.78,
+      "word": "than"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.17,
+      "start": 0.93,
+      "word": "just"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.38,
+      "start": 1.17,
+      "word": "being"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.83,
+      "start": 1.38,
+      "word": "killed"
+    },
+    {
+      "conf": 0.466679,
+      "end": 2.009882,
+      "start": 1.89,
+      "word": "and"
+    },
+    {
+      "conf": 0.83226,
+      "end": 2.22,
+      "start": 2.009882,
+      "word": "getting"
+    },
+    {
+      "conf": 0.978677,
+      "end": 2.49,
+      "start": 2.22,
+      "word": "kicked"
+    },
+    {
+      "conf": 0.502039,
+      "end": 2.64,
+      "start": 2.49,
+      "word": "out"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.73,
+      "start": 2.64,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.82,
+      "start": 2.73,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.3,
+      "start": 2.82,
+      "word": "lobby"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.6,
+      "start": 3.39,
+      "word": "yeah"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.96901,
+      "start": 3.69,
+      "word": "jack"
+    },
+    {
+      "conf": 0.341108,
+      "end": 4.38,
+      "start": 3.99,
+      "word": "are"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.59,
+      "start": 4.386139,
+      "word": "these"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.65,
+      "start": 4.59,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.8,
+      "start": 4.65,
+      "word": "could"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.92,
+      "start": 4.8,
+      "word": "be"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.19,
+      "start": 4.92,
+      "word": "having"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.34,
+      "start": 5.19,
+      "word": "more"
+    },
+    {
+      "conf": 0.617005,
+      "end": 5.64,
+      "start": 5.34,
+      "word": "common"
+    },
+    {
+      "conf": 0.694446,
+      "end": 5.85,
+      "start": 5.64,
+      "word": "after"
+    },
+    {
+      "conf": 0.573247,
+      "end": 6.09,
+      "start": 5.85,
+      "word": "watching"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.42,
+      "start": 6.15,
+      "word": "other"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.78,
+      "start": 6.42,
+      "word": "people"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.02,
+      "start": 6.78,
+      "word": "have"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.59,
+      "start": 7.35,
+      "word": "yeah"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.98,
+      "start": 7.74,
+      "word": "yeah"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.266632,
+      "start": 8.07,
+      "word": "yeah"
+    },
+    {
+      "conf": 0.554426,
+      "end": 8.61,
+      "start": 8.28,
+      "word": "i'm"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.18,
+      "start": 8.64,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.75,
+      "start": 9.530685,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.05,
+      "start": 9.75,
+      "word": "couple"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.23,
+      "start": 10.05,
+      "word": "quick"
+    },
+    {
+      "conf": 0.945891,
+      "end": 10.47,
+      "start": 10.23,
+      "word": "notes"
+    },
+    {
+      "conf": 0.945891,
+      "end": 10.589382,
+      "start": 10.47,
+      "word": "on"
+    },
+    {
+      "conf": 0.803869,
+      "end": 10.86,
+      "start": 10.589382,
+      "word": "type"
+    },
+    {
+      "conf": 0.631726,
+      "end": 10.991454,
+      "start": 10.860001,
+      "word": "of"
+    },
+    {
+      "conf": 0.652566,
+      "end": 11.1,
+      "start": 10.991454,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.22,
+      "start": 11.1,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.85,
+      "start": 11.22,
+      "word": "enjoyed"
+    },
+    {
+      "conf": 0.403556,
+      "end": 12.18,
+      "start": 11.91,
+      "word": "i'm"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.39,
+      "start": 12.24,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.96,
+      "start": 12.39,
+      "word": "particular"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.19,
+      "start": 13.68,
+      "word": "were"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.06,
+      "start": 14.55,
+      "word": "ah"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.78,
+      "start": 15.6,
+      "word": "i"
+    },
+    {
+      "conf": 0.829884,
+      "end": 16.17,
+      "start": 15.78,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.41,
+      "start": 16.17,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.13,
+      "start": 16.56,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.716567,
+      "start": 17.368993,
+      "word": "there"
+    },
+    {
+      "conf": 0.63586,
+      "end": 18.09,
+      "start": 17.76,
+      "word": "there's"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.3,
+      "start": 18.12,
+      "word": "kind"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.39,
+      "start": 18.3,
+      "word": "of"
+    },
+    {
+      "conf": 0.649525,
+      "end": 18.51,
+      "start": 18.39,
+      "word": "it"
+    },
+    {
+      "conf": 0.649525,
+      "end": 18.9,
+      "start": 18.66,
+      "word": "to"
+    },
+    {
+      "conf": 0.649525,
+      "end": 19.35,
+      "start": 18.9,
+      "word": "tear"
+    },
+    {
+      "conf": 0.837579,
+      "end": 19.71,
+      "start": 19.431603,
+      "word": "game"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.16,
+      "start": 19.95,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.46,
+      "start": 20.16,
+      "word": "play"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.0,
+      "start": 20.46,
+      "word": "soldier"
+    },
+    {
+      "conf": 0.51198,
+      "end": 21.09,
+      "start": 21.0,
+      "word": "in"
+    },
+    {
+      "conf": 0.817137,
+      "end": 21.282255,
+      "start": 21.097123,
+      "word": "and"
+    },
+    {
+      "conf": 0.772428,
+      "end": 21.45,
+      "start": 21.291921,
+      "word": "can"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.63,
+      "start": 21.45,
+      "word": "get"
+    },
+    {
+      "conf": 0.802373,
+      "end": 21.72,
+      "start": 21.63,
+      "word": "in"
+    },
+    {
+      "conf": 0.813566,
+      "end": 21.78,
+      "start": 21.723783,
+      "word": "a"
+    },
+    {
+      "conf": 0.561262,
+      "end": 22.05,
+      "start": 21.78,
+      "word": "mac"
+    },
+    {
+      "conf": 0.972732,
+      "end": 22.5,
+      "start": 22.23,
+      "word": "he"
+    },
+    {
+      "conf": 0.972732,
+      "end": 22.65,
+      "start": 22.5,
+      "word": "on"
+    },
+    {
+      "conf": 0.457485,
+      "end": 22.77,
+      "start": 22.65,
+      "word": "his"
+    },
+    {
+      "conf": 0.861056,
+      "end": 23.159333,
+      "start": 22.786972,
+      "word": "titan"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.25,
+      "start": 23.159333,
+      "word": "and"
+    },
+    {
+      "conf": 0.494299,
+      "end": 23.52,
+      "start": 23.25,
+      "word": "play"
+    },
+    {
+      "conf": 0.410472,
+      "end": 23.58,
+      "start": 23.52,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.67,
+      "start": 23.582514,
+      "word": "the"
+    },
+    {
+      "conf": 0.69784,
+      "end": 23.94,
+      "start": 23.67,
+      "word": "type"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.54,
+      "start": 24.33,
+      "word": "each"
+    },
+    {
+      "conf": 0.478298,
+      "end": 24.6,
+      "start": 24.54,
+      "word": "a"
+    }
+  ],
+  "text": "rating than just being killed and getting kicked out to the lobby yeah jack are these i could be having more common after watching other people have yeah yeah yeah i'm so a couple quick notes on type of that i enjoyed i'm in particular were ah i like that so there there's kind of it to tear game you play soldier in and can get in a mac he on his titan and play in the type each a"
+}

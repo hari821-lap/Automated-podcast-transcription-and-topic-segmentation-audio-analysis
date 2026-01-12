@@ -1,0 +1,347 @@
+{
+  "result": [
+    {
+      "conf": 0.519289,
+      "end": 0.33,
+      "start": 0.0,
+      "word": "these"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.78,
+      "start": 0.54,
+      "word": "which"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.9,
+      "start": 0.78,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.02,
+      "start": 0.9,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.29,
+      "start": 1.02,
+      "word": "thing"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.38,
+      "start": 1.29,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.47,
+      "start": 1.38,
+      "word": "i"
+    },
+    {
+      "conf": 0.746886,
+      "end": 1.769448,
+      "start": 1.47,
+      "word": "like"
+    },
+    {
+      "conf": 0.973915,
+      "end": 1.86,
+      "start": 1.77,
+      "word": "the"
+    },
+    {
+      "conf": 0.973915,
+      "end": 2.25,
+      "start": 1.86,
+      "word": "least"
+    },
+    {
+      "conf": 0.452029,
+      "end": 2.46,
+      "start": 2.25,
+      "word": "about"
+    },
+    {
+      "conf": 0.452029,
+      "end": 2.55,
+      "start": 2.46,
+      "word": "the"
+    },
+    {
+      "conf": 0.407082,
+      "end": 2.85,
+      "start": 2.55,
+      "word": "last"
+    },
+    {
+      "conf": 0.560449,
+      "end": 3.72,
+      "start": 3.42,
+      "word": "up"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.47,
+      "start": 3.84,
+      "word": "everything"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.77,
+      "start": 4.5,
+      "word": "up"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.19,
+      "start": 4.77,
+      "word": "prior"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.28,
+      "start": 5.19,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.46,
+      "start": 5.28,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.82,
+      "start": 5.46,
+      "word": "point"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.36,
+      "start": 6.21,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.57,
+      "start": 6.36,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.05,
+      "start": 6.6,
+      "word": "able"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.74,
+      "start": 7.32,
+      "word": "to"
+    },
+    {
+      "conf": 0.735605,
+      "end": 8.4,
+      "start": 7.8,
+      "word": "stop"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.79,
+      "start": 8.58,
+      "word": "my"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.21,
+      "start": 8.79,
+      "word": "way"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.87,
+      "start": 9.51,
+      "word": "through"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.96,
+      "start": 9.87,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.38,
+      "start": 9.96,
+      "word": "combat"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.04,
+      "start": 10.38,
+      "word": "situations"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.34,
+      "start": 11.07,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.85,
+      "start": 11.46,
+      "word": "felt"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.78,
+      "start": 12.63,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.23,
+      "start": 12.78,
+      "word": "still"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.83,
+      "start": 13.23,
+      "word": "maintain"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.15,
+      "start": 14.85,
+      "word": "that"
+    },
+    {
+      "conf": 0.582776,
+      "end": 15.439286,
+      "start": 15.15,
+      "word": "still"
+    },
+    {
+      "conf": 0.417224,
+      "end": 15.96,
+      "start": 15.439286,
+      "word": "stopping"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.23,
+      "start": 16.02,
+      "word": "my"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.59,
+      "start": 16.23,
+      "word": "way"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.86,
+      "start": 16.59,
+      "word": "through"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.16,
+      "start": 16.86,
+      "word": "last"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.25,
+      "start": 17.16,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.37,
+      "start": 17.25,
+      "word": "us"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.79,
+      "start": 17.37,
+      "word": "combat"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.39,
+      "start": 17.79,
+      "word": "sequences"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.08,
+      "start": 18.72,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.95,
+      "start": 19.2,
+      "word": "more"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.09,
+      "start": 20.31,
+      "word": "thrilling"
+    },
+    {
+      "conf": 0.853394,
+      "end": 21.84,
+      "start": 21.48,
+      "word": "and"
+    },
+    {
+      "conf": 0.399599,
+      "end": 22.2,
+      "start": 21.9,
+      "word": "it's"
+    },
+    {
+      "conf": 0.923245,
+      "end": 22.8,
+      "start": 22.29,
+      "word": "fun"
+    },
+    {
+      "conf": 0.923245,
+      "end": 23.31,
+      "start": 23.1,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.24,
+      "start": 23.4,
+      "word": "interesting"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.54,
+      "start": 24.33,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.96,
+      "start": 24.54,
+      "word": "me"
+    }
+  ],
+  "text": "these which is the thing that i like the least about the last up everything up prior to that point i was able to stop my way through the combat situations i felt i still maintain that still stopping my way through last of us combat sequences is more thrilling and it's fun and interesting for me"
+}

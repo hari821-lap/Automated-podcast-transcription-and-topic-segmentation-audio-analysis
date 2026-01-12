@@ -1,0 +1,497 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.15,
+      "start": 0.0,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.57,
+      "start": 0.15,
+      "word": "various"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.11,
+      "start": 0.6,
+      "word": "quests"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.2,
+      "start": 1.11,
+      "word": "he"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.41,
+      "start": 1.2,
+      "word": "could"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.74,
+      "start": 1.41,
+      "word": "embark"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.13,
+      "start": 1.74,
+      "word": "upon"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.7,
+      "start": 2.43,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.79,
+      "start": 2.7,
+      "word": "you're"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.03,
+      "start": 2.79,
+      "word": "looking"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.09,
+      "start": 3.03,
+      "word": "at"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.18,
+      "start": 3.09,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.66,
+      "start": 3.18,
+      "word": "weapons"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.78,
+      "start": 3.66,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.87,
+      "start": 3.78,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.14,
+      "start": 3.87,
+      "word": "have"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.23,
+      "start": 4.14,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.53,
+      "start": 4.23,
+      "word": "rent"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.86,
+      "start": 4.53,
+      "word": "him"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.4,
+      "start": 5.25,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.49,
+      "start": 5.4,
+      "word": "you're"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.85,
+      "start": 5.49,
+      "word": "making"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.91,
+      "start": 5.85,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.66,
+      "start": 5.91,
+      "word": "determination"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.96,
+      "start": 6.66,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.38,
+      "start": 7.11,
+      "word": "what"
+    },
+    {
+      "conf": 0.813727,
+      "end": 7.74,
+      "start": 7.38,
+      "word": "quest"
+    },
+    {
+      "conf": 0.813727,
+      "end": 7.86,
+      "start": 7.74,
+      "word": "i'm"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.98,
+      "start": 7.86,
+      "word": "going"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.04,
+      "start": 7.98,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.224489,
+      "start": 8.04,
+      "word": "send"
+    },
+    {
+      "conf": 0.412605,
+      "end": 8.31,
+      "start": 8.224489,
+      "word": "him"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.49,
+      "start": 8.31,
+      "word": "out"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.73,
+      "start": 8.49,
+      "word": "on"
+    },
+    {
+      "conf": 0.911317,
+      "end": 9.007299,
+      "start": 8.82,
+      "word": "because"
+    },
+    {
+      "conf": 0.587554,
+      "end": 9.087338,
+      "start": 9.007299,
+      "word": "of"
+    },
+    {
+      "conf": 0.649751,
+      "end": 9.178808,
+      "start": 9.087338,
+      "word": "the"
+    },
+    {
+      "conf": 0.95617,
+      "end": 9.3,
+      "start": 9.178808,
+      "word": "go"
+    },
+    {
+      "conf": 0.95617,
+      "end": 9.415486,
+      "start": 9.3,
+      "word": "out"
+    },
+    {
+      "conf": 0.606865,
+      "end": 9.48,
+      "start": 9.42,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.54,
+      "start": 9.48,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.87,
+      "start": 9.54,
+      "word": "question"
+    },
+    {
+      "conf": 0.573672,
+      "end": 9.988822,
+      "start": 9.87,
+      "word": "they"
+    },
+    {
+      "conf": 0.715498,
+      "end": 10.47,
+      "start": 9.988822,
+      "word": "die"
+    },
+    {
+      "conf": 0.715498,
+      "end": 10.8,
+      "start": 10.53,
+      "word": "didn't"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.92,
+      "start": 10.8,
+      "word": "get"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.37,
+      "start": 10.92,
+      "word": "paid"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.94,
+      "start": 11.7,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.09,
+      "start": 11.94,
+      "word": "you're"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.36,
+      "start": 12.09,
+      "word": "really"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.6,
+      "start": 12.36,
+      "word": "trying"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.66,
+      "start": 12.6,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.957212,
+      "start": 12.66,
+      "word": "match"
+    },
+    {
+      "conf": 0.878039,
+      "end": 13.097247,
+      "start": 12.99,
+      "word": "up"
+    },
+    {
+      "conf": 0.640824,
+      "end": 13.167284,
+      "start": 13.097247,
+      "word": "with"
+    },
+    {
+      "conf": 0.75478,
+      "end": 13.229754,
+      "start": 13.167284,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.92,
+      "start": 13.229754,
+      "word": "requests"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.21,
+      "start": 14.94,
+      "word": "there"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.51,
+      "start": 15.21,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.9,
+      "start": 15.54,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.82,
+      "start": 17.34,
+      "word": "twitter"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.27,
+      "start": 17.88,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.87,
+      "start": 18.3,
+      "word": "system"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.14,
+      "start": 18.96,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.2,
+      "start": 19.14,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.62,
+      "start": 19.2,
+      "word": "game"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.1,
+      "start": 19.8,
+      "word": "so"
+    },
+    {
+      "conf": 0.626678,
+      "end": 20.19,
+      "start": 20.1,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.34,
+      "start": 20.19,
+      "word": "when"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.43,
+      "start": 20.34,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.58,
+      "start": 20.43,
+      "word": "go"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.7,
+      "start": 20.58,
+      "word": "out"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.76,
+      "start": 20.7,
+      "word": "on"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.88,
+      "start": 20.76,
+      "word": "their"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.51,
+      "start": 20.88,
+      "word": "quests"
+    },
+    {
+      "conf": 0.693278,
+      "end": 22.14,
+      "start": 21.66,
+      "word": "i'm"
+    },
+    {
+      "conf": 0.507384,
+      "end": 22.71,
+      "start": 22.2,
+      "word": "vey"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.95,
+      "start": 22.77,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.305305,
+      "start": 22.95,
+      "word": "called"
+    },
+    {
+      "conf": 0.84351,
+      "end": 23.67,
+      "start": 23.31,
+      "word": "i'm"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.36,
+      "start": 23.91,
+      "word": "grind"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.93,
+      "start": 24.36,
+      "word": "casting"
+    }
+  ],
+  "text": "the various quests he could embark upon and you're looking at the weapons that you have to rent him and you're making a determination of what quest i'm going to send him out on because of the go out in the question they die didn't get paid so you're really trying to match up with the requests there is a twitter like system in the game so it when they go out on their quests i'm vey it's called i'm grind casting"
+}

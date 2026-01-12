@@ -1,0 +1,371 @@
+{
+  "result": [
+    {
+      "conf": 0.691365,
+      "end": 1.14,
+      "start": 0.84,
+      "word": "because"
+    },
+    {
+      "conf": 0.815334,
+      "end": 1.470392,
+      "start": 1.14,
+      "word": "hardware"
+    },
+    {
+      "conf": 0.304036,
+      "end": 1.74483,
+      "start": 1.470392,
+      "word": "allow"
+    },
+    {
+      "conf": 0.383975,
+      "end": 2.212646,
+      "start": 2.112576,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.09,
+      "start": 2.943867,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.48,
+      "start": 3.09,
+      "word": "heightened"
+    },
+    {
+      "conf": 0.947309,
+      "end": 3.84,
+      "start": 3.48,
+      "word": "sense"
+    },
+    {
+      "conf": 0.704368,
+      "end": 4.552587,
+      "start": 4.38,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.203255,
+      "start": 4.983587,
+      "word": "i"
+    },
+    {
+      "conf": 0.830563,
+      "end": 6.06,
+      "start": 5.85,
+      "word": "was"
+    },
+    {
+      "conf": 0.830563,
+      "end": 6.3,
+      "start": 6.06,
+      "word": "sick"
+    },
+    {
+      "conf": 0.56843,
+      "end": 6.48,
+      "start": 6.33,
+      "word": "or"
+    },
+    {
+      "conf": 0.56843,
+      "end": 6.63,
+      "start": 6.48,
+      "word": "it"
+    },
+    {
+      "conf": 0.56843,
+      "end": 7.38,
+      "start": 6.99,
+      "word": "looks"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.62,
+      "start": 7.38,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.92,
+      "start": 7.62,
+      "word": "ice"
+    },
+    {
+      "conf": 0.770307,
+      "end": 11.52,
+      "start": 11.13,
+      "word": "palmer"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.94,
+      "start": 11.52,
+      "word": "lucky"
+    },
+    {
+      "conf": 0.616909,
+      "end": 12.24,
+      "start": 12.06,
+      "word": "or"
+    },
+    {
+      "conf": 0.653426,
+      "end": 12.39,
+      "start": 12.247909,
+      "word": "who"
+    },
+    {
+      "conf": 0.711519,
+      "end": 12.5654,
+      "start": 12.39,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.72,
+      "start": 12.5654,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.11,
+      "start": 12.72,
+      "word": "twenty"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.32,
+      "start": 13.11,
+      "word": "one"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.53,
+      "start": 13.35,
+      "word": "year"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.77,
+      "start": 13.53,
+      "word": "old"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.25,
+      "start": 13.77,
+      "word": "founder"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.52,
+      "start": 14.28,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.09,
+      "start": 14.55,
+      "word": "occupants"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.21,
+      "start": 15.09,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.51,
+      "start": 15.21,
+      "word": "vr"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.93,
+      "start": 15.51,
+      "word": "company"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.23,
+      "start": 15.96,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.68,
+      "start": 16.23,
+      "word": "also"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.01,
+      "start": 16.68,
+      "word": "on"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.31,
+      "start": 17.1,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.7,
+      "start": 17.37,
+      "word": "dice"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.91,
+      "start": 17.7,
+      "word": "red"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.39,
+      "start": 17.91,
+      "word": "carpet"
+    },
+    {
+      "conf": 0.66932,
+      "end": 18.63,
+      "start": 18.42,
+      "word": "out"
+    },
+    {
+      "conf": 0.750302,
+      "end": 18.99,
+      "start": 18.87,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.11,
+      "start": 18.993411,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.65,
+      "start": 19.11,
+      "word": "prisoner"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.187728,
+      "start": 20.01,
+      "word": "the"
+    },
+    {
+      "conf": 0.50062,
+      "end": 20.79,
+      "start": 20.19,
+      "word": "words"
+    },
+    {
+      "conf": 0.909183,
+      "end": 21.27,
+      "start": 20.97,
+      "word": "and"
+    },
+    {
+      "conf": 0.437995,
+      "end": 21.84,
+      "start": 21.3,
+      "word": "dumb"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.08,
+      "start": 21.93,
+      "word": "we"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.26,
+      "start": 22.08,
+      "word": "got"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.35,
+      "start": 22.26,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.77,
+      "start": 22.35,
+      "word": "talking"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.13,
+      "start": 22.77,
+      "word": "about"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.55,
+      "start": 23.4,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.7,
+      "start": 23.55,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.88,
+      "start": 23.7,
+      "word": "what"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.0,
+      "start": 23.88,
+      "word": "was"
+    },
+    {
+      "conf": 0.82351,
+      "end": 24.12,
+      "start": 24.0,
+      "word": "going"
+    },
+    {
+      "conf": 0.82351,
+      "end": 24.18,
+      "start": 24.12,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.48,
+      "start": 24.18,
+      "word": "happen"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.63,
+      "start": 24.48,
+      "word": "with"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.99,
+      "start": 24.63,
+      "word": "virtual"
+    }
+  ],
+  "text": "because hardware allow it is heightened sense of i was sick or it looks like ice palmer lucky or who is the twenty one year old founder of occupants the vr company was also on the dice red carpet out was a prisoner the words and dumb we got to talking about you know what was going to happen with virtual"
+}

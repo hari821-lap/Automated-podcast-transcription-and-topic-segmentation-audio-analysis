@@ -1,0 +1,581 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.42,
+      "start": 0.0,
+      "word": "this"
+    },
+    {
+      "conf": 0.806718,
+      "end": 0.99,
+      "start": 0.78,
+      "word": "meant"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.17,
+      "start": 0.99,
+      "word": "she"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.29,
+      "start": 1.17,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.38,
+      "start": 1.29,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.59,
+      "start": 1.38,
+      "word": "one"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.68,
+      "start": 1.59,
+      "word": "to"
+    },
+    {
+      "conf": 0.826811,
+      "end": 1.89,
+      "start": 1.68,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.16,
+      "start": 1.89,
+      "word": "because"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.46,
+      "start": 2.16,
+      "word": "she"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.82,
+      "start": 2.46,
+      "word": "actually"
+    },
+    {
+      "conf": 0.51119,
+      "end": 2.94,
+      "start": 2.82,
+      "word": "to"
+    },
+    {
+      "conf": 0.896971,
+      "end": 3.21,
+      "start": 2.94,
+      "word": "type"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.33,
+      "start": 3.21,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.42,
+      "start": 3.33,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.87,
+      "start": 3.42,
+      "word": "episode"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.14,
+      "start": 3.87,
+      "word": "number"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.41,
+      "start": 4.14,
+      "word": "every"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.65,
+      "start": 4.41,
+      "word": "time"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.8,
+      "start": 4.65,
+      "word": "she"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.19,
+      "start": 4.8,
+      "word": "uploaded"
+    },
+    {
+      "conf": 0.413605,
+      "end": 5.308375,
+      "start": 5.19,
+      "word": "and"
+    },
+    {
+      "conf": 0.464624,
+      "end": 5.43,
+      "start": 5.308375,
+      "word": "be"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.73,
+      "start": 5.43,
+      "word": "three"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.806652,
+      "start": 6.33,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.05,
+      "start": 6.9,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.164211,
+      "start": 7.05,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.59,
+      "start": 7.23,
+      "word": "noticed"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.68,
+      "start": 7.59,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.8,
+      "start": 7.68,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.1,
+      "start": 7.8,
+      "word": "coming"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.25,
+      "start": 8.1,
+      "word": "up"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.34,
+      "start": 8.25,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.46,
+      "start": 8.34,
+      "word": "then"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.52,
+      "start": 8.46,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.88,
+      "start": 8.52,
+      "word": "totally"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.24,
+      "start": 8.88,
+      "word": "forgot"
+    },
+    {
+      "conf": 0.504971,
+      "end": 9.87,
+      "start": 9.27,
+      "word": "exotically"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.32,
+      "start": 9.872465,
+      "word": "reminded"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.44,
+      "start": 10.32,
+      "word": "us"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.59,
+      "start": 10.44,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.71,
+      "start": 10.59,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.16,
+      "start": 10.92,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.34,
+      "start": 11.16,
+      "word": "then"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.43,
+      "start": 11.34,
+      "word": "we"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.64,
+      "start": 11.43,
+      "word": "got"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.94,
+      "start": 11.64,
+      "word": "into"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.03,
+      "start": 11.94,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.45,
+      "start": 12.03,
+      "word": "studio"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.54,
+      "start": 12.45,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.6,
+      "start": 12.54,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.96,
+      "start": 12.6,
+      "word": "totally"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.38,
+      "start": 12.96,
+      "word": "forgot"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.56,
+      "start": 13.44,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.65,
+      "start": 13.56,
+      "word": "then"
+    },
+    {
+      "conf": 0.690542,
+      "end": 13.83,
+      "start": 13.65,
+      "word": "you"
+    },
+    {
+      "conf": 0.730761,
+      "end": 14.16,
+      "start": 13.842705,
+      "word": "reminded"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.28,
+      "start": 14.16,
+      "word": "me"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.46,
+      "start": 14.28,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.64,
+      "start": 14.46,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.377137,
+      "start": 15.09,
+      "word": "just"
+    },
+    {
+      "conf": 0.543864,
+      "end": 15.56213,
+      "start": 15.39,
+      "word": "now"
+    },
+    {
+      "conf": 0.449402,
+      "end": 15.6227,
+      "start": 15.56213,
+      "word": "i"
+    },
+    {
+      "conf": 0.283381,
+      "end": 15.87,
+      "start": 15.69,
+      "word": "old"
+    },
+    {
+      "conf": 0.306936,
+      "end": 16.003861,
+      "start": 15.87,
+      "word": "are"
+    },
+    {
+      "conf": 0.498746,
+      "end": 16.5,
+      "start": 16.003861,
+      "word": "andrea"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.34,
+      "start": 16.56,
+      "word": "who"
+    },
+    {
+      "conf": 0.54545,
+      "end": 17.91,
+      "start": 17.37,
+      "word": "arrive"
+    },
+    {
+      "conf": 0.526707,
+      "end": 18.33,
+      "start": 17.91,
+      "word": "weekend"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.57,
+      "start": 18.36,
+      "word": "if"
+    },
+    {
+      "conf": 0.75484,
+      "end": 18.731946,
+      "start": 18.63,
+      "word": "if"
+    },
+    {
+      "conf": 0.517058,
+      "end": 18.9,
+      "start": 18.731946,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.05,
+      "start": 18.9,
+      "word": "if"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.29,
+      "start": 19.05,
+      "word": "these"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.92,
+      "start": 19.29,
+      "word": "balloons"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.1,
+      "start": 19.92,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.16,
+      "start": 20.1,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.61,
+      "start": 20.16,
+      "word": "confetti"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.85,
+      "start": 20.61,
+      "word": "gets"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.97,
+      "start": 20.85,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.09,
+      "start": 20.97,
+      "word": "our"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.27,
+      "start": 21.09,
+      "word": "way"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.6,
+      "start": 21.27,
+      "word": "between"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.753766,
+      "start": 21.6,
+      "word": "us"
+    },
+    {
+      "conf": 0.650562,
+      "end": 21.84,
+      "start": 21.753766,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.9,
+      "start": 21.84,
+      "word": "the"
+    },
+    {
+      "conf": 0.633718,
+      "end": 22.14,
+      "start": 21.9,
+      "word": "mike"
+    },
+    {
+      "conf": 0.897065,
+      "end": 22.26,
+      "start": 22.14,
+      "word": "than"
+    },
+    {
+      "conf": 0.542165,
+      "end": 22.379998,
+      "start": 22.26,
+      "word": "our"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.77,
+      "start": 22.38,
+      "word": "sound"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.28,
+      "start": 22.86,
+      "word": "levels"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.52,
+      "start": 23.28,
+      "word": "may"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.85,
+      "start": 23.52,
+      "word": "be"
+    },
+    {
+      "conf": 0.418446,
+      "end": 24.21,
+      "start": 23.91,
+      "word": "born"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.6,
+      "start": 24.257446,
+      "word": "again"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.93,
+      "start": 24.6,
+      "word": "but"
+    }
+  ],
+  "text": "this meant she is the one to know because she actually to type in the episode number every time she uploaded and be three and and i noticed it was coming up and then i totally forgot exotically reminded us of it and then we got into the studio and i totally forgot and then you reminded me of it just now i old are andrea who arrive weekend if if so if these balloons and the confetti gets in our way between us and the mike than our sound levels may be born again but"
+}

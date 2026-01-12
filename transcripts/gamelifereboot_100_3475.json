@@ -1,0 +1,557 @@
+{
+  "result": [
+    {
+      "conf": 0.886841,
+      "end": 0.15,
+      "start": 0.0,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.81,
+      "start": 0.15,
+      "word": "clues"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.17,
+      "start": 1.08,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.29,
+      "start": 1.17,
+      "word": "once"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.44,
+      "start": 1.29,
+      "word": "you've"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.77,
+      "start": 1.44,
+      "word": "collected"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.86,
+      "start": 1.77,
+      "word": "all"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.95,
+      "start": 1.86,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.37,
+      "start": 1.95,
+      "word": "clues"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.46,
+      "start": 2.37,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.58,
+      "start": 2.46,
+      "word": "mean"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.7,
+      "start": 2.58,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.97,
+      "start": 2.7,
+      "word": "really"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.45,
+      "start": 2.97,
+      "word": "can"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.69,
+      "start": 3.45,
+      "word": "try"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.78,
+      "start": 3.69,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.99,
+      "start": 3.78,
+      "word": "piece"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.08,
+      "start": 3.99,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.38,
+      "start": 4.08,
+      "word": "together"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.5,
+      "start": 4.38,
+      "word": "on"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.65,
+      "start": 4.5,
+      "word": "your"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.92,
+      "start": 4.65,
+      "word": "own"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.4,
+      "start": 5.25,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.52,
+      "start": 5.4,
+      "word": "then"
+    },
+    {
+      "conf": 0.648225,
+      "end": 5.652099,
+      "start": 5.52,
+      "word": "you"
+    },
+    {
+      "conf": 0.27977,
+      "end": 5.750289,
+      "start": 5.652099,
+      "word": "are"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.24,
+      "start": 5.82,
+      "word": "trial"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.69,
+      "start": 6.24,
+      "word": "sequence"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.87,
+      "start": 6.69,
+      "word": "which"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.02,
+      "start": 6.87,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.2,
+      "start": 7.02,
+      "word": "sort"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.26,
+      "start": 7.2,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.32,
+      "start": 7.26,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.65,
+      "start": 7.32,
+      "word": "phoenix"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.89,
+      "start": 7.65,
+      "word": "wright"
+    },
+    {
+      "conf": 0.65914,
+      "end": 8.07,
+      "start": 7.89,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.31,
+      "start": 8.07,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.76,
+      "start": 8.37,
+      "word": "each"
+    },
+    {
+      "conf": 0.677346,
+      "end": 9.104862,
+      "start": 8.79,
+      "word": "death"
+    },
+    {
+      "conf": 0.572785,
+      "end": 9.269999,
+      "start": 9.12,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.6,
+      "start": 9.27,
+      "word": "occurs"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.69,
+      "start": 9.6,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.78,
+      "start": 9.69,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.05,
+      "start": 9.78,
+      "word": "game"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.65,
+      "start": 10.08,
+      "word": "yes"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.89,
+      "start": 10.65,
+      "word": "these"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.22,
+      "start": 10.89,
+      "word": "other"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.49,
+      "start": 11.22,
+      "word": "two"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.031137,
+      "start": 11.49,
+      "word": "phases"
+    },
+    {
+      "conf": 0.763214,
+      "end": 12.169187,
+      "start": 12.031137,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.51,
+      "start": 12.396478,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.78,
+      "start": 12.51,
+      "word": "law"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.9,
+      "start": 12.78,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.26,
+      "start": 12.93,
+      "word": "order"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.5,
+      "start": 13.26,
+      "word": "that"
+    },
+    {
+      "conf": 0.468379,
+      "end": 13.85757,
+      "start": 13.5,
+      "word": "happen"
+    },
+    {
+      "conf": 0.467264,
+      "end": 13.98,
+      "start": 13.86,
+      "word": "no"
+    },
+    {
+      "conf": 0.330638,
+      "end": 14.13,
+      "start": 13.98,
+      "word": "get"
+    },
+    {
+      "conf": 0.351326,
+      "end": 14.55,
+      "start": 14.43,
+      "word": "do"
+    },
+    {
+      "conf": 0.544192,
+      "end": 14.638449,
+      "start": 14.55,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.33,
+      "start": 14.638449,
+      "word": "investigation"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.48,
+      "start": 15.33,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.63,
+      "start": 15.48,
+      "word": "then"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.78,
+      "start": 15.63,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.02,
+      "start": 15.78,
+      "word": "go"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.29,
+      "start": 16.02,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.38,
+      "start": 16.29,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.89,
+      "start": 16.38,
+      "word": "trial"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.46,
+      "start": 17.31,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.52,
+      "start": 17.46,
+      "word": "if"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.61,
+      "start": 17.52,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.91,
+      "start": 17.61,
+      "word": "screw"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.0,
+      "start": 17.91,
+      "word": "up"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.09,
+      "start": 18.0,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.66,
+      "start": 18.09,
+      "word": "trial"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.08,
+      "start": 18.75,
+      "word": "everyone"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.56,
+      "start": 19.08,
+      "word": "dies"
+    },
+    {
+      "conf": 0.546136,
+      "end": 20.28,
+      "start": 20.04,
+      "word": "oh"
+    },
+    {
+      "conf": 0.920117,
+      "end": 20.73,
+      "start": 20.31,
+      "word": "words"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.42,
+      "start": 20.85,
+      "word": "yes"
+    },
+    {
+      "conf": 0.544501,
+      "end": 21.75,
+      "start": 21.48,
+      "word": "so"
+    },
+    {
+      "conf": 0.806428,
+      "end": 22.11,
+      "start": 21.75,
+      "word": "guava"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.65,
+      "start": 22.14,
+      "word": "never"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.986398,
+      "start": 22.74,
+      "word": "made"
+    },
+    {
+      "conf": 0.55628,
+      "end": 23.220002,
+      "start": 22.986398,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.58,
+      "start": 23.28,
+      "word": "yeah"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.82,
+      "start": 23.61,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.18,
+      "start": 23.82,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.425812,
+      "start": 24.18,
+      "word": "it's"
+    },
+    {
+      "conf": 0.484516,
+      "end": 24.54,
+      "start": 24.425812,
+      "word": "er"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.75,
+      "start": 24.549163,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.93,
+      "start": 24.75,
+      "word": "like"
+    }
+  ],
+  "text": "the clues and once you've collected all the clues i mean you really can try to piece it together on your own but then you are trial sequence which is sort of the phoenix wright is for each death it occurs in the game yes these other two phases the the law and order that happen no get do the investigation and then you go to the trial and if you screw up the trial everyone dies oh words yes so guava never made that yeah it's it's it's er it's like"
+}

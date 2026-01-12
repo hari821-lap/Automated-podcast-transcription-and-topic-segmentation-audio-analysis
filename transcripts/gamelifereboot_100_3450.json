@@ -1,0 +1,653 @@
+{
+  "result": [
+    {
+      "conf": 0.640401,
+      "end": 0.21,
+      "start": 0.18,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.618895,
+      "start": 0.220788,
+      "word": "murder"
+    },
+    {
+      "conf": 0.763371,
+      "end": 1.26,
+      "start": 0.725477,
+      "word": "occurred"
+    },
+    {
+      "conf": 0.568936,
+      "end": 1.586091,
+      "start": 1.44,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.74,
+      "start": 1.65,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.83,
+      "start": 1.74,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.07,
+      "start": 1.83,
+      "word": "most"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.31,
+      "start": 2.07,
+      "word": "part"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.37,
+      "start": 2.31,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.55,
+      "start": 2.37,
+      "word": "get"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.7,
+      "start": 2.55,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.91,
+      "start": 2.7,
+      "word": "free"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.33,
+      "start": 2.91,
+      "word": "time"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.48,
+      "start": 3.33,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.66,
+      "start": 3.48,
+      "word": "then"
+    },
+    {
+      "conf": 0.825966,
+      "end": 3.87,
+      "start": 3.66,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.08,
+      "start": 3.87,
+      "word": "just"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.11,
+      "start": 4.08,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.5,
+      "start": 4.17,
+      "word": "meeting"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.95,
+      "start": 4.5,
+      "word": "people"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.04,
+      "start": 4.95,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.28,
+      "start": 5.04,
+      "word": "getting"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.58,
+      "start": 5.46,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.76,
+      "start": 5.58,
+      "word": "more"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.88,
+      "start": 5.76,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.21,
+      "start": 5.88,
+      "word": "interact"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.326128,
+      "start": 6.21,
+      "word": "with"
+    },
+    {
+      "conf": 0.73216,
+      "end": 6.359706,
+      "start": 6.33,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.75,
+      "start": 6.359706,
+      "word": "specific"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.05,
+      "start": 6.75,
+      "word": "person"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.14,
+      "start": 7.05,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.44,
+      "start": 7.14,
+      "word": "closer"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.53,
+      "start": 7.44,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.68,
+      "start": 7.53,
+      "word": "get"
+    },
+    {
+      "conf": 0.920523,
+      "end": 7.738831,
+      "start": 7.68,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.8,
+      "start": 7.738831,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.95,
+      "start": 7.8,
+      "word": "more"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.07,
+      "start": 7.95,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.31,
+      "start": 8.07,
+      "word": "learn"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.43,
+      "start": 8.31,
+      "word": "their"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.82,
+      "start": 8.43,
+      "word": "personal"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.24,
+      "start": 8.82,
+      "word": "story"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.54,
+      "start": 9.24,
+      "word": "okay"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.81,
+      "start": 9.6,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.93,
+      "start": 9.81,
+      "word": "would"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.44,
+      "start": 9.93,
+      "word": "advise"
+    },
+    {
+      "conf": 0.898363,
+      "end": 10.86,
+      "start": 10.62,
+      "word": "and"
+    },
+    {
+      "conf": 0.744227,
+      "end": 10.948118,
+      "start": 10.86,
+      "word": "you"
+    },
+    {
+      "conf": 0.332878,
+      "end": 11.34,
+      "start": 10.95,
+      "word": "inability"
+    },
+    {
+      "conf": 0.534509,
+      "end": 11.519999,
+      "start": 11.34,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.76,
+      "start": 11.52,
+      "word": "from"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.91,
+      "start": 11.76,
+      "word": "them"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.03,
+      "start": 11.91,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.12,
+      "start": 12.03,
+      "word": "will"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.252003,
+      "start": 12.12,
+      "word": "be"
+    },
+    {
+      "conf": 0.456062,
+      "end": 12.51,
+      "start": 12.42,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.99,
+      "start": 12.552318,
+      "word": "useful"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.26,
+      "start": 12.99,
+      "word": "later"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.41,
+      "start": 13.26,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.5,
+      "start": 13.41,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.89,
+      "start": 13.5,
+      "word": "advise"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.01,
+      "start": 13.89,
+      "word": "if"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.22,
+      "start": 14.01,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.4,
+      "start": 14.22,
+      "word": "can"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.67,
+      "start": 14.4,
+      "word": "figure"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.82,
+      "start": 14.67,
+      "word": "out"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.97,
+      "start": 14.82,
+      "word": "who's"
+    },
+    {
+      "conf": 0.663097,
+      "end": 15.119999,
+      "start": 14.97,
+      "word": "going"
+    },
+    {
+      "conf": 0.663097,
+      "end": 15.179999,
+      "start": 15.119999,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.57,
+      "start": 15.18,
+      "word": "die"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.81,
+      "start": 15.63,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.17,
+      "start": 15.81,
+      "word": "want"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.29,
+      "start": 16.17,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.53,
+      "start": 16.29,
+      "word": "talk"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.65,
+      "start": 16.53,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.86,
+      "start": 16.65,
+      "word": "them"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.95,
+      "start": 16.86,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.16,
+      "start": 16.95,
+      "word": "get"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.73,
+      "start": 17.34,
+      "word": "their"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.151718,
+      "start": 17.82,
+      "word": "story"
+    },
+    {
+      "conf": 0.727748,
+      "end": 18.24,
+      "start": 18.151718,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.63,
+      "start": 18.24,
+      "word": "abilities"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.87,
+      "start": 18.63,
+      "word": "before"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.99,
+      "start": 18.87,
+      "word": "they"
+    },
+    {
+      "conf": 0.520054,
+      "end": 19.199198,
+      "start": 18.99,
+      "word": "don't"
+    },
+    {
+      "conf": 0.257289,
+      "end": 19.41,
+      "start": 19.2,
+      "word": "get"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.07,
+      "start": 19.89601,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.28,
+      "start": 20.07,
+      "word": "then"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.49,
+      "start": 20.28,
+      "word": "once"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.58,
+      "start": 20.49,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.76,
+      "start": 20.58,
+      "word": "death"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.15,
+      "start": 20.76,
+      "word": "occurs"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.33,
+      "start": 21.15,
+      "word": "then"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.42,
+      "start": 21.33,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.57,
+      "start": 21.42,
+      "word": "enter"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.66,
+      "start": 21.57,
+      "word": "an"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.44,
+      "start": 21.66,
+      "word": "investigation"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.759094,
+      "start": 22.44,
+      "word": "state"
+    },
+    {
+      "conf": 0.531735,
+      "end": 22.89,
+      "start": 22.77,
+      "word": "where"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.98,
+      "start": 22.89,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.19,
+      "start": 22.98,
+      "word": "go"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.43,
+      "start": 23.19,
+      "word": "round"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.49,
+      "start": 23.43,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.55,
+      "start": 23.49,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.79,
+      "start": 23.55,
+      "word": "different"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.3,
+      "start": 23.79,
+      "word": "rooms"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.45,
+      "start": 24.3,
+      "word": "and"
+    },
+    {
+      "conf": 0.470357,
+      "end": 24.93,
+      "start": 24.45,
+      "word": "collapsed"
+    }
+  ],
+  "text": "a murder occurred for for the most part you get like free time and then it's just a meeting people and getting the more you interact with a specific person the closer you get in the more you learn their personal story okay i would advise and you inability is from them that will be for useful later but i advise if you can figure out who's going to die you want to talk to them and get their story and abilities before they don't get but then once the death occurs then you enter an investigation state where you go round of the different rooms and collapsed"
+}

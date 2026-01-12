@@ -1,0 +1,479 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.21,
+      "start": 0.06,
+      "word": "call"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.3,
+      "start": 0.21,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.63,
+      "start": 0.3,
+      "word": "duty"
+    },
+    {
+      "conf": 0.380842,
+      "end": 1.02,
+      "start": 0.63,
+      "word": "siri"
+    },
+    {
+      "conf": 0.689892,
+      "end": 1.14,
+      "start": 1.02,
+      "word": "could"
+    },
+    {
+      "conf": 0.880246,
+      "end": 1.35,
+      "start": 1.14,
+      "word": "never"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.62,
+      "start": 1.35,
+      "word": "call"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.71,
+      "start": 1.62,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.98,
+      "start": 1.71,
+      "word": "duty"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.4,
+      "start": 1.98,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.64,
+      "start": 2.4,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.97,
+      "start": 2.64,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.23,
+      "start": 3.27,
+      "word": "popular"
+    },
+    {
+      "conf": 0.819275,
+      "end": 4.71,
+      "start": 4.29,
+      "word": "yeah"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.46,
+      "start": 5.16,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.7,
+      "start": 5.55,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.85,
+      "start": 5.7,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.97,
+      "start": 5.85,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.33,
+      "start": 5.97,
+      "word": "wasn't"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.54,
+      "start": 6.39,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.87,
+      "start": 6.54,
+      "word": "wasn't"
+    },
+    {
+      "conf": 0.82661,
+      "end": 7.17,
+      "start": 6.9,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.53,
+      "start": 7.26,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.92,
+      "start": 7.62,
+      "word": "call"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.01,
+      "start": 7.92,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.34,
+      "start": 8.01,
+      "word": "duty"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.49,
+      "start": 8.34,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.88,
+      "start": 8.49,
+      "word": "world's"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.36,
+      "start": 8.91,
+      "word": "biggest"
+    },
+    {
+      "conf": 0.716619,
+      "end": 10.02,
+      "start": 9.36,
+      "word": "videogame"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.38,
+      "start": 10.02,
+      "word": "ever"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.77,
+      "start": 10.56,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.86,
+      "start": 10.77,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.01,
+      "start": 10.86,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.34,
+      "start": 11.01,
+      "word": "call"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.49,
+      "start": 11.34,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.03,
+      "start": 11.49,
+      "word": "duty"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.78,
+      "start": 12.27,
+      "word": "modern"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.26,
+      "start": 12.78,
+      "word": "warfare"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.41,
+      "start": 13.26,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.86,
+      "start": 13.44,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.67,
+      "start": 13.92,
+      "word": "reinvented"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.79,
+      "start": 14.67,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.27,
+      "start": 14.79,
+      "word": "whole"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.54,
+      "start": 15.27,
+      "word": "genre"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.9,
+      "start": 15.57,
+      "word": "remember"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.96,
+      "start": 15.9,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.23,
+      "start": 15.96,
+      "word": "whole"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.71,
+      "start": 16.23,
+      "word": "genre"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.8,
+      "start": 16.71,
+      "word": "up"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.89,
+      "start": 16.8,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.1,
+      "start": 16.89,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.49,
+      "start": 17.1,
+      "word": "point"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.18,
+      "start": 17.64,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.9,
+      "start": 18.57,
+      "word": "world"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.14,
+      "start": 18.9,
+      "word": "war"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.462667,
+      "start": 19.14,
+      "word": "two"
+    },
+    {
+      "conf": 0.806534,
+      "end": 19.71,
+      "start": 19.462667,
+      "word": "who"
+    },
+    {
+      "conf": 0.54562,
+      "end": 20.610002,
+      "start": 20.1,
+      "word": "yeah"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.09,
+      "start": 20.88,
+      "word": "that's"
+    },
+    {
+      "conf": 0.800435,
+      "end": 21.36,
+      "start": 21.09,
+      "word": "very"
+    },
+    {
+      "conf": 0.950855,
+      "end": 21.661412,
+      "start": 21.36,
+      "word": "later"
+    },
+    {
+      "conf": 0.59956,
+      "end": 21.749998,
+      "start": 21.661412,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.17,
+      "start": 21.757388,
+      "word": "robert"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.35,
+      "start": 22.17,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.53,
+      "start": 22.35,
+      "word": "some"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.74,
+      "start": 22.53,
+      "word": "other"
+    },
+    {
+      "conf": 0.688536,
+      "end": 22.88547,
+      "start": 22.74,
+      "word": "than"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.04,
+      "start": 22.88547,
+      "word": "my"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.37,
+      "start": 23.04,
+      "word": "counter"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.76,
+      "start": 23.37,
+      "word": "strike"
+    },
+    {
+      "conf": 0.760803,
+      "end": 23.88,
+      "start": 23.76,
+      "word": "him"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.09,
+      "start": 23.88,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.33,
+      "start": 24.09,
+      "word": "things"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.51,
+      "start": 24.33,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.664241,
+      "start": 24.51,
+      "word": "that"
+    },
+    {
+      "conf": 0.61951,
+      "end": 24.72,
+      "start": 24.664241,
+      "word": "in"
+    },
+    {
+      "conf": 0.813008,
+      "end": 24.806409,
+      "start": 24.72,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.99,
+      "start": 24.806409,
+      "word": "right"
+    }
+  ],
+  "text": "call of duty siri could never call of duty to was like popular yeah but you know it wasn't it wasn't the the call of duty the world's biggest videogame ever but it was call of duty modern warfare that a reinvented the whole genre remember the whole genre up to that point was world war two who yeah that's very later is robert to some other than my counter strike him and things like that in the right"
+}

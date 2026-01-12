@@ -1,0 +1,389 @@
+{
+  "result": [
+    {
+      "conf": 0.53712,
+      "end": 0.27,
+      "start": 0.09,
+      "word": "going"
+    },
+    {
+      "conf": 0.53712,
+      "end": 0.39,
+      "start": 0.27,
+      "word": "to"
+    },
+    {
+      "conf": 0.595084,
+      "end": 0.66,
+      "start": 0.39,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.96,
+      "start": 0.81,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.14,
+      "start": 0.96,
+      "word": "there's"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.32,
+      "start": 1.14,
+      "word": "no"
+    },
+    {
+      "conf": 0.846413,
+      "end": 1.86,
+      "start": 1.32,
+      "word": "combat"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.22,
+      "start": 2.04,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.4,
+      "start": 2.22,
+      "word": "have"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.49,
+      "start": 2.4,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.73,
+      "start": 2.49,
+      "word": "make"
+    },
+    {
+      "conf": 0.942676,
+      "end": 3.36,
+      "start": 2.82,
+      "word": "compelling"
+    },
+    {
+      "conf": 0.744291,
+      "end": 3.600937,
+      "start": 3.39,
+      "word": "yeah"
+    },
+    {
+      "conf": 0.81922,
+      "end": 3.717359,
+      "start": 3.600937,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.84,
+      "start": 3.717359,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.32,
+      "start": 3.84,
+      "word": "totally"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.68,
+      "start": 4.32,
+      "word": "do"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.31,
+      "start": 5.224325,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.58,
+      "start": 5.31,
+      "word": "most"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.85,
+      "start": 5.58,
+      "word": "fun"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.15,
+      "start": 5.85,
+      "word": "thing"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.39,
+      "start": 6.18,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.84,
+      "start": 6.39,
+      "word": "really"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.26,
+      "start": 6.84,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.51,
+      "start": 9.27,
+      "word": "a"
+    },
+    {
+      "conf": 0.343013,
+      "end": 10.62,
+      "start": 9.87,
+      "word": "ryan's"
+    },
+    {
+      "conf": 0.701511,
+      "end": 11.25,
+      "start": 10.71,
+      "word": "out"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.03,
+      "start": 11.34,
+      "word": "unique"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.35,
+      "start": 12.36,
+      "word": "gameplay"
+    },
+    {
+      "conf": 0.775057,
+      "end": 14.67,
+      "start": 13.83,
+      "word": "design"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.24,
+      "start": 15.09,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.48,
+      "start": 15.24,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.63,
+      "start": 15.48,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.84,
+      "start": 15.63,
+      "word": "were"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.26,
+      "start": 15.84,
+      "word": "able"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.74,
+      "start": 16.26,
+      "word": "to"
+    },
+    {
+      "conf": 0.863015,
+      "end": 17.337424,
+      "start": 16.98,
+      "word": "whole"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.55,
+      "start": 17.337424,
+      "word": "lot"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.64,
+      "start": 17.55,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.82,
+      "start": 17.64,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.15,
+      "start": 17.82,
+      "word": "also"
+    },
+    {
+      "conf": 0.77138,
+      "end": 18.54,
+      "start": 18.24,
+      "word": "keep"
+    },
+    {
+      "conf": 0.77138,
+      "end": 18.66,
+      "start": 18.54,
+      "word": "it"
+    },
+    {
+      "conf": 0.599755,
+      "end": 20.209882,
+      "start": 20.04,
+      "word": "or"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.31,
+      "start": 20.209882,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.49,
+      "start": 20.31,
+      "word": "mean"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.64,
+      "start": 20.52,
+      "word": "at"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.91,
+      "start": 20.64,
+      "word": "least"
+    },
+    {
+      "conf": 0.72857,
+      "end": 21.27,
+      "start": 20.94,
+      "word": "i'd"
+    },
+    {
+      "conf": 0.872128,
+      "end": 21.84,
+      "start": 21.66,
+      "word": "as"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.11,
+      "start": 21.98582,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.29,
+      "start": 22.11,
+      "word": "have"
+    },
+    {
+      "conf": 0.634412,
+      "end": 22.56,
+      "start": 22.302177,
+      "word": "you"
+    },
+    {
+      "conf": 0.816463,
+      "end": 23.28,
+      "start": 23.01,
+      "word": "i'm"
+    },
+    {
+      "conf": 0.338663,
+      "end": 23.55,
+      "start": 23.283902,
+      "word": "east"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.73,
+      "start": 23.58,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.88,
+      "start": 23.73,
+      "word": "know"
+    },
+    {
+      "conf": 0.955213,
+      "end": 24.0,
+      "start": 23.88,
+      "word": "if"
+    },
+    {
+      "conf": 0.955213,
+      "end": 24.144348,
+      "start": 24.0,
+      "word": "they"
+    },
+    {
+      "conf": 0.96324,
+      "end": 24.285507,
+      "start": 24.144348,
+      "word": "if"
+    },
+    {
+      "conf": 0.71176,
+      "end": 24.404897,
+      "start": 24.285507,
+      "word": "they"
+    },
+    {
+      "conf": 0.440794,
+      "end": 24.674117,
+      "start": 24.42,
+      "word": "crummy"
+    },
+    {
+      "conf": 0.347244,
+      "end": 24.78,
+      "start": 24.674117,
+      "word": "me"
+    },
+    {
+      "conf": 0.531964,
+      "end": 24.960002,
+      "start": 24.780002,
+      "word": "too"
+    }
+  ],
+  "text": "going to and and there's no combat you have to make compelling yeah and they totally do the most fun thing it really is a ryan's out unique gameplay design in that they were able to whole lot of that also keep it or i mean at least i'd as they have you i'm east you know if they if they crummy me too"
+}

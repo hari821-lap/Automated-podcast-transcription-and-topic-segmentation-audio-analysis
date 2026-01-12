@@ -1,0 +1,557 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.78,
+      "start": 0.03,
+      "word": "experience"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.13,
+      "start": 1.89,
+      "word": "which"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.28,
+      "start": 2.13,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.85,
+      "start": 2.28,
+      "word": "interesting"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.09,
+      "start": 2.85,
+      "word": "because"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.18,
+      "start": 3.09,
+      "word": "i"
+    },
+    {
+      "conf": 0.733775,
+      "end": 3.445703,
+      "start": 3.18,
+      "word": "played"
+    },
+    {
+      "conf": 0.850708,
+      "end": 3.69,
+      "start": 3.445703,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.87,
+      "start": 3.72,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.14,
+      "start": 3.87,
+      "word": "first"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.29,
+      "start": 4.14,
+      "word": "thing"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.38,
+      "start": 4.29,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.56,
+      "start": 4.38,
+      "word": "do"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.74,
+      "start": 4.56,
+      "word": "with"
+    },
+    {
+      "conf": 0.616855,
+      "end": 5.07,
+      "start": 4.74,
+      "word": "titan"
+    },
+    {
+      "conf": 0.927939,
+      "end": 5.31,
+      "start": 5.07,
+      "word": "fall"
+    },
+    {
+      "conf": 0.927939,
+      "end": 5.4,
+      "start": 5.31,
+      "word": "as"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.52,
+      "start": 5.4,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.73,
+      "start": 5.52,
+      "word": "play"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.82,
+      "start": 5.73,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.48,
+      "start": 5.82,
+      "word": "tutorial"
+    },
+    {
+      "conf": 0.635835,
+      "end": 6.75,
+      "start": 6.54,
+      "word": "yeah"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.05,
+      "start": 6.760925,
+      "word": "i'm"
+    },
+    {
+      "conf": 0.857115,
+      "end": 7.23,
+      "start": 7.11,
+      "word": "in"
+    },
+    {
+      "conf": 0.857651,
+      "end": 7.32,
+      "start": 7.23,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.65,
+      "start": 7.32,
+      "word": "walks"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.74,
+      "start": 7.65,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.930767,
+      "start": 7.74,
+      "word": "through"
+    },
+    {
+      "conf": 0.9654,
+      "end": 8.129032,
+      "start": 8.01,
+      "word": "like"
+    },
+    {
+      "conf": 0.703364,
+      "end": 8.191476,
+      "start": 8.129032,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.58,
+      "start": 8.37,
+      "word": "sort"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.67,
+      "start": 8.58,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.7,
+      "start": 8.67,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.03,
+      "start": 8.7,
+      "word": "half"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.15,
+      "start": 9.03,
+      "word": "an"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.534801,
+      "start": 9.15,
+      "word": "hour"
+    },
+    {
+      "conf": 0.845261,
+      "end": 10.29,
+      "start": 9.84,
+      "word": "i'm"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.56,
+      "start": 10.32,
+      "word": "thing"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.68,
+      "start": 10.56,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.89,
+      "start": 10.68,
+      "word": "just"
+    },
+    {
+      "conf": 0.864069,
+      "end": 11.22,
+      "start": 10.89,
+      "word": "teaches"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.37,
+      "start": 11.22,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.55,
+      "start": 11.37,
+      "word": "all"
+    },
+    {
+      "conf": 0.656304,
+      "end": 11.64,
+      "start": 11.55,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.73,
+      "start": 11.64,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.24,
+      "start": 11.73,
+      "word": "basics"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.36,
+      "start": 12.24,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.84,
+      "start": 12.36,
+      "word": "movement"
+    },
+    {
+      "conf": 0.557518,
+      "end": 12.96,
+      "start": 12.84,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.5,
+      "start": 12.96,
+      "word": "shooting"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.71,
+      "start": 13.5,
+      "word": "and"
+    },
+    {
+      "conf": 0.904303,
+      "end": 13.77,
+      "start": 13.71,
+      "word": "you"
+    },
+    {
+      "conf": 0.904303,
+      "end": 13.92,
+      "start": 13.77,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.22,
+      "start": 13.92,
+      "word": "getting"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.46,
+      "start": 14.22,
+      "word": "into"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.52,
+      "start": 14.46,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.073652,
+      "start": 14.52,
+      "word": "titan"
+    },
+    {
+      "conf": 0.37407,
+      "end": 15.24,
+      "start": 15.073652,
+      "word": "and"
+    },
+    {
+      "conf": 0.778696,
+      "end": 15.486434,
+      "start": 15.365726,
+      "word": "we"
+    },
+    {
+      "conf": 0.935178,
+      "end": 15.623273,
+      "start": 15.486434,
+      "word": "know"
+    },
+    {
+      "conf": 0.555143,
+      "end": 15.78,
+      "start": 15.63,
+      "word": "he"
+    },
+    {
+      "conf": 0.973463,
+      "end": 15.9,
+      "start": 15.78,
+      "word": "can"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.23,
+      "start": 15.900797,
+      "word": "do"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.44,
+      "start": 16.26,
+      "word": "when"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.53,
+      "start": 16.44,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.74,
+      "start": 16.53,
+      "word": "doing"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.98,
+      "start": 16.74,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.25,
+      "start": 17.01,
+      "word": "which"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.43,
+      "start": 17.25,
+      "word": "is"
+    },
+    {
+      "conf": 0.789353,
+      "end": 17.73,
+      "start": 17.49,
+      "word": "nice"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.97,
+      "start": 17.73,
+      "word": "about"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.21,
+      "start": 17.97,
+      "word": "three"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.57,
+      "start": 18.21,
+      "word": "times"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.72,
+      "start": 18.57,
+      "word": "as"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.11,
+      "start": 18.72,
+      "word": "long"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.26,
+      "start": 19.11,
+      "word": "as"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.41,
+      "start": 19.26,
+      "word": "your"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.92,
+      "start": 19.41,
+      "word": "usual"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.43,
+      "start": 19.92,
+      "word": "training"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.12,
+      "start": 20.43,
+      "word": "tutorial"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.51,
+      "start": 21.12,
+      "word": "level"
+    },
+    {
+      "conf": 0.622014,
+      "end": 21.93579,
+      "start": 21.54,
+      "word": "anyhow"
+    },
+    {
+      "conf": 0.535241,
+      "end": 22.2,
+      "start": 22.02,
+      "word": "dude"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.38,
+      "start": 22.202509,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.069998,
+      "start": 22.38,
+      "word": "extensive"
+    },
+    {
+      "conf": 0.636168,
+      "end": 23.189998,
+      "start": 23.069998,
+      "word": "it"
+    },
+    {
+      "conf": 0.636168,
+      "end": 23.279068,
+      "start": 23.189998,
+      "word": "or"
+    },
+    {
+      "conf": 0.83733,
+      "end": 23.88,
+      "start": 23.279068,
+      "word": "trivia"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.3,
+      "start": 24.09,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.39,
+      "start": 24.3,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.75,
+      "start": 24.39,
+      "word": "really"
+    },
+    {
+      "conf": 0.804494,
+      "end": 24.99,
+      "start": 24.75,
+      "word": "like"
+    }
+  ],
+  "text": "experience which is interesting because i played the the first thing you do with titan fall as you play the tutorial yeah i'm in it walks you through like a sort of a half an hour i'm thing that just teaches you all of the basics of movement in shooting and you know getting into a titan and we know he can do when you doing that which is nice about three times as long as your usual training tutorial level anyhow dude it's extensive it or trivia and i really like"
+}

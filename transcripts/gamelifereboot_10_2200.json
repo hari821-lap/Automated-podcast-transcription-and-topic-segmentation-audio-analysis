@@ -1,0 +1,497 @@
+{
+  "result": [
+    {
+      "conf": 0.813354,
+      "end": 1.308988,
+      "start": 0.66,
+      "word": "everything's"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.65,
+      "start": 1.308988,
+      "word": "still"
+    },
+    {
+      "conf": 0.753001,
+      "end": 1.92,
+      "start": 1.65,
+      "word": "sir"
+    },
+    {
+      "conf": 0.753001,
+      "end": 2.22,
+      "start": 2.01,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.67,
+      "start": 2.22,
+      "word": "perfect"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.06,
+      "start": 2.91,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.39,
+      "start": 3.06,
+      "word": "then"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.96,
+      "start": 3.81,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.08,
+      "start": 3.96,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.47,
+      "start": 4.08,
+      "word": "after"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.53,
+      "start": 4.47,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.01,
+      "start": 4.53,
+      "word": "test"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.22,
+      "start": 5.01,
+      "word": "so"
+    },
+    {
+      "conf": 0.411761,
+      "end": 5.34,
+      "start": 5.22,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.58,
+      "start": 5.363925,
+      "word": "sort"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.67,
+      "start": 5.58,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.76,
+      "start": 5.67,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.39,
+      "start": 5.76,
+      "word": "technical"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.99,
+      "start": 6.39,
+      "word": "climax"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.08,
+      "start": 6.99,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.17,
+      "start": 7.08,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.38,
+      "start": 7.17,
+      "word": "whole"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.68,
+      "start": 7.38,
+      "word": "thing"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.46,
+      "start": 7.8,
+      "word": "already"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.91,
+      "start": 8.46,
+      "word": "happened"
+    },
+    {
+      "conf": 0.69579,
+      "end": 9.93,
+      "start": 9.39,
+      "word": "i'm"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.47,
+      "start": 10.23,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.77,
+      "start": 10.47,
+      "word": "now"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.86,
+      "start": 10.77,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.04,
+      "start": 10.86,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.4,
+      "start": 11.04,
+      "word": "just"
+    },
+    {
+      "conf": 0.467754,
+      "end": 11.7,
+      "start": 11.46,
+      "word": "for"
+    },
+    {
+      "conf": 0.480541,
+      "end": 11.954801,
+      "start": 11.79,
+      "word": "into"
+    },
+    {
+      "conf": 0.85353,
+      "end": 12.12,
+      "start": 11.954801,
+      "word": "this"
+    },
+    {
+      "conf": 0.833986,
+      "end": 12.51,
+      "start": 12.12,
+      "word": "combat"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.17,
+      "start": 12.51,
+      "word": "situation"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.710667,
+      "start": 13.38,
+      "word": "just"
+    },
+    {
+      "conf": 0.853804,
+      "end": 13.77,
+      "start": 13.710667,
+      "word": "to"
+    },
+    {
+      "conf": 0.853804,
+      "end": 14.095141,
+      "start": 13.77,
+      "word": "see"
+    },
+    {
+      "conf": 0.369749,
+      "end": 14.73,
+      "start": 14.22,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.27,
+      "start": 14.91,
+      "word": "which"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.63,
+      "start": 15.33,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.81,
+      "start": 15.69,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.9,
+      "start": 15.81,
+      "word": "the"
+    },
+    {
+      "conf": 0.777289,
+      "end": 16.17,
+      "start": 15.9,
+      "word": "end"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.35,
+      "start": 16.17,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.68,
+      "start": 16.35,
+      "word": "not"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.13,
+      "start": 16.71,
+      "word": "even"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.52,
+      "start": 17.16,
+      "word": "after"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.67,
+      "start": 17.52,
+      "word": "all"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.88,
+      "start": 17.67,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.0,
+      "start": 17.88,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.24,
+      "start": 18.0,
+      "word": "ending"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.39,
+      "start": 18.24,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.57,
+      "start": 18.39,
+      "word": "not"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.81,
+      "start": 18.57,
+      "word": "even"
+    },
+    {
+      "conf": 0.5734,
+      "end": 18.99,
+      "start": 18.81,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.26,
+      "start": 18.998996,
+      "word": "good"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.41,
+      "start": 19.26,
+      "word": "as"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.59,
+      "start": 19.41,
+      "word": "what"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.68,
+      "start": 19.59,
+      "word": "had"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.07,
+      "start": 19.68,
+      "word": "happened"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.37,
+      "start": 20.16,
+      "word": "before"
+    },
+    {
+      "conf": 0.719259,
+      "end": 20.46,
+      "start": 20.37,
+      "word": "our"
+    },
+    {
+      "conf": 0.719259,
+      "end": 20.7,
+      "start": 20.46,
+      "word": "media"
+    },
+    {
+      "conf": 0.485995,
+      "end": 20.91,
+      "start": 20.717329,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.3,
+      "start": 21.15,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.6,
+      "start": 21.3,
+      "word": "ending"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.75,
+      "start": 21.6,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.99,
+      "start": 21.75,
+      "word": "sort"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.122545,
+      "start": 21.99,
+      "word": "of"
+    },
+    {
+      "conf": 0.806055,
+      "end": 22.2,
+      "start": 22.14,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.47,
+      "start": 22.2,
+      "word": "pro"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.95,
+      "start": 22.47,
+      "word": "forma"
+    },
+    {
+      "conf": 0.387281,
+      "end": 23.25,
+      "start": 22.98,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.58,
+      "start": 23.46,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.7,
+      "start": 23.58,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.79,
+      "start": 23.7,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.09,
+      "start": 23.79,
+      "word": "mean"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.45,
+      "start": 24.15,
+      "word": "like"
+    },
+    {
+      "conf": 0.82839,
+      "end": 24.681015,
+      "start": 24.45,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.87,
+      "start": 24.681015,
+      "word": "the"
+    }
+  ],
+  "text": "everything's still sir it's perfect and then it was after the test so they sort of the technical climax of the whole thing already happened i'm and now i was just for into this combat situation just to see in which was in the end was not even after all that the ending was not even is good as what had happened before our media was the ending was sort of a pro forma in you know i mean like the the"
+}

@@ -1,0 +1,365 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 3.69,
+      "start": 3.27,
+      "word": "we"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.08,
+      "start": 3.96,
+      "word": "are"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.29,
+      "start": 4.08,
+      "word": "going"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.35,
+      "start": 4.29,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.62,
+      "start": 4.35,
+      "word": "talk"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.89,
+      "start": 4.62,
+      "word": "about"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.34,
+      "start": 4.92,
+      "word": "video"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.76,
+      "start": 5.34,
+      "word": "games"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.91,
+      "start": 5.76,
+      "word": "that"
+    },
+    {
+      "conf": 0.72757,
+      "end": 6.09,
+      "start": 5.91,
+      "word": "we've"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.27,
+      "start": 6.09,
+      "word": "been"
+    },
+    {
+      "conf": 0.921088,
+      "end": 6.63,
+      "start": 6.27,
+      "word": "playing"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.05,
+      "start": 6.96,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.44,
+      "start": 7.05,
+      "word": "number"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.56,
+      "start": 7.44,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.8,
+      "start": 7.56,
+      "word": "them"
+    },
+    {
+      "conf": 0.855382,
+      "end": 8.61,
+      "start": 8.13,
+      "word": "ah"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.33,
+      "start": 8.97,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.57,
+      "start": 9.36,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.29,
+      "start": 9.6,
+      "word": "also"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.56,
+      "start": 10.44,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.77,
+      "start": 10.56,
+      "word": "went"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.86,
+      "start": 10.77,
+      "word": "to"
+    },
+    {
+      "conf": 0.547276,
+      "end": 11.22,
+      "start": 10.86,
+      "word": "the"
+    },
+    {
+      "conf": 0.370764,
+      "end": 11.73,
+      "start": 11.31,
+      "word": "our"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.94,
+      "start": 11.82,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.39,
+      "start": 11.94,
+      "word": "dice"
+    },
+    {
+      "conf": 0.729652,
+      "end": 12.72,
+      "start": 12.42,
+      "word": "some"
+    },
+    {
+      "conf": 0.729652,
+      "end": 12.84,
+      "start": 12.72,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.32,
+      "start": 12.99,
+      "word": "as"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.5,
+      "start": 13.32,
+      "word": "as"
+    },
+    {
+      "conf": 0.791233,
+      "end": 13.77,
+      "start": 13.5,
+      "word": "many"
+    },
+    {
+      "conf": 0.717548,
+      "end": 13.985357,
+      "start": 13.86,
+      "word": "of"
+    },
+    {
+      "conf": 0.646596,
+      "end": 14.05134,
+      "start": 13.985357,
+      "word": "you"
+    },
+    {
+      "conf": 0.646596,
+      "end": 14.13,
+      "start": 14.05134,
+      "word": "may"
+    },
+    {
+      "conf": 0.646596,
+      "end": 14.37,
+      "start": 14.13,
+      "word": "help"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.49,
+      "start": 14.37,
+      "word": "the"
+    },
+    {
+      "conf": 0.510394,
+      "end": 15.18,
+      "start": 15.0,
+      "word": "that"
+    },
+    {
+      "conf": 0.613471,
+      "end": 15.87,
+      "start": 15.54,
+      "word": "ah"
+    },
+    {
+      "conf": 0.57641,
+      "end": 16.59,
+      "start": 16.17,
+      "word": "enacted"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.68,
+      "start": 16.59,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.07,
+      "start": 16.68,
+      "word": "summit"
+    },
+    {
+      "conf": 0.3775,
+      "end": 17.19,
+      "start": 17.07,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.58,
+      "start": 17.28,
+      "word": "getting"
+    },
+    {
+      "conf": 0.754254,
+      "end": 17.79,
+      "start": 17.58,
+      "word": "onto"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.88,
+      "start": 17.79,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.12,
+      "start": 17.88,
+      "word": "red"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.54,
+      "start": 18.12,
+      "word": "carpet"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.9,
+      "start": 18.75,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.14,
+      "start": 18.9,
+      "word": "have"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.44,
+      "start": 19.14,
+      "word": "very"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.8,
+      "start": 19.44,
+      "word": "brief"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.43,
+      "start": 19.8,
+      "word": "interviews"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.76,
+      "start": 20.43,
+      "word": "with"
+    },
+    {
+      "conf": 0.510663,
+      "end": 21.66,
+      "start": 21.03,
+      "word": "obstacle"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.87,
+      "start": 21.661077,
+      "word": "from"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.96,
+      "start": 21.87,
+      "word": "the"
+    },
+    {
+      "conf": 0.577055,
+      "end": 22.320002,
+      "start": 21.960002,
+      "word": "video"
+    },
+    {
+      "conf": 0.577055,
+      "end": 22.560002,
+      "start": 22.320002,
+      "word": "game"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.98,
+      "start": 22.59,
+      "word": "world"
+    }
+  ],
+  "text": "we are going to talk about video games that we've been playing a number of them ah and and also i went to the our the dice some it as as many of you may help the that ah enacted a summit in getting onto the red carpet and have very brief interviews with obstacle from the video game world"
+}

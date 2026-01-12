@@ -1,0 +1,533 @@
+{
+  "result": [
+    {
+      "conf": 0.557472,
+      "end": 0.66,
+      "start": 0.33,
+      "word": "i'm"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.23,
+      "start": 1.02,
+      "word": "i"
+    },
+    {
+      "conf": 0.783846,
+      "end": 1.53,
+      "start": 1.23,
+      "word": "miss"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.77,
+      "start": 1.536485,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.19,
+      "start": 1.86,
+      "word": "through"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.31,
+      "start": 2.19,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.58,
+      "start": 2.31,
+      "word": "first"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.79,
+      "start": 2.58,
+      "word": "time"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.0,
+      "start": 2.85,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.12,
+      "start": 3.0,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.39,
+      "start": 3.12,
+      "word": "playing"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.48,
+      "start": 3.39,
+      "word": "with"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.81,
+      "start": 3.48,
+      "word": "somebody"
+    },
+    {
+      "conf": 0.617707,
+      "end": 3.9,
+      "start": 3.81,
+      "word": "and"
+    },
+    {
+      "conf": 0.617707,
+      "end": 4.08,
+      "start": 3.9,
+      "word": "they"
+    },
+    {
+      "conf": 0.563506,
+      "end": 4.26,
+      "start": 4.08,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.5,
+      "start": 4.273095,
+      "word": "really"
+    },
+    {
+      "conf": 0.816903,
+      "end": 4.8,
+      "start": 4.623571,
+      "word": "i"
+    },
+    {
+      "conf": 0.849685,
+      "end": 4.98,
+      "start": 4.8,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.13,
+      "start": 4.98,
+      "word": "we"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.31,
+      "start": 5.13,
+      "word": "saw"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.46,
+      "start": 5.31,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.707016,
+      "start": 5.46,
+      "word": "coming"
+    },
+    {
+      "conf": 0.353337,
+      "end": 6.215201,
+      "start": 6.099928,
+      "word": "i"
+    },
+    {
+      "conf": 0.396444,
+      "end": 6.36,
+      "start": 6.215201,
+      "word": "did"
+    },
+    {
+      "conf": 0.63211,
+      "end": 6.57,
+      "start": 6.39,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.81,
+      "start": 6.58994,
+      "word": "not"
+    },
+    {
+      "conf": 0.928898,
+      "end": 7.02,
+      "start": 6.81,
+      "word": "see"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.38,
+      "start": 7.05,
+      "word": "coming"
+    },
+    {
+      "conf": 0.804352,
+      "end": 7.71,
+      "start": 7.44,
+      "word": "i"
+    },
+    {
+      "conf": 0.820888,
+      "end": 7.977423,
+      "start": 7.8,
+      "word": "i'd"
+    },
+    {
+      "conf": 0.994176,
+      "end": 8.16,
+      "start": 7.977423,
+      "word": "like"
+    },
+    {
+      "conf": 0.966591,
+      "end": 8.34,
+      "start": 8.16,
+      "word": "the"
+    },
+    {
+      "conf": 0.966591,
+      "end": 8.43,
+      "start": 8.34,
+      "word": "i"
+    },
+    {
+      "conf": 0.881132,
+      "end": 8.61,
+      "start": 8.43,
+      "word": "got"
+    },
+    {
+      "conf": 0.79501,
+      "end": 8.79,
+      "start": 8.61,
+      "word": "this"
+    },
+    {
+      "conf": 0.484596,
+      "end": 9.03,
+      "start": 8.79,
+      "word": "a"
+    },
+    {
+      "conf": 0.79501,
+      "end": 10.2,
+      "start": 9.93,
+      "word": "while"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.32,
+      "start": 10.2,
+      "word": "the"
+    },
+    {
+      "conf": 0.529806,
+      "end": 10.62,
+      "start": 10.32,
+      "word": "percent"
+    },
+    {
+      "conf": 0.606106,
+      "end": 10.83,
+      "start": 10.68,
+      "word": "play"
+    },
+    {
+      "conf": 0.309657,
+      "end": 10.95,
+      "start": 10.83,
+      "word": "through"
+    },
+    {
+      "conf": 0.939681,
+      "end": 11.07,
+      "start": 10.95,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.46,
+      "start": 11.07181,
+      "word": "also"
+    },
+    {
+      "conf": 0.876936,
+      "end": 11.88,
+      "start": 11.46,
+      "word": "miss"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.0,
+      "start": 11.88,
+      "word": "the"
+    },
+    {
+      "conf": 0.578466,
+      "end": 12.329999,
+      "start": 12.0,
+      "word": "photo"
+    },
+    {
+      "conf": 0.560816,
+      "end": 12.828845,
+      "start": 12.66,
+      "word": "oh"
+    },
+    {
+      "conf": 0.464803,
+      "end": 13.44,
+      "start": 12.96,
+      "word": "did"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.8,
+      "start": 13.47,
+      "word": "yeah"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.42,
+      "start": 14.61,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.66,
+      "start": 15.48,
+      "word": "there's"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.72,
+      "start": 15.66,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.99,
+      "start": 15.72,
+      "word": "point"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.08,
+      "start": 15.99,
+      "word": "at"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.44,
+      "start": 16.08,
+      "word": "which"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.56,
+      "start": 16.44,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.8,
+      "start": 16.56,
+      "word": "get"
+    },
+    {
+      "conf": 0.754486,
+      "end": 16.89,
+      "start": 16.8,
+      "word": "or"
+    },
+    {
+      "conf": 0.53175,
+      "end": 17.52,
+      "start": 16.89,
+      "word": "photobooth"
+    },
+    {
+      "conf": 0.430723,
+      "end": 17.637858,
+      "start": 17.52,
+      "word": "which"
+    },
+    {
+      "conf": 0.569277,
+      "end": 17.845314,
+      "start": 17.637858,
+      "word": "just"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.21,
+      "start": 17.845314,
+      "word": "cool"
+    },
+    {
+      "conf": 0.902072,
+      "end": 18.39,
+      "start": 18.21,
+      "word": "has"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.78,
+      "start": 18.45,
+      "word": "an"
+    },
+    {
+      "conf": 0.609083,
+      "end": 19.14,
+      "start": 18.87,
+      "word": "omelet"
+    },
+    {
+      "conf": 0.7553,
+      "end": 19.744792,
+      "start": 19.2,
+      "word": "references"
+    },
+    {
+      "conf": 0.517228,
+      "end": 20.006268,
+      "start": 19.744792,
+      "word": "interview"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.13,
+      "start": 20.006268,
+      "word": "that"
+    },
+    {
+      "conf": 0.757877,
+      "end": 20.19,
+      "start": 20.13,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.46,
+      "start": 20.19,
+      "word": "did"
+    },
+    {
+      "conf": 0.583836,
+      "end": 20.82,
+      "start": 20.58,
+      "word": "neal"
+    },
+    {
+      "conf": 0.704144,
+      "end": 21.03,
+      "start": 20.82,
+      "word": "said"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.15,
+      "start": 21.03,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.33,
+      "start": 21.15,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.69,
+      "start": 21.54,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.962078,
+      "start": 21.69,
+      "word": "photo"
+    },
+    {
+      "conf": 0.716061,
+      "end": 22.2,
+      "start": 21.962078,
+      "word": "was"
+    },
+    {
+      "conf": 0.797487,
+      "end": 22.44,
+      "start": 22.205098,
+      "word": "took"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.98,
+      "start": 22.44,
+      "word": "forever"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.13,
+      "start": 22.98,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.28,
+      "start": 23.13,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.58,
+      "start": 23.28,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.91,
+      "start": 23.73,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.48,
+      "start": 23.91,
+      "word": "difficult"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.721247,
+      "start": 24.54,
+      "word": "and"
+    },
+    {
+      "conf": 0.712657,
+      "end": 24.838196,
+      "start": 24.721247,
+      "word": "took"
+    },
+    {
+      "conf": 0.812427,
+      "end": 24.96,
+      "start": 24.838196,
+      "word": "his"
+    }
+  ],
+  "text": "i'm i miss this through the first time i was playing with somebody and they they really i so we saw this coming i did i not see coming i i'd like the i got this a while the percent play through i also miss the photo oh did yeah so there's a point at which you get or photobooth which just cool has an omelet references interview that i did neal said that like the photo was took forever it was like is difficult and took his"
+}

@@ -1,0 +1,467 @@
+{
+  "result": [
+    {
+      "conf": 0.709282,
+      "end": 0.15,
+      "start": 0.0,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.48,
+      "start": 0.156999,
+      "word": "stuff"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.78,
+      "start": 0.48,
+      "word": "out"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.87,
+      "start": 0.78,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.23,
+      "start": 0.87,
+      "word": "replace"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.32,
+      "start": 1.23,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.41,
+      "start": 1.32,
+      "word": "or"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.86,
+      "start": 1.41,
+      "word": "anything"
+    },
+    {
+      "conf": 0.594759,
+      "end": 4.17,
+      "start": 4.05,
+      "word": "you"
+    },
+    {
+      "conf": 0.594759,
+      "end": 4.256802,
+      "start": 4.17,
+      "word": "can"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.5,
+      "start": 4.256802,
+      "word": "always"
+    },
+    {
+      "conf": 0.612892,
+      "end": 4.71,
+      "start": 4.5,
+      "word": "wish"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.77,
+      "start": 4.71,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.86,
+      "start": 4.77,
+      "word": "could"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.01,
+      "start": 4.86,
+      "word": "put"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.131897,
+      "start": 5.083783,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.46,
+      "start": 5.219052,
+      "word": "little"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.61,
+      "start": 5.46,
+      "word": "bit"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.94,
+      "start": 5.61,
+      "word": "more"
+    },
+    {
+      "conf": 0.384526,
+      "end": 6.26373,
+      "start": 6.0,
+      "word": "at"
+    },
+    {
+      "conf": 0.905799,
+      "end": 6.51,
+      "start": 6.26373,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.99,
+      "start": 6.78,
+      "word": "more"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.59,
+      "start": 6.99,
+      "word": "detail"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.16,
+      "start": 7.607323,
+      "word": "another"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.52,
+      "start": 8.28,
+      "word": "thing"
+    },
+    {
+      "conf": 0.906254,
+      "end": 8.67,
+      "start": 8.52,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.94,
+      "start": 8.67,
+      "word": "thought"
+    },
+    {
+      "conf": 0.782643,
+      "end": 9.03,
+      "start": 8.94,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.15,
+      "start": 9.03,
+      "word": "would"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.21,
+      "start": 9.15,
+      "word": "have"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.3,
+      "start": 9.21,
+      "word": "been"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.47934,
+      "start": 9.3,
+      "word": "so"
+    },
+    {
+      "conf": 0.565645,
+      "end": 9.716756,
+      "start": 9.651608,
+      "word": "to"
+    },
+    {
+      "conf": 0.78455,
+      "end": 9.9,
+      "start": 9.716756,
+      "word": "have"
+    },
+    {
+      "conf": 0.78455,
+      "end": 10.05,
+      "start": 9.9,
+      "word": "that"
+    },
+    {
+      "conf": 0.78455,
+      "end": 10.35,
+      "start": 10.05,
+      "word": "in"
+    },
+    {
+      "conf": 0.78455,
+      "end": 11.16,
+      "start": 10.74,
+      "word": "stores"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.460797,
+      "start": 11.16,
+      "word": "like"
+    },
+    {
+      "conf": 0.571281,
+      "end": 11.97,
+      "start": 11.67,
+      "word": "bigger"
+    },
+    {
+      "conf": 0.984922,
+      "end": 12.33,
+      "start": 11.973799,
+      "word": "that's"
+    },
+    {
+      "conf": 0.901168,
+      "end": 13.284597,
+      "start": 13.05,
+      "word": "great"
+    },
+    {
+      "conf": 0.471914,
+      "end": 13.4091,
+      "start": 13.29,
+      "word": "will"
+    },
+    {
+      "conf": 0.506498,
+      "end": 13.59,
+      "start": 13.4091,
+      "word": "be"
+    },
+    {
+      "conf": 0.362379,
+      "end": 13.737273,
+      "start": 13.590001,
+      "word": "able"
+    },
+    {
+      "conf": 0.577721,
+      "end": 13.855498,
+      "start": 13.737273,
+      "word": "would"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.07,
+      "start": 13.855498,
+      "word": "say"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.46,
+      "start": 14.07,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.91,
+      "start": 14.7,
+      "word": "feel"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.12,
+      "start": 14.91,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.45,
+      "start": 15.12,
+      "word": "we"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.57,
+      "start": 15.45,
+      "word": "have"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.901331,
+      "start": 15.57,
+      "word": "anything"
+    },
+    {
+      "conf": 0.526617,
+      "end": 15.994695,
+      "start": 15.901331,
+      "word": "we"
+    },
+    {
+      "conf": 0.800832,
+      "end": 16.314153,
+      "start": 15.994695,
+      "word": "usually"
+    },
+    {
+      "conf": 0.80756,
+      "end": 16.5,
+      "start": 16.32,
+      "word": "know"
+    },
+    {
+      "conf": 0.580856,
+      "end": 18.986807,
+      "start": 18.93,
+      "word": "i"
+    },
+    {
+      "conf": 0.621808,
+      "end": 19.17,
+      "start": 18.986807,
+      "word": "looked"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.35,
+      "start": 19.179218,
+      "word": "all"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.561086,
+      "start": 19.35,
+      "word": "over"
+    },
+    {
+      "conf": 0.49876,
+      "end": 19.665699,
+      "start": 19.561086,
+      "word": "and"
+    },
+    {
+      "conf": 0.983741,
+      "end": 19.95,
+      "start": 19.724301,
+      "word": "can't"
+    },
+    {
+      "conf": 0.983741,
+      "end": 20.10356,
+      "start": 19.95,
+      "word": "find"
+    },
+    {
+      "conf": 0.549349,
+      "end": 20.16,
+      "start": 20.10356,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.58,
+      "start": 20.16,
+      "word": "sniper"
+    },
+    {
+      "conf": 0.68383,
+      "end": 20.79,
+      "start": 20.58,
+      "word": "right"
+    },
+    {
+      "conf": 0.412742,
+      "end": 21.02408,
+      "start": 20.885321,
+      "word": "where"
+    },
+    {
+      "conf": 0.46831,
+      "end": 21.21,
+      "start": 21.02408,
+      "word": "where's"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.33,
+      "start": 21.21,
+      "word": "the"
+    },
+    {
+      "conf": 0.786613,
+      "end": 21.81,
+      "start": 21.33,
+      "word": "sniper"
+    },
+    {
+      "conf": 0.579607,
+      "end": 22.74,
+      "start": 22.56,
+      "word": "we're"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.89,
+      "start": 22.74,
+      "word": "going"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.98,
+      "start": 22.89,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.13,
+      "start": 22.98,
+      "word": "end"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.28,
+      "start": 23.13,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.64,
+      "start": 23.28,
+      "word": "interview"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.91,
+      "start": 23.64,
+      "word": "here"
+    },
+    {
+      "conf": 0.646991,
+      "end": 24.329998,
+      "start": 23.939998,
+      "word": "sir"
+    }
+  ],
+  "text": "the stuff out and replace it or anything you can always wish you could put a little bit more at that more detail another thing they thought it would have been so to have that in stores like bigger that's great will be able would say i feel like we have anything we usually know i looked all over and can't find the sniper right where where's the sniper we're going to end this interview here sir"
+}

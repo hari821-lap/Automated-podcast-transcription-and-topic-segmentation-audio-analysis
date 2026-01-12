@@ -1,0 +1,503 @@
+{
+  "result": [
+    {
+      "conf": 0.628436,
+      "end": 1.11,
+      "start": 0.21,
+      "word": "sometimes"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.29,
+      "start": 1.11,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.74,
+      "start": 1.29,
+      "word": "most"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.86,
+      "start": 1.74,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.95,
+      "start": 1.86,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.31,
+      "start": 1.95,
+      "word": "time"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.4,
+      "start": 2.31,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.64,
+      "start": 2.4,
+      "word": "just"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.79,
+      "start": 2.64,
+      "word": "had"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.85,
+      "start": 2.79,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.09,
+      "start": 2.85,
+      "word": "kill"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.6,
+      "start": 3.09,
+      "word": "everybody"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.64,
+      "start": 5.19,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.3,
+      "start": 5.94,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.45,
+      "start": 6.3,
+      "word": "when"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.54,
+      "start": 6.45,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.81,
+      "start": 6.66,
+      "word": "when"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.87,
+      "start": 6.81,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.14,
+      "start": 6.87,
+      "word": "happened"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.38,
+      "start": 7.14,
+      "word": "again"
+    },
+    {
+      "conf": 0.687242,
+      "end": 7.44,
+      "start": 7.38,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.534837,
+      "start": 7.44,
+      "word": "was"
+    },
+    {
+      "conf": 0.370691,
+      "end": 7.89,
+      "start": 7.534837,
+      "word": "about"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.28,
+      "start": 7.95,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.76,
+      "start": 8.28,
+      "word": "again"
+    },
+    {
+      "conf": 0.41166,
+      "end": 9.24,
+      "start": 8.91,
+      "word": "now"
+    },
+    {
+      "conf": 0.481469,
+      "end": 9.42,
+      "start": 9.24435,
+      "word": "so"
+    },
+    {
+      "conf": 0.950846,
+      "end": 9.57,
+      "start": 9.42,
+      "word": "there"
+    },
+    {
+      "conf": 0.755304,
+      "end": 9.69,
+      "start": 9.57,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.11,
+      "start": 9.69,
+      "word": "probably"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.17,
+      "start": 10.11,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.35,
+      "start": 10.17,
+      "word": "little"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.47,
+      "start": 10.35,
+      "word": "bit"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.56,
+      "start": 10.47,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.04,
+      "start": 10.56,
+      "word": "bias"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.46,
+      "start": 11.04,
+      "word": "going"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.79,
+      "start": 11.49,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.36,
+      "start": 11.79,
+      "word": "basically"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.66,
+      "start": 12.36,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.26,
+      "start": 13.05,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.47,
+      "start": 13.26,
+      "word": "yeah"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.56,
+      "start": 13.47,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.89,
+      "start": 13.56,
+      "word": "mean"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.16,
+      "start": 14.01,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.4,
+      "start": 14.16,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.55,
+      "start": 14.43,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.91,
+      "start": 14.55,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.63,
+      "start": 15.3,
+      "word": "yeah"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.81,
+      "start": 15.69,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.96,
+      "start": 15.81,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.08,
+      "start": 15.96,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.38,
+      "start": 16.08,
+      "word": "one"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.47,
+      "start": 16.38,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.59,
+      "start": 16.47,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.71,
+      "start": 16.59,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.98,
+      "start": 16.71,
+      "word": "one"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.22,
+      "start": 16.98,
+      "word": "sort"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.43,
+      "start": 17.22,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.55,
+      "start": 17.46,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.7,
+      "start": 17.55,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.91,
+      "start": 17.7,
+      "word": "kind"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.97,
+      "start": 17.91,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.36,
+      "start": 17.97,
+      "word": "niggling"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.75,
+      "start": 18.36,
+      "word": "complaint"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.84,
+      "start": 18.75,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.93,
+      "start": 18.84,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.245414,
+      "start": 18.93,
+      "word": "still"
+    },
+    {
+      "conf": 0.513822,
+      "end": 19.38,
+      "start": 19.26,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.44,
+      "start": 19.38,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.68,
+      "start": 19.44,
+      "word": "still"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.89,
+      "start": 19.68,
+      "word": "had"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.13,
+      "start": 19.89,
+      "word": "about"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.25,
+      "start": 20.13,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.33,
+      "start": 21.12,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.93,
+      "start": 21.33,
+      "word": "otherwise"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.29,
+      "start": 21.96,
+      "word": "again"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.5,
+      "start": 22.29,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.8,
+      "start": 22.5,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.04,
+      "start": 22.86,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.4,
+      "start": 23.04,
+      "word": "really"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.64,
+      "start": 23.4,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.85,
+      "start": 23.64,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.36,
+      "start": 23.85,
+      "word": "crazy"
+    }
+  ],
+  "text": "sometimes but most of the time you just had to kill everybody and so when it when it happened again it was about this again now so there is probably a little bit of bias going in basically but but yeah i mean it was it was yeah it was the one it was the one sort of you know kind of niggling complaint that i still but i still had about it but otherwise again it's it's it's really it's it's crazy"
+}

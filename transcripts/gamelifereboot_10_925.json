@@ -1,0 +1,413 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.36,
+      "start": 0.0,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.42,
+      "start": 0.36,
+      "word": "are"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.57,
+      "start": 0.42,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.72,
+      "start": 0.57,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.81,
+      "start": 0.72,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.02,
+      "start": 0.81,
+      "word": "can't"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.23,
+      "start": 1.02,
+      "word": "really"
+    },
+    {
+      "conf": 0.925665,
+      "end": 1.501447,
+      "start": 1.23,
+      "word": "speak"
+    },
+    {
+      "conf": 0.955363,
+      "end": 1.586768,
+      "start": 1.502334,
+      "word": "to"
+    },
+    {
+      "conf": 0.597037,
+      "end": 1.675456,
+      "start": 1.59,
+      "word": "them"
+    },
+    {
+      "conf": 0.262927,
+      "end": 2.25,
+      "start": 1.675456,
+      "word": "mathewson"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.85,
+      "start": 2.31,
+      "word": "weapons"
+    },
+    {
+      "conf": 0.53786,
+      "end": 3.75,
+      "start": 3.27,
+      "word": "on"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.14,
+      "start": 3.81,
+      "word": "which"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.59,
+      "start": 4.17,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.01,
+      "start": 4.68,
+      "word": "always"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.07,
+      "start": 5.01,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.22,
+      "start": 5.07,
+      "word": "big"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.43,
+      "start": 5.22,
+      "word": "draw"
+    },
+    {
+      "conf": 0.642892,
+      "end": 5.55,
+      "start": 5.43,
+      "word": "the"
+    },
+    {
+      "conf": 0.561814,
+      "end": 5.85,
+      "start": 5.55,
+      "word": "shooter"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.0,
+      "start": 5.85,
+      "word": "but"
+    },
+    {
+      "conf": 0.554077,
+      "end": 6.117293,
+      "start": 6.0,
+      "word": "there"
+    },
+    {
+      "conf": 0.473523,
+      "end": 6.15,
+      "start": 6.117293,
+      "word": "are"
+    },
+    {
+      "conf": 0.839732,
+      "end": 6.3,
+      "start": 6.161856,
+      "word": "so"
+    },
+    {
+      "conf": 0.839732,
+      "end": 6.42,
+      "start": 6.3,
+      "word": "many"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.6,
+      "start": 6.42,
+      "word": "other"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.05,
+      "start": 6.6,
+      "word": "elements"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.29,
+      "start": 7.073028,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.62,
+      "start": 7.29,
+      "word": "game"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.74,
+      "start": 7.62,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.83,
+      "start": 7.74,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.1,
+      "start": 7.83,
+      "word": "don't"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.37,
+      "start": 8.1,
+      "word": "think"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.61,
+      "start": 8.37,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.97,
+      "start": 8.7,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.09,
+      "start": 8.97,
+      "word": "would"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.36,
+      "start": 9.09,
+      "word": "be"
+    },
+    {
+      "conf": 0.704937,
+      "end": 9.51,
+      "start": 9.36,
+      "word": "as"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.75,
+      "start": 9.512271,
+      "word": "much"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.87,
+      "start": 9.75,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.02,
+      "start": 9.87,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.74,
+      "start": 10.29,
+      "word": "compelling"
+    },
+    {
+      "conf": 0.646332,
+      "end": 11.01,
+      "start": 10.74,
+      "word": "yea"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.07,
+      "start": 11.01,
+      "word": "or"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.4,
+      "start": 11.07,
+      "word": "nay"
+    },
+    {
+      "conf": 0.416835,
+      "end": 11.94,
+      "start": 11.73,
+      "word": "i'm"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.42,
+      "start": 11.957495,
+      "word": "certainly"
+    },
+    {
+      "conf": 0.803222,
+      "end": 12.81,
+      "start": 12.42,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.02687,
+      "start": 12.877837,
+      "word": "the"
+    },
+    {
+      "conf": 0.671561,
+      "end": 13.29,
+      "start": 13.08,
+      "word": "cut"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.1,
+      "start": 13.354087,
+      "word": "acrobatic"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.39,
+      "start": 14.76,
+      "word": "superhero"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.99,
+      "start": 15.48,
+      "word": "nature"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.32,
+      "start": 16.02,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.62,
+      "start": 16.38,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.77,
+      "start": 16.62,
+      "word": "the"
+    },
+    {
+      "conf": 0.956723,
+      "end": 17.04,
+      "start": 16.77,
+      "word": "run"
+    },
+    {
+      "conf": 0.956723,
+      "end": 17.73,
+      "start": 17.07,
+      "word": "dinosaurs"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.07,
+      "start": 19.68,
+      "word": "gavel"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.31,
+      "start": 20.07,
+      "word": "bangs"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.15,
+      "start": 20.67,
+      "word": "yeah"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.627969,
+      "start": 21.33,
+      "word": "yeah"
+    },
+    {
+      "conf": 0.655837,
+      "end": 21.899998,
+      "start": 21.659998,
+      "word": "without"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.17,
+      "start": 21.9,
+      "word": "you"
+    },
+    {
+      "conf": 0.653737,
+      "end": 22.71,
+      "start": 22.44,
+      "word": "i"
+    },
+    {
+      "conf": 0.945556,
+      "end": 24.040977,
+      "start": 23.885061,
+      "word": "i"
+    },
+    {
+      "conf": 0.888767,
+      "end": 24.96,
+      "start": 24.790457,
+      "word": "don't"
+    }
+  ],
+  "text": "that are you so i can't really speak to them mathewson weapons on which is always a big draw the shooter but there are so many other elements this game that i don't think that that would be as much of a compelling yea or nay i'm certainly the the cut acrobatic superhero nature of of the run dinosaurs gavel bangs yeah yeah without you i i don't"
+}

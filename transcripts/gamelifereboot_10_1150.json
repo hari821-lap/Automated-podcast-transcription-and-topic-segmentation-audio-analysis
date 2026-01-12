@@ -1,0 +1,359 @@
+{
+  "result": [
+    {
+      "conf": 0.468121,
+      "end": 2.46,
+      "start": 2.34,
+      "word": "he"
+    },
+    {
+      "conf": 0.849863,
+      "end": 2.754969,
+      "start": 2.473475,
+      "word": "played"
+    },
+    {
+      "conf": 0.465357,
+      "end": 2.94,
+      "start": 2.76,
+      "word": "again"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.24,
+      "start": 3.09,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.39,
+      "start": 3.24,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.54,
+      "start": 3.39,
+      "word": "kind"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.6,
+      "start": 3.54,
+      "word": "of"
+    },
+    {
+      "conf": 0.72327,
+      "end": 3.916288,
+      "start": 3.6,
+      "word": "sad"
+    },
+    {
+      "conf": 0.987366,
+      "end": 4.214314,
+      "start": 4.08,
+      "word": "is"
+    },
+    {
+      "conf": 0.483739,
+      "end": 4.32,
+      "start": 4.23,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.5,
+      "start": 4.32,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.65,
+      "start": 4.5,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.83,
+      "start": 4.65,
+      "word": "day"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.95,
+      "start": 4.83,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.04,
+      "start": 4.95,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.4,
+      "start": 5.16,
+      "word": "did"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.49,
+      "start": 5.43,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.61,
+      "start": 5.49,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.73,
+      "start": 5.61,
+      "word": "at"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.992121,
+      "start": 5.73,
+      "word": "work"
+    },
+    {
+      "conf": 0.841288,
+      "end": 6.273691,
+      "start": 6.09,
+      "word": "was"
+    },
+    {
+      "conf": 0.522806,
+      "end": 6.63,
+      "start": 6.273691,
+      "word": "site"
+    },
+    {
+      "conf": 0.770571,
+      "end": 7.62,
+      "start": 7.08,
+      "word": "omnivore"
+    },
+    {
+      "conf": 0.46715,
+      "end": 7.92,
+      "start": 7.62,
+      "word": "humbly"
+    },
+    {
+      "conf": 0.690301,
+      "end": 8.189654,
+      "start": 7.92,
+      "word": "titan"
+    },
+    {
+      "conf": 0.742997,
+      "end": 8.504028,
+      "start": 8.189654,
+      "word": "fall"
+    },
+    {
+      "conf": 0.448303,
+      "end": 8.97,
+      "start": 8.504028,
+      "word": "nebulous"
+    },
+    {
+      "conf": 0.995694,
+      "end": 9.209288,
+      "start": 8.979847,
+      "word": "like"
+    },
+    {
+      "conf": 0.958963,
+      "end": 9.48,
+      "start": 9.21,
+      "word": "ended"
+    },
+    {
+      "conf": 0.959493,
+      "end": 9.57,
+      "start": 9.48,
+      "word": "at"
+    },
+    {
+      "conf": 0.732546,
+      "end": 9.93,
+      "start": 9.57,
+      "word": "six"
+    },
+    {
+      "conf": 0.732546,
+      "end": 10.26,
+      "start": 9.93,
+      "word": "pm"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.5,
+      "start": 10.268024,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.77,
+      "start": 10.5,
+      "word": "day"
+    },
+    {
+      "conf": 0.59942,
+      "end": 11.73,
+      "start": 10.92,
+      "word": "ah"
+    },
+    {
+      "conf": 0.360182,
+      "end": 12.12,
+      "start": 11.73,
+      "word": "well"
+    },
+    {
+      "conf": 0.954795,
+      "end": 12.63,
+      "start": 12.36,
+      "word": "point"
+    },
+    {
+      "conf": 0.954795,
+      "end": 12.84,
+      "start": 12.63,
+      "word": "eight"
+    },
+    {
+      "conf": 0.899348,
+      "end": 14.97,
+      "start": 14.73,
+      "word": "yeah"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.96,
+      "start": 15.484622,
+      "word": "i'm"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.83,
+      "start": 16.41,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.98,
+      "start": 16.83,
+      "word": "at"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.19,
+      "start": 16.98,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.4,
+      "start": 17.19,
+      "word": "point"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.49,
+      "start": 17.4,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.3,
+      "start": 17.586304,
+      "word": "possibly"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.42,
+      "start": 18.3,
+      "word": "be"
+    },
+    {
+      "conf": 0.44719,
+      "end": 19.02,
+      "start": 18.42,
+      "word": "snarky"
+    },
+    {
+      "conf": 0.655391,
+      "end": 19.62,
+      "start": 19.02,
+      "word": "spoiler"
+    },
+    {
+      "conf": 0.916213,
+      "end": 20.13,
+      "start": 19.660338,
+      "word": "section"
+    },
+    {
+      "conf": 0.826699,
+      "end": 20.67,
+      "start": 20.19,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.54,
+      "start": 21.346419,
+      "word": "me"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.81,
+      "start": 21.54,
+      "word": "i"
+    },
+    {
+      "conf": 0.725207,
+      "end": 22.06244,
+      "start": 21.81,
+      "word": "know"
+    },
+    {
+      "conf": 0.263057,
+      "end": 22.740002,
+      "start": 22.410002,
+      "word": "of"
+    },
+    {
+      "conf": 0.916939,
+      "end": 23.1,
+      "start": 22.95,
+      "word": "the"
+    },
+    {
+      "conf": 0.584751,
+      "end": 24.209006,
+      "start": 23.94,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.42,
+      "start": 24.209006,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.9,
+      "start": 24.42,
+      "word": "dlc"
+    }
+  ],
+  "text": "he played again it was kind of sad is it was the day that it did i was at work was site omnivore humbly titan fall nebulous like ended at six pm that day ah well point eight yeah i'm so at this point the possibly be snarky spoiler section for me i know of the that the dlc"
+}

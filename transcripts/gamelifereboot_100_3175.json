@@ -1,0 +1,371 @@
+{
+  "result": [
+    {
+      "conf": 0.809487,
+      "end": 1.14,
+      "start": 0.51,
+      "word": "humor"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.74,
+      "start": 1.5,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.83,
+      "start": 1.74,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.34,
+      "start": 1.83,
+      "word": "game"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.97,
+      "start": 2.46,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.87,
+      "start": 3.39,
+      "word": "makes"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.99,
+      "start": 3.87,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.17,
+      "start": 3.99,
+      "word": "as"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.44,
+      "start": 4.17,
+      "word": "good"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.53,
+      "start": 4.44,
+      "word": "as"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.65,
+      "start": 4.53,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.98,
+      "start": 4.65,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.13,
+      "start": 4.98,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.360871,
+      "start": 5.13,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.55,
+      "start": 5.4,
+      "word": "could"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.33,
+      "start": 5.55,
+      "word": "describe"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.87,
+      "start": 6.36,
+      "word": "jokes"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.02,
+      "start": 6.87,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.35,
+      "start": 7.02,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.98,
+      "start": 7.65,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.37,
+      "start": 8.07,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.67,
+      "start": 8.43,
+      "word": "feel"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.85,
+      "start": 8.67,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.97,
+      "start": 8.85,
+      "word": "if"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.06,
+      "start": 8.97,
+      "word": "i"
+    },
+    {
+      "conf": 0.871272,
+      "end": 9.776924,
+      "start": 9.06,
+      "word": "described"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.96,
+      "start": 9.776924,
+      "word": "them"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.17,
+      "start": 9.96,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.32,
+      "start": 10.17,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.47,
+      "start": 10.32,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.89,
+      "start": 10.47,
+      "word": "wouldn't"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.67,
+      "start": 10.89,
+      "word": "sound"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.78,
+      "start": 12.42,
+      "word": "as"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.23,
+      "start": 12.84,
+      "word": "funny"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.41,
+      "start": 13.23,
+      "word": "as"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.59,
+      "start": 13.41,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.95,
+      "start": 13.59,
+      "word": "are"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.16,
+      "start": 13.95,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.31,
+      "start": 14.16,
+      "word": "then"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.52,
+      "start": 14.31,
+      "word": "i'd"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.94,
+      "start": 14.52,
+      "word": "spoil"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.06,
+      "start": 14.94,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.45,
+      "start": 15.06,
+      "word": "joke"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.98,
+      "start": 16.59,
+      "word": "so"
+    },
+    {
+      "conf": 0.829829,
+      "end": 17.28,
+      "start": 17.01,
+      "word": "i'd"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.51,
+      "start": 18.24,
+      "word": "with"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.99,
+      "start": 18.51,
+      "word": "nothing"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.2,
+      "start": 18.99,
+      "word": "else"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.29,
+      "start": 19.2,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.56,
+      "start": 19.29,
+      "word": "say"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.86,
+      "start": 19.56,
+      "word": "about"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.01,
+      "start": 19.86,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.97,
+      "start": 20.58,
+      "word": "jazz"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.36,
+      "start": 20.97,
+      "word": "punk"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.26,
+      "start": 21.93,
+      "word": "has"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.47,
+      "start": 22.26,
+      "word": "been"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.65,
+      "start": 22.47,
+      "word": "one"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.71,
+      "start": 22.65,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.86,
+      "start": 22.71,
+      "word": "my"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.73,
+      "start": 22.86,
+      "word": "favorite"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.54,
+      "start": 23.85,
+      "word": "favorite"
+    }
+  ],
+  "text": "humor of the game that makes it as good as it is and i could describe jokes to you but i feel like if i described them to you they wouldn't sound as funny as they are and then i'd spoil the joke so i'd with nothing else to say about it jazz punk has been one of my favorite favorite"
+}

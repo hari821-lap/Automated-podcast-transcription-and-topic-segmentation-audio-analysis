@@ -1,0 +1,503 @@
+{
+  "result": [
+    {
+      "conf": 0.903219,
+      "end": 0.27,
+      "start": 0.06,
+      "word": "well"
+    },
+    {
+      "conf": 0.814142,
+      "end": 0.36,
+      "start": 0.27,
+      "word": "at"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.63,
+      "start": 0.39,
+      "word": "first"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.9,
+      "start": 0.63,
+      "word": "person"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.44,
+      "start": 0.9,
+      "word": "shooters"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.1,
+      "start": 1.8,
+      "word": "having"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.31,
+      "start": 2.1,
+      "word": "played"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.37,
+      "start": 2.31,
+      "word": "the"
+    },
+    {
+      "conf": 0.736611,
+      "end": 2.64,
+      "start": 2.37,
+      "word": "titan"
+    },
+    {
+      "conf": 0.725533,
+      "end": 2.82,
+      "start": 2.647902,
+      "word": "fall"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.15,
+      "start": 2.82,
+      "word": "beta"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.21,
+      "start": 3.15,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.36,
+      "start": 3.21,
+      "word": "don't"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.54,
+      "start": 3.36,
+      "word": "really"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.75,
+      "start": 3.54,
+      "word": "see"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.96,
+      "start": 3.75,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.5,
+      "start": 3.96,
+      "word": "changing"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.83,
+      "start": 4.59,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.07,
+      "start": 4.83,
+      "word": "me"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.4,
+      "start": 5.1,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.7,
+      "start": 5.4,
+      "word": "playing"
+    },
+    {
+      "conf": 0.849394,
+      "end": 5.780129,
+      "start": 5.7,
+      "word": "it"
+    },
+    {
+      "conf": 0.611275,
+      "end": 5.88,
+      "start": 5.780129,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.06,
+      "start": 5.88,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.3,
+      "start": 6.09,
+      "word": "oh"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.54,
+      "start": 6.3,
+      "word": "that's"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.75,
+      "start": 6.54,
+      "word": "right"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.87,
+      "start": 6.75,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.96,
+      "start": 6.87,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.38,
+      "start": 6.96,
+      "word": "why"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.83,
+      "start": 7.74,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.98,
+      "start": 7.83,
+      "word": "don't"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.13,
+      "start": 7.98,
+      "word": "really"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.58,
+      "start": 8.13,
+      "word": "play"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.94,
+      "start": 8.76,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.0,
+      "start": 8.94,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.21,
+      "start": 9.0,
+      "word": "just"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.33,
+      "start": 9.21,
+      "word": "not"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.45,
+      "start": 9.33,
+      "word": "my"
+    },
+    {
+      "conf": 0.880482,
+      "end": 9.84,
+      "start": 9.45,
+      "word": "genre"
+    },
+    {
+      "conf": 0.586787,
+      "end": 10.68,
+      "start": 10.17,
+      "word": "i'm"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.98,
+      "start": 10.8,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.04,
+      "start": 10.98,
+      "word": "at"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.1,
+      "start": 11.04,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.37,
+      "start": 11.1,
+      "word": "same"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.85,
+      "start": 11.37,
+      "word": "time"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.45,
+      "start": 12.24,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.96,
+      "start": 12.51,
+      "word": "really"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.17,
+      "start": 12.96,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.47,
+      "start": 13.29,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.83,
+      "start": 13.47,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.16,
+      "start": 13.83,
+      "word": "more"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.52,
+      "start": 14.16,
+      "word": "fun"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.61,
+      "start": 14.52,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.85,
+      "start": 14.61,
+      "word": "think"
+    },
+    {
+      "conf": 0.775028,
+      "end": 14.97,
+      "start": 14.85,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.12,
+      "start": 14.97,
+      "word": "i've"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.39,
+      "start": 15.12,
+      "word": "ever"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.72,
+      "start": 15.39,
+      "word": "had"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.9,
+      "start": 15.72,
+      "word": "with"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.23,
+      "start": 15.93,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.46,
+      "start": 16.8,
+      "word": "multiplayer"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.03,
+      "start": 17.67,
+      "word": "shooter"
+    },
+    {
+      "conf": 0.668017,
+      "end": 18.237673,
+      "start": 18.09,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.39,
+      "start": 18.237673,
+      "word": "because"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.48,
+      "start": 18.39,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.72,
+      "start": 18.51,
+      "word": "think"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.84,
+      "start": 18.72,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.96,
+      "start": 18.84,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.32,
+      "start": 18.96,
+      "word": "have"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.0,
+      "start": 19.86,
+      "word": "correctly"
+    },
+    {
+      "conf": 0.604158,
+      "end": 21.81,
+      "start": 21.3,
+      "word": "reef"
+    },
+    {
+      "conf": 0.604158,
+      "end": 22.29,
+      "start": 21.81,
+      "word": "thought"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.62,
+      "start": 22.38,
+      "word": "how"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.71,
+      "start": 22.62,
+      "word": "do"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.83,
+      "start": 22.71,
+      "word": "we"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.04,
+      "start": 22.83,
+      "word": "make"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.25,
+      "start": 23.04,
+      "word": "this"
+    },
+    {
+      "conf": 0.353179,
+      "end": 23.605307,
+      "start": 23.25,
+      "word": "funny"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.85,
+      "start": 23.605307,
+      "word": "even"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.94,
+      "start": 23.85,
+      "word": "if"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.09,
+      "start": 23.94,
+      "word": "you're"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.57,
+      "start": 24.09,
+      "word": "dying"
+    }
+  ],
+  "text": "well at first person shooters having played the titan fall beta i don't really see that changing for me like playing it it's like oh that's right this is why i don't really play this is just not my genre i'm but at the same time it really it it was more fun i think that i've ever had with a multiplayer shooter it's because i think that they have correctly reef thought how do we make this funny even if you're dying"
+}

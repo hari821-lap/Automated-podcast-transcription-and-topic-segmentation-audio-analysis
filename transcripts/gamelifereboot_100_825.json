@@ -1,0 +1,677 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.27,
+      "start": 0.09,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.39,
+      "start": 0.27,
+      "word": "have"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.84,
+      "start": 0.39,
+      "word": "other"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.59,
+      "start": 1.26,
+      "word": "enemy"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.07,
+      "start": 1.59,
+      "word": "soldiers"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.43,
+      "start": 2.07,
+      "word": "coming"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.58,
+      "start": 2.43,
+      "word": "up"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.67,
+      "start": 2.58,
+      "word": "and"
+    },
+    {
+      "conf": 0.813498,
+      "end": 2.82,
+      "start": 2.67,
+      "word": "try"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.91,
+      "start": 2.825595,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.09,
+      "start": 2.91,
+      "word": "take"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.21,
+      "start": 3.09,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.3,
+      "start": 3.21,
+      "word": "out"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.42,
+      "start": 3.3,
+      "word": "while"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.54,
+      "start": 3.42,
+      "word": "you're"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.6,
+      "start": 3.54,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.66,
+      "start": 3.6,
+      "word": "the"
+    },
+    {
+      "conf": 0.7827,
+      "end": 3.93,
+      "start": 3.66,
+      "word": "drops"
+    },
+    {
+      "conf": 0.518957,
+      "end": 4.02,
+      "start": 3.935807,
+      "word": "at"
+    },
+    {
+      "conf": 0.702847,
+      "end": 4.17,
+      "start": 4.02,
+      "word": "your"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.38,
+      "start": 4.17,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.59,
+      "start": 4.38,
+      "word": "have"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.71,
+      "start": 4.59,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.13,
+      "start": 4.71,
+      "word": "basically"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.52,
+      "start": 5.13,
+      "word": "fire"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.67,
+      "start": 5.52,
+      "word": "on"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.03,
+      "start": 5.67,
+      "word": "them"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.42,
+      "start": 6.18,
+      "word": "from"
+    },
+    {
+      "conf": 0.878622,
+      "end": 6.575069,
+      "start": 6.42,
+      "word": "with"
+    },
+    {
+      "conf": 0.459139,
+      "end": 6.66,
+      "start": 6.575069,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.9,
+      "start": 6.72,
+      "word": "from"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.99,
+      "start": 6.9,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.44,
+      "start": 6.99,
+      "word": "safety"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.53,
+      "start": 7.44,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.62,
+      "start": 7.53,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.92,
+      "start": 7.62,
+      "word": "drop"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.19,
+      "start": 7.92,
+      "word": "ship"
+    },
+    {
+      "conf": 0.561641,
+      "end": 8.4,
+      "start": 8.19,
+      "word": "that's"
+    },
+    {
+      "conf": 0.267282,
+      "end": 8.488399,
+      "start": 8.4,
+      "word": "her"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.61,
+      "start": 8.488399,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.76,
+      "start": 8.61,
+      "word": "then"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.94,
+      "start": 8.76,
+      "word": "there's"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.12,
+      "start": 8.94,
+      "word": "more"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.45,
+      "start": 9.24,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.57,
+      "start": 9.45,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.69,
+      "start": 9.57,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.81,
+      "start": 9.69,
+      "word": "then"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.9,
+      "start": 9.81,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.17,
+      "start": 9.9,
+      "word": "other"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.53,
+      "start": 10.23,
+      "word": "quick"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.89,
+      "start": 10.53,
+      "word": "element"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.98,
+      "start": 10.89,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.22,
+      "start": 10.98,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.46,
+      "start": 11.31,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.64,
+      "start": 11.46,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.24,
+      "start": 11.67,
+      "word": "epilogue"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.75,
+      "start": 12.24,
+      "word": "section"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.08,
+      "start": 12.78,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.55157,
+      "start": 13.23,
+      "word": "one"
+    },
+    {
+      "conf": 0.71898,
+      "end": 13.62,
+      "start": 13.56,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.74,
+      "start": 13.62,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.1,
+      "start": 13.74,
+      "word": "round"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.19,
+      "start": 14.1,
+      "word": "has"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.4,
+      "start": 14.19,
+      "word": "been"
+    },
+    {
+      "conf": 0.806083,
+      "end": 14.58,
+      "start": 14.4,
+      "word": "kind"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.67,
+      "start": 14.58,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.06,
+      "start": 14.67,
+      "word": "announced"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.228549,
+      "start": 15.06,
+      "word": "over"
+    },
+    {
+      "conf": 0.357014,
+      "end": 15.3,
+      "start": 15.24,
+      "word": "the"
+    },
+    {
+      "conf": 0.700077,
+      "end": 15.39,
+      "start": 15.30265,
+      "word": "have"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.48,
+      "start": 15.39,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.72,
+      "start": 15.48,
+      "word": "get"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.81,
+      "start": 15.72,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.9,
+      "start": 15.81,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.17,
+      "start": 15.9,
+      "word": "drop"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.38,
+      "start": 16.17,
+      "word": "ship"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.86,
+      "start": 16.71,
+      "word": "if"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.95,
+      "start": 16.86,
+      "word": "you"
+    },
+    {
+      "conf": 0.56228,
+      "end": 17.07,
+      "start": 16.95,
+      "word": "get"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.28,
+      "start": 17.07,
+      "word": "killed"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.34,
+      "start": 17.28,
+      "word": "at"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.55,
+      "start": 17.34,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.76,
+      "start": 17.55,
+      "word": "point"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.91,
+      "start": 17.76,
+      "word": "there's"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.09,
+      "start": 17.91,
+      "word": "no"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.69,
+      "start": 18.09,
+      "word": "response"
+    },
+    {
+      "conf": 0.367228,
+      "end": 18.78,
+      "start": 18.69,
+      "word": "would"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.08,
+      "start": 18.908265,
+      "word": "get"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.38,
+      "start": 19.08,
+      "word": "killed"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.44,
+      "start": 19.38,
+      "word": "at"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.53,
+      "start": 19.44,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.98,
+      "start": 19.53,
+      "word": "beginning"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.04,
+      "start": 19.98,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.28,
+      "start": 20.04,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.0,
+      "start": 20.52,
+      "word": "epilogue"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.45,
+      "start": 21.0,
+      "word": "section"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.78,
+      "start": 21.66,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.96,
+      "start": 21.78,
+      "word": "just"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.11,
+      "start": 21.96,
+      "word": "have"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.23,
+      "start": 22.11,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.56,
+      "start": 22.23,
+      "word": "sit"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.83,
+      "start": 22.56,
+      "word": "there"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.95,
+      "start": 22.83,
+      "word": "and"
+    },
+    {
+      "conf": 0.926335,
+      "end": 23.04,
+      "start": 22.95,
+      "word": "you"
+    },
+    {
+      "conf": 0.855487,
+      "end": 23.43,
+      "start": 23.04,
+      "word": "expect"
+    },
+    {
+      "conf": 0.503933,
+      "end": 23.73,
+      "start": 23.43,
+      "word": "hate"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.91,
+      "start": 23.73,
+      "word": "and"
+    },
+    {
+      "conf": 0.51147,
+      "end": 24.097145,
+      "start": 23.91,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.39,
+      "start": 24.097145,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.6,
+      "start": 24.39,
+      "word": "much"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.78,
+      "start": 24.6,
+      "word": "more"
+    },
+    {
+      "conf": 0.865006,
+      "end": 24.99,
+      "start": 24.78,
+      "word": "from"
+    }
+  ],
+  "text": "you have other enemy soldiers coming up and try to take you out while you're in the drops at your you have to basically fire on them from with the from the safety of the drop ship that's her and then there's more so the and then the other quick element to that to that epilogue section is one of the round has been kind of announced over the have to get to the drop ship if you get killed at that point there's no response would get killed at the beginning of that epilogue section you just have to sit there and you expect hate and it's so much more from"
+}

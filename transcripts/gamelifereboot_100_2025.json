@@ -1,0 +1,611 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.24,
+      "start": 0.03,
+      "word": "younger"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.54,
+      "start": 0.24,
+      "word": "people"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.87,
+      "start": 0.54,
+      "word": "kind"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.14,
+      "start": 0.87,
+      "word": "of"
+    },
+    {
+      "conf": 0.809376,
+      "end": 1.68,
+      "start": 1.38,
+      "word": "right"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.01,
+      "start": 1.68,
+      "word": "hero"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.34,
+      "start": 2.01,
+      "word": "worship"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.55,
+      "start": 2.34,
+      "word": "older"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.88,
+      "start": 2.55,
+      "word": "people"
+    },
+    {
+      "conf": 0.645826,
+      "end": 2.956696,
+      "start": 2.913391,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.18,
+      "start": 2.958564,
+      "word": "little"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.36,
+      "start": 3.18,
+      "word": "bit"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.54,
+      "start": 3.42,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.84,
+      "start": 3.66,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.99,
+      "start": 3.84,
+      "word": "know"
+    },
+    {
+      "conf": 0.675514,
+      "end": 4.14,
+      "start": 3.99,
+      "word": "then"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.2,
+      "start": 4.14,
+      "word": "he"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.35,
+      "start": 4.2,
+      "word": "said"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.38,
+      "start": 4.35,
+      "word": "he"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.68,
+      "start": 4.38,
+      "word": "started"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.07,
+      "start": 4.68,
+      "word": "thinking"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.37,
+      "start": 5.07,
+      "word": "and"
+    },
+    {
+      "conf": 0.90001,
+      "end": 5.85,
+      "start": 5.67,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.15,
+      "start": 5.91,
+      "word": "grew"
+    },
+    {
+      "conf": 0.562501,
+      "end": 6.21,
+      "start": 6.15,
+      "word": "in"
+    },
+    {
+      "conf": 0.935981,
+      "end": 6.36,
+      "start": 6.226875,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.63,
+      "start": 6.36,
+      "word": "bigger"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.08,
+      "start": 6.63,
+      "word": "idea"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.2,
+      "start": 7.08,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.41,
+      "start": 7.2,
+      "word": "then"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.8,
+      "start": 7.41,
+      "word": "became"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.04,
+      "start": 7.8,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.31,
+      "start": 8.07,
+      "word": "more"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.58,
+      "start": 8.31,
+      "word": "fully"
+    },
+    {
+      "conf": 0.74286,
+      "end": 8.97,
+      "start": 8.58,
+      "word": "realize"
+    },
+    {
+      "conf": 0.559588,
+      "end": 9.27,
+      "start": 8.97,
+      "word": "thing"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.81,
+      "start": 9.63,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.93,
+      "start": 9.81,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.2,
+      "start": 9.93,
+      "word": "cool"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.26,
+      "start": 10.2,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.478556,
+      "start": 10.26,
+      "word": "mean"
+    },
+    {
+      "conf": 0.600049,
+      "end": 10.626168,
+      "start": 10.478556,
+      "word": "the"
+    },
+    {
+      "conf": 0.55274,
+      "end": 10.844684,
+      "start": 10.626168,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.28,
+      "start": 11.07,
+      "word": "on"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.31,
+      "start": 11.28,
+      "word": "a"
+    },
+    {
+      "conf": 0.795042,
+      "end": 11.52,
+      "start": 11.31,
+      "word": "lot"
+    },
+    {
+      "conf": 0.795042,
+      "end": 11.58,
+      "start": 11.52,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.88,
+      "start": 11.58,
+      "word": "levels"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.94,
+      "start": 11.88,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.09,
+      "start": 11.94,
+      "word": "think"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.18,
+      "start": 12.09,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.654526,
+      "start": 12.18,
+      "word": "provides"
+    },
+    {
+      "conf": 0.817527,
+      "end": 12.72,
+      "start": 12.66,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.96,
+      "start": 12.72,
+      "word": "sort"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.02,
+      "start": 12.96,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.68,
+      "start": 13.02,
+      "word": "experience"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.86,
+      "start": 13.68,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.07,
+      "start": 13.89,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.34,
+      "start": 14.07,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.76,
+      "start": 14.34,
+      "word": "rare"
+    },
+    {
+      "conf": 0.898671,
+      "end": 15.69,
+      "start": 15.6,
+      "word": "you"
+    },
+    {
+      "conf": 0.898671,
+      "end": 15.81,
+      "start": 15.69,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.9,
+      "start": 15.81,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.99,
+      "start": 15.9,
+      "word": "be"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.2,
+      "start": 15.99,
+      "word": "able"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.29,
+      "start": 16.2,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.71,
+      "start": 16.29,
+      "word": "play"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.19,
+      "start": 16.77,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.43,
+      "start": 17.25,
+      "word": "as"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.67,
+      "start": 17.43,
+      "word": "young"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.03,
+      "start": 17.67,
+      "word": "teenage"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.6,
+      "start": 18.03,
+      "word": "girls"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.75,
+      "start": 18.6,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.02,
+      "start": 18.75,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.59,
+      "start": 19.08,
+      "word": "relating"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.74,
+      "start": 19.59,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.91766,
+      "start": 19.74,
+      "word": "each"
+    },
+    {
+      "conf": 0.382967,
+      "end": 20.04,
+      "start": 19.98,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.19,
+      "start": 20.063848,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.4,
+      "start": 20.19,
+      "word": "play"
+    },
+    {
+      "conf": 0.817269,
+      "end": 20.527791,
+      "start": 20.4,
+      "word": "as"
+    },
+    {
+      "conf": 0.865687,
+      "end": 20.67,
+      "start": 20.527791,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.79,
+      "start": 20.7,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.092604,
+      "start": 20.79,
+      "word": "girl"
+    },
+    {
+      "conf": 0.517216,
+      "end": 21.18,
+      "start": 21.092604,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.42,
+      "start": 21.18,
+      "word": "all"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.51,
+      "start": 21.42,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.9,
+      "start": 21.51,
+      "word": "teenage"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.107486,
+      "start": 21.9,
+      "word": "girl"
+    },
+    {
+      "conf": 0.792007,
+      "end": 22.2,
+      "start": 22.11,
+      "word": "at"
+    },
+    {
+      "conf": 0.916171,
+      "end": 22.41,
+      "start": 22.2,
+      "word": "all"
+    },
+    {
+      "conf": 0.865543,
+      "end": 22.74,
+      "start": 22.68,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.01,
+      "start": 22.74,
+      "word": "teenage"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.25,
+      "start": 23.01,
+      "word": "girl"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.4,
+      "start": 23.25,
+      "word": "who"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.7,
+      "start": 23.4,
+      "word": "spends"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.79,
+      "start": 23.7,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.12,
+      "start": 23.79,
+      "word": "entire"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.57,
+      "start": 24.12,
+      "word": "game"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.75,
+      "start": 24.63,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.96,
+      "start": 24.75,
+      "word": "know"
+    }
+  ],
+  "text": "younger people kind of right hero worship older people a little bit but you know then he said he started thinking and it grew in this bigger idea and then became this more fully realize thing but it's cool i mean the a on a lot of levels i think it provides a sort of experience that is so rare you know to be able to play like as young teenage girls you know relating to each a to play as a a girl it all a teenage girl at all a teenage girl who spends the entire game you know"
+}

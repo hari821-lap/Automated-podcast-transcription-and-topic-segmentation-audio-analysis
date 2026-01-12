@@ -1,0 +1,587 @@
+{
+  "result": [
+    {
+      "conf": 0.842137,
+      "end": 0.267427,
+      "start": 0.0,
+      "word": "that's"
+    },
+    {
+      "conf": 0.459195,
+      "end": 0.33,
+      "start": 0.27,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.54,
+      "start": 0.339321,
+      "word": "even"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.63,
+      "start": 0.54,
+      "word": "when"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.75,
+      "start": 0.63,
+      "word": "you're"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.87,
+      "start": 0.75,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.96,
+      "start": 0.87,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.23,
+      "start": 0.96,
+      "word": "rhythm"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.62,
+      "start": 1.23,
+      "word": "games"
+    },
+    {
+      "conf": 0.599363,
+      "end": 1.74,
+      "start": 1.62,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.83,
+      "start": 1.74,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.98,
+      "start": 1.83,
+      "word": "can"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.162544,
+      "start": 1.98,
+      "word": "see"
+    },
+    {
+      "conf": 0.822864,
+      "end": 2.22,
+      "start": 2.162544,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.37,
+      "start": 2.22,
+      "word": "can"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.64,
+      "start": 2.37,
+      "word": "keep"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.82,
+      "start": 2.64,
+      "word": "up"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.03,
+      "start": 2.82,
+      "word": "with"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.27,
+      "start": 3.03,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.17,
+      "start": 4.02,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.53,
+      "start": 4.17,
+      "word": "feed"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.71,
+      "start": 4.59,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.89,
+      "start": 4.71,
+      "word": "see"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.01,
+      "start": 4.89,
+      "word": "how"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.19,
+      "start": 5.01,
+      "word": "they're"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.58,
+      "start": 5.19,
+      "word": "doing"
+    },
+    {
+      "conf": 0.539601,
+      "end": 5.79,
+      "start": 5.67,
+      "word": "or"
+    },
+    {
+      "conf": 0.605737,
+      "end": 5.854659,
+      "start": 5.79,
+      "word": "you"
+    },
+    {
+      "conf": 0.438072,
+      "end": 5.94,
+      "start": 5.854659,
+      "word": "could"
+    },
+    {
+      "conf": 0.840507,
+      "end": 6.089523,
+      "start": 5.94,
+      "word": "just"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.36,
+      "start": 6.089523,
+      "word": "jump"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.6,
+      "start": 6.36,
+      "word": "into"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.69,
+      "start": 6.6,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.78,
+      "start": 6.69,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.96,
+      "start": 6.78,
+      "word": "sort"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.02,
+      "start": 6.96,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.32,
+      "start": 7.02,
+      "word": "scroll"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.53,
+      "start": 7.32,
+      "word": "through"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.68,
+      "start": 7.53,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.58,
+      "start": 8.4,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.91,
+      "start": 8.58,
+      "word": "then"
+    },
+    {
+      "conf": 0.720229,
+      "end": 9.72,
+      "start": 9.57,
+      "word": "we"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.93,
+      "start": 9.72,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.17,
+      "start": 10.02,
+      "word": "if"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.32,
+      "start": 10.17,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.89,
+      "start": 10.32,
+      "word": "survive"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.98,
+      "start": 10.89,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.22,
+      "start": 10.98,
+      "word": "come"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.52,
+      "start": 11.22,
+      "word": "back"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.61,
+      "start": 11.52,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.7,
+      "start": 11.61,
+      "word": "they"
+    },
+    {
+      "conf": 0.639689,
+      "end": 12.09,
+      "start": 11.7,
+      "word": "return"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.15,
+      "start": 12.09,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.45,
+      "start": 12.15,
+      "word": "weapon"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.63,
+      "start": 12.45,
+      "word": "to"
+    },
+    {
+      "conf": 0.983176,
+      "end": 12.846466,
+      "start": 12.63,
+      "word": "you"
+    },
+    {
+      "conf": 0.506892,
+      "end": 13.016322,
+      "start": 12.846466,
+      "word": "in"
+    },
+    {
+      "conf": 0.97707,
+      "end": 13.148593,
+      "start": 13.016322,
+      "word": "you"
+    },
+    {
+      "conf": 0.341575,
+      "end": 13.283114,
+      "start": 13.148593,
+      "word": "eat"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.44,
+      "start": 13.283114,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.62,
+      "start": 13.44,
+      "word": "get"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.22,
+      "start": 13.62,
+      "word": "paid"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.412644,
+      "start": 14.22,
+      "word": "and"
+    },
+    {
+      "conf": 0.623775,
+      "end": 14.850001,
+      "start": 14.412644,
+      "word": "damn"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.06,
+      "start": 14.91,
+      "word": "if"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.18,
+      "start": 15.06,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.63,
+      "start": 15.18,
+      "word": "find"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.99,
+      "start": 15.63,
+      "word": "anything"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.14,
+      "start": 15.99,
+      "word": "out"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.44,
+      "start": 16.14,
+      "word": "there"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.59,
+      "start": 16.44,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.8,
+      "start": 16.59,
+      "word": "might"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.01,
+      "start": 16.8,
+      "word": "get"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.34,
+      "start": 17.01,
+      "word": "that"
+    },
+    {
+      "conf": 0.798889,
+      "end": 17.61,
+      "start": 17.34,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.82,
+      "start": 17.61,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.97,
+      "start": 17.82,
+      "word": "more"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.476208,
+      "start": 17.97,
+      "word": "materials"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.66,
+      "start": 18.483792,
+      "word": "make"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.84,
+      "start": 18.66,
+      "word": "more"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.32,
+      "start": 18.84,
+      "word": "weapons"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.49,
+      "start": 20.31,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.67,
+      "start": 20.49,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.91,
+      "start": 20.67,
+      "word": "far"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.09,
+      "start": 20.91,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.33,
+      "start": 21.12,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.02,
+      "start": 21.78,
+      "word": "pretty"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.32,
+      "start": 22.02,
+      "word": "funny"
+    },
+    {
+      "conf": 0.648388,
+      "end": 22.404088,
+      "start": 22.32,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.47,
+      "start": 22.404088,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.89,
+      "start": 22.47,
+      "word": "gameplay"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.1,
+      "start": 22.89,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.31,
+      "start": 23.1,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.67,
+      "start": 23.52,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.85,
+      "start": 23.67,
+      "word": "pretty"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.09,
+      "start": 23.85,
+      "word": "good"
+    },
+    {
+      "conf": 0.769482,
+      "end": 24.93,
+      "start": 24.6,
+      "word": "nice"
+    }
+  ],
+  "text": "that's a even when you're in the rhythm games like you can see you can keep up with the the feed to see how they're doing or you could just jump into it and sort of scroll through it and then we know if they survive they come back and they return the weapon to you in you eat you get paid and damn if they find anything out there you might get that to like more materials make more weapons and so far it's it's pretty funny and the gameplay is a is pretty good nice"
+}

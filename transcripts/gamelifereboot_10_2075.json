@@ -1,0 +1,455 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.24,
+      "start": 0.09,
+      "word": "and"
+    },
+    {
+      "conf": 0.813105,
+      "end": 0.36,
+      "start": 0.24,
+      "word": "so"
+    },
+    {
+      "conf": 0.390127,
+      "end": 0.51,
+      "start": 0.36,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.81,
+      "start": 0.57,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.02,
+      "start": 0.81,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.5,
+      "start": 1.02,
+      "word": "especially"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.59,
+      "start": 1.5,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.86,
+      "start": 1.59,
+      "word": "see"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.98,
+      "start": 1.86,
+      "word": "it"
+    },
+    {
+      "conf": 0.923102,
+      "end": 2.16,
+      "start": 1.98,
+      "word": "at"
+    },
+    {
+      "conf": 0.945029,
+      "end": 3.9,
+      "start": 3.72,
+      "word": "in"
+    },
+    {
+      "conf": 0.866954,
+      "end": 3.93,
+      "start": 3.9,
+      "word": "a"
+    },
+    {
+      "conf": 0.866954,
+      "end": 4.26,
+      "start": 3.93,
+      "word": "game"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.1,
+      "start": 4.62,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.09,
+      "start": 5.61,
+      "word": "is"
+    },
+    {
+      "conf": 0.73825,
+      "end": 6.54,
+      "start": 6.18,
+      "word": "certain"
+    },
+    {
+      "conf": 0.5318,
+      "end": 6.93,
+      "start": 6.57,
+      "word": "want"
+    },
+    {
+      "conf": 0.789487,
+      "end": 7.11,
+      "start": 6.93,
+      "word": "it"
+    },
+    {
+      "conf": 0.573737,
+      "end": 7.26,
+      "start": 7.11,
+      "word": "as"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.47,
+      "start": 7.26,
+      "word": "like"
+    },
+    {
+      "conf": 0.954222,
+      "end": 7.672909,
+      "start": 7.47,
+      "word": "that"
+    },
+    {
+      "conf": 0.538289,
+      "end": 7.85865,
+      "start": 7.682552,
+      "word": "know"
+    },
+    {
+      "conf": 0.381438,
+      "end": 8.01,
+      "start": 7.85865,
+      "word": "why"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.1,
+      "start": 8.019473,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.4,
+      "start": 8.1,
+      "word": "best"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.76,
+      "start": 8.4,
+      "word": "games"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.15,
+      "start": 8.82,
+      "word": "last"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.51,
+      "start": 9.15,
+      "word": "year"
+    },
+    {
+      "conf": 0.380485,
+      "end": 9.96,
+      "start": 9.51,
+      "word": "insult"
+    },
+    {
+      "conf": 0.301628,
+      "end": 10.8,
+      "start": 10.38,
+      "word": "bullets"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.524119,
+      "start": 10.8,
+      "word": "copies"
+    },
+    {
+      "conf": 0.61339,
+      "end": 11.788854,
+      "start": 11.7,
+      "word": "of"
+    },
+    {
+      "conf": 0.967271,
+      "end": 12.03,
+      "start": 11.788854,
+      "word": "that's"
+    },
+    {
+      "conf": 0.753058,
+      "end": 12.269999,
+      "start": 12.03,
+      "word": "that's"
+    },
+    {
+      "conf": 0.861501,
+      "end": 13.38,
+      "start": 13.11,
+      "word": "well"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.77,
+      "start": 13.38,
+      "word": "and"
+    },
+    {
+      "conf": 0.854647,
+      "end": 14.49,
+      "start": 13.95,
+      "word": "ends"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.64,
+      "start": 14.52,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.76,
+      "start": 14.64,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.0,
+      "start": 14.76,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.24,
+      "start": 15.03,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.72,
+      "start": 15.36,
+      "word": "also"
+    },
+    {
+      "conf": 0.954041,
+      "end": 16.17,
+      "start": 15.72,
+      "word": "mentioned"
+    },
+    {
+      "conf": 0.301149,
+      "end": 16.38,
+      "start": 16.26,
+      "word": "or"
+    },
+    {
+      "conf": 0.69933,
+      "end": 16.5,
+      "start": 16.383126,
+      "word": "to"
+    },
+    {
+      "conf": 0.805033,
+      "end": 16.71,
+      "start": 16.5,
+      "word": "him"
+    },
+    {
+      "conf": 0.677356,
+      "end": 16.882202,
+      "start": 16.71,
+      "word": "any"
+    },
+    {
+      "conf": 0.993607,
+      "end": 17.01,
+      "start": 16.882202,
+      "word": "you"
+    },
+    {
+      "conf": 0.993607,
+      "end": 17.19,
+      "start": 17.01,
+      "word": "know"
+    },
+    {
+      "conf": 0.834145,
+      "end": 17.52,
+      "start": 17.34,
+      "word": "he"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.85,
+      "start": 17.52,
+      "word": "said"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.18,
+      "start": 17.88,
+      "word": "something"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.54,
+      "start": 18.18,
+      "word": "similar"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.69,
+      "start": 18.54,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.87,
+      "start": 18.69,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.08,
+      "start": 18.87,
+      "word": "too"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.38,
+      "start": 19.08,
+      "word": "bad"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.56,
+      "start": 19.38,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.77,
+      "start": 19.62,
+      "word": "there"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.95,
+      "start": 19.77,
+      "word": "aren't"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.1,
+      "start": 19.95,
+      "word": "more"
+    },
+    {
+      "conf": 0.568781,
+      "end": 20.79,
+      "start": 20.100002,
+      "word": "experiences"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.0,
+      "start": 20.79,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.27,
+      "start": 21.0,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.72,
+      "start": 21.48,
+      "word": "right"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.87,
+      "start": 21.72,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.11,
+      "start": 21.87,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.5,
+      "start": 22.11,
+      "word": "often"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.16,
+      "start": 22.5,
+      "word": "forget"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.55,
+      "start": 23.19,
+      "word": "naughty"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.91,
+      "start": 23.55,
+      "word": "dog"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.12,
+      "start": 23.91,
+      "word": "has"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.18,
+      "start": 24.12,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.45,
+      "start": 24.18,
+      "word": "little"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.87,
+      "start": 24.45,
+      "word": "more"
+    }
+  ],
+  "text": "and so the and and especially to see it at in a game that is certain want it as like that know why the best games last year insult bullets copies of that's that's well and ends you know i i also mentioned or to him any you know he said something similar that it's too bad that there aren't more experiences like this right that so often forget naughty dog has a little more"
+}

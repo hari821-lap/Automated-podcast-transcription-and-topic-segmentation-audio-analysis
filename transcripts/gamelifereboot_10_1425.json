@@ -1,0 +1,551 @@
+{
+  "result": [
+    {
+      "conf": 0.943412,
+      "end": 0.3,
+      "start": 0.12,
+      "word": "each"
+    },
+    {
+      "conf": 0.943412,
+      "end": 0.559401,
+      "start": 0.3,
+      "word": "other"
+    },
+    {
+      "conf": 0.552252,
+      "end": 0.75,
+      "start": 0.639645,
+      "word": "the"
+    },
+    {
+      "conf": 0.69122,
+      "end": 0.87,
+      "start": 0.75,
+      "word": "my"
+    },
+    {
+      "conf": 0.44532,
+      "end": 1.26,
+      "start": 0.87,
+      "word": "seat"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.71,
+      "start": 1.35,
+      "word": "during"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.8,
+      "start": 1.71,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.160578,
+      "start": 1.8,
+      "word": "fight"
+    },
+    {
+      "conf": 0.740138,
+      "end": 2.22,
+      "start": 2.160578,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.46,
+      "start": 2.227796,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.88,
+      "start": 2.58,
+      "word": "have"
+    },
+    {
+      "conf": 0.922733,
+      "end": 3.09,
+      "start": 2.88,
+      "word": "less"
+    },
+    {
+      "conf": 0.714345,
+      "end": 3.45,
+      "start": 3.09,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.23,
+      "start": 3.69,
+      "word": "spot"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.68,
+      "start": 4.53,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.77,
+      "start": 4.68,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.942787,
+      "start": 4.77,
+      "word": "was"
+    },
+    {
+      "conf": 0.691527,
+      "end": 5.04,
+      "start": 4.95,
+      "word": "he"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.225721,
+      "start": 5.044082,
+      "word": "was"
+    },
+    {
+      "conf": 0.627487,
+      "end": 5.58,
+      "start": 5.225721,
+      "word": "cool"
+    },
+    {
+      "conf": 0.923294,
+      "end": 5.758732,
+      "start": 5.61,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.88,
+      "start": 5.758732,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.15,
+      "start": 5.88,
+      "word": "good"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.24,
+      "start": 6.15,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.39,
+      "start": 6.24,
+      "word": "was"
+    },
+    {
+      "conf": 0.55308,
+      "end": 6.69,
+      "start": 6.42,
+      "word": "need"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.26,
+      "start": 7.02,
+      "word": "to"
+    },
+    {
+      "conf": 0.751466,
+      "end": 8.04,
+      "start": 7.26,
+      "word": "realize"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.46,
+      "start": 8.16,
+      "word": "oh"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.73,
+      "start": 8.46,
+      "word": "that's"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.85,
+      "start": 8.73,
+      "word": "what"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.91,
+      "start": 8.85,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.076602,
+      "start": 8.91,
+      "word": "get"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.51,
+      "start": 9.15,
+      "word": "do"
+    },
+    {
+      "conf": 0.605067,
+      "end": 10.317249,
+      "start": 10.05,
+      "word": "any"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.62,
+      "start": 10.317249,
+      "word": "also"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.07,
+      "start": 10.62,
+      "word": "reflects"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.19,
+      "start": 11.07,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.49,
+      "start": 11.19,
+      "word": "think"
+    },
+    {
+      "conf": 0.563429,
+      "end": 12.10787,
+      "start": 11.820001,
+      "word": "as"
+    },
+    {
+      "conf": 0.84952,
+      "end": 12.33,
+      "start": 12.261955,
+      "word": "i"
+    },
+    {
+      "conf": 0.84952,
+      "end": 12.75,
+      "start": 12.33,
+      "word": "mean"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.08,
+      "start": 12.93,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.35,
+      "start": 13.08,
+      "word": "happens"
+    },
+    {
+      "conf": 0.743701,
+      "end": 13.53,
+      "start": 13.35,
+      "word": "any"
+    },
+    {
+      "conf": 0.743701,
+      "end": 13.77,
+      "start": 13.53,
+      "word": "time"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.86,
+      "start": 13.77,
+      "word": "you"
+    },
+    {
+      "conf": 0.948415,
+      "end": 14.088747,
+      "start": 13.86,
+      "word": "play"
+    },
+    {
+      "conf": 0.266146,
+      "end": 14.28,
+      "start": 14.19,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.43,
+      "start": 14.28,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.49,
+      "start": 14.43,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.7,
+      "start": 14.49,
+      "word": "think"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.82,
+      "start": 14.7,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.36,
+      "start": 14.82,
+      "word": "extension"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.42,
+      "start": 15.36,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.68677,
+      "start": 15.42,
+      "word": "that"
+    },
+    {
+      "conf": 0.708514,
+      "end": 15.988035,
+      "start": 15.69,
+      "word": "wishes"
+    },
+    {
+      "conf": 0.81617,
+      "end": 16.29,
+      "start": 15.988035,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.74,
+      "start": 16.5,
+      "word": "she's"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.98,
+      "start": 16.74,
+      "word": "now"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.31,
+      "start": 16.98,
+      "word": "mainly"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.58,
+      "start": 17.31,
+      "word": "fighter"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.7,
+      "start": 17.58,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.03,
+      "start": 17.7,
+      "word": "job"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.3,
+      "start": 18.06,
+      "word": "she's"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.534798,
+      "start": 18.3,
+      "word": "not"
+    },
+    {
+      "conf": 0.45086,
+      "end": 18.6,
+      "start": 18.54,
+      "word": "a"
+    },
+    {
+      "conf": 0.423597,
+      "end": 18.9,
+      "start": 18.606141,
+      "word": "big"
+    },
+    {
+      "conf": 0.661089,
+      "end": 18.983844,
+      "start": 18.9,
+      "word": "if"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.05,
+      "start": 18.983844,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.17,
+      "start": 19.05,
+      "word": "go"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.53,
+      "start": 19.17,
+      "word": "straight"
+    },
+    {
+      "conf": 0.879596,
+      "end": 19.65,
+      "start": 19.53,
+      "word": "out"
+    },
+    {
+      "conf": 0.879596,
+      "end": 19.68,
+      "start": 19.65,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.07,
+      "start": 19.68,
+      "word": "guy"
+    },
+    {
+      "conf": 0.875725,
+      "end": 20.43,
+      "start": 20.25,
+      "word": "he's"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.67,
+      "start": 20.433783,
+      "word": "really"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.79,
+      "start": 20.67,
+      "word": "good"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.15,
+      "start": 20.79,
+      "word": "chances"
+    },
+    {
+      "conf": 0.832769,
+      "end": 21.3,
+      "start": 21.15,
+      "word": "them"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.51,
+      "start": 21.3,
+      "word": "take"
+    },
+    {
+      "conf": 0.83466,
+      "end": 21.63,
+      "start": 21.51,
+      "word": "you"
+    },
+    {
+      "conf": 0.476498,
+      "end": 21.81,
+      "start": 21.63,
+      "word": "up"
+    },
+    {
+      "conf": 0.83466,
+      "end": 22.23,
+      "start": 21.81,
+      "word": "prices"
+    },
+    {
+      "conf": 0.930182,
+      "end": 22.38,
+      "start": 22.23,
+      "word": "she"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.71,
+      "start": 22.38,
+      "word": "has"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.83,
+      "start": 22.71,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.16,
+      "start": 22.83,
+      "word": "be"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.91,
+      "start": 23.19,
+      "word": "stealthier"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.03,
+      "start": 23.91,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.54,
+      "start": 24.03,
+      "word": "smarter"
+    }
+  ],
+  "text": "each other the my seat during the fight the they have less like spot but it was he was cool it was good it was need to realize oh that's what i get do any also reflects i think as i mean this happens any time you play a but i think it's extension of that wishes that she's now mainly fighter the job she's not a big if you go straight out a guy he's really good chances them take you up prices she has to be stealthier and smarter"
+}

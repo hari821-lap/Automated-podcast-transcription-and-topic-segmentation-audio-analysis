@@ -1,0 +1,365 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.6,
+      "start": 0.48,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.78,
+      "start": 0.6,
+      "word": "didn't"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.96,
+      "start": 0.78,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.2,
+      "start": 0.96,
+      "word": "that"
+    },
+    {
+      "conf": 0.763613,
+      "end": 2.1,
+      "start": 1.798661,
+      "word": "i"
+    },
+    {
+      "conf": 0.874378,
+      "end": 2.43,
+      "start": 2.1,
+      "word": "always"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.67,
+      "start": 2.467537,
+      "word": "end"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.73,
+      "start": 2.67,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.79,
+      "start": 2.73,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.12,
+      "start": 2.79,
+      "word": "scale"
+    },
+    {
+      "conf": 0.957539,
+      "end": 3.84,
+      "start": 3.78,
+      "word": "i"
+    },
+    {
+      "conf": 0.957539,
+      "end": 4.019239,
+      "start": 3.84,
+      "word": "didn't"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.14,
+      "start": 4.019239,
+      "word": "know"
+    },
+    {
+      "conf": 0.918217,
+      "end": 4.23,
+      "start": 4.14,
+      "word": "i"
+    },
+    {
+      "conf": 0.672315,
+      "end": 4.374156,
+      "start": 4.233649,
+      "word": "would"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.47,
+      "start": 4.374156,
+      "word": "be"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.98,
+      "start": 4.47,
+      "word": "receiving"
+    },
+    {
+      "conf": 0.770124,
+      "end": 6.09,
+      "start": 6.03,
+      "word": "a"
+    },
+    {
+      "conf": 0.770124,
+      "end": 6.33,
+      "start": 6.09,
+      "word": "very"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.63,
+      "start": 6.343792,
+      "word": "great"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.84,
+      "start": 6.63,
+      "word": "lot"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.9,
+      "start": 6.84,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.2,
+      "start": 6.9,
+      "word": "scale"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.29,
+      "start": 7.2,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.499221,
+      "start": 7.32,
+      "word": "one"
+    },
+    {
+      "conf": 0.768893,
+      "end": 7.59,
+      "start": 7.503257,
+      "word": "the"
+    },
+    {
+      "conf": 0.895731,
+      "end": 8.04,
+      "start": 7.59,
+      "word": "davey"
+    },
+    {
+      "conf": 0.846591,
+      "end": 9.15,
+      "start": 8.79,
+      "word": "davey"
+    },
+    {
+      "conf": 0.846591,
+      "end": 10.2,
+      "start": 9.87,
+      "word": "davey"
+    },
+    {
+      "conf": 0.487615,
+      "end": 10.386456,
+      "start": 10.292597,
+      "word": "and"
+    },
+    {
+      "conf": 0.662467,
+      "end": 12.09,
+      "start": 11.97,
+      "word": "i'll"
+    },
+    {
+      "conf": 0.662467,
+      "end": 12.36,
+      "start": 12.09,
+      "word": "take"
+    },
+    {
+      "conf": 0.997821,
+      "end": 13.08,
+      "start": 12.66,
+      "word": "second"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.388297,
+      "start": 13.08,
+      "word": "place"
+    },
+    {
+      "conf": 0.613398,
+      "end": 13.56,
+      "start": 13.388297,
+      "word": "that"
+    },
+    {
+      "conf": 0.279826,
+      "end": 13.86,
+      "start": 13.62,
+      "word": "enough"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.64,
+      "start": 17.43,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.03,
+      "start": 17.7,
+      "word": "spoke"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.24,
+      "start": 18.03,
+      "word": "with"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.93,
+      "start": 18.51,
+      "word": "rich"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.14,
+      "start": 18.96,
+      "word": "hill"
+    },
+    {
+      "conf": 0.419779,
+      "end": 19.26,
+      "start": 19.14,
+      "word": "i'm"
+    },
+    {
+      "conf": 0.706865,
+      "end": 19.38,
+      "start": 19.26,
+      "word": "in"
+    },
+    {
+      "conf": 0.479679,
+      "end": 19.44,
+      "start": 19.38,
+      "word": "it"
+    },
+    {
+      "conf": 0.969622,
+      "end": 19.62,
+      "start": 19.44,
+      "word": "now"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.83,
+      "start": 19.62,
+      "word": "he"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.04,
+      "start": 19.83,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.28,
+      "start": 20.04,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.76,
+      "start": 20.28,
+      "word": "original"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.18,
+      "start": 20.76,
+      "word": "creator"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.48,
+      "start": 21.18,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.87,
+      "start": 21.51,
+      "word": "john"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.17,
+      "start": 21.87,
+      "word": "madden"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.83,
+      "start": 22.2,
+      "word": "football"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.19,
+      "start": 22.98,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.4,
+      "start": 23.19,
+      "word": "he's"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.76,
+      "start": 23.4,
+      "word": "currently"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.18,
+      "start": 23.76,
+      "word": "chief"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.69,
+      "start": 24.18,
+      "word": "creative"
+    },
+    {
+      "conf": 0.619559,
+      "end": 24.99,
+      "start": 24.72,
+      "word": "officer"
+    }
+  ],
+  "text": "i didn't know that i always end of the scale i didn't know i would be receiving a very great lot of scale of one the davey davey davey and i'll take second place that enough i spoke with rich hill i'm in it now he is the original creator of john madden football and he's currently chief creative officer"
+}

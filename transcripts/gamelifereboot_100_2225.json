@@ -1,0 +1,581 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.12,
+      "start": 0.0,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.63,
+      "start": 0.12,
+      "word": "great"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.99,
+      "start": 0.63,
+      "word": "great"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.44,
+      "start": 0.99,
+      "word": "stuff"
+    },
+    {
+      "conf": 0.754372,
+      "end": 1.62,
+      "start": 1.47,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.89,
+      "start": 1.62,
+      "word": "really"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.34,
+      "start": 1.89,
+      "word": "interesting"
+    },
+    {
+      "conf": 0.524594,
+      "end": 2.455029,
+      "start": 2.34,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.67,
+      "start": 2.455029,
+      "word": "big"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.15,
+      "start": 2.67,
+      "word": "twist"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.756483,
+      "start": 3.51,
+      "word": "that"
+    },
+    {
+      "conf": 0.314616,
+      "end": 3.87,
+      "start": 3.756483,
+      "word": "had"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.11,
+      "start": 3.87,
+      "word": "already"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.29,
+      "start": 4.11,
+      "word": "kind"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.38,
+      "start": 4.29,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.74,
+      "start": 4.38,
+      "word": "occurred"
+    },
+    {
+      "conf": 0.690148,
+      "end": 5.13,
+      "start": 4.89,
+      "word": "so"
+    },
+    {
+      "conf": 0.690148,
+      "end": 5.16,
+      "start": 5.13,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.28,
+      "start": 5.16,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.46,
+      "start": 5.28,
+      "word": "just"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.64,
+      "start": 5.46,
+      "word": "sort"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.73,
+      "start": 5.64,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.03,
+      "start": 5.73,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.63,
+      "start": 6.48,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.96,
+      "start": 6.63,
+      "word": "felt"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.08,
+      "start": 6.96,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.14,
+      "start": 7.08,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.35,
+      "start": 7.14,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.68,
+      "start": 7.38,
+      "word": "having"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.74,
+      "start": 7.68,
+      "word": "a"
+    },
+    {
+      "conf": 0.649497,
+      "end": 8.25,
+      "start": 7.74,
+      "word": "slog"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.37,
+      "start": 8.25,
+      "word": "my"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.52,
+      "start": 8.37,
+      "word": "way"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.97,
+      "start": 8.52,
+      "word": "through"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.63,
+      "start": 8.97,
+      "word": "again"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.87,
+      "start": 9.69,
+      "word": "this"
+    },
+    {
+      "conf": 0.544394,
+      "end": 10.23,
+      "start": 9.870001,
+      "word": "comment"
+    },
+    {
+      "conf": 0.792932,
+      "end": 10.348725,
+      "start": 10.23,
+      "word": "see"
+    },
+    {
+      "conf": 0.927989,
+      "end": 10.47,
+      "start": 10.348725,
+      "word": "when"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.65,
+      "start": 10.47,
+      "word": "said"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.68,
+      "start": 10.65,
+      "word": "he"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.86,
+      "start": 10.68,
+      "word": "didn't"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.98,
+      "start": 10.86,
+      "word": "want"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.04,
+      "start": 10.98,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.19,
+      "start": 11.04,
+      "word": "do"
+    },
+    {
+      "conf": 0.683937,
+      "end": 11.46,
+      "start": 11.394864,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.64,
+      "start": 11.469482,
+      "word": "did"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.94,
+      "start": 11.64,
+      "word": "something"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.03,
+      "start": 11.94,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.12,
+      "start": 12.03,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.45,
+      "start": 12.21,
+      "word": "just"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.6,
+      "start": 12.45,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.05,
+      "start": 12.63,
+      "word": "almost"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.32,
+      "start": 13.05,
+      "word": "never"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.65,
+      "start": 13.32,
+      "word": "do"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.95,
+      "start": 13.74,
+      "word": "which"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.07,
+      "start": 13.95,
+      "word": "they"
+    },
+    {
+      "conf": 0.658871,
+      "end": 14.22,
+      "start": 14.07,
+      "word": "got"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.7,
+      "start": 14.22,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.3,
+      "start": 14.7,
+      "word": "frustrated"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.81,
+      "start": 15.6,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.87,
+      "start": 15.81,
+      "word": "i"
+    },
+    {
+      "conf": 0.891706,
+      "end": 16.19686,
+      "start": 15.87,
+      "word": "kicked"
+    },
+    {
+      "conf": 0.591592,
+      "end": 16.257396,
+      "start": 16.2,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.47,
+      "start": 16.257396,
+      "word": "down"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.65,
+      "start": 16.47,
+      "word": "from"
+    },
+    {
+      "conf": 0.922498,
+      "end": 16.951932,
+      "start": 16.65,
+      "word": "normal"
+    },
+    {
+      "conf": 0.472649,
+      "end": 17.07,
+      "start": 16.951932,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.49,
+      "start": 17.098248,
+      "word": "easy"
+    },
+    {
+      "conf": 0.422932,
+      "end": 17.79,
+      "start": 17.64,
+      "word": "then"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.88,
+      "start": 17.79,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.18,
+      "start": 17.88,
+      "word": "just"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.33,
+      "start": 18.21,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.51,
+      "start": 18.33,
+      "word": "just"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.69,
+      "start": 18.51,
+      "word": "sort"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.9,
+      "start": 18.69,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.89,
+      "start": 19.56,
+      "word": "easy"
+    },
+    {
+      "conf": 0.931856,
+      "end": 20.34,
+      "start": 19.89,
+      "word": "combat"
+    },
+    {
+      "conf": 0.444921,
+      "end": 20.43,
+      "start": 20.34,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.52,
+      "start": 20.43,
+      "word": "my"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.7,
+      "start": 20.52,
+      "word": "way"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.91,
+      "start": 20.7,
+      "word": "through"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.09,
+      "start": 20.91,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.897189,
+      "start": 21.75,
+      "word": "and"
+    },
+    {
+      "conf": 0.527873,
+      "end": 21.99,
+      "start": 21.9,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.35,
+      "start": 21.99,
+      "word": "relied"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.44,
+      "start": 22.35,
+      "word": "on"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.53,
+      "start": 22.44,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.83,
+      "start": 22.53,
+      "word": "fact"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.07,
+      "start": 22.83,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.0,
+      "start": 23.64,
+      "word": "everything"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.12,
+      "start": 24.0,
+      "word": "would"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.24,
+      "start": 24.12,
+      "word": "be"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.57,
+      "start": 24.24,
+      "word": "weaker"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.69,
+      "start": 24.57,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.99,
+      "start": 24.69,
+      "word": "stupid"
+    }
+  ],
+  "text": "the great great stuff the really interesting that big twist that had already kind of occurred so i was just sort of like i felt like i was having a slog my way through again this comment see when said he didn't want to do i did something that i just i almost never do which they got so frustrated that i kicked it down from normal that easy then i just i just sort of easy combat it my way through it and is relied on the fact that everything would be weaker and stupid"
+}
