@@ -1,0 +1,341 @@
+{
+  "result": [
+    {
+      "conf": 0.389964,
+      "end": 0.3,
+      "start": 0.174245,
+      "word": "and"
+    },
+    {
+      "conf": 0.66972,
+      "end": 0.45,
+      "start": 0.317382,
+      "word": "who"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.63,
+      "start": 0.45,
+      "word": "have"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.93,
+      "start": 0.63,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.8,
+      "start": 1.56,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.95,
+      "start": 1.83,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.04,
+      "start": 1.95,
+      "word": "end"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.1,
+      "start": 2.04,
+      "word": "up"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.31,
+      "start": 2.1,
+      "word": "getting"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.49,
+      "start": 2.31,
+      "word": "sent"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.58,
+      "start": 2.49,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.67,
+      "start": 2.58,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.06,
+      "start": 2.67,
+      "word": "resort"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.72,
+      "start": 3.06,
+      "word": "hotel"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.93,
+      "start": 3.72,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.05,
+      "start": 3.93,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.2,
+      "start": 4.05,
+      "word": "all"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.68,
+      "start": 4.2,
+      "word": "kinds"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.77,
+      "start": 4.68,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.1,
+      "start": 4.77,
+      "word": "crazy"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.4,
+      "start": 5.1,
+      "word": "things"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.85,
+      "start": 5.4,
+      "word": "happen"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.99,
+      "start": 6.66,
+      "word": "but"
+    },
+    {
+      "conf": 0.952547,
+      "end": 7.2,
+      "start": 7.02,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.772952,
+      "start": 7.420069,
+      "word": "it's"
+    },
+    {
+      "conf": 0.51063,
+      "end": 8.43,
+      "start": 7.89,
+      "word": "dumb"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.94,
+      "start": 8.64,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.56,
+      "start": 10.41,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.68,
+      "start": 10.56,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.19,
+      "start": 10.68,
+      "word": "great"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.67,
+      "start": 11.19,
+      "word": "humor"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.88,
+      "start": 11.67,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.15,
+      "start": 11.88,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.75,
+      "start": 12.15,
+      "word": "everything"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.93,
+      "start": 12.75,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.47,
+      "start": 12.93,
+      "word": "happens"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.65,
+      "start": 13.47,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.58,
+      "start": 13.71,
+      "word": "unexpected"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.06,
+      "start": 14.82,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.75,
+      "start": 15.06,
+      "word": "really"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.5,
+      "start": 16.32,
+      "word": "if"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.68,
+      "start": 16.5,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.04,
+      "start": 16.68,
+      "word": "think"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.19,
+      "start": 17.04,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.52,
+      "start": 17.19,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.76,
+      "start": 17.52,
+      "word": "what's"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.94,
+      "start": 17.76,
+      "word": "gonna"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.45,
+      "start": 17.94,
+      "word": "happen"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.66,
+      "start": 18.48,
+      "word": "when"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.84,
+      "start": 18.66,
+      "word": "you"
+    },
+    {
+      "conf": 0.484694,
+      "end": 19.036996,
+      "start": 18.84,
+      "word": "opt"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.11,
+      "start": 19.036996,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.47,
+      "start": 19.11,
+      "word": "someone"
+    },
+    {
+      "conf": 0.576438,
+      "end": 19.560002,
+      "start": 19.470002,
+      "word": "and"
+    },
+    {
+      "conf": 0.672614,
+      "end": 19.8,
+      "start": 19.560002,
+      "word": "talk"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.92,
+      "start": 19.809822,
+      "word": "to"
+    }
+  ],
+  "text": "and who have to you you end up getting sent to a resort hotel and and all kinds of crazy things happen but it it's dumb it's it is great humor in that everything that happens is unexpected you really if you think you know what's gonna happen when you opt to someone and talk to"
+}

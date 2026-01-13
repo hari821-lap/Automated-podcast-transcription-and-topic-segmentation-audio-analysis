@@ -1,0 +1,317 @@
+{
+  "result": [
+    {
+      "conf": 0.777594,
+      "end": 0.48,
+      "start": 0.03,
+      "word": "di"
+    },
+    {
+      "conf": 0.671021,
+      "end": 0.650593,
+      "start": 0.54,
+      "word": "di"
+    },
+    {
+      "conf": 0.835622,
+      "end": 0.81,
+      "start": 0.673463,
+      "word": "don't"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.93,
+      "start": 0.81,
+      "word": "get"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.35,
+      "start": 0.93,
+      "word": "paid"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.92,
+      "start": 1.68,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.1,
+      "start": 1.92,
+      "word": "you're"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.34,
+      "start": 2.1,
+      "word": "really"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.58,
+      "start": 2.34,
+      "word": "trying"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.67,
+      "start": 2.58,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.94,
+      "start": 2.67,
+      "word": "match"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.09,
+      "start": 3.0,
+      "word": "up"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.182802,
+      "start": 3.09,
+      "word": "with"
+    },
+    {
+      "conf": 0.447208,
+      "end": 3.21,
+      "start": 3.182802,
+      "word": "a"
+    },
+    {
+      "conf": 0.884494,
+      "end": 3.9,
+      "start": 3.21477,
+      "word": "requests"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.22,
+      "start": 4.92,
+      "word": "there"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.49,
+      "start": 5.22,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.91,
+      "start": 5.52,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.8,
+      "start": 7.35,
+      "word": "twitter"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.28,
+      "start": 7.89,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.88,
+      "start": 8.31,
+      "word": "system"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.12,
+      "start": 8.97,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.18,
+      "start": 9.12,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.6,
+      "start": 9.18,
+      "word": "game"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.084111,
+      "start": 9.81,
+      "word": "so"
+    },
+    {
+      "conf": 0.538883,
+      "end": 10.2,
+      "start": 10.084111,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.32,
+      "start": 10.2,
+      "word": "when"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.41,
+      "start": 10.32,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.56,
+      "start": 10.41,
+      "word": "go"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.68,
+      "start": 10.56,
+      "word": "out"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.77,
+      "start": 10.68,
+      "word": "on"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.89,
+      "start": 10.77,
+      "word": "their"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.52,
+      "start": 10.89,
+      "word": "quests"
+    },
+    {
+      "conf": 0.819631,
+      "end": 12.12,
+      "start": 11.67,
+      "word": "i'm"
+    },
+    {
+      "conf": 0.729745,
+      "end": 12.69,
+      "start": 12.21,
+      "word": "vey"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.96,
+      "start": 12.78,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.29,
+      "start": 12.96,
+      "word": "called"
+    },
+    {
+      "conf": 0.745675,
+      "end": 13.68,
+      "start": 13.29,
+      "word": "i'm"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.34,
+      "start": 13.92,
+      "word": "grind"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.94,
+      "start": 14.34,
+      "word": "casting"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.93,
+      "start": 15.42,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.5,
+      "start": 16.32,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.59,
+      "start": 16.5,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.07,
+      "start": 16.59,
+      "word": "explained"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.49,
+      "start": 17.07,
+      "word": "away"
+    },
+    {
+      "conf": 0.679596,
+      "end": 17.61,
+      "start": 17.49,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.76,
+      "start": 17.61,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.3,
+      "start": 17.82,
+      "word": "completely"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.81,
+      "start": 18.3,
+      "word": "ridiculous"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.23,
+      "start": 18.81,
+      "word": "manner"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.59,
+      "start": 19.26,
+      "word": "but"
+    },
+    {
+      "conf": 0.452589,
+      "end": 19.98,
+      "start": 19.62,
+      "word": "basic"
+    }
+  ],
+  "text": "di di don't get paid so you're really trying to match up with a requests there is a twitter like system in the game so it when they go out on their quests i'm vey it's called i'm grind casting and it is explained away in a completely ridiculous manner but basic"
+}

@@ -1,0 +1,323 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.72,
+      "start": 0.24,
+      "word": "infinity"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.02,
+      "start": 0.72,
+      "word": "ward"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.23,
+      "start": 1.02,
+      "word": "is"
+    },
+    {
+      "conf": 0.606872,
+      "end": 1.44,
+      "start": 1.29,
+      "word": "she"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.68,
+      "start": 1.448669,
+      "word": "kind"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.86,
+      "start": 1.68,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.04,
+      "start": 1.89,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.16,
+      "start": 2.04,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.52,
+      "start": 2.16,
+      "word": "cod"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.0,
+      "start": 2.52,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.33,
+      "start": 3.0,
+      "word": "wasn't"
+    },
+    {
+      "conf": 0.773933,
+      "end": 3.446702,
+      "start": 3.33,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.57,
+      "start": 3.446702,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.84,
+      "start": 3.57,
+      "word": "really"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.23,
+      "start": 3.84,
+      "word": "became"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.32,
+      "start": 4.23,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.83,
+      "start": 4.32,
+      "word": "first"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.19,
+      "start": 5.04,
+      "word": "oh"
+    },
+    {
+      "conf": 0.693137,
+      "end": 5.43,
+      "start": 5.19,
+      "word": "yeah"
+    },
+    {
+      "conf": 0.514365,
+      "end": 5.88,
+      "start": 5.46611,
+      "word": "same"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.72,
+      "start": 5.88,
+      "word": "multiplayer"
+    },
+    {
+      "conf": 0.249835,
+      "end": 7.29,
+      "start": 6.75,
+      "word": "css"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.5,
+      "start": 7.38,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.8,
+      "start": 7.5,
+      "word": "was"
+    },
+    {
+      "conf": 0.222528,
+      "end": 8.04,
+      "start": 7.8,
+      "word": "immune"
+    },
+    {
+      "conf": 0.769289,
+      "end": 8.13,
+      "start": 8.04,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.4,
+      "start": 8.13,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.82,
+      "start": 8.49,
+      "word": "call"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.94,
+      "start": 8.82,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.42,
+      "start": 8.94,
+      "word": "duty"
+    },
+    {
+      "conf": 0.539319,
+      "end": 10.164464,
+      "start": 9.84,
+      "word": "modern"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.65,
+      "start": 10.164464,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.25,
+      "start": 10.71,
+      "word": "modern"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.06,
+      "start": 11.25,
+      "word": "warfare"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.87,
+      "start": 12.33,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.62,
+      "start": 13.17,
+      "word": "took"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.92,
+      "start": 13.65,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.19,
+      "start": 13.95,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.91,
+      "start": 14.19,
+      "word": "emerging"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.21,
+      "start": 14.91,
+      "word": "call"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.3,
+      "start": 15.21,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.63,
+      "start": 15.3,
+      "word": "duty"
+    },
+    {
+      "conf": 0.352087,
+      "end": 16.02,
+      "start": 15.63,
+      "word": "siri"
+    },
+    {
+      "conf": 0.562064,
+      "end": 16.14,
+      "start": 16.02,
+      "word": "could"
+    },
+    {
+      "conf": 0.833315,
+      "end": 16.35,
+      "start": 16.14,
+      "word": "never"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.62,
+      "start": 16.35,
+      "word": "call"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.71,
+      "start": 16.62,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.98,
+      "start": 16.71,
+      "word": "duty"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.4,
+      "start": 16.98,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.61,
+      "start": 17.4,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.97,
+      "start": 17.61,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.23,
+      "start": 18.27,
+      "word": "popular"
+    },
+    {
+      "conf": 0.528529,
+      "end": 19.71,
+      "start": 19.29,
+      "word": "yeah"
+    }
+  ],
+  "text": "infinity ward is she kind of it was cod for wasn't it that really became the first oh yeah same multiplayer css it was immune it was call of duty modern for modern warfare that took the the emerging call of duty siri could never call of duty to was like popular yeah"
+}

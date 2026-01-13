@@ -1,0 +1,395 @@
+{
+  "result": [
+    {
+      "conf": 0.854257,
+      "end": 0.45,
+      "start": 0.03,
+      "word": "soldier"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.96,
+      "start": 0.63,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.11,
+      "start": 0.96,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.23,
+      "start": 1.11,
+      "word": "can"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.38,
+      "start": 1.23,
+      "word": "have"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.71,
+      "start": 1.38,
+      "word": "people"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.86,
+      "start": 1.71,
+      "word": "who"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.04,
+      "start": 1.86,
+      "word": "are"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.22,
+      "start": 2.04,
+      "word": "kind"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.28,
+      "start": 2.22,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.55,
+      "start": 2.28,
+      "word": "really"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.82,
+      "start": 2.55,
+      "word": "lone"
+    },
+    {
+      "conf": 0.930649,
+      "end": 3.049341,
+      "start": 2.82,
+      "word": "wolf"
+    },
+    {
+      "conf": 0.51646,
+      "end": 3.12,
+      "start": 3.06,
+      "word": "he"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.36,
+      "start": 3.124586,
+      "word": "run"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.48,
+      "start": 3.36,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.69,
+      "start": 3.48,
+      "word": "gun"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.08,
+      "start": 3.69,
+      "word": "players"
+    },
+    {
+      "conf": 0.682032,
+      "end": 4.2,
+      "start": 4.08,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.41,
+      "start": 4.2,
+      "word": "any"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.59,
+      "start": 4.41,
+      "word": "other"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.86,
+      "start": 4.59,
+      "word": "team"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.28,
+      "start": 4.86,
+      "word": "deathmatch"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.61,
+      "start": 5.28,
+      "word": "setting"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.03,
+      "start": 5.82,
+      "word": "they"
+    },
+    {
+      "conf": 0.752888,
+      "end": 6.24,
+      "start": 6.03,
+      "word": "might"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.42,
+      "start": 6.24,
+      "word": "not"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.66,
+      "start": 6.42,
+      "word": "top"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.75,
+      "start": 6.66,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.35,
+      "start": 6.75,
+      "word": "leaderboard"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.89,
+      "start": 7.68,
+      "word": "if"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.16,
+      "start": 7.92,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.49,
+      "start": 8.16,
+      "word": "die"
+    },
+    {
+      "conf": 0.806391,
+      "end": 8.55,
+      "start": 8.49,
+      "word": "a"
+    },
+    {
+      "conf": 0.806391,
+      "end": 8.85,
+      "start": 8.55,
+      "word": "lot"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.0,
+      "start": 8.855808,
+      "word": "but"
+    },
+    {
+      "conf": 0.612059,
+      "end": 9.18,
+      "start": 9.0,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.57,
+      "start": 9.191638,
+      "word": "take"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.78,
+      "start": 9.57,
+      "word": "out"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.26,
+      "start": 9.78,
+      "word": "titans"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.35,
+      "start": 10.26,
+      "word": "and"
+    },
+    {
+      "conf": 0.514806,
+      "end": 10.47,
+      "start": 10.35,
+      "word": "your"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.95,
+      "start": 10.47,
+      "word": "judicious"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.16,
+      "start": 10.95,
+      "word": "about"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.25,
+      "start": 11.16,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.52,
+      "start": 11.25,
+      "word": "way"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.67,
+      "start": 11.52,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.97,
+      "start": 11.67,
+      "word": "play"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.09,
+      "start": 11.97,
+      "word": "your"
+    },
+    {
+      "conf": 0.890054,
+      "end": 12.3477,
+      "start": 12.09,
+      "word": "tongue"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.87,
+      "start": 12.374246,
+      "word": "leaderboard"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.99,
+      "start": 12.87,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.14,
+      "start": 12.99,
+      "word": "your"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.44,
+      "start": 13.14,
+      "word": "team"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.86,
+      "start": 13.65,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.01,
+      "start": 13.86,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.1,
+      "start": 14.01,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.52,
+      "start": 14.1,
+      "word": "nice"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.96,
+      "start": 14.52,
+      "word": "reprioritisation"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.65,
+      "start": 16.5,
+      "word": "it's"
+    },
+    {
+      "conf": 0.656029,
+      "end": 16.70818,
+      "start": 16.65,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.98,
+      "start": 16.70818,
+      "word": "more"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.97,
+      "start": 16.98,
+      "word": "cooperative"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.96,
+      "start": 18.24,
+      "word": "feeling"
+    },
+    {
+      "conf": 0.786638,
+      "end": 19.98,
+      "start": 19.32,
+      "word": "deathmatch"
+    }
+  ],
+  "text": "soldier so you can have people who are kind of really lone wolf he run and gun players and any other team deathmatch setting they might not top the leaderboard if you die a lot but you take out titans and your judicious about the way you play your tongue leaderboard for your team so it's a nice reprioritisation it's a more cooperative feeling deathmatch"
+}

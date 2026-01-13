@@ -1,0 +1,317 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.301269,
+      "start": 0.0,
+      "word": "this"
+    },
+    {
+      "conf": 0.71362,
+      "end": 0.389269,
+      "start": 0.301269,
+      "word": "who"
+    },
+    {
+      "conf": 0.853469,
+      "end": 0.54,
+      "start": 0.389269,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.84,
+      "start": 0.54,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.17,
+      "start": 0.93,
+      "word": "winner"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.23,
+      "start": 1.17,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.32,
+      "start": 1.23,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.881476,
+      "start": 1.32,
+      "word": "pioneer"
+    },
+    {
+      "conf": 0.582961,
+      "end": 2.25,
+      "start": 1.89,
+      "word": "ward"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.24,
+      "start": 3.09,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.66,
+      "start": 3.24,
+      "word": "introduce"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.81,
+      "start": 3.66,
+      "word": "all"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.9,
+      "start": 3.81,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.11,
+      "start": 3.9,
+      "word": "these"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.44,
+      "start": 4.11,
+      "word": "things"
+    },
+    {
+      "conf": 0.66086,
+      "end": 4.56,
+      "start": 4.44,
+      "word": "in"
+    },
+    {
+      "conf": 0.890911,
+      "end": 4.77,
+      "start": 4.56,
+      "word": "this"
+    },
+    {
+      "conf": 0.733671,
+      "end": 5.178629,
+      "start": 5.045247,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.64,
+      "start": 5.261262,
+      "word": "fun"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.23,
+      "start": 6.72,
+      "word": "segment"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.01,
+      "start": 7.68,
+      "word": "thirty"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.19,
+      "start": 8.01,
+      "word": "three"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.54,
+      "start": 9.33,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.69,
+      "start": 9.54,
+      "word": "don't"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.96,
+      "start": 9.69,
+      "word": "worry"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.17,
+      "start": 9.96,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.53,
+      "start": 10.17,
+      "word": "also"
+    },
+    {
+      "conf": 0.738372,
+      "end": 10.62,
+      "start": 10.53,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.01,
+      "start": 10.62,
+      "word": "palmer"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.4,
+      "start": 11.01,
+      "word": "lucky"
+    },
+    {
+      "conf": 0.405654,
+      "end": 12.42,
+      "start": 12.12,
+      "word": "i'm"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.87,
+      "start": 12.48,
+      "word": "child"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.35,
+      "start": 12.87,
+      "word": "genius"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.83,
+      "start": 13.35,
+      "word": "and"
+    },
+    {
+      "conf": 0.907601,
+      "end": 14.22,
+      "start": 13.98,
+      "word": "head"
+    },
+    {
+      "conf": 0.907601,
+      "end": 14.4,
+      "start": 14.22,
+      "word": "of"
+    },
+    {
+      "conf": 0.836174,
+      "end": 14.579999,
+      "start": 14.4,
+      "word": "had"
+    },
+    {
+      "conf": 0.656025,
+      "end": 14.639999,
+      "start": 14.579999,
+      "word": "a"
+    },
+    {
+      "conf": 0.955877,
+      "end": 15.41313,
+      "start": 14.650796,
+      "word": "vakalis"
+    },
+    {
+      "conf": 0.483184,
+      "end": 15.51,
+      "start": 15.42,
+      "word": "i"
+    },
+    {
+      "conf": 0.945726,
+      "end": 15.72,
+      "start": 15.514872,
+      "word": "like"
+    },
+    {
+      "conf": 0.906784,
+      "end": 15.838901,
+      "start": 15.721796,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.02,
+      "start": 15.838901,
+      "word": "he's"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.38,
+      "start": 16.02,
+      "word": "gone"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.01,
+      "start": 16.38,
+      "word": "from"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.03,
+      "start": 17.64,
+      "word": "from"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.24,
+      "start": 18.03,
+      "word": "adam"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.45,
+      "start": 18.24,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.72,
+      "start": 18.45,
+      "word": "some"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.17,
+      "start": 18.72,
+      "word": "reason"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.53,
+      "start": 19.2,
+      "word": "boy"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.95,
+      "start": 19.53,
+      "word": "genius"
+    }
+  ],
+  "text": "this who was the winner of the pioneer ward i introduce all of these things in this is fun segment thirty three so don't worry and also a palmer lucky i'm child genius and head of had a vakalis i like that he's gone from from adam for some reason boy genius"
+}

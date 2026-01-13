@@ -1,0 +1,329 @@
+{
+  "result": [
+    {
+      "conf": 0.450821,
+      "end": 0.946553,
+      "start": 0.66,
+      "word": "our"
+    },
+    {
+      "conf": 0.30061,
+      "end": 1.2,
+      "start": 0.96,
+      "word": "now"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.5,
+      "start": 1.254198,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.98,
+      "start": 1.77,
+      "word": "more"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.61,
+      "start": 1.98,
+      "word": "detail"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.15,
+      "start": 2.620987,
+      "word": "another"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.511405,
+      "start": 3.27,
+      "word": "thing"
+    },
+    {
+      "conf": 0.80637,
+      "end": 3.661334,
+      "start": 3.511405,
+      "word": "they"
+    },
+    {
+      "conf": 0.903501,
+      "end": 3.954733,
+      "start": 3.661334,
+      "word": "thought"
+    },
+    {
+      "conf": 0.74487,
+      "end": 4.018455,
+      "start": 3.96,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.14,
+      "start": 4.018455,
+      "word": "would"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.2,
+      "start": 4.14,
+      "word": "have"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.32,
+      "start": 4.2,
+      "word": "been"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.47,
+      "start": 4.32,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.03,
+      "start": 5.79,
+      "word": "far"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.15,
+      "start": 6.03,
+      "word": "as"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.48,
+      "start": 6.15,
+      "word": "like"
+    },
+    {
+      "conf": 0.426571,
+      "end": 6.81,
+      "start": 6.72,
+      "word": "a"
+    },
+    {
+      "conf": 0.426571,
+      "end": 7.008891,
+      "start": 6.81,
+      "word": "good"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.32,
+      "start": 7.008891,
+      "word": "that's"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.28,
+      "start": 8.04,
+      "word": "great"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.58,
+      "start": 8.28,
+      "word": "movie"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.67,
+      "start": 8.58,
+      "word": "i"
+    },
+    {
+      "conf": 0.68434,
+      "end": 8.85,
+      "start": 8.7,
+      "word": "would"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.06,
+      "start": 8.85,
+      "word": "say"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.48,
+      "start": 9.06,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.93,
+      "start": 9.69,
+      "word": "feel"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.14,
+      "start": 9.93,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.44,
+      "start": 10.14,
+      "word": "we"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.56,
+      "start": 10.44,
+      "word": "have"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.890639,
+      "start": 10.56,
+      "word": "anything"
+    },
+    {
+      "conf": 0.919732,
+      "end": 11.01,
+      "start": 10.890639,
+      "word": "we"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.305471,
+      "start": 11.01,
+      "word": "usually"
+    },
+    {
+      "conf": 0.732319,
+      "end": 11.52,
+      "start": 11.31,
+      "word": "don't"
+    },
+    {
+      "conf": 0.393849,
+      "end": 14.16,
+      "start": 13.962377,
+      "word": "looked"
+    },
+    {
+      "conf": 0.992475,
+      "end": 14.369274,
+      "start": 14.19,
+      "word": "all"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.58,
+      "start": 14.369274,
+      "word": "over"
+    },
+    {
+      "conf": 0.885845,
+      "end": 14.66051,
+      "start": 14.58,
+      "word": "and"
+    },
+    {
+      "conf": 0.426943,
+      "end": 14.687346,
+      "start": 14.66051,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.94,
+      "start": 14.73,
+      "word": "can't"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.12,
+      "start": 14.94,
+      "word": "find"
+    },
+    {
+      "conf": 0.605521,
+      "end": 15.180001,
+      "start": 15.120001,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.57,
+      "start": 15.180001,
+      "word": "sniper"
+    },
+    {
+      "conf": 0.78064,
+      "end": 15.78,
+      "start": 15.57,
+      "word": "right"
+    },
+    {
+      "conf": 0.447583,
+      "end": 16.227598,
+      "start": 16.11,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.32,
+      "start": 16.227598,
+      "word": "the"
+    },
+    {
+      "conf": 0.789936,
+      "end": 16.8,
+      "start": 16.32,
+      "word": "sniper"
+    },
+    {
+      "conf": 0.524456,
+      "end": 17.73,
+      "start": 17.58,
+      "word": "we're"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.88,
+      "start": 17.73,
+      "word": "going"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.97,
+      "start": 17.88,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.15,
+      "start": 17.97,
+      "word": "end"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.3,
+      "start": 18.15,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.63,
+      "start": 18.3,
+      "word": "interview"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.918737,
+      "start": 18.63,
+      "word": "here"
+    }
+  ],
+  "text": "our now that more detail another thing they thought it would have been so far as like a good that's great movie i would say i feel like we have anything we usually don't looked all over and i can't find the sniper right is the sniper we're going to end this interview here"
+}

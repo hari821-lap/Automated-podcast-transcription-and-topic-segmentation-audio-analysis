@@ -1,0 +1,353 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.3,
+      "start": 0.0,
+      "word": "there"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.57,
+      "start": 0.36,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.9,
+      "start": 0.57,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.02,
+      "start": 0.9,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.17,
+      "start": 1.05,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.38,
+      "start": 1.17,
+      "word": "had"
+    },
+    {
+      "conf": 0.807951,
+      "end": 1.53,
+      "start": 1.38,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.19,
+      "start": 1.53,
+      "word": "origins"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.31,
+      "start": 2.19,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.55,
+      "start": 2.31,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.91,
+      "start": 2.55,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.33,
+      "start": 3.18,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.63,
+      "start": 3.33,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.92,
+      "start": 3.87,
+      "word": "realistic"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.91,
+      "start": 5.46,
+      "word": "somewhat"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.690532,
+      "start": 5.91,
+      "word": "realistic"
+    },
+    {
+      "conf": 0.605086,
+      "end": 6.75,
+      "start": 6.690532,
+      "word": "you"
+    },
+    {
+      "conf": 0.605086,
+      "end": 6.84,
+      "start": 6.75,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.83,
+      "start": 6.84,
+      "word": "historical"
+    },
+    {
+      "conf": 0.794476,
+      "end": 8.719811,
+      "start": 8.34,
+      "word": "type"
+    },
+    {
+      "conf": 0.417159,
+      "end": 8.88,
+      "start": 8.73,
+      "word": "with"
+    },
+    {
+      "conf": 0.417159,
+      "end": 9.0,
+      "start": 8.88,
+      "word": "a"
+    },
+    {
+      "conf": 0.724071,
+      "end": 9.33,
+      "start": 9.03,
+      "word": "thing"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.69,
+      "start": 9.51,
+      "word": "but"
+    },
+    {
+      "conf": 0.724437,
+      "end": 9.78,
+      "start": 9.69,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.02,
+      "start": 9.78,
+      "word": "also"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.2,
+      "start": 10.02,
+      "word": "took"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.65,
+      "start": 10.2,
+      "word": "military"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.1,
+      "start": 10.65,
+      "word": "shooters"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.4,
+      "start": 11.1,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.67,
+      "start": 11.4,
+      "word": "brought"
+    },
+    {
+      "conf": 0.872548,
+      "end": 11.73,
+      "start": 11.67,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.82,
+      "start": 11.73,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.91,
+      "start": 11.82,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.21,
+      "start": 11.91,
+      "word": "level"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.45,
+      "start": 12.21,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.66,
+      "start": 12.54,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.2,
+      "start": 12.66,
+      "word": "halo"
+    },
+    {
+      "conf": 0.753578,
+      "end": 13.832293,
+      "start": 13.53,
+      "word": "yeah"
+    },
+    {
+      "conf": 0.563846,
+      "end": 13.888641,
+      "start": 13.832293,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.28,
+      "start": 13.888641,
+      "word": "quaker"
+    },
+    {
+      "conf": 0.614537,
+      "end": 14.520315,
+      "start": 14.28,
+      "word": "were"
+    },
+    {
+      "conf": 0.339305,
+      "end": 14.643672,
+      "start": 14.520315,
+      "word": "we're"
+    },
+    {
+      "conf": 0.211169,
+      "end": 15.060001,
+      "start": 14.830905,
+      "word": "weren't"
+    },
+    {
+      "conf": 0.926076,
+      "end": 15.27,
+      "start": 15.12,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.54,
+      "start": 15.27,
+      "word": "so"
+    },
+    {
+      "conf": 0.658372,
+      "end": 15.656083,
+      "start": 15.54,
+      "word": "it"
+    },
+    {
+      "conf": 0.8014,
+      "end": 15.758518,
+      "start": 15.656083,
+      "word": "it"
+    },
+    {
+      "conf": 0.847642,
+      "end": 15.99,
+      "start": 15.758518,
+      "word": "yeah"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.5,
+      "start": 15.99457,
+      "word": "basically"
+    },
+    {
+      "conf": 0.802021,
+      "end": 16.59,
+      "start": 16.5,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.74,
+      "start": 16.59,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.04,
+      "start": 16.74,
+      "word": "modern"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.58,
+      "start": 17.04,
+      "word": "warfare"
+    },
+    {
+      "conf": 0.954556,
+      "end": 18.12,
+      "start": 17.58,
+      "word": "harm"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.36,
+      "start": 18.21,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.66,
+      "start": 18.36,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.89,
+      "start": 19.53,
+      "word": "that"
+    }
+  ],
+  "text": "there was like it it had it's origins in that like you know realistic somewhat realistic you know historical type with a thing but it also took military shooters and brought it to the level of a halo yeah a quaker were we're weren't in so it it yeah basically and so modern warfare harm you know that"
+}

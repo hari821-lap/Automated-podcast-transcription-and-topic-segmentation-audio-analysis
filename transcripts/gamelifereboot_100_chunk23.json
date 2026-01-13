@@ -1,0 +1,335 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.48,
+      "start": 0.06,
+      "word": "really"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.72,
+      "start": 0.48,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.84,
+      "start": 0.72,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.23,
+      "start": 0.84,
+      "word": "thing"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.38,
+      "start": 1.23,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.59,
+      "start": 1.38,
+      "word": "kind"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.71,
+      "start": 1.59,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.95,
+      "start": 1.71,
+      "word": "like"
+    },
+    {
+      "conf": 0.689132,
+      "end": 2.67,
+      "start": 1.95,
+      "word": "establish"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.88,
+      "start": 2.679326,
+      "word": "not"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.18,
+      "start": 2.88,
+      "word": "only"
+    },
+    {
+      "conf": 0.962097,
+      "end": 3.812629,
+      "start": 3.212984,
+      "word": "the"
+    },
+    {
+      "conf": 0.784073,
+      "end": 4.07415,
+      "start": 3.829787,
+      "word": "the"
+    },
+    {
+      "conf": 0.450694,
+      "end": 4.53988,
+      "start": 4.14,
+      "word": "sean"
+    },
+    {
+      "conf": 0.454531,
+      "end": 4.68,
+      "start": 4.53988,
+      "word": "or"
+    },
+    {
+      "conf": 0.728776,
+      "end": 4.95,
+      "start": 4.687834,
+      "word": "as"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.22,
+      "start": 4.95,
+      "word": "being"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.34,
+      "start": 5.22,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.79,
+      "start": 5.34,
+      "word": "huge"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.03,
+      "start": 5.79,
+      "word": "sort"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.12,
+      "start": 6.03,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.42,
+      "start": 6.12,
+      "word": "world"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.72,
+      "start": 6.42,
+      "word": "beater"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.87,
+      "start": 6.72,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.99,
+      "start": 6.87,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.14,
+      "start": 6.99,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.5,
+      "start": 7.14,
+      "word": "now"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.62,
+      "start": 7.5,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.1,
+      "start": 7.62,
+      "word": "also"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.82,
+      "start": 8.46,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.72,
+      "start": 8.82,
+      "word": "particular"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.34,
+      "start": 10.89,
+      "word": "time"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.0,
+      "start": 11.34,
+      "word": "frame"
+    },
+    {
+      "conf": 0.776327,
+      "end": 12.81,
+      "start": 12.714714,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.96,
+      "start": 12.81,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.47,
+      "start": 12.96,
+      "word": "particular"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.83,
+      "start": 13.47,
+      "word": "sort"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.92,
+      "start": 13.83,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.76,
+      "start": 13.92,
+      "word": "experience"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.97,
+      "start": 14.82,
+      "word": "i'd"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.18,
+      "start": 14.97,
+      "word": "also"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.27,
+      "start": 15.18,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.36,
+      "start": 15.27,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.6,
+      "start": 15.36,
+      "word": "point"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.72,
+      "start": 15.6,
+      "word": "out"
+    },
+    {
+      "conf": 0.502483,
+      "end": 15.84,
+      "start": 15.72,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.99,
+      "start": 15.84,
+      "word": "i"
+    },
+    {
+      "conf": 0.799363,
+      "end": 16.280294,
+      "start": 15.99,
+      "word": "played"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.35,
+      "start": 16.280294,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.77,
+      "start": 16.35,
+      "word": "single"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.13,
+      "start": 16.77,
+      "word": "player"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.88,
+      "start": 17.13,
+      "word": "campaign"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.02,
+      "start": 18.42,
+      "word": "three"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.77,
+      "start": 19.08,
+      "word": "times"
+    },
+    {
+      "conf": 0.787769,
+      "end": 19.98,
+      "start": 19.8,
+      "word": "on"
+    }
+  ],
+  "text": "really was the thing that kind of like establish not only the the sean or as being the huge sort of world beater that it is now but also that particular time frame in that particular sort of experience i'd also like to point out that i played the single player campaign three times on"
+}

@@ -1,0 +1,413 @@
+{
+  "result": [
+    {
+      "conf": 0.442242,
+      "end": 0.296102,
+      "start": 0.06,
+      "word": "heightened"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.39,
+      "start": 0.296102,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.51,
+      "start": 0.39,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.54,
+      "start": 0.51,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.78,
+      "start": 0.54,
+      "word": "whole"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.17,
+      "start": 0.78,
+      "word": "minute"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.65,
+      "start": 1.38,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.86,
+      "start": 1.68,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.16,
+      "start": 1.86,
+      "word": "gained"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.22,
+      "start": 2.16,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.67,
+      "start": 2.22,
+      "word": "lot"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.76,
+      "start": 2.67,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.36,
+      "start": 2.76,
+      "word": "experience"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.66,
+      "start": 3.36,
+      "word": "points"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.26,
+      "start": 3.66,
+      "word": "because"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.35,
+      "start": 4.26,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.445304,
+      "start": 4.35,
+      "word": "know"
+    },
+    {
+      "conf": 0.742875,
+      "end": 4.5,
+      "start": 4.445304,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.77,
+      "start": 4.507714,
+      "word": "took"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.95,
+      "start": 4.77,
+      "word": "out"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.13,
+      "start": 4.95,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.34,
+      "start": 5.13,
+      "word": "many"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.82,
+      "start": 5.34,
+      "word": "things"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.91,
+      "start": 5.82,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.09,
+      "start": 5.91,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.42,
+      "start": 6.09,
+      "word": "while"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.57,
+      "start": 6.42,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.6,
+      "start": 6.57,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.32,
+      "start": 6.6,
+      "word": "titan"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.07,
+      "start": 7.95,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.16,
+      "start": 8.07,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.37,
+      "start": 8.16,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.7,
+      "start": 8.37,
+      "word": "felt"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.15,
+      "start": 8.97,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.33,
+      "start": 9.15,
+      "word": "felt"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.51,
+      "start": 9.33,
+      "word": "pretty"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.78,
+      "start": 9.51,
+      "word": "good"
+    },
+    {
+      "conf": 0.570471,
+      "end": 10.166401,
+      "start": 9.972479,
+      "word": "will"
+    },
+    {
+      "conf": 0.818381,
+      "end": 10.35,
+      "start": 10.166401,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.56,
+      "start": 10.35,
+      "word": "also"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.77,
+      "start": 10.56,
+      "word": "nice"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.04,
+      "start": 10.77,
+      "word": "about"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.34,
+      "start": 11.04,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.7,
+      "start": 11.46,
+      "word": "that"
+    },
+    {
+      "conf": 0.857144,
+      "end": 11.85,
+      "start": 11.7,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.97,
+      "start": 11.85,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.48,
+      "start": 12.03,
+      "word": "play"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.69,
+      "start": 12.48,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.02,
+      "start": 12.69,
+      "word": "that"
+    },
+    {
+      "conf": 0.666727,
+      "end": 13.710001,
+      "start": 13.350001,
+      "word": "ah"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.1,
+      "start": 13.8,
+      "word": "being"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.19,
+      "start": 14.1,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.25,
+      "start": 14.19,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.58,
+      "start": 14.25,
+      "word": "titan"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.73,
+      "start": 14.58,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.09,
+      "start": 14.73,
+      "word": "taking"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.3,
+      "start": 15.09,
+      "word": "out"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.84,
+      "start": 15.3,
+      "word": "titans"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.38,
+      "start": 16.14,
+      "word": "are"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.83,
+      "start": 16.38,
+      "word": "valued"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.01,
+      "start": 16.83,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.22,
+      "start": 17.01,
+      "word": "much"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.67,
+      "start": 17.25,
+      "word": "more"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.51,
+      "start": 17.88,
+      "word": "than"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.2,
+      "start": 18.63,
+      "word": "killing"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.65,
+      "start": 19.41,
+      "word": "as"
+    },
+    {
+      "conf": 0.889051,
+      "end": 19.804737,
+      "start": 19.65,
+      "word": "a"
+    },
+    {
+      "conf": 0.542879,
+      "end": 19.98,
+      "start": 19.804737,
+      "word": "so"
+    }
+  ],
+  "text": "heightened for like a whole minute and and gained a lot of experience points because you know i took out so many things you know while in a titan you know that felt that felt pretty good will was also nice about that that to to play is that ah being in a titan and taking out titans are valued so much more than killing as a so"
+}

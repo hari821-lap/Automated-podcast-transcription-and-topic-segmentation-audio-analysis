@@ -1,0 +1,407 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.39,
+      "start": 0.118916,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.57,
+      "start": 0.45,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.84,
+      "start": 0.57,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.29,
+      "start": 1.08,
+      "word": "she"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.53,
+      "start": 1.29,
+      "word": "kind"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.92,
+      "start": 1.53,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.64,
+      "start": 2.43,
+      "word": "an"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.39,
+      "start": 2.91,
+      "word": "abandoned"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.54,
+      "start": 3.39,
+      "word": "her"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.66,
+      "start": 3.54,
+      "word": "as"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.69,
+      "start": 3.66,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.044958,
+      "start": 3.69,
+      "word": "friend"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.53,
+      "start": 4.17,
+      "word": "some"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.98,
+      "start": 4.59,
+      "word": "earlier"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.52,
+      "start": 4.98,
+      "word": "indistinct"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.91,
+      "start": 5.52,
+      "word": "point"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.75,
+      "start": 6.578391,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.99,
+      "start": 6.75,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.2,
+      "start": 6.99,
+      "word": "other"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.35,
+      "start": 7.2,
+      "word": "half"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.44,
+      "start": 7.35,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.53,
+      "start": 7.44,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.92,
+      "start": 7.59,
+      "word": "also"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.16,
+      "start": 7.92,
+      "word": "takes"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.4,
+      "start": 8.16,
+      "word": "place"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.463329,
+      "start": 8.4,
+      "word": "in"
+    },
+    {
+      "conf": 0.626204,
+      "end": 8.52,
+      "start": 8.463329,
+      "word": "the"
+    },
+    {
+      "conf": 0.86117,
+      "end": 8.82,
+      "start": 8.52,
+      "word": "mall"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.33,
+      "start": 9.09,
+      "word": "all"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.42,
+      "start": 9.33,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.63,
+      "start": 9.42,
+      "word": "it"
+    },
+    {
+      "conf": 0.694453,
+      "end": 9.93,
+      "start": 9.66,
+      "word": "yes"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.26,
+      "start": 9.93,
+      "word": "teenage"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.71,
+      "start": 10.26,
+      "word": "girls"
+    },
+    {
+      "conf": 0.871155,
+      "end": 10.86,
+      "start": 10.71,
+      "word": "and"
+    },
+    {
+      "conf": 0.86393,
+      "end": 11.07,
+      "start": 10.86,
+      "word": "more"
+    },
+    {
+      "conf": 0.627814,
+      "end": 11.819999,
+      "start": 11.609999,
+      "word": "yeah"
+    },
+    {
+      "conf": 0.818253,
+      "end": 12.183735,
+      "start": 12.085085,
+      "word": "but"
+    },
+    {
+      "conf": 0.537747,
+      "end": 12.237706,
+      "start": 12.183735,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.51,
+      "start": 12.237706,
+      "word": "second"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.87,
+      "start": 12.51,
+      "word": "half"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.32,
+      "start": 12.87,
+      "word": "she's"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.5,
+      "start": 13.35,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.77,
+      "start": 13.5,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.95,
+      "start": 13.8,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.25,
+      "start": 13.95,
+      "word": "ellie"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.52,
+      "start": 14.25,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.82,
+      "start": 14.55,
+      "word": "we"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.06,
+      "start": 14.82,
+      "word": "come"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.18,
+      "start": 15.06,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.33,
+      "start": 15.18,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.42,
+      "start": 15.33,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.48,
+      "start": 15.42,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.782298,
+      "start": 15.48,
+      "word": "game"
+    },
+    {
+      "conf": 0.659448,
+      "end": 15.87,
+      "start": 15.782298,
+      "word": "where"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.14,
+      "start": 15.87,
+      "word": "she's"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.44,
+      "start": 16.14,
+      "word": "really"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.71,
+      "start": 16.44,
+      "word": "kicking"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.01,
+      "start": 16.71,
+      "word": "butt"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.79,
+      "start": 17.7,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.06,
+      "start": 17.79,
+      "word": "taking"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.54,
+      "start": 18.06,
+      "word": "names"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.99,
+      "start": 18.81,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.41,
+      "start": 18.99,
+      "word": "there's"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.5,
+      "start": 19.44,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.65,
+      "start": 19.5,
+      "word": "new"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.98,
+      "start": 19.65,
+      "word": "function"
+    }
+  ],
+  "text": "that you know she kind of an abandoned her as a friend some earlier indistinct point but the other half of it also takes place in the mall all of it yes teenage girls and more yeah but the second half she's you know the ellie that we come to know in the game where she's really kicking butt and taking names and there's a new function"
+}

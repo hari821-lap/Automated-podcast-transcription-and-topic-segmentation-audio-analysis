@@ -1,0 +1,347 @@
+{
+  "result": [
+    {
+      "conf": 0.380427,
+      "end": 0.27,
+      "start": 0.125483,
+      "word": "i'm"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.48,
+      "start": 0.27,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.744112,
+      "start": 0.48,
+      "word": "day"
+    },
+    {
+      "conf": 0.803721,
+      "end": 2.1,
+      "start": 0.75,
+      "word": "now"
+    },
+    {
+      "conf": 0.708425,
+      "end": 2.64,
+      "start": 2.37,
+      "word": "point"
+    },
+    {
+      "conf": 0.708425,
+      "end": 2.82,
+      "start": 2.64,
+      "word": "eight"
+    },
+    {
+      "conf": 0.708425,
+      "end": 3.21,
+      "start": 2.82,
+      "word": "vol"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.1,
+      "start": 4.71,
+      "word": "yep"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.67,
+      "start": 5.28,
+      "word": "oh"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.97,
+      "start": 5.67,
+      "word": "i'm"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.84,
+      "start": 6.42,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.99,
+      "start": 6.84,
+      "word": "at"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.17,
+      "start": 6.99,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.41,
+      "start": 7.17,
+      "word": "point"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.5,
+      "start": 7.41,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.014318,
+      "start": 7.5,
+      "word": "podcast"
+    },
+    {
+      "conf": 0.433782,
+      "end": 8.07,
+      "start": 8.04,
+      "word": "i"
+    },
+    {
+      "conf": 0.710151,
+      "end": 8.326483,
+      "start": 8.07,
+      "word": "believe"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.4,
+      "start": 8.326483,
+      "word": "we"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.55,
+      "start": 8.4,
+      "word": "should"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.88,
+      "start": 8.55,
+      "word": "start"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.03,
+      "start": 8.88,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.63,
+      "start": 9.03,
+      "word": "spoiler"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.17,
+      "start": 9.63,
+      "word": "section"
+    },
+    {
+      "conf": 0.771186,
+      "end": 10.662511,
+      "start": 10.17,
+      "word": "for"
+    },
+    {
+      "conf": 0.550945,
+      "end": 11.37,
+      "start": 11.142359,
+      "word": "lend"
+    },
+    {
+      "conf": 0.986861,
+      "end": 11.52,
+      "start": 11.37,
+      "word": "me"
+    },
+    {
+      "conf": 0.168067,
+      "end": 12.33,
+      "start": 11.52,
+      "word": "heiner"
+    },
+    {
+      "conf": 0.801323,
+      "end": 13.29,
+      "start": 12.96,
+      "word": "the"
+    },
+    {
+      "conf": 0.683624,
+      "end": 13.971002,
+      "start": 13.641002,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.43,
+      "start": 14.232516,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.91,
+      "start": 14.43,
+      "word": "dlc"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.06,
+      "start": 14.91,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.15,
+      "start": 15.06,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.48,
+      "start": 15.15,
+      "word": "last"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.57,
+      "start": 15.48,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.78,
+      "start": 15.57,
+      "word": "us"
+    },
+    {
+      "conf": 0.871361,
+      "end": 15.985485,
+      "start": 15.81,
+      "word": "which"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.11,
+      "start": 15.985485,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.35,
+      "start": 16.11,
+      "word": "play"
+    },
+    {
+      "conf": 0.582069,
+      "end": 16.404963,
+      "start": 16.35,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.5,
+      "start": 16.404963,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.62,
+      "start": 16.5,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.98,
+      "start": 16.62,
+      "word": "played"
+    },
+    {
+      "conf": 0.428683,
+      "end": 17.07,
+      "start": 16.98,
+      "word": "in"
+    },
+    {
+      "conf": 0.548537,
+      "end": 17.383246,
+      "start": 17.07,
+      "word": "union"
+    },
+    {
+      "conf": 0.422088,
+      "end": 17.712001,
+      "start": 17.55,
+      "word": "blake"
+    },
+    {
+      "conf": 0.577912,
+      "end": 17.91,
+      "start": 17.712001,
+      "word": "lakers"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.03,
+      "start": 17.91,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.12,
+      "start": 18.03,
+      "word": "have"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.3,
+      "start": 18.12,
+      "word": "not"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.72,
+      "start": 18.3,
+      "word": "played"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.35,
+      "start": 18.96,
+      "word": "last"
+    },
+    {
+      "conf": 0.88547,
+      "end": 19.467272,
+      "start": 19.35,
+      "word": "of"
+    },
+    {
+      "conf": 0.713009,
+      "end": 19.56,
+      "start": 19.47,
+      "word": "our"
+    },
+    {
+      "conf": 0.827313,
+      "end": 19.830813,
+      "start": 19.561232,
+      "word": "last"
+    },
+    {
+      "conf": 0.686796,
+      "end": 19.92,
+      "start": 19.830813,
+      "word": "of"
+    }
+  ],
+  "text": "i'm that day now point eight vol yep oh i'm so at this point the podcast i believe we should start the spoiler section for lend me heiner the the the dlc for the last of us which you play it and i played in union blake lakers you have not played last of our last of"
+}

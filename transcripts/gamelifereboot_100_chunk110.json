@@ -1,0 +1,323 @@
+{
+  "result": [
+    {
+      "conf": 0.832773,
+      "end": 0.48,
+      "start": 0.27,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.81,
+      "start": 0.51,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.2,
+      "start": 0.87,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.92,
+      "start": 1.44,
+      "word": "either"
+    },
+    {
+      "conf": 0.851479,
+      "end": 2.22,
+      "start": 2.04,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.61,
+      "start": 2.224456,
+      "word": "somewhere"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.94,
+      "start": 2.61,
+      "word": "between"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.3,
+      "start": 2.94,
+      "word": "boring"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.39,
+      "start": 3.3,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.96,
+      "start": 3.39,
+      "word": "frustrating"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.23,
+      "start": 3.99,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.41,
+      "start": 4.23,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.86,
+      "start": 4.44,
+      "word": "never"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.1,
+      "start": 4.86,
+      "word": "just"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.31,
+      "start": 5.1,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.55,
+      "start": 5.31,
+      "word": "amount"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.64,
+      "start": 5.55,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.91,
+      "start": 5.64,
+      "word": "fun"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.06,
+      "start": 5.91,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.3,
+      "start": 6.06,
+      "word": "me"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.38,
+      "start": 6.57,
+      "word": "especially"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.16,
+      "start": 7.53,
+      "word": "compared"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.55,
+      "start": 8.16,
+      "word": "to"
+    },
+    {
+      "conf": 0.444207,
+      "end": 9.12,
+      "start": 8.58,
+      "word": "stuffing"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.27,
+      "start": 9.15,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.36,
+      "start": 9.27,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.14,
+      "start": 9.36,
+      "word": "loved"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.37,
+      "start": 10.77,
+      "word": "sneaking"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.61,
+      "start": 11.4,
+      "word": "by"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.76,
+      "start": 11.61,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.33,
+      "start": 11.76,
+      "word": "infected"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.75,
+      "start": 12.33,
+      "word": "again"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.93,
+      "start": 12.75,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.32,
+      "start": 12.93,
+      "word": "thought"
+    },
+    {
+      "conf": 0.840347,
+      "end": 13.47,
+      "start": 13.32,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.59,
+      "start": 13.47479,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.8,
+      "start": 13.59,
+      "word": "think"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.92,
+      "start": 13.8,
+      "word": "that"
+    },
+    {
+      "conf": 0.586793,
+      "end": 14.25,
+      "start": 13.92,
+      "word": "they're"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.52,
+      "start": 14.37,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.79,
+      "start": 14.52,
+      "word": "way"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.94,
+      "start": 14.79,
+      "word": "that"
+    },
+    {
+      "conf": 0.534761,
+      "end": 15.209999,
+      "start": 14.94,
+      "word": "they"
+    },
+    {
+      "conf": 0.776842,
+      "end": 15.84,
+      "start": 15.51,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.14,
+      "start": 15.9,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.74,
+      "start": 16.14,
+      "word": "create"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.86,
+      "start": 16.74,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.19,
+      "start": 16.86,
+      "word": "sense"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.31,
+      "start": 17.19,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.94,
+      "start": 17.31,
+      "word": "tension"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.87,
+      "start": 18.51,
+      "word": "with"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.2,
+      "start": 18.93,
+      "word": "with"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.92,
+      "start": 19.23,
+      "word": "audio"
+    }
+  ],
+  "text": "it it's it's either it somewhere between boring and frustrating it's it's never just that amount of fun for me especially compared to stuffing so i loved sneaking by the infected again i thought the i think that they're the way that they they they create the sense of tension with with audio"
+}

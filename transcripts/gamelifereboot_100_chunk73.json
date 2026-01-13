@@ -1,0 +1,503 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.36,
+      "start": 0.065865,
+      "word": "tension"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.42,
+      "start": 0.36,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.66,
+      "start": 0.42,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.84,
+      "start": 0.66,
+      "word": "which"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.99,
+      "start": 0.84,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.26,
+      "start": 0.99,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.74,
+      "start": 1.5,
+      "word": "she's"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.95,
+      "start": 1.74,
+      "word": "not"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.98,
+      "start": 1.95,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.31,
+      "start": 1.98,
+      "word": "melee"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.55,
+      "start": 2.31,
+      "word": "fighter"
+    },
+    {
+      "conf": 0.763177,
+      "end": 3.06,
+      "start": 2.55,
+      "word": "electoral"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.3,
+      "start": 3.09,
+      "word": "she's"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.51,
+      "start": 3.3,
+      "word": "not"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.63,
+      "start": 3.51,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.9,
+      "start": 3.63,
+      "word": "big"
+    },
+    {
+      "conf": 0.725219,
+      "end": 3.985312,
+      "start": 3.9,
+      "word": "if"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.05,
+      "start": 3.985312,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.17,
+      "start": 4.05,
+      "word": "go"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.5,
+      "start": 4.17,
+      "word": "straight"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.65,
+      "start": 4.5,
+      "word": "out"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.68,
+      "start": 4.65,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.07,
+      "start": 4.68,
+      "word": "guy"
+    },
+    {
+      "conf": 0.37115,
+      "end": 5.43,
+      "start": 5.25,
+      "word": "there's"
+    },
+    {
+      "conf": 0.772051,
+      "end": 5.459169,
+      "start": 5.43,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.67,
+      "start": 5.459169,
+      "word": "really"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.79,
+      "start": 5.67,
+      "word": "good"
+    },
+    {
+      "conf": 0.83534,
+      "end": 6.03,
+      "start": 5.79,
+      "word": "chance"
+    },
+    {
+      "conf": 0.642774,
+      "end": 6.12,
+      "start": 6.03,
+      "word": "he's"
+    },
+    {
+      "conf": 0.580632,
+      "end": 6.3,
+      "start": 6.12,
+      "word": "gonna"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.51,
+      "start": 6.3,
+      "word": "take"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.63,
+      "start": 6.51,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.84,
+      "start": 6.63,
+      "word": "out"
+    },
+    {
+      "conf": 0.6939,
+      "end": 7.02,
+      "start": 6.87,
+      "word": "where"
+    },
+    {
+      "conf": 0.545361,
+      "end": 7.08,
+      "start": 7.02,
+      "word": "it"
+    },
+    {
+      "conf": 0.635229,
+      "end": 7.2,
+      "start": 7.087015,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.35,
+      "start": 7.210943,
+      "word": "she"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.68,
+      "start": 7.35,
+      "word": "has"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.83,
+      "start": 7.68,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.13,
+      "start": 7.83,
+      "word": "be"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.91,
+      "start": 8.16,
+      "word": "stealthier"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.06,
+      "start": 8.91,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.51,
+      "start": 9.06,
+      "word": "smarter"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.6,
+      "start": 9.51,
+      "word": "and"
+    },
+    {
+      "conf": 0.795769,
+      "end": 9.69,
+      "start": 9.6,
+      "word": "she"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.87,
+      "start": 9.702253,
+      "word": "sort"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.93,
+      "start": 9.87,
+      "word": "of"
+    },
+    {
+      "conf": 0.822114,
+      "end": 10.05,
+      "start": 9.93,
+      "word": "has"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.14,
+      "start": 10.05,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.41,
+      "start": 10.14,
+      "word": "fight"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.83,
+      "start": 10.41,
+      "word": "smarter"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.07,
+      "start": 10.83,
+      "word": "not"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.49,
+      "start": 11.07,
+      "word": "harder"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.94,
+      "start": 11.79,
+      "word": "than"
+    },
+    {
+      "conf": 0.356662,
+      "end": 12.09,
+      "start": 11.94,
+      "word": "and"
+    },
+    {
+      "conf": 0.413319,
+      "end": 12.499245,
+      "start": 12.277097,
+      "word": "is"
+    },
+    {
+      "conf": 0.550709,
+      "end": 12.743212,
+      "start": 12.69,
+      "word": "the"
+    },
+    {
+      "conf": 0.862159,
+      "end": 12.81,
+      "start": 12.743212,
+      "word": "you"
+    },
+    {
+      "conf": 0.862159,
+      "end": 12.9,
+      "start": 12.81,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.29,
+      "start": 12.9,
+      "word": "another"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.5,
+      "start": 13.29,
+      "word": "way"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.74,
+      "start": 13.5,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.01,
+      "start": 13.74,
+      "word": "allow"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.16,
+      "start": 14.01,
+      "word": "her"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.25,
+      "start": 14.16,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.43,
+      "start": 14.25,
+      "word": "do"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.73,
+      "start": 14.43,
+      "word": "that"
+    },
+    {
+      "conf": 0.884653,
+      "end": 14.910001,
+      "start": 14.760001,
+      "word": "you"
+    },
+    {
+      "conf": 0.884653,
+      "end": 15.000001,
+      "start": 14.910001,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.24,
+      "start": 15.000001,
+      "word": "going"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.33,
+      "start": 15.24,
+      "word": "up"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.81,
+      "start": 15.33,
+      "word": "against"
+    },
+    {
+      "conf": 0.555621,
+      "end": 16.2,
+      "start": 16.14,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.56,
+      "start": 16.226662,
+      "word": "mean"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.95,
+      "start": 16.56,
+      "word": "granted"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.07,
+      "start": 16.95,
+      "word": "we"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.61,
+      "start": 17.07,
+      "word": "understand"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.73,
+      "start": 17.61,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.36,
+      "start": 17.73,
+      "word": "she's"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.51,
+      "start": 18.39,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.84,
+      "start": 18.51,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.44,
+      "start": 19.05,
+      "word": "really"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.83,
+      "start": 19.44,
+      "word": "tough"
+    }
+  ],
+  "text": "tension of that which is that she's not a melee fighter electoral she's not that big if you go straight out a guy there's a really good chance he's gonna take you out where it so she has to be stealthier and smarter and she sort of has to fight smarter not harder than and is the you know another way to allow her to do that you know going up against i mean granted we understand that she's you know really tough"
+}

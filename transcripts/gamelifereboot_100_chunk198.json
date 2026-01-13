@@ -1,0 +1,389 @@
+{
+  "result": [
+    {
+      "conf": 0.781973,
+      "end": 0.93,
+      "start": 0.0,
+      "word": "immense"
+    },
+    {
+      "conf": 0.608108,
+      "end": 1.77,
+      "start": 1.35,
+      "word": "lara"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.55,
+      "start": 1.77,
+      "word": "underscore"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.3,
+      "start": 2.61,
+      "word": "hudson"
+    },
+    {
+      "conf": 0.540504,
+      "end": 3.6,
+      "start": 3.39,
+      "word": "as"
+    },
+    {
+      "conf": 0.750795,
+      "end": 3.87,
+      "start": 3.605201,
+      "word": "ellie"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.99,
+      "start": 3.87,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.14,
+      "start": 3.99,
+      "word": "are"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.41,
+      "start": 4.14,
+      "word": "a"
+    },
+    {
+      "conf": 0.222331,
+      "end": 4.79388,
+      "start": 4.671897,
+      "word": "you"
+    },
+    {
+      "conf": 0.81577,
+      "end": 5.01,
+      "start": 4.79388,
+      "word": "de"
+    },
+    {
+      "conf": 0.831647,
+      "end": 5.34,
+      "start": 5.01,
+      "word": "eso"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.61,
+      "start": 5.34,
+      "word": "an"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.33,
+      "start": 6.0,
+      "word": "arm"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.51,
+      "start": 6.33,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.6,
+      "start": 6.51,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.72,
+      "start": 6.6,
+      "word": "want"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.78,
+      "start": 6.72,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.99,
+      "start": 6.78,
+      "word": "tell"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.38,
+      "start": 6.99,
+      "word": "me"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.59,
+      "start": 7.38,
+      "word": "what"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.83,
+      "start": 7.59,
+      "word": "my"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.31,
+      "start": 7.83,
+      "word": "problems"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.58,
+      "start": 8.31,
+      "word": "are"
+    },
+    {
+      "conf": 0.711523,
+      "end": 8.85,
+      "start": 8.61,
+      "word": "yeah"
+    },
+    {
+      "conf": 0.711523,
+      "end": 9.21,
+      "start": 8.91,
+      "word": "cause"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.54,
+      "start": 9.24,
+      "word": "lord"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.87,
+      "start": 9.54,
+      "word": "knows"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.99,
+      "start": 9.9,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.14,
+      "start": 9.99,
+      "word": "don't"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.29,
+      "start": 10.14,
+      "word": "get"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.5,
+      "start": 10.29,
+      "word": "enough"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.59,
+      "start": 10.5,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.74,
+      "start": 10.59,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.86,
+      "start": 10.74,
+      "word": "on"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.95,
+      "start": 10.86,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.31,
+      "start": 10.95,
+      "word": "internet"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.52,
+      "start": 11.31,
+      "word": "as"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.61,
+      "start": 11.52,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.91905,
+      "start": 11.61,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.72,
+      "start": 12.54,
+      "word": "on"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.11,
+      "start": 12.72,
+      "word": "twitter"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.35,
+      "start": 13.11,
+      "word": "as"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.74,
+      "start": 13.35,
+      "word": "proven"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.13,
+      "start": 13.74,
+      "word": "self"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.37,
+      "start": 14.13,
+      "word": "p"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.61,
+      "start": 14.37,
+      "word": "r"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.94,
+      "start": 14.64,
+      "word": "o"
+    },
+    {
+      "conf": 0.824731,
+      "end": 15.431699,
+      "start": 14.97,
+      "word": "v"
+    },
+    {
+      "conf": 0.430626,
+      "end": 15.78,
+      "start": 15.485336,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.05,
+      "start": 15.792918,
+      "word": "s"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.324633,
+      "start": 16.08,
+      "word": "e"
+    },
+    {
+      "conf": 0.703187,
+      "end": 16.59,
+      "start": 16.324633,
+      "word": "l"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.1,
+      "start": 16.62,
+      "word": "f"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.55,
+      "start": 17.43,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.64,
+      "start": 17.55,
+      "word": "if"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.7,
+      "start": 17.64,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.82,
+      "start": 17.7,
+      "word": "want"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.88,
+      "start": 17.82,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.18,
+      "start": 17.88,
+      "word": "send"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.48,
+      "start": 18.18,
+      "word": "us"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.700649,
+      "start": 18.48,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.26,
+      "start": 18.787727,
+      "word": "i'm"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.98,
+      "start": 19.56,
+      "word": "a"
+    }
+  ],
+  "text": "immense lara underscore hudson as ellie you are a you de eso an arm and you want to tell me what my problems are yeah cause lord knows i don't get enough of that on the internet as it is on twitter as proven self p r o v and s e l f and if you want to send us a i'm a"
+}

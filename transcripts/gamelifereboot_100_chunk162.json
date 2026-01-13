@@ -1,0 +1,419 @@
+{
+  "result": [
+    {
+      "conf": 0.841154,
+      "end": 0.386865,
+      "start": 0.15,
+      "word": "right"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.51,
+      "start": 0.386865,
+      "word": "we"
+    },
+    {
+      "conf": 0.896496,
+      "end": 0.69,
+      "start": 0.51,
+      "word": "thought"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.84,
+      "start": 0.69,
+      "word": "about"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.96,
+      "start": 0.84,
+      "word": "that"
+    },
+    {
+      "conf": 0.764199,
+      "end": 1.08,
+      "start": 0.96,
+      "word": "one"
+    },
+    {
+      "conf": 0.611972,
+      "end": 1.23,
+      "start": 1.08,
+      "word": "too"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.38,
+      "start": 1.23,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.5,
+      "start": 1.41,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.62,
+      "start": 1.5,
+      "word": "do"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.77,
+      "start": 1.62,
+      "word": "want"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.83,
+      "start": 1.77,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.04,
+      "start": 1.83,
+      "word": "say"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.34,
+      "start": 2.04,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.49,
+      "start": 2.37,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.06,
+      "start": 2.49,
+      "word": "new"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.57,
+      "start": 3.3,
+      "word": "humble"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.11,
+      "start": 3.57,
+      "word": "bundle"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.65,
+      "start": 4.32,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.95,
+      "start": 4.68,
+      "word": "joe"
+    },
+    {
+      "conf": 0.816154,
+      "end": 5.145828,
+      "start": 4.95,
+      "word": "had"
+    },
+    {
+      "conf": 0.584759,
+      "end": 5.43,
+      "start": 5.19,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.7,
+      "start": 5.52,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.91,
+      "start": 5.7,
+      "word": "other"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.33,
+      "start": 5.91,
+      "word": "day"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.51,
+      "start": 6.33,
+      "word": "and"
+    },
+    {
+      "conf": 0.645045,
+      "end": 6.63,
+      "start": 6.51,
+      "word": "there"
+    },
+    {
+      "conf": 0.645045,
+      "end": 6.66,
+      "start": 6.63,
+      "word": "are"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.99,
+      "start": 6.681297,
+      "word": "some"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.35,
+      "start": 7.05,
+      "word": "great"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.71,
+      "start": 7.35,
+      "word": "stuff"
+    },
+    {
+      "conf": 0.79014,
+      "end": 7.98,
+      "start": 7.71,
+      "word": "anti"
+    },
+    {
+      "conf": 0.929556,
+      "end": 8.37,
+      "start": 7.98,
+      "word": "chamber"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.64,
+      "start": 8.37,
+      "word": "isn't"
+    },
+    {
+      "conf": 0.942912,
+      "end": 9.06,
+      "start": 8.64,
+      "word": "there"
+    },
+    {
+      "conf": 0.443523,
+      "end": 9.9,
+      "start": 9.42,
+      "word": "ah"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.53,
+      "start": 9.96,
+      "word": "guacamole"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.8,
+      "start": 10.53,
+      "word": "gold"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.19,
+      "start": 10.8,
+      "word": "edition"
+    },
+    {
+      "conf": 0.89971,
+      "end": 11.34,
+      "start": 11.19,
+      "word": "is"
+    },
+    {
+      "conf": 0.89971,
+      "end": 11.46,
+      "start": 11.34,
+      "word": "in"
+    },
+    {
+      "conf": 0.843891,
+      "end": 12.03,
+      "start": 11.46,
+      "word": "there"
+    },
+    {
+      "conf": 0.779105,
+      "end": 12.63,
+      "start": 12.27,
+      "word": "are"
+    },
+    {
+      "conf": 0.466546,
+      "end": 13.02,
+      "start": 12.66,
+      "word": "dustin"
+    },
+    {
+      "conf": 0.415042,
+      "end": 13.08,
+      "start": 13.029257,
+      "word": "a"
+    },
+    {
+      "conf": 0.628098,
+      "end": 13.799999,
+      "start": 13.41,
+      "word": "tail"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.92,
+      "start": 13.8,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.07,
+      "start": 13.92,
+      "word": "in"
+    },
+    {
+      "conf": 0.893302,
+      "end": 14.58,
+      "start": 14.07,
+      "word": "there"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.629888,
+      "start": 15.33,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.72,
+      "start": 15.69,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.96,
+      "start": 15.72,
+      "word": "few"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.29,
+      "start": 15.96,
+      "word": "others"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.47,
+      "start": 16.29,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.71,
+      "start": 16.47,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.77,
+      "start": 16.71,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.04,
+      "start": 16.77,
+      "word": "pretty"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.46,
+      "start": 17.04,
+      "word": "stellar"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.85,
+      "start": 17.46,
+      "word": "pack"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.15,
+      "start": 17.88,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.24,
+      "start": 18.15,
+      "word": "if"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.48,
+      "start": 18.24,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.69,
+      "start": 18.48,
+      "word": "if"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.81,
+      "start": 18.69,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.96,
+      "start": 18.81,
+      "word": "do"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.32,
+      "start": 18.96,
+      "word": "not"
+    },
+    {
+      "conf": 0.517591,
+      "end": 19.65,
+      "start": 19.32,
+      "word": "likes"
+    },
+    {
+      "conf": 0.517591,
+      "end": 19.8,
+      "start": 19.65,
+      "word": "to"
+    },
+    {
+      "conf": 0.350799,
+      "end": 19.98,
+      "start": 19.814218,
+      "word": "it's"
+    }
+  ],
+  "text": "right we thought about that one too and i do want to say that the new humble bundle is joe had a the other day and there are some great stuff anti chamber isn't there ah guacamole gold edition is in there are dustin a tail is in there and a few others but it's a pretty stellar pack so if you if you do not likes to it's"
+}

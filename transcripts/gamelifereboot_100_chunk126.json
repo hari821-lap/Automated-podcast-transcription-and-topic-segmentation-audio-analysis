@@ -1,0 +1,353 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 3.273951,
+      "start": 2.91,
+      "word": "after"
+    },
+    {
+      "conf": 0.596061,
+      "end": 3.45,
+      "start": 3.273951,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.81,
+      "start": 3.48,
+      "word": "spoke"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.99,
+      "start": 3.81,
+      "word": "with"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.35,
+      "start": 3.99,
+      "word": "steve"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.47,
+      "start": 4.35,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.86,
+      "start": 4.47,
+      "word": "actually"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.1,
+      "start": 4.86,
+      "word": "found"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.55,
+      "start": 5.1,
+      "word": "myself"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.88,
+      "start": 5.58,
+      "word": "face"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.97,
+      "start": 5.88,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.42,
+      "start": 5.97,
+      "word": "face"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.93,
+      "start": 6.63,
+      "word": "with"
+    },
+    {
+      "conf": 0.433442,
+      "end": 7.35,
+      "start": 7.14,
+      "word": "about"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.56,
+      "start": 7.35,
+      "word": "one"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.74,
+      "start": 7.56,
+      "word": "but"
+    },
+    {
+      "conf": 0.879368,
+      "end": 8.34,
+      "start": 7.8,
+      "word": "two"
+    },
+    {
+      "conf": 0.753712,
+      "end": 8.966145,
+      "start": 8.7,
+      "word": "indie"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.21,
+      "start": 8.966145,
+      "word": "game"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.78,
+      "start": 9.21,
+      "word": "creators"
+    },
+    {
+      "conf": 0.533967,
+      "end": 9.924929,
+      "start": 9.78,
+      "word": "of"
+    },
+    {
+      "conf": 0.47558,
+      "end": 10.08,
+      "start": 9.924929,
+      "word": "who's"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.44,
+      "start": 10.08,
+      "word": "games"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.59,
+      "start": 10.44,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.86,
+      "start": 10.59,
+      "word": "play"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.01,
+      "start": 10.86,
+      "word": "over"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.07,
+      "start": 11.01,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.37,
+      "start": 11.07,
+      "word": "last"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.58,
+      "start": 11.37,
+      "word": "year"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.79,
+      "start": 11.58,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.94,
+      "start": 11.79,
+      "word": "had"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.15,
+      "start": 11.94,
+      "word": "just"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.51,
+      "start": 12.15,
+      "word": "loved"
+    },
+    {
+      "conf": 0.561495,
+      "end": 13.469999,
+      "start": 13.229999,
+      "word": "right"
+    },
+    {
+      "conf": 0.561495,
+      "end": 13.619999,
+      "start": 13.469999,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.16,
+      "start": 13.974242,
+      "word": "who"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.4,
+      "start": 14.16,
+      "word": "made"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.49,
+      "start": 14.4,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.82,
+      "start": 14.49,
+      "word": "stanley"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.3,
+      "start": 14.82,
+      "word": "parable"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.45,
+      "start": 15.3,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.57,
+      "start": 15.45,
+      "word": "he"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.72,
+      "start": 15.57,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.05,
+      "start": 15.72,
+      "word": "walking"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.23,
+      "start": 16.05,
+      "word": "down"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.32,
+      "start": 16.23,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.44,
+      "start": 16.32,
+      "word": "red"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.77,
+      "start": 16.44,
+      "word": "carpet"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.98,
+      "start": 16.77,
+      "word": "with"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.49,
+      "start": 17.13,
+      "word": "lucas"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.85,
+      "start": 17.49,
+      "word": "pope"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.18,
+      "start": 18.0,
+      "word": "who"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.470737,
+      "start": 18.18,
+      "word": "made"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.87,
+      "start": 18.489263,
+      "word": "papers"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.29,
+      "start": 18.87,
+      "word": "please"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.47,
+      "start": 19.29,
+      "word": "which"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.68,
+      "start": 19.47,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.92,
+      "start": 19.68,
+      "word": "why"
+    }
+  ],
+  "text": "after i spoke with steve i actually found myself face to face with about one but two indie game creators of who's games i play over the last year and had just loved right in who made the stanley parable and he was walking down the red carpet with lucas pope who made papers please which was why"
+}

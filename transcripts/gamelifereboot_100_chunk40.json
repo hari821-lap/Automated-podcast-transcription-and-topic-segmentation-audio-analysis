@@ -1,0 +1,305 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.84,
+      "start": 0.57,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.05,
+      "start": 0.87,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.86,
+      "start": 1.17,
+      "word": "always"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.25,
+      "start": 1.92,
+      "word": "had"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.31,
+      "start": 2.25,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.06,
+      "start": 2.31,
+      "word": "blast"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.42,
+      "start": 3.06,
+      "word": "because"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.84,
+      "start": 3.48,
+      "word": "even"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.05,
+      "start": 3.84,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.92,
+      "start": 4.05,
+      "word": "defeat"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.64,
+      "start": 5.34,
+      "word": "there"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.03,
+      "start": 5.64,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.27,
+      "start": 6.06,
+      "word": "an"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.75,
+      "start": 6.3,
+      "word": "element"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.87,
+      "start": 6.78,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.02,
+      "start": 6.9,
+      "word": "you"
+    },
+    {
+      "conf": 0.76166,
+      "end": 7.32,
+      "start": 7.02,
+      "word": "couldn't"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.53,
+      "start": 7.38,
+      "word": "you"
+    },
+    {
+      "conf": 0.533509,
+      "end": 7.74,
+      "start": 7.53,
+      "word": "couldn't"
+    },
+    {
+      "conf": 0.893444,
+      "end": 8.07,
+      "start": 7.74,
+      "word": "win"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.55,
+      "start": 8.07,
+      "word": "defeat"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.73,
+      "start": 8.58,
+      "word": "or"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.0,
+      "start": 8.73,
+      "word": "lose"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.45,
+      "start": 9.0,
+      "word": "defeat"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.66,
+      "start": 9.48,
+      "word": "yeah"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.17,
+      "start": 9.69,
+      "word": "because"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.35,
+      "start": 10.17,
+      "word": "if"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.89,
+      "start": 10.38,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.49,
+      "start": 11.16,
+      "word": "after"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.64,
+      "start": 11.49,
+      "word": "your"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.27,
+      "start": 11.64,
+      "word": "defeated"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.38,
+      "start": 12.42,
+      "word": "manage"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.89,
+      "start": 13.47,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.37,
+      "start": 13.92,
+      "word": "run"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.52,
+      "start": 14.37,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.61,
+      "start": 14.52,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.97,
+      "start": 14.61,
+      "word": "drop"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.39,
+      "start": 14.97,
+      "word": "ship"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.96,
+      "start": 15.66,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.23,
+      "start": 15.99,
+      "word": "get"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.77,
+      "start": 16.23,
+      "word": "yourself"
+    },
+    {
+      "conf": 0.522059,
+      "end": 17.1,
+      "start": 16.8,
+      "word": "onto"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.19,
+      "start": 17.1,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.52,
+      "start": 17.19,
+      "word": "drop"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.85,
+      "start": 17.52,
+      "word": "ship"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.21,
+      "start": 17.85,
+      "word": "without"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.9,
+      "start": 18.24,
+      "word": "dying"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.32,
+      "start": 19.08,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.62,
+      "start": 19.41,
+      "word": "and"
+    },
+    {
+      "conf": 0.720159,
+      "end": 19.98,
+      "start": 19.62,
+      "word": "blast"
+    }
+  ],
+  "text": "but i always had a blast because even in defeat there was an element of you couldn't you couldn't win defeat or lose defeat yeah because if you after your defeated manage to run to the drop ship and get yourself onto the drop ship without dying and and blast"
+}

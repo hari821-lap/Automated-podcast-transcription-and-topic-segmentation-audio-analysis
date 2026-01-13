@@ -1,0 +1,413 @@
+{
+  "result": [
+    {
+      "conf": 0.448127,
+      "end": 0.3,
+      "start": 0.15,
+      "word": "to"
+    },
+    {
+      "conf": 0.845893,
+      "end": 0.9,
+      "start": 0.306337,
+      "word": "destroy"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.2,
+      "start": 0.93,
+      "word": "gone"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.5,
+      "start": 1.2,
+      "word": "home"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.86,
+      "start": 1.53,
+      "word": "right"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.28,
+      "start": 2.1,
+      "word": "just"
+    },
+    {
+      "conf": 0.941938,
+      "end": 2.55,
+      "start": 2.31,
+      "word": "not"
+    },
+    {
+      "conf": 0.721071,
+      "end": 2.7,
+      "start": 2.55,
+      "word": "going"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.85,
+      "start": 2.7,
+      "word": "out"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.91,
+      "start": 2.85,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.97,
+      "start": 2.91,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.3,
+      "start": 2.97,
+      "word": "park"
+    },
+    {
+      "conf": 0.71628,
+      "end": 3.66,
+      "start": 3.54,
+      "word": "the"
+    },
+    {
+      "conf": 0.519543,
+      "end": 3.820708,
+      "start": 3.66,
+      "word": "idea"
+    },
+    {
+      "conf": 0.700868,
+      "end": 3.93,
+      "start": 3.820708,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.05,
+      "start": 3.93,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.44,
+      "start": 4.05,
+      "word": "destroy"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.8,
+      "start": 4.47,
+      "word": "video"
+    },
+    {
+      "conf": 0.488082,
+      "end": 5.34,
+      "start": 5.01,
+      "word": "row"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.61,
+      "start": 5.34,
+      "word": "right"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.7,
+      "start": 5.61,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.94,
+      "start": 5.7,
+      "word": "course"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.0,
+      "start": 5.94,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.18,
+      "start": 6.0,
+      "word": "didn't"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.36,
+      "start": 6.18,
+      "word": "that's"
+    },
+    {
+      "conf": 0.85523,
+      "end": 6.507625,
+      "start": 6.36,
+      "word": "what"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.63,
+      "start": 6.507625,
+      "word": "we're"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.81,
+      "start": 6.63,
+      "word": "here"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.9,
+      "start": 6.81,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.08,
+      "start": 6.9,
+      "word": "do"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.26,
+      "start": 7.08,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.56,
+      "start": 7.26,
+      "word": "make"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.1,
+      "start": 7.89,
+      "word": "sure"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.4,
+      "start": 8.1,
+      "word": "everyone"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.58,
+      "start": 8.4,
+      "word": "else"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.7,
+      "start": 8.58,
+      "word": "would"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.0,
+      "start": 8.7,
+      "word": "agree"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.29,
+      "start": 10.14,
+      "word": "with"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.41,
+      "start": 10.29,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.71,
+      "start": 10.41,
+      "word": "agree"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.95,
+      "start": 10.86,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.186492,
+      "start": 10.95,
+      "word": "throw"
+    },
+    {
+      "conf": 0.429538,
+      "end": 11.64,
+      "start": 11.19,
+      "word": "videogame"
+    },
+    {
+      "conf": 0.802214,
+      "end": 12.212788,
+      "start": 11.97,
+      "word": "yeah"
+    },
+    {
+      "conf": 0.676115,
+      "end": 12.33,
+      "start": 12.24,
+      "word": "you"
+    },
+    {
+      "conf": 0.442647,
+      "end": 12.51,
+      "start": 12.33,
+      "word": "get"
+    },
+    {
+      "conf": 0.59055,
+      "end": 12.871445,
+      "start": 12.517514,
+      "word": "right"
+    },
+    {
+      "conf": 0.260002,
+      "end": 13.14,
+      "start": 12.9,
+      "word": "bit"
+    },
+    {
+      "conf": 0.902602,
+      "end": 14.94,
+      "start": 14.79,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.03,
+      "start": 14.94,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.18,
+      "start": 15.03,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.27,
+      "start": 15.18,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.39,
+      "start": 15.27,
+      "word": "all"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.05,
+      "start": 15.39,
+      "word": "seriousness"
+    },
+    {
+      "conf": 0.776791,
+      "end": 16.176268,
+      "start": 16.05,
+      "word": "i"
+    },
+    {
+      "conf": 0.570594,
+      "end": 16.301232,
+      "start": 16.176268,
+      "word": "am"
+    },
+    {
+      "conf": 0.328514,
+      "end": 16.543614,
+      "start": 16.30545,
+      "word": "i'm"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.89,
+      "start": 16.68,
+      "word": "big"
+    },
+    {
+      "conf": 0.804546,
+      "end": 17.25,
+      "start": 16.89,
+      "word": "fans"
+    },
+    {
+      "conf": 0.96678,
+      "end": 17.424922,
+      "start": 17.251368,
+      "word": "of"
+    },
+    {
+      "conf": 0.653573,
+      "end": 17.7,
+      "start": 17.43,
+      "word": "love"
+    },
+    {
+      "conf": 0.967433,
+      "end": 17.94,
+      "start": 17.7,
+      "word": "both"
+    },
+    {
+      "conf": 0.733486,
+      "end": 18.09,
+      "start": 17.941331,
+      "word": "your"
+    },
+    {
+      "conf": 0.783251,
+      "end": 18.36,
+      "start": 18.09,
+      "word": "guys"
+    },
+    {
+      "conf": 0.881646,
+      "end": 18.81,
+      "start": 18.36,
+      "word": "works"
+    },
+    {
+      "conf": 0.762269,
+      "end": 19.28779,
+      "start": 19.08,
+      "word": "got"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.35,
+      "start": 19.28779,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.77,
+      "start": 19.35,
+      "word": "play"
+    }
+  ],
+  "text": "to destroy gone home right just not going out of the park the idea is to destroy video row right of course i didn't that's what we're here to do to make sure everyone else would agree with you agree to throw videogame yeah you get right bit but it but in all seriousness i am i'm big fans of love both your guys works got to play"
+}

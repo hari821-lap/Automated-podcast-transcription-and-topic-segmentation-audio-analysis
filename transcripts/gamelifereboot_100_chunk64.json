@@ -1,0 +1,407 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.21,
+      "start": 0.03,
+      "word": "which"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.39,
+      "start": 0.21,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.69,
+      "start": 0.39,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.56,
+      "start": 1.461263,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.8,
+      "start": 1.56,
+      "word": "game"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.98,
+      "start": 1.8,
+      "word": "takes"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.28,
+      "start": 1.98,
+      "word": "place"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.37,
+      "start": 2.28,
+      "word": "at"
+    },
+    {
+      "conf": 0.824153,
+      "end": 2.49,
+      "start": 2.37,
+      "word": "two"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.91,
+      "start": 2.49,
+      "word": "periods"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.0,
+      "start": 2.91,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.33,
+      "start": 3.0,
+      "word": "time"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.9,
+      "start": 3.72,
+      "word": "at"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.2,
+      "start": 3.9,
+      "word": "one"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.47,
+      "start": 4.2,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.65,
+      "start": 4.47,
+      "word": "sort"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.74,
+      "start": 4.65,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.34,
+      "start": 4.74,
+      "word": "after"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.69,
+      "start": 6.33,
+      "word": "joe"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.99,
+      "start": 6.69,
+      "word": "gets"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.530922,
+      "start": 6.99,
+      "word": "impaled"
+    },
+    {
+      "conf": 0.40913,
+      "end": 7.65,
+      "start": 7.530922,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.95,
+      "start": 7.655087,
+      "word": "into"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.25,
+      "start": 7.95,
+      "word": "cool"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.58,
+      "start": 8.31,
+      "word": "yeah"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.7,
+      "start": 8.58,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.82,
+      "start": 8.7,
+      "word": "an"
+    },
+    {
+      "conf": 0.975431,
+      "end": 9.09,
+      "start": 8.82,
+      "word": "inter"
+    },
+    {
+      "conf": 0.589602,
+      "end": 9.6,
+      "start": 9.09,
+      "word": "colder"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.47,
+      "start": 10.35,
+      "word": "we"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.71,
+      "start": 10.47,
+      "word": "have"
+    },
+    {
+      "conf": 0.482962,
+      "end": 11.13,
+      "start": 10.71,
+      "word": "people"
+    },
+    {
+      "conf": 0.718593,
+      "end": 11.49,
+      "start": 11.13,
+      "word": "half"
+    },
+    {
+      "conf": 0.760287,
+      "end": 11.64,
+      "start": 11.49,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.7,
+      "start": 11.64,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.88,
+      "start": 11.7,
+      "word": "middle"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.94,
+      "start": 11.88,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.0,
+      "start": 11.94,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.33,
+      "start": 12.0,
+      "word": "game"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.54,
+      "start": 12.33,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.75,
+      "start": 12.54,
+      "word": "half"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.87,
+      "start": 12.75,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.96,
+      "start": 12.87,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.17,
+      "start": 12.96,
+      "word": "takes"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.47,
+      "start": 13.17,
+      "word": "place"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.56,
+      "start": 13.47,
+      "word": "at"
+    },
+    {
+      "conf": 0.526537,
+      "end": 13.722955,
+      "start": 13.56,
+      "word": "l"
+    },
+    {
+      "conf": 0.512974,
+      "end": 13.92,
+      "start": 13.763856,
+      "word": "his"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.43,
+      "start": 13.92,
+      "word": "life"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.85,
+      "start": 14.46,
+      "word": "before"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.97,
+      "start": 14.85,
+      "word": "she"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.212766,
+      "start": 14.97,
+      "word": "meets"
+    },
+    {
+      "conf": 0.431746,
+      "end": 15.45,
+      "start": 15.212766,
+      "word": "job"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.6,
+      "start": 15.48,
+      "word": "when"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.84,
+      "start": 15.6,
+      "word": "she's"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.96,
+      "start": 15.84,
+      "word": "at"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.99,
+      "start": 15.96,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.35,
+      "start": 15.99,
+      "word": "military"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.56,
+      "start": 16.35,
+      "word": "school"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.62,
+      "start": 16.56,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.13,
+      "start": 16.62,
+      "word": "boston"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.54,
+      "start": 18.3,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.69,
+      "start": 18.54,
+      "word": "half"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.81,
+      "start": 18.69,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.9,
+      "start": 18.81,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.17,
+      "start": 18.9,
+      "word": "takes"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.65,
+      "start": 19.17,
+      "word": "place"
+    }
+  ],
+  "text": "which is that the game takes place at two periods and time at one is sort of after joe gets impaled in into cool yeah it's an inter colder we have people half and the middle of the game so half of it takes place at l his life before she meets job when she's at a military school in boston and half of it takes place"
+}

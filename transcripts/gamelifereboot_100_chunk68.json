@@ -1,0 +1,461 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.27,
+      "start": 0.0,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.42,
+      "start": 0.27,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.48,
+      "start": 0.42,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.14,
+      "start": 0.48,
+      "word": "introduced"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.68,
+      "start": 1.23,
+      "word": "which"
+    },
+    {
+      "conf": 0.888615,
+      "end": 2.28,
+      "start": 1.98,
+      "word": "had"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.76,
+      "start": 2.34,
+      "word": "almost"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.91,
+      "start": 2.76,
+      "word": "been"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.33,
+      "start": 2.91,
+      "word": "completed"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.42,
+      "start": 3.33,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.48,
+      "start": 3.42,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.72,
+      "start": 3.48,
+      "word": "last"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.02,
+      "start": 3.72,
+      "word": "game"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.92,
+      "start": 4.74,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.4,
+      "start": 4.92,
+      "word": "didn't"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.58,
+      "start": 5.43,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.733851,
+      "start": 5.58,
+      "word": "so"
+    },
+    {
+      "conf": 0.642404,
+      "end": 5.82,
+      "start": 5.733851,
+      "word": "when"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.91,
+      "start": 5.830728,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.06,
+      "start": 5.91,
+      "word": "had"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.18,
+      "start": 6.06,
+      "word": "more"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.36,
+      "start": 6.18,
+      "word": "time"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.45,
+      "start": 6.36,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.54,
+      "start": 6.45,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.78,
+      "start": 6.54,
+      "word": "deal"
+    },
+    {
+      "conf": 0.756706,
+      "end": 7.2,
+      "start": 6.78,
+      "word": "see"
+    },
+    {
+      "conf": 0.649622,
+      "end": 7.35,
+      "start": 7.2,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.5,
+      "start": 7.35,
+      "word": "went"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.653898,
+      "start": 7.5,
+      "word": "back"
+    },
+    {
+      "conf": 0.637873,
+      "end": 7.74,
+      "start": 7.653898,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.164051,
+      "start": 7.74,
+      "word": "implemented"
+    },
+    {
+      "conf": 0.592974,
+      "end": 8.28,
+      "start": 8.164051,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.79,
+      "start": 8.55,
+      "word": "which"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.97,
+      "start": 8.79,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.36,
+      "start": 8.97,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.78,
+      "start": 9.51,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.05,
+      "start": 9.78,
+      "word": "can"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.62,
+      "start": 10.05,
+      "word": "make"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.89,
+      "start": 10.74,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.55,
+      "start": 10.89,
+      "word": "humans"
+    },
+    {
+      "conf": 0.640036,
+      "end": 11.67,
+      "start": 11.55,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.73,
+      "start": 11.67,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.18,
+      "start": 11.73,
+      "word": "infected"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.42,
+      "start": 12.18,
+      "word": "fight"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.57,
+      "start": 12.42,
+      "word": "each"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.84,
+      "start": 12.57,
+      "word": "other"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.23,
+      "start": 13.05,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.38,
+      "start": 13.23,
+      "word": "can"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.59,
+      "start": 13.38,
+      "word": "kind"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.68,
+      "start": 13.59,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.07,
+      "start": 13.68,
+      "word": "hide"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.19,
+      "start": 14.07,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.46,
+      "start": 14.19,
+      "word": "throw"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.55,
+      "start": 14.46,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.03,
+      "start": 14.55,
+      "word": "brick"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.36,
+      "start": 15.24,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.51,
+      "start": 15.36,
+      "word": "then"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.72,
+      "start": 15.51,
+      "word": "get"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.99,
+      "start": 15.72,
+      "word": "them"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.05,
+      "start": 15.99,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.29,
+      "start": 16.05,
+      "word": "start"
+    },
+    {
+      "conf": 0.796391,
+      "end": 16.68,
+      "start": 16.29,
+      "word": "taking"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.83,
+      "start": 16.68,
+      "word": "each"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.07,
+      "start": 16.83,
+      "word": "other"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.61,
+      "start": 17.07,
+      "word": "out"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.0,
+      "start": 17.85,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.18,
+      "start": 18.0,
+      "word": "just"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.33,
+      "start": 18.18,
+      "word": "sort"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.42,
+      "start": 18.33,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.75,
+      "start": 18.42,
+      "word": "watch"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.84,
+      "start": 18.75,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.14,
+      "start": 18.84,
+      "word": "carnage"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.26,
+      "start": 19.14,
+      "word": "go"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.47,
+      "start": 19.26,
+      "word": "down"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.8,
+      "start": 19.62,
+      "word": "which"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.936631,
+      "start": 19.8,
+      "word": "is"
+    }
+  ],
+  "text": "the that it introduced which had almost been completed for the last game but didn't and so when they had more time for the deal see they went back and implemented it which is that you can make the humans and the infected fight each other you can kind of hide and throw a brick and then get them to start taking each other out and just sort of watch the carnage go down which is"
+}

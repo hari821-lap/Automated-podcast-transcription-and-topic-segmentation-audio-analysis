@@ -1,0 +1,485 @@
+{
+  "result": [
+    {
+      "conf": 0.344777,
+      "end": 0.33,
+      "start": 0.0,
+      "word": "the"
+    },
+    {
+      "conf": 0.583936,
+      "end": 0.63,
+      "start": 0.343611,
+      "word": "play"
+    },
+    {
+      "conf": 0.776903,
+      "end": 0.718876,
+      "start": 0.637451,
+      "word": "to"
+    },
+    {
+      "conf": 0.831428,
+      "end": 0.78,
+      "start": 0.718876,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.38,
+      "start": 0.785057,
+      "word": "certain"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.04,
+      "start": 1.74,
+      "word": "point"
+    },
+    {
+      "conf": 0.590336,
+      "end": 2.506469,
+      "start": 2.04,
+      "word": "thresholds"
+    },
+    {
+      "conf": 0.582019,
+      "end": 2.79,
+      "start": 2.52,
+      "word": "worth"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.0,
+      "start": 2.79,
+      "word": "kill"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.51,
+      "start": 3.0,
+      "word": "threshold"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.9,
+      "start": 3.63,
+      "word": "once"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.08,
+      "start": 3.9,
+      "word": "that's"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.26,
+      "start": 4.08,
+      "word": "done"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.35,
+      "start": 4.26,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.71,
+      "start": 4.35,
+      "word": "losing"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.04,
+      "start": 4.71,
+      "word": "team"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.43,
+      "start": 5.19,
+      "word": "has"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.52,
+      "start": 5.43,
+      "word": "to"
+    },
+    {
+      "conf": 0.778011,
+      "end": 5.665389,
+      "start": 5.52,
+      "word": "get"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.73,
+      "start": 5.665389,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.82,
+      "start": 5.73,
+      "word": "an"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.27,
+      "start": 5.82,
+      "word": "extraction"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.51,
+      "start": 6.27,
+      "word": "point"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.66,
+      "start": 6.51,
+      "word": "get"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.99,
+      "start": 6.66,
+      "word": "picked"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.17,
+      "start": 6.99,
+      "word": "up"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.38,
+      "start": 7.2,
+      "word": "and"
+    },
+    {
+      "conf": 0.468224,
+      "end": 7.5,
+      "start": 7.38,
+      "word": "we"
+    },
+    {
+      "conf": 0.785165,
+      "end": 7.8,
+      "start": 7.59,
+      "word": "out"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.92,
+      "start": 7.8,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.1,
+      "start": 7.92,
+      "word": "order"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.16,
+      "start": 8.1,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.301405,
+      "start": 8.16,
+      "word": "get"
+    },
+    {
+      "conf": 0.713486,
+      "end": 8.34,
+      "start": 8.31,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.61,
+      "start": 8.34,
+      "word": "score"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.0,
+      "start": 8.61,
+      "word": "bonus"
+    },
+    {
+      "conf": 0.318675,
+      "end": 9.33,
+      "start": 9.0,
+      "word": "branch"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.23,
+      "start": 10.05,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.32,
+      "start": 10.23,
+      "word": "the"
+    },
+    {
+      "conf": 0.65045,
+      "end": 10.65,
+      "start": 10.32,
+      "word": "rounds"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.74,
+      "start": 10.65,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.83,
+      "start": 10.74,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.13,
+      "start": 10.83,
+      "word": "played"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.22,
+      "start": 11.13,
+      "word": "it"
+    },
+    {
+      "conf": 0.76154,
+      "end": 11.516783,
+      "start": 11.22,
+      "word": "seemed"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.88,
+      "start": 11.516783,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.45,
+      "start": 12.18,
+      "word": "from"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.69,
+      "start": 12.45,
+      "word": "one"
+    },
+    {
+      "conf": 0.855734,
+      "end": 12.84,
+      "start": 12.69,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.14,
+      "start": 12.84,
+      "word": "three"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.47,
+      "start": 13.14,
+      "word": "people"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.59,
+      "start": 13.47,
+      "word": "would"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.8,
+      "start": 13.59,
+      "word": "make"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.86,
+      "start": 13.8,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.92,
+      "start": 13.86,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.04,
+      "start": 13.92,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.61,
+      "start": 14.04,
+      "word": "extraction"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.03,
+      "start": 14.7,
+      "word": "yeah"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.474391,
+      "start": 15.12,
+      "word": "yeah"
+    },
+    {
+      "conf": 0.555888,
+      "end": 15.63,
+      "start": 15.474391,
+      "word": "i"
+    },
+    {
+      "conf": 0.604394,
+      "end": 15.9,
+      "start": 15.63,
+      "word": "blunt"
+    },
+    {
+      "conf": 0.884771,
+      "end": 16.044741,
+      "start": 15.9,
+      "word": "and"
+    },
+    {
+      "conf": 0.704755,
+      "end": 16.17,
+      "start": 16.044741,
+      "word": "what"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.35,
+      "start": 16.17,
+      "word": "can"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.53,
+      "start": 16.41,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.68,
+      "start": 16.53,
+      "word": "can"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.83,
+      "start": 16.68,
+      "word": "try"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.01,
+      "start": 16.83,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.31,
+      "start": 17.01,
+      "word": "shoot"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.46,
+      "start": 17.31,
+      "word": "them"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.58,
+      "start": 17.46,
+      "word": "as"
+    },
+    {
+      "conf": 0.85756,
+      "end": 17.73,
+      "start": 17.58,
+      "word": "they're"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.12,
+      "start": 17.73,
+      "word": "leaving"
+    },
+    {
+      "conf": 0.244359,
+      "end": 18.367584,
+      "start": 18.15,
+      "word": "ten"
+    },
+    {
+      "conf": 0.156753,
+      "end": 18.66,
+      "start": 18.367584,
+      "word": "years"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.02,
+      "start": 18.806158,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.2,
+      "start": 19.02,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.32,
+      "start": 19.2,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.578717,
+      "start": 19.32,
+      "word": "why"
+    },
+    {
+      "conf": 0.817135,
+      "end": 19.92,
+      "start": 19.59,
+      "word": "wanted"
+    }
+  ],
+  "text": "the play to a certain point thresholds worth kill threshold once that's done the losing team has to get to an extraction point get picked up and we out in order to get a score bonus branch of the rounds that i played it seemed like from one to three people would make it to the extraction yeah yeah i blunt and what can you can try to shoot them as they're leaving ten years and that is why wanted"
+}

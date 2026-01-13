@@ -1,0 +1,353 @@
+{
+  "result": [
+    {
+      "conf": 0.597204,
+      "end": 0.384469,
+      "start": 0.0,
+      "word": "enjoyed"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.84,
+      "start": 0.384469,
+      "word": "myself"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.93,
+      "start": 0.84,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.14,
+      "start": 0.93,
+      "word": "think"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.41,
+      "start": 1.14,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.04,
+      "start": 1.68,
+      "word": "what's"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.37,
+      "start": 2.07,
+      "word": "nice"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.67,
+      "start": 2.37,
+      "word": "about"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.76,
+      "start": 2.67,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.03,
+      "start": 2.79,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.6,
+      "start": 3.03,
+      "word": "being"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.81,
+      "start": 3.66,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.38,
+      "start": 3.81,
+      "word": "more"
+    },
+    {
+      "conf": 0.727138,
+      "end": 5.06594,
+      "start": 4.56,
+      "word": "far"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.58,
+      "start": 5.06594,
+      "word": "future"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.85,
+      "start": 5.58,
+      "word": "let's"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.27,
+      "start": 5.85,
+      "word": "say"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.62,
+      "start": 7.26,
+      "word": "version"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.71,
+      "start": 7.62,
+      "word": "of"
+    },
+    {
+      "conf": 0.647554,
+      "end": 7.739654,
+      "start": 7.71,
+      "word": "a"
+    },
+    {
+      "conf": 0.558097,
+      "end": 7.92,
+      "start": 7.739654,
+      "word": "know"
+    },
+    {
+      "conf": 0.705137,
+      "end": 8.04,
+      "start": 7.92,
+      "word": "the"
+    },
+    {
+      "conf": 0.924366,
+      "end": 8.55,
+      "start": 8.04,
+      "word": "associate"
+    },
+    {
+      "conf": 0.88732,
+      "end": 8.67,
+      "start": 8.55,
+      "word": "or"
+    },
+    {
+      "conf": 0.431599,
+      "end": 9.087359,
+      "start": 8.67,
+      "word": "exert"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.24,
+      "start": 9.087359,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.48,
+      "start": 9.24,
+      "word": "takes"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.11,
+      "start": 9.48,
+      "word": "elements"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.68,
+      "start": 10.41,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.19,
+      "start": 10.68,
+      "word": "halo"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.52,
+      "start": 11.19,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.76,
+      "start": 11.55,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.97,
+      "start": 11.76,
+      "word": "your"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.18,
+      "start": 11.97,
+      "word": "kind"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.27,
+      "start": 12.18,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.57,
+      "start": 12.27,
+      "word": "super"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.81,
+      "start": 12.57,
+      "word": "human"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.29,
+      "start": 12.81,
+      "word": "qualities"
+    },
+    {
+      "conf": 0.494373,
+      "end": 13.77,
+      "start": 13.29,
+      "word": "along"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.95,
+      "start": 13.86,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.19,
+      "start": 13.95,
+      "word": "double"
+    },
+    {
+      "conf": 0.754055,
+      "end": 14.561952,
+      "start": 14.19,
+      "word": "jump"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.79,
+      "start": 14.64,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.09,
+      "start": 14.79,
+      "word": "wall"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.63,
+      "start": 15.09,
+      "word": "runs"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.23,
+      "start": 16.05,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.5,
+      "start": 16.23,
+      "word": "just"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.62,
+      "start": 16.5,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.89,
+      "start": 16.62,
+      "word": "feel"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.95,
+      "start": 16.89,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.22,
+      "start": 16.95,
+      "word": "lot"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.91,
+      "start": 17.64,
+      "word": "more"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.12,
+      "start": 17.94,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.18,
+      "start": 18.12,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.78,
+      "start": 18.18,
+      "word": "spartan"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.32,
+      "start": 19.08,
+      "word": "than"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.44,
+      "start": 19.32,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.89,
+      "start": 19.44,
+      "word": "do"
+    }
+  ],
+  "text": "enjoyed myself i think that what's nice about it is being a more far future let's say version of a know the associate or exert it takes elements of halo in in your kind of super human qualities along the double jump the wall runs you just you feel a lot more like a spartan than you do"
+}

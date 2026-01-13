@@ -1,0 +1,323 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.3,
+      "start": 0.03,
+      "word": "small"
+    },
+    {
+      "conf": 0.815399,
+      "end": 0.66,
+      "start": 0.3,
+      "word": "playing"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.93,
+      "start": 0.66,
+      "word": "card"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.32,
+      "start": 0.93,
+      "word": "company"
+    },
+    {
+      "conf": 0.782543,
+      "end": 1.44,
+      "start": 1.32,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.83,
+      "start": 1.44,
+      "word": "kyoto"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.22,
+      "start": 1.83,
+      "word": "japan"
+    },
+    {
+      "conf": 0.839716,
+      "end": 4.02,
+      "start": 3.9,
+      "word": "or"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.59,
+      "start": 4.024808,
+      "word": "watches"
+    },
+    {
+      "conf": 0.537069,
+      "end": 4.77,
+      "start": 4.59,
+      "word": "were"
+    },
+    {
+      "conf": 0.920847,
+      "end": 5.04,
+      "start": 4.77,
+      "word": "that"
+    },
+    {
+      "conf": 0.517903,
+      "end": 5.7,
+      "start": 5.34,
+      "word": "fl"
+    },
+    {
+      "conf": 0.483143,
+      "end": 5.754609,
+      "start": 5.7,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.85,
+      "start": 5.754609,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.18,
+      "start": 5.85,
+      "word": "ball"
+    },
+    {
+      "conf": 0.936145,
+      "end": 7.71,
+      "start": 7.11,
+      "word": "i'm"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.67,
+      "start": 8.19,
+      "word": "we"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.09,
+      "start": 8.97,
+      "word": "are"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.3,
+      "start": 9.09,
+      "word": "going"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.36,
+      "start": 9.3,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.6,
+      "start": 9.36,
+      "word": "talk"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.87,
+      "start": 9.6,
+      "word": "about"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.35,
+      "start": 9.87,
+      "word": "video"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.77,
+      "start": 10.35,
+      "word": "games"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.89,
+      "start": 10.77,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.01,
+      "start": 10.89,
+      "word": "we"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.13,
+      "start": 11.01,
+      "word": "have"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.28,
+      "start": 11.13,
+      "word": "been"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.67,
+      "start": 11.28,
+      "word": "playing"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.03,
+      "start": 11.94,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.45,
+      "start": 12.03,
+      "word": "number"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.57,
+      "start": 12.45,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.81,
+      "start": 12.57,
+      "word": "them"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.34,
+      "start": 13.95,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.58,
+      "start": 14.34,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.3,
+      "start": 14.61,
+      "word": "also"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.57,
+      "start": 15.45,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.78,
+      "start": 15.57,
+      "word": "went"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.87,
+      "start": 15.78,
+      "word": "to"
+    },
+    {
+      "conf": 0.563199,
+      "end": 16.23,
+      "start": 15.87,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.95,
+      "start": 16.8,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.37,
+      "start": 16.98,
+      "word": "dice"
+    },
+    {
+      "conf": 0.747224,
+      "end": 17.73,
+      "start": 17.4,
+      "word": "some"
+    },
+    {
+      "conf": 0.747224,
+      "end": 17.88,
+      "start": 17.73,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.33,
+      "start": 17.97,
+      "word": "as"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.51,
+      "start": 18.33,
+      "word": "as"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.75,
+      "start": 18.51,
+      "word": "many"
+    },
+    {
+      "conf": 0.920661,
+      "end": 18.87,
+      "start": 18.75,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.99,
+      "start": 18.87,
+      "word": "you"
+    },
+    {
+      "conf": 0.527739,
+      "end": 19.11,
+      "start": 18.99,
+      "word": "may"
+    },
+    {
+      "conf": 0.249398,
+      "end": 19.44,
+      "start": 19.2,
+      "word": "okay"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.71,
+      "start": 19.462518,
+      "word": "probably"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.98,
+      "start": 19.71,
+      "word": "mention"
+    }
+  ],
+  "text": "small playing card company in kyoto japan or watches were that fl of the ball i'm we are going to talk about video games that we have been playing the number of them and and also i went to the the dice some it as as many of you may okay probably mention"
+}

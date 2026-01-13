@@ -1,0 +1,461 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.359149,
+      "start": 0.12,
+      "word": "just"
+    },
+    {
+      "conf": 0.536104,
+      "end": 0.439811,
+      "start": 0.36,
+      "word": "an"
+    },
+    {
+      "conf": 0.597602,
+      "end": 0.69,
+      "start": 0.529728,
+      "word": "on"
+    },
+    {
+      "conf": 0.661614,
+      "end": 0.991766,
+      "start": 0.842903,
+      "word": "our"
+    },
+    {
+      "conf": 0.594811,
+      "end": 1.133307,
+      "start": 0.991766,
+      "word": "own"
+    },
+    {
+      "conf": 0.301451,
+      "end": 1.5,
+      "start": 1.133307,
+      "word": "andrea"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.34,
+      "start": 1.56,
+      "word": "who"
+    },
+    {
+      "conf": 0.593631,
+      "end": 2.91,
+      "start": 2.37,
+      "word": "arrived"
+    },
+    {
+      "conf": 0.392773,
+      "end": 3.33,
+      "start": 2.91,
+      "word": "weekend"
+    },
+    {
+      "conf": 0.735242,
+      "end": 3.557612,
+      "start": 3.36,
+      "word": "if"
+    },
+    {
+      "conf": 0.881876,
+      "end": 3.69596,
+      "start": 3.557612,
+      "word": "if"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.05,
+      "start": 3.9,
+      "word": "if"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.29,
+      "start": 4.05,
+      "word": "these"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.92,
+      "start": 4.29,
+      "word": "balloons"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.1,
+      "start": 4.92,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.16,
+      "start": 5.1,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.61,
+      "start": 5.16,
+      "word": "confetti"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.85,
+      "start": 5.61,
+      "word": "gets"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.97,
+      "start": 5.85,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.09,
+      "start": 5.97,
+      "word": "our"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.27,
+      "start": 6.09,
+      "word": "way"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.6,
+      "start": 6.27,
+      "word": "between"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.75,
+      "start": 6.6,
+      "word": "us"
+    },
+    {
+      "conf": 0.758137,
+      "end": 6.84,
+      "start": 6.75,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.9,
+      "start": 6.84,
+      "word": "the"
+    },
+    {
+      "conf": 0.547354,
+      "end": 7.14,
+      "start": 6.9,
+      "word": "mike"
+    },
+    {
+      "conf": 0.742239,
+      "end": 7.26,
+      "start": 7.14,
+      "word": "than"
+    },
+    {
+      "conf": 0.500789,
+      "end": 7.38,
+      "start": 7.26,
+      "word": "our"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.77,
+      "start": 7.38,
+      "word": "sound"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.28,
+      "start": 7.86,
+      "word": "levels"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.52,
+      "start": 8.28,
+      "word": "may"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.85,
+      "start": 8.52,
+      "word": "be"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.21,
+      "start": 8.91,
+      "word": "born"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.6,
+      "start": 9.24,
+      "word": "again"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.93,
+      "start": 9.6,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.304104,
+      "start": 9.96,
+      "word": "right"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.5,
+      "start": 10.38,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.71,
+      "start": 10.5,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.07,
+      "start": 10.86,
+      "word": "but"
+    },
+    {
+      "conf": 0.711371,
+      "end": 11.25,
+      "start": 11.07,
+      "word": "yeah"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.58,
+      "start": 11.288659,
+      "word": "ticker"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.85,
+      "start": 11.58,
+      "word": "tape"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.06,
+      "start": 11.85,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.72,
+      "start": 12.39,
+      "word": "falling"
+    },
+    {
+      "conf": 0.748401,
+      "end": 12.84,
+      "start": 12.72,
+      "word": "from"
+    },
+    {
+      "conf": 0.401335,
+      "end": 13.08,
+      "start": 12.84,
+      "word": "cat"
+    },
+    {
+      "conf": 0.401335,
+      "end": 13.2,
+      "start": 13.08,
+      "word": "is"
+    },
+    {
+      "conf": 0.437961,
+      "end": 13.53,
+      "start": 13.2,
+      "word": "gay"
+    },
+    {
+      "conf": 0.659891,
+      "end": 13.71,
+      "start": 13.56,
+      "word": "to"
+    },
+    {
+      "conf": 0.659891,
+      "end": 14.04,
+      "start": 13.71,
+      "word": "do"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.19,
+      "start": 14.07,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.25,
+      "start": 14.19,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.7,
+      "start": 14.25,
+      "word": "jubilant"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.03,
+      "start": 14.7,
+      "word": "time"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.21,
+      "start": 15.03,
+      "word": "here"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.3,
+      "start": 15.21,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.39,
+      "start": 15.3,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.84,
+      "start": 15.39,
+      "word": "podcast"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.96,
+      "start": 15.84,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.201575,
+      "start": 15.96,
+      "word": "is"
+    },
+    {
+      "conf": 0.540625,
+      "end": 16.369008,
+      "start": 16.201575,
+      "word": "yeah"
+    },
+    {
+      "conf": 0.461349,
+      "end": 16.47,
+      "start": 16.41,
+      "word": "it"
+    },
+    {
+      "conf": 0.880479,
+      "end": 16.83,
+      "start": 16.47,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.071723,
+      "start": 16.983446,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.25,
+      "start": 17.071723,
+      "word": "only"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.43,
+      "start": 17.25,
+      "word": "took"
+    },
+    {
+      "conf": 0.758611,
+      "end": 17.547171,
+      "start": 17.43,
+      "word": "us"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.73,
+      "start": 17.547171,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.06,
+      "start": 17.73,
+      "word": "five"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.36,
+      "start": 18.06,
+      "word": "years"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.42,
+      "start": 18.36,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.54,
+      "start": 18.42,
+      "word": "get"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.66,
+      "start": 18.54,
+      "word": "one"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.87,
+      "start": 18.66,
+      "word": "hundred"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.96,
+      "start": 18.87,
+      "word": "and"
+    },
+    {
+      "conf": 0.536061,
+      "end": 19.62,
+      "start": 19.32,
+      "word": "it's"
+    }
+  ],
+  "text": "just an on our own andrea who arrived weekend if if if these balloons and the confetti gets in our way between us and the mike than our sound levels may be born again but right you know but yeah ticker tape is falling from cat is gay to do is a jubilant time here in the podcast it is yeah it is it only took us like five years to get one hundred and it's"
+}

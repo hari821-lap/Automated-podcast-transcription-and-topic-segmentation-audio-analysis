@@ -1,0 +1,413 @@
+{
+  "result": [
+    {
+      "conf": 0.425136,
+      "end": 0.31994,
+      "start": 0.12,
+      "word": "leave"
+    },
+    {
+      "conf": 0.726929,
+      "end": 0.446218,
+      "start": 0.31994,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.54,
+      "start": 0.446218,
+      "word": "we"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.69,
+      "start": 0.54,
+      "word": "only"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.84,
+      "start": 0.69,
+      "word": "got"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.17,
+      "start": 0.84,
+      "word": "blown"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.32,
+      "start": 1.17,
+      "word": "up"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.62,
+      "start": 1.32,
+      "word": "once"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.77,
+      "start": 1.62,
+      "word": "there"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.98,
+      "start": 1.77,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.4,
+      "start": 1.98,
+      "word": "once"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.55,
+      "start": 2.4,
+      "word": "we"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.7,
+      "start": 2.55,
+      "word": "were"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.85,
+      "start": 2.7,
+      "word": "up"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.36,
+      "start": 2.85,
+      "word": "against"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.45,
+      "start": 3.36,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.99,
+      "start": 3.45,
+      "word": "team"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.53,
+      "start": 4.2,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.16,
+      "start": 4.56,
+      "word": "really"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.34,
+      "start": 5.19,
+      "word": "had"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.58,
+      "start": 5.34,
+      "word": "kind"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.67,
+      "start": 5.58,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.27,
+      "start": 5.67,
+      "word": "dominated"
+    },
+    {
+      "conf": 0.827949,
+      "end": 6.42,
+      "start": 6.27,
+      "word": "us"
+    },
+    {
+      "conf": 0.767852,
+      "end": 6.57,
+      "start": 6.42,
+      "word": "they"
+    },
+    {
+      "conf": 0.892863,
+      "end": 6.78,
+      "start": 6.57,
+      "word": "knew"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.93,
+      "start": 6.78,
+      "word": "what"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.05,
+      "start": 6.93,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.17,
+      "start": 7.05,
+      "word": "were"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.74,
+      "start": 7.17,
+      "word": "doing"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.92,
+      "start": 7.8,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.98,
+      "start": 7.92,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.400734,
+      "start": 7.98,
+      "word": "got"
+    },
+    {
+      "conf": 0.860237,
+      "end": 8.49,
+      "start": 8.400734,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.58,
+      "start": 8.49,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.91,
+      "start": 8.58,
+      "word": "drop"
+    },
+    {
+      "conf": 0.849475,
+      "end": 9.15,
+      "start": 8.91,
+      "word": "ship"
+    },
+    {
+      "conf": 0.849475,
+      "end": 9.18,
+      "start": 9.15,
+      "word": "i"
+    },
+    {
+      "conf": 0.711961,
+      "end": 9.36,
+      "start": 9.18,
+      "word": "got"
+    },
+    {
+      "conf": 0.772568,
+      "end": 9.42,
+      "start": 9.36,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.51,
+      "start": 9.422697,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.08,
+      "start": 9.51,
+      "word": "extraction"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.38,
+      "start": 10.08,
+      "word": "point"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.34,
+      "start": 10.8,
+      "word": "all"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.58,
+      "start": 11.37,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.7,
+      "start": 11.58,
+      "word": "there"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.85,
+      "start": 11.7,
+      "word": "were"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.6,
+      "start": 12.06,
+      "word": "four"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.75,
+      "start": 12.6,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.87,
+      "start": 12.75,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.32,
+      "start": 12.87,
+      "word": "opposite"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.62,
+      "start": 13.32,
+      "word": "team"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.07,
+      "start": 13.62,
+      "word": "members"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.19,
+      "start": 14.07,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.34,
+      "start": 14.19,
+      "word": "were"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.76,
+      "start": 14.34,
+      "word": "all"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.33,
+      "start": 14.91,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.35,
+      "start": 15.54,
+      "word": "titans"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.74,
+      "start": 16.56,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.86,
+      "start": 16.74,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.04,
+      "start": 16.86,
+      "word": "were"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.55,
+      "start": 17.04,
+      "word": "all"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.51,
+      "start": 17.94,
+      "word": "firing"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.75,
+      "start": 18.51,
+      "word": "on"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.84,
+      "start": 18.75,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.32,
+      "start": 18.84,
+      "word": "ship"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.77,
+      "start": 19.35,
+      "word": "same"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.92,
+      "start": 19.77,
+      "word": "old"
+    }
+  ],
+  "text": "leave but we only got blown up once there was once we were up against a team that really had kind of dominated us they knew what they were doing and i got to the drop ship i got to the extraction point all like there were four of the opposite team members they were all in titans and they were all firing on the ship same old"
+}

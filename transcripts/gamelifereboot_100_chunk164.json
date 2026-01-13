@@ -1,0 +1,335 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.54,
+      "start": 0.15,
+      "word": "week"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.72,
+      "start": 0.54,
+      "word": "or"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.29,
+      "start": 0.72,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.56,
+      "start": 1.29,
+      "word": "called"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.77,
+      "start": 1.56,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.88,
+      "start": 2.13,
+      "word": "dongen"
+    },
+    {
+      "conf": 0.696402,
+      "end": 3.48,
+      "start": 2.88,
+      "word": "grandpa"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.93,
+      "start": 3.84,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.32,
+      "start": 3.93,
+      "word": "believe"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.44,
+      "start": 4.32,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.95,
+      "start": 4.44,
+      "word": "subtitle"
+    },
+    {
+      "conf": 0.69984,
+      "end": 5.31,
+      "start": 4.95,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.64,
+      "start": 5.31,
+      "word": "trigger"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.88,
+      "start": 5.64,
+      "word": "happy"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.39,
+      "start": 5.88,
+      "word": "havoc"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.75,
+      "start": 6.42,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.93,
+      "start": 6.78,
+      "word": "which"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.02,
+      "start": 6.93,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.23,
+      "start": 7.02,
+      "word": "not"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.26,
+      "start": 7.23,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.56,
+      "start": 7.26,
+      "word": "name"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.65,
+      "start": 7.56,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.95,
+      "start": 7.65,
+      "word": "makes"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.37,
+      "start": 7.95,
+      "word": "any"
+    },
+    {
+      "conf": 0.45442,
+      "end": 8.61,
+      "start": 8.46,
+      "word": "that"
+    },
+    {
+      "conf": 0.52021,
+      "end": 8.88,
+      "start": 8.61,
+      "word": "unlike"
+    },
+    {
+      "conf": 0.429803,
+      "end": 9.03,
+      "start": 8.88,
+      "word": "out"
+    },
+    {
+      "conf": 0.706048,
+      "end": 9.09,
+      "start": 9.03,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.48,
+      "start": 9.09123,
+      "word": "title"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.69,
+      "start": 9.51,
+      "word": "at"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.05,
+      "start": 9.69,
+      "word": "all"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.44,
+      "start": 10.17,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.65,
+      "start": 10.44,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.04,
+      "start": 10.65,
+      "word": "kind"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.55,
+      "start": 11.04,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.15,
+      "start": 11.73,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.9,
+      "start": 12.6,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.14,
+      "start": 12.9,
+      "word": "kind"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.23,
+      "start": 13.14,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.26,
+      "start": 13.23,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.44,
+      "start": 13.26,
+      "word": "little"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.62,
+      "start": 13.44,
+      "word": "bit"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.86,
+      "start": 13.62,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.22,
+      "start": 13.86,
+      "word": "battle"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.79,
+      "start": 14.22,
+      "word": "royale"
+    },
+    {
+      "conf": 0.775832,
+      "end": 16.23,
+      "start": 15.180001,
+      "word": "meets"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.1,
+      "start": 16.65,
+      "word": "phoenix"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.52,
+      "start": 17.1,
+      "word": "wright"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.03,
+      "start": 17.79,
+      "word": "with"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.09,
+      "start": 18.03,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.48,
+      "start": 18.09,
+      "word": "tiny"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.14,
+      "start": 18.48,
+      "word": "splash"
+    },
+    {
+      "conf": 0.73463,
+      "end": 19.388124,
+      "start": 19.2,
+      "word": "of"
+    },
+    {
+      "conf": 0.393997,
+      "end": 19.56,
+      "start": 19.388124,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.98,
+      "start": 19.56,
+      "word": "persona"
+    }
+  ],
+  "text": "week or so called the dongen grandpa i believe the subtitle is trigger happy havoc know which is not a name that makes any that unlike out of title at all so it's kind of it's it's kind of a little bit of battle royale meets phoenix wright with a tiny splash of a persona"
+}

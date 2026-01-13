@@ -1,0 +1,419 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.18,
+      "start": 0.097515,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.48,
+      "start": 0.18,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.29,
+      "start": 1.2,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.591773,
+      "start": 1.29,
+      "word": "game"
+    },
+    {
+      "conf": 0.790029,
+      "end": 1.71,
+      "start": 1.591773,
+      "word": "where"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.86,
+      "start": 1.71,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.07,
+      "start": 1.86,
+      "word": "could"
+    },
+    {
+      "conf": 0.780938,
+      "end": 2.55,
+      "start": 2.07,
+      "word": "choose"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.76,
+      "start": 2.55,
+      "word": "how"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.94,
+      "start": 2.76,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.18,
+      "start": 2.94,
+      "word": "went"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.6,
+      "start": 3.18,
+      "word": "through"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.84,
+      "start": 3.6,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.26,
+      "start": 4.05,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.53,
+      "start": 4.26,
+      "word": "then"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.04,
+      "start": 4.62,
+      "word": "only"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.79,
+      "start": 5.04,
+      "word": "sometimes"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.88,
+      "start": 5.79,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.03,
+      "start": 5.88,
+      "word": "had"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.09,
+      "start": 6.03,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.33,
+      "start": 6.09,
+      "word": "kill"
+    },
+    {
+      "conf": 0.598577,
+      "end": 6.69,
+      "start": 6.33,
+      "word": "everyone"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.78,
+      "start": 6.69,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.08,
+      "start": 6.78,
+      "word": "felt"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.29,
+      "start": 7.08,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.41,
+      "start": 7.29,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.53,
+      "start": 7.41,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.62,
+      "start": 7.53,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.98,
+      "start": 7.62,
+      "word": "game"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.37,
+      "start": 7.98,
+      "word": "where"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.09,
+      "start": 8.91,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.27,
+      "start": 9.09,
+      "word": "could"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.57,
+      "start": 9.27,
+      "word": "choose"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.69,
+      "start": 9.57,
+      "word": "how"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.78,
+      "start": 9.69,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.9,
+      "start": 9.78,
+      "word": "go"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.11,
+      "start": 9.9,
+      "word": "through"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.23,
+      "start": 10.11,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.1,
+      "start": 10.23,
+      "word": "sometimes"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.28,
+      "start": 11.1,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.76,
+      "start": 11.28,
+      "word": "most"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.85,
+      "start": 11.76,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.97,
+      "start": 11.85,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.3,
+      "start": 11.97,
+      "word": "time"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.39,
+      "start": 12.3,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.63,
+      "start": 12.39,
+      "word": "just"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.78,
+      "start": 12.63,
+      "word": "had"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.87,
+      "start": 12.78,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.08,
+      "start": 12.87,
+      "word": "kill"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.59,
+      "start": 13.08,
+      "word": "everybody"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.66,
+      "start": 15.21,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.29,
+      "start": 15.96,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.44,
+      "start": 16.29,
+      "word": "when"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.53,
+      "start": 16.44,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.8,
+      "start": 16.65,
+      "word": "when"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.86,
+      "start": 16.8,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.13,
+      "start": 16.86,
+      "word": "happened"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.4,
+      "start": 17.13,
+      "word": "again"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.43,
+      "start": 17.4,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.536588,
+      "start": 17.43,
+      "word": "was"
+    },
+    {
+      "conf": 0.484005,
+      "end": 17.64,
+      "start": 17.55,
+      "word": "at"
+    },
+    {
+      "conf": 0.484005,
+      "end": 17.84504,
+      "start": 17.64,
+      "word": "all"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.27,
+      "start": 17.910172,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.75,
+      "start": 18.27,
+      "word": "again"
+    },
+    {
+      "conf": 0.727568,
+      "end": 19.26,
+      "start": 18.9,
+      "word": "now"
+    },
+    {
+      "conf": 0.727568,
+      "end": 19.44,
+      "start": 19.26,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.56,
+      "start": 19.44,
+      "word": "there"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.68,
+      "start": 19.56,
+      "word": "was"
+    },
+    {
+      "conf": 0.640383,
+      "end": 19.98,
+      "start": 19.68,
+      "word": "probably"
+    }
+  ],
+  "text": "it was a game where you could choose how you went through it and then only sometimes you had to kill everyone it felt like it was a game where you could choose how to go through it sometimes but most of the time you just had to kill everybody and so when it when it happened again i was at all this again now so there was probably"
+}

@@ -1,0 +1,371 @@
+{
+  "result": [
+    {
+      "conf": 0.581362,
+      "end": 0.259648,
+      "start": 0.0,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.63,
+      "start": 0.259648,
+      "word": "plane"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.20043,
+      "start": 0.63,
+      "word": "entirely"
+    },
+    {
+      "conf": 0.848387,
+      "end": 1.26,
+      "start": 1.20043,
+      "word": "in"
+    },
+    {
+      "conf": 0.848387,
+      "end": 1.38,
+      "start": 1.26,
+      "word": "your"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.25,
+      "start": 1.38,
+      "word": "imaginations"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.73,
+      "start": 2.58,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.85,
+      "start": 2.73,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.12,
+      "start": 2.85,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.42,
+      "start": 3.12,
+      "word": "cool"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.93,
+      "start": 3.45,
+      "word": "yeah"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.71,
+      "start": 4.32,
+      "word": "there's"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.86,
+      "start": 4.74,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.16,
+      "start": 4.89,
+      "word": "lot"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.28,
+      "start": 5.16,
+      "word": "of"
+    },
+    {
+      "conf": 0.511927,
+      "end": 5.64,
+      "start": 5.28,
+      "word": "driving"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.82,
+      "start": 5.64,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.15,
+      "start": 5.82,
+      "word": "basically"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.42,
+      "start": 6.15,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.66,
+      "start": 6.45,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.96,
+      "start": 6.66,
+      "word": "whole"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.32,
+      "start": 6.96,
+      "word": "part"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.5,
+      "start": 7.35,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.01,
+      "start": 7.5,
+      "word": "whole"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.4,
+      "start": 8.1,
+      "word": "half"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.52,
+      "start": 8.4,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.61,
+      "start": 8.52,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.97,
+      "start": 8.61,
+      "word": "game"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.36,
+      "start": 9.0,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.17,
+      "start": 10.02,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.47,
+      "start": 10.17,
+      "word": "two"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.59,
+      "start": 10.47,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.98,
+      "start": 10.59,
+      "word": "them"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.52,
+      "start": 11.13,
+      "word": "hanging"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.79,
+      "start": 11.52,
+      "word": "out"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.97,
+      "start": 11.82,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.06,
+      "start": 11.97,
+      "word": "an"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.42,
+      "start": 12.06,
+      "word": "abandoned"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.78,
+      "start": 12.42,
+      "word": "shopping"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.14,
+      "start": 12.78,
+      "word": "mall"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.71,
+      "start": 13.2,
+      "word": "together"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.92,
+      "start": 13.71,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.1,
+      "start": 13.92,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.22,
+      "start": 14.1,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.4,
+      "start": 14.22,
+      "word": "just"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.55,
+      "start": 14.4,
+      "word": "sort"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.64,
+      "start": 14.55,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.12,
+      "start": 14.64,
+      "word": "sequence"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.39,
+      "start": 15.12,
+      "word": "after"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.93,
+      "start": 15.39,
+      "word": "sequence"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.35,
+      "start": 15.96,
+      "word": "of"
+    },
+    {
+      "conf": 0.836218,
+      "end": 17.31,
+      "start": 17.1,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.64,
+      "start": 17.31,
+      "word": "find"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.7,
+      "start": 17.64,
+      "word": "a"
+    },
+    {
+      "conf": 0.805443,
+      "end": 18.03,
+      "start": 17.7,
+      "word": "job"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.42,
+      "start": 18.03,
+      "word": "book"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.23,
+      "start": 19.08,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.35,
+      "start": 19.23,
+      "word": "can"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.53,
+      "start": 19.35,
+      "word": "just"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.71,
+      "start": 19.53,
+      "word": "keep"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.98,
+      "start": 19.71,
+      "word": "pressing"
+    }
+  ],
+  "text": "that plane entirely in your imaginations and it's so cool yeah there's a lot of driving so basically that that whole part that whole half of the game is the two of them hanging out in an abandoned shopping mall together and so it's just sort of sequence after sequence of the find a job book you can just keep pressing"
+}

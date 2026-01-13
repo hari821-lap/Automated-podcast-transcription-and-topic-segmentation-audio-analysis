@@ -1,0 +1,533 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.36,
+      "start": 0.06,
+      "word": "oh"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.54,
+      "start": 0.36,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.6,
+      "start": 0.54,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.87,
+      "start": 0.6,
+      "word": "little"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.17,
+      "start": 0.87,
+      "word": "bit"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.59,
+      "start": 1.23,
+      "word": "more"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.22,
+      "start": 1.59,
+      "word": "complicated"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.34,
+      "start": 2.22,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.58,
+      "start": 2.34,
+      "word": "terms"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.73,
+      "start": 2.58,
+      "word": "of"
+    },
+    {
+      "conf": 0.798968,
+      "end": 2.97,
+      "start": 2.73,
+      "word": "well"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.15,
+      "start": 2.97,
+      "word": "what"
+    },
+    {
+      "conf": 0.7907,
+      "end": 3.236966,
+      "start": 3.15,
+      "word": "am"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.33,
+      "start": 3.236966,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.78,
+      "start": 3.33,
+      "word": "do"
+    },
+    {
+      "conf": 0.845091,
+      "end": 4.196431,
+      "start": 3.812197,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.5,
+      "start": 4.35,
+      "word": "how"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.59,
+      "start": 4.5,
+      "word": "are"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.68,
+      "start": 4.59,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.86,
+      "start": 4.68,
+      "word": "going"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.92,
+      "start": 4.86,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.16,
+      "start": 4.92,
+      "word": "fight"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.31,
+      "start": 5.16,
+      "word": "each"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.55,
+      "start": 5.31,
+      "word": "other"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.67,
+      "start": 5.55,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.73,
+      "start": 5.67,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.94,
+      "start": 5.73,
+      "word": "might"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.15,
+      "start": 5.94,
+      "word": "see"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.33,
+      "start": 6.15,
+      "word": "me"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.72,
+      "start": 6.33,
+      "word": "during"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.81,
+      "start": 6.72,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.11,
+      "start": 6.81,
+      "word": "fight"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.29,
+      "start": 7.11,
+      "word": "because"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.41,
+      "start": 7.29,
+      "word": "i"
+    },
+    {
+      "conf": 0.647182,
+      "end": 7.523865,
+      "start": 7.44,
+      "word": "you"
+    },
+    {
+      "conf": 0.829132,
+      "end": 7.617617,
+      "start": 7.523865,
+      "word": "know"
+    },
+    {
+      "conf": 0.955518,
+      "end": 7.68,
+      "start": 7.617617,
+      "word": "we"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.86,
+      "start": 7.68,
+      "word": "have"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.07,
+      "start": 7.86,
+      "word": "less"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.19,
+      "start": 8.07,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.22,
+      "start": 8.19,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.64,
+      "start": 8.22,
+      "word": "hiding"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.21,
+      "start": 8.67,
+      "word": "spot"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.69,
+      "start": 9.48,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.75,
+      "start": 9.69,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.93,
+      "start": 9.75,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.08,
+      "start": 9.96,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.2,
+      "start": 10.08,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.62,
+      "start": 10.2,
+      "word": "cool"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.74,
+      "start": 10.62,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.89,
+      "start": 10.74,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.16,
+      "start": 10.89,
+      "word": "good"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.25,
+      "start": 11.16,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.4,
+      "start": 11.25,
+      "word": "was"
+    },
+    {
+      "conf": 0.893693,
+      "end": 11.7,
+      "start": 11.43,
+      "word": "neat"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.3,
+      "start": 12.0,
+      "word": "to"
+    },
+    {
+      "conf": 0.770839,
+      "end": 13.05,
+      "start": 12.3,
+      "word": "realize"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.47,
+      "start": 13.14,
+      "word": "oh"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.74,
+      "start": 13.47,
+      "word": "that's"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.86,
+      "start": 13.74,
+      "word": "what"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.89,
+      "start": 13.86,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.04,
+      "start": 13.89,
+      "word": "get"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.16,
+      "start": 14.04,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.37,
+      "start": 14.16,
+      "word": "do"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.82,
+      "start": 14.37,
+      "word": "now"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.24,
+      "start": 15.03,
+      "word": "and"
+    },
+    {
+      "conf": 0.745699,
+      "end": 15.3,
+      "start": 15.24,
+      "word": "he"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.63,
+      "start": 15.307629,
+      "word": "also"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.08,
+      "start": 15.63,
+      "word": "reflects"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.2,
+      "start": 16.08,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.68,
+      "start": 16.2,
+      "word": "think"
+    },
+    {
+      "conf": 0.593734,
+      "end": 16.89,
+      "start": 16.77,
+      "word": "you"
+    },
+    {
+      "conf": 0.593734,
+      "end": 17.01,
+      "start": 16.89,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.25,
+      "start": 17.022188,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.31,
+      "start": 17.25,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.82,
+      "start": 17.31,
+      "word": "mean"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.09,
+      "start": 17.85,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.36,
+      "start": 18.09,
+      "word": "happens"
+    },
+    {
+      "conf": 0.750823,
+      "end": 18.54,
+      "start": 18.36,
+      "word": "any"
+    },
+    {
+      "conf": 0.750823,
+      "end": 18.75,
+      "start": 18.54,
+      "word": "time"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.84,
+      "start": 18.75,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.29,
+      "start": 18.84,
+      "word": "play"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.44,
+      "start": 19.29,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.5,
+      "start": 19.44,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.68,
+      "start": 19.5,
+      "word": "think"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.8,
+      "start": 19.68,
+      "word": "it's"
+    },
+    {
+      "conf": 0.89877,
+      "end": 19.89,
+      "start": 19.8,
+      "word": "an"
+    },
+    {
+      "conf": 0.516242,
+      "end": 19.98,
+      "start": 19.89,
+      "word": "ex"
+    }
+  ],
+  "text": "oh it's a little bit more complicated in terms of well what am i do and how are they going to fight each other and they might see me during the fight because i you know we have less of a hiding spot but it was it was cool it was good it was neat to realize oh that's what i get to do now and he also reflects i think you know that i mean this happens any time you play but i think it's an ex"
+}

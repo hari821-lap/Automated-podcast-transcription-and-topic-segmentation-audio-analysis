@@ -1,0 +1,305 @@
+{
+  "result": [
+    {
+      "conf": 0.991104,
+      "end": 1.74,
+      "start": 1.56,
+      "word": "that's"
+    },
+    {
+      "conf": 0.96274,
+      "end": 1.914662,
+      "start": 1.74,
+      "word": "why"
+    },
+    {
+      "conf": 0.306047,
+      "end": 2.097759,
+      "start": 1.92,
+      "word": "some"
+    },
+    {
+      "conf": 0.643028,
+      "end": 2.25,
+      "start": 2.097759,
+      "word": "what"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.29,
+      "start": 4.14,
+      "word": "what's"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.38,
+      "start": 4.29,
+      "word": "your"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.71,
+      "start": 4.38,
+      "word": "favorite"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.07,
+      "start": 4.71,
+      "word": "eugene"
+    },
+    {
+      "conf": 0.60065,
+      "end": 5.34,
+      "start": 5.07,
+      "word": "job"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.73,
+      "start": 5.43,
+      "word": "name"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.54,
+      "start": 6.33,
+      "word": "is"
+    },
+    {
+      "conf": 0.783088,
+      "end": 7.32,
+      "start": 6.99,
+      "word": "robert"
+    },
+    {
+      "conf": 0.816083,
+      "end": 7.56,
+      "start": 7.32,
+      "word": "try"
+    },
+    {
+      "conf": 0.777597,
+      "end": 8.55,
+      "start": 8.25,
+      "word": "robot"
+    },
+    {
+      "conf": 0.663567,
+      "end": 9.023552,
+      "start": 8.550472,
+      "word": "tron"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.02,
+      "start": 9.72,
+      "word": "lot"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.83,
+      "start": 10.59,
+      "word": "less"
+    },
+    {
+      "conf": 0.920253,
+      "end": 10.98,
+      "start": 10.83,
+      "word": "than"
+    },
+    {
+      "conf": 0.74084,
+      "end": 11.19,
+      "start": 11.1,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.52,
+      "start": 11.194636,
+      "word": "game"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.64,
+      "start": 11.52,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.85,
+      "start": 11.64,
+      "word": "brought"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.029999,
+      "start": 11.85,
+      "word": "me"
+    },
+    {
+      "conf": 0.699466,
+      "end": 12.179999,
+      "start": 12.029999,
+      "word": "into"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.54,
+      "start": 12.185827,
+      "word": "williams"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.11,
+      "start": 12.54,
+      "word": "electronics"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.23,
+      "start": 13.11,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.65,
+      "start": 13.23,
+      "word": "time"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.98,
+      "start": 13.86,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.22,
+      "start": 13.98,
+      "word": "work"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.34,
+      "start": 14.22,
+      "word": "with"
+    },
+    {
+      "conf": 0.597101,
+      "end": 14.467714,
+      "start": 14.34,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.51,
+      "start": 15.21,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.75,
+      "start": 15.63,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.99,
+      "start": 15.75,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.35,
+      "start": 15.99,
+      "word": "day"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.5,
+      "start": 16.35,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.8,
+      "start": 16.5,
+      "word": "most"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.16,
+      "start": 16.8,
+      "word": "amazing"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.34,
+      "start": 17.16,
+      "word": "thing"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.58,
+      "start": 17.34,
+      "word": "about"
+    },
+    {
+      "conf": 0.64735,
+      "end": 17.775073,
+      "start": 17.58,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.63,
+      "start": 18.48,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.78,
+      "start": 18.63,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.87,
+      "start": 18.78,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.05,
+      "start": 18.87,
+      "word": "has"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.2,
+      "start": 19.05,
+      "word": "two"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.399684,
+      "start": 19.2,
+      "word": "hundred"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.68,
+      "start": 19.415158,
+      "word": "fifty"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.92,
+      "start": 19.68,
+      "word": "five"
+    }
+  ],
+  "text": "that's why some what what's your favorite eugene job name is robert try robot tron lot less than the game that brought me into williams electronics the time to work with you and to this day that most amazing thing about that is that it has two hundred fifty five"
+}

@@ -1,0 +1,467 @@
+{
+  "result": [
+    {
+      "conf": 0.476154,
+      "end": 0.27,
+      "start": 0.0,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.316359,
+      "start": 0.27,
+      "word": "are"
+    },
+    {
+      "conf": 0.659268,
+      "end": 0.66,
+      "start": 0.316359,
+      "word": "there"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.78,
+      "start": 0.69,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.23,
+      "start": 0.78,
+      "word": "gameplay"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.77,
+      "start": 1.23,
+      "word": "mechanics"
+    },
+    {
+      "conf": 0.515967,
+      "end": 1.98,
+      "start": 1.77,
+      "word": "here"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.34,
+      "start": 2.01,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.46,
+      "start": 2.34,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.55,
+      "start": 2.46,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.73,
+      "start": 2.55,
+      "word": "most"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.94,
+      "start": 2.73,
+      "word": "part"
+    },
+    {
+      "conf": 0.608503,
+      "end": 3.005454,
+      "start": 2.94,
+      "word": "it"
+    },
+    {
+      "conf": 0.391497,
+      "end": 3.18,
+      "start": 3.005454,
+      "word": "either"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.54,
+      "start": 3.21,
+      "word": "different"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.96,
+      "start": 3.54,
+      "word": "rooms"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.11,
+      "start": 3.96,
+      "word": "and"
+    },
+    {
+      "conf": 0.413891,
+      "end": 4.32,
+      "start": 4.11,
+      "word": "ever"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.68,
+      "start": 4.35,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.58,
+      "start": 4.71,
+      "word": "basically"
+    },
+    {
+      "conf": 0.551246,
+      "end": 6.9,
+      "start": 6.39,
+      "word": "mom's"
+    },
+    {
+      "conf": 0.452795,
+      "end": 7.082465,
+      "start": 6.9,
+      "word": "don't"
+    },
+    {
+      "conf": 0.583155,
+      "end": 7.23,
+      "start": 7.082465,
+      "word": "let"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.38,
+      "start": 7.23,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.62,
+      "start": 7.38,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.01,
+      "start": 7.71,
+      "word": "some"
+    },
+    {
+      "conf": 0.675682,
+      "end": 8.37,
+      "start": 8.01,
+      "word": "murders"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.76,
+      "start": 8.37,
+      "word": "occur"
+    },
+    {
+      "conf": 0.487137,
+      "end": 9.51,
+      "start": 9.36,
+      "word": "and"
+    },
+    {
+      "conf": 0.502575,
+      "end": 9.87,
+      "start": 9.51,
+      "word": "other"
+    },
+    {
+      "conf": 0.680762,
+      "end": 10.17,
+      "start": 9.96,
+      "word": "one"
+    },
+    {
+      "conf": 0.986919,
+      "end": 10.23,
+      "start": 10.17,
+      "word": "a"
+    },
+    {
+      "conf": 0.595643,
+      "end": 10.614573,
+      "start": 10.23,
+      "word": "murderer"
+    },
+    {
+      "conf": 0.671483,
+      "end": 10.74,
+      "start": 10.614573,
+      "word": "at"
+    },
+    {
+      "conf": 0.927817,
+      "end": 11.248594,
+      "start": 10.771233,
+      "word": "her"
+    },
+    {
+      "conf": 0.467689,
+      "end": 11.61,
+      "start": 11.34,
+      "word": "offer"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.73,
+      "start": 11.64,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.82,
+      "start": 11.73,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.06,
+      "start": 11.82,
+      "word": "most"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.3,
+      "start": 12.06,
+      "word": "part"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.39,
+      "start": 12.3,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.54,
+      "start": 12.39,
+      "word": "get"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.69,
+      "start": 12.54,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.93,
+      "start": 12.69,
+      "word": "free"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.32,
+      "start": 12.93,
+      "word": "time"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.47,
+      "start": 13.32,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.65,
+      "start": 13.47,
+      "word": "then"
+    },
+    {
+      "conf": 0.794568,
+      "end": 13.859999,
+      "start": 13.65,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.1,
+      "start": 13.86,
+      "word": "just"
+    },
+    {
+      "conf": 0.630467,
+      "end": 14.13,
+      "start": 14.1,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.49,
+      "start": 14.16,
+      "word": "meeting"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.94,
+      "start": 14.49,
+      "word": "people"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.03,
+      "start": 14.94,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.27,
+      "start": 15.03,
+      "word": "getting"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.57,
+      "start": 15.45,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.75,
+      "start": 15.57,
+      "word": "more"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.9,
+      "start": 15.75,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.2,
+      "start": 15.9,
+      "word": "interact"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.32,
+      "start": 16.2,
+      "word": "with"
+    },
+    {
+      "conf": 0.815768,
+      "end": 16.34961,
+      "start": 16.32,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.74,
+      "start": 16.34961,
+      "word": "specific"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.07,
+      "start": 16.74,
+      "word": "person"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.13,
+      "start": 17.07,
+      "word": "the"
+    },
+    {
+      "conf": 0.515392,
+      "end": 17.419219,
+      "start": 17.13,
+      "word": "closer"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.52,
+      "start": 17.419219,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.673126,
+      "start": 17.52,
+      "word": "get"
+    },
+    {
+      "conf": 0.61538,
+      "end": 17.73,
+      "start": 17.673126,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.79,
+      "start": 17.73,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.97,
+      "start": 17.79,
+      "word": "more"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.09,
+      "start": 17.97,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.3,
+      "start": 18.09,
+      "word": "learn"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.42,
+      "start": 18.3,
+      "word": "their"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.81,
+      "start": 18.42,
+      "word": "personal"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.23,
+      "start": 18.81,
+      "word": "story"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.56,
+      "start": 19.23,
+      "word": "okay"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.8,
+      "start": 19.62,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.92,
+      "start": 19.8,
+      "word": "would"
+    }
+  ],
+  "text": "that are there the gameplay mechanics here so for the most part it either different rooms and ever so basically mom's don't let you know some murders occur and other one a murderer at her offer for the most part you get like free time and then it's just a meeting people and getting the more you interact with a specific person the closer you get in the more you learn their personal story okay i would"
+}

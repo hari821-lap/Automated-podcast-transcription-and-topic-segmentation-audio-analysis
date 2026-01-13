@@ -1,0 +1,413 @@
+{
+  "result": [
+    {
+      "conf": 0.371045,
+      "end": 0.24,
+      "start": 0.12,
+      "word": "know"
+    },
+    {
+      "conf": 0.909296,
+      "end": 0.81,
+      "start": 0.24,
+      "word": "became"
+    },
+    {
+      "conf": 0.80135,
+      "end": 1.59,
+      "start": 1.29,
+      "word": "vice"
+    },
+    {
+      "conf": 0.701961,
+      "end": 1.810541,
+      "start": 1.59,
+      "word": "year"
+    },
+    {
+      "conf": 0.615605,
+      "end": 1.924359,
+      "start": 1.810541,
+      "word": "but"
+    },
+    {
+      "conf": 0.96905,
+      "end": 2.20702,
+      "start": 1.9381,
+      "word": "really"
+    },
+    {
+      "conf": 0.549765,
+      "end": 2.34,
+      "start": 2.25,
+      "word": "he"
+    },
+    {
+      "conf": 0.649715,
+      "end": 2.43,
+      "start": 2.34,
+      "word": "had"
+    },
+    {
+      "conf": 0.649715,
+      "end": 2.49,
+      "start": 2.43,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.76,
+      "start": 2.49,
+      "word": "really"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.39,
+      "start": 2.76,
+      "word": "fantastic"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.6,
+      "start": 3.51,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.75,
+      "start": 3.6,
+      "word": "don't"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.05,
+      "start": 3.75,
+      "word": "actually"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.17,
+      "start": 4.05,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.26,
+      "start": 4.17,
+      "word": "what"
+    },
+    {
+      "conf": 0.565964,
+      "end": 4.35,
+      "start": 4.26,
+      "word": "you"
+    },
+    {
+      "conf": 0.434036,
+      "end": 4.68,
+      "start": 4.35,
+      "word": "saying"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.92,
+      "start": 4.83,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.13,
+      "start": 4.92,
+      "word": "pretty"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.34,
+      "start": 5.13,
+      "word": "much"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.49,
+      "start": 5.34,
+      "word": "just"
+    },
+    {
+      "conf": 0.493757,
+      "end": 5.7,
+      "start": 5.49,
+      "word": "wanted"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.76,
+      "start": 5.7,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.24,
+      "start": 5.76,
+      "word": "say"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.69,
+      "start": 6.42,
+      "word": "those"
+    },
+    {
+      "conf": 0.863447,
+      "end": 6.78,
+      "start": 6.69,
+      "word": "are"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.05,
+      "start": 6.81,
+      "word": "really"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.23,
+      "start": 7.05,
+      "word": "good"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.56,
+      "start": 7.23,
+      "word": "video"
+    },
+    {
+      "conf": 0.872939,
+      "end": 7.98,
+      "start": 7.56,
+      "word": "cameras"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.22,
+      "start": 7.983812,
+      "word": "that"
+    },
+    {
+      "conf": 0.846267,
+      "end": 9.28841,
+      "start": 8.79,
+      "word": "requires"
+    },
+    {
+      "conf": 0.603774,
+      "end": 9.351807,
+      "start": 9.299445,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.63,
+      "start": 9.372006,
+      "word": "really"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.99,
+      "start": 9.63,
+      "word": "good"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.95,
+      "start": 10.71,
+      "word": "thank"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.04,
+      "start": 10.95,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.22,
+      "start": 11.04,
+      "word": "very"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.375273,
+      "start": 11.22,
+      "word": "much"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.85,
+      "start": 11.67,
+      "word": "try"
+    },
+    {
+      "conf": 0.731803,
+      "end": 12.15,
+      "start": 11.85,
+      "word": "hard"
+    },
+    {
+      "conf": 0.480118,
+      "end": 12.69,
+      "start": 12.33,
+      "word": "that"
+    },
+    {
+      "conf": 0.992254,
+      "end": 13.14,
+      "start": 12.96,
+      "word": "it's"
+    },
+    {
+      "conf": 0.821457,
+      "end": 13.38,
+      "start": 13.14,
+      "word": "going"
+    },
+    {
+      "conf": 0.821457,
+      "end": 13.5,
+      "start": 13.38,
+      "word": "to"
+    },
+    {
+      "conf": 0.821457,
+      "end": 13.68,
+      "start": 13.5,
+      "word": "be"
+    },
+    {
+      "conf": 0.54072,
+      "end": 14.069999,
+      "start": 13.979999,
+      "word": "all"
+    },
+    {
+      "conf": 0.717673,
+      "end": 14.37,
+      "start": 14.07,
+      "word": "right"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.58,
+      "start": 14.43,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.73,
+      "start": 14.58,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.82,
+      "start": 14.73,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.3,
+      "start": 14.82,
+      "word": "seriously"
+    },
+    {
+      "conf": 0.318137,
+      "end": 15.475644,
+      "start": 15.3,
+      "word": "have"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.629669,
+      "start": 15.475644,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.78,
+      "start": 15.66,
+      "word": "have"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.14,
+      "start": 15.78,
+      "word": "nothing"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.29,
+      "start": 16.17,
+      "word": "i'm"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.47,
+      "start": 16.29,
+      "word": "just"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.77,
+      "start": 16.47,
+      "word": "standing"
+    },
+    {
+      "conf": 0.756786,
+      "end": 16.92,
+      "start": 16.77,
+      "word": "there"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.19,
+      "start": 16.92,
+      "word": "going"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.43,
+      "start": 17.19,
+      "word": "like"
+    },
+    {
+      "conf": 0.420384,
+      "end": 18.12,
+      "start": 17.76,
+      "word": "keynes"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.36,
+      "start": 18.12,
+      "word": "if"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.87,
+      "start": 18.72,
+      "word": "they're"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.23,
+      "start": 18.87,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.65,
+      "start": 19.26,
+      "word": "good"
+    }
+  ],
+  "text": "know became vice year but really he had a really fantastic i don't actually know what you saying i pretty much just wanted to say those are really good video cameras that requires a really good thank you very much try hard that it's going to be all right i know i seriously have i have nothing i'm just standing there going like keynes if they're so good"
+}

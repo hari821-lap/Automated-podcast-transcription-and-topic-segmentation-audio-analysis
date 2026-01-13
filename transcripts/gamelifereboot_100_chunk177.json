@@ -1,0 +1,497 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.24,
+      "start": 0.098227,
+      "word": "through"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.39,
+      "start": 0.24,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.72,
+      "start": 0.39,
+      "word": "entire"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.23,
+      "start": 0.72,
+      "word": "process"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.35,
+      "start": 1.23,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.62,
+      "start": 1.35,
+      "word": "then"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.95,
+      "start": 1.86,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.13,
+      "start": 1.95,
+      "word": "mean"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.25,
+      "start": 2.13,
+      "word": "there"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.43,
+      "start": 2.25,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.46,
+      "start": 2.43,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.73,
+      "start": 2.46,
+      "word": "bigger"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.18,
+      "start": 2.73,
+      "word": "mystery"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.39,
+      "start": 3.21,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.561115,
+      "start": 3.39,
+      "word": "know"
+    },
+    {
+      "conf": 0.703818,
+      "end": 3.72,
+      "start": 3.57,
+      "word": "at"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.119639,
+      "start": 3.75,
+      "word": "what"
+    },
+    {
+      "conf": 0.678716,
+      "end": 4.26,
+      "start": 4.14,
+      "word": "a"
+    },
+    {
+      "conf": 0.643314,
+      "end": 4.68,
+      "start": 4.304948,
+      "word": "why"
+    },
+    {
+      "conf": 0.643314,
+      "end": 4.8,
+      "start": 4.68,
+      "word": "are"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.95,
+      "start": 4.8,
+      "word": "you"
+    },
+    {
+      "conf": 0.485638,
+      "end": 5.25,
+      "start": 4.95,
+      "word": "second"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.37,
+      "start": 5.25,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.58,
+      "start": 5.37,
+      "word": "weird"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.67,
+      "start": 5.58,
+      "word": "high"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.03,
+      "start": 5.67,
+      "word": "school"
+    },
+    {
+      "conf": 0.601011,
+      "end": 6.18,
+      "start": 6.03,
+      "word": "at"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.69,
+      "start": 6.18,
+      "word": "why"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.2,
+      "start": 6.93,
+      "word": "how"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.44,
+      "start": 7.266625,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.68,
+      "start": 7.44,
+      "word": "isn't"
+    },
+    {
+      "conf": 0.545562,
+      "end": 7.900738,
+      "start": 7.71,
+      "word": "aren't"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.98,
+      "start": 7.900738,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.28,
+      "start": 7.98,
+      "word": "police"
+    },
+    {
+      "conf": 0.587319,
+      "end": 8.400758,
+      "start": 8.28,
+      "word": "can"
+    },
+    {
+      "conf": 0.661107,
+      "end": 8.459734,
+      "start": 8.400758,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.7,
+      "start": 8.459734,
+      "word": "help"
+    },
+    {
+      "conf": 0.655312,
+      "end": 8.82,
+      "start": 8.7,
+      "word": "you"
+    },
+    {
+      "conf": 0.926522,
+      "end": 9.008678,
+      "start": 8.890252,
+      "word": "are"
+    },
+    {
+      "conf": 0.655312,
+      "end": 9.3,
+      "start": 9.008678,
+      "word": "sir"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.42,
+      "start": 9.319659,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.57,
+      "start": 9.42,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.87,
+      "start": 9.57,
+      "word": "some"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.99,
+      "start": 9.87,
+      "word": "up"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.087809,
+      "start": 9.99,
+      "word": "with"
+    },
+    {
+      "conf": 0.524638,
+      "end": 10.204125,
+      "start": 10.087809,
+      "word": "this"
+    },
+    {
+      "conf": 0.321316,
+      "end": 10.44,
+      "start": 10.204125,
+      "word": "parent"
+    },
+    {
+      "conf": 0.928216,
+      "end": 10.560256,
+      "start": 10.44,
+      "word": "is"
+    },
+    {
+      "conf": 0.909627,
+      "end": 10.65,
+      "start": 10.560256,
+      "word": "there"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.01,
+      "start": 10.652711,
+      "word": "something"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.34,
+      "start": 11.01,
+      "word": "else"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.91,
+      "start": 11.37,
+      "word": "more"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.36,
+      "start": 12.0,
+      "word": "going"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.75,
+      "start": 12.36,
+      "word": "on"
+    },
+    {
+      "conf": 0.608575,
+      "end": 13.59,
+      "start": 13.14,
+      "word": "ah"
+    },
+    {
+      "conf": 0.48929,
+      "end": 14.25,
+      "start": 14.07,
+      "word": "that"
+    },
+    {
+      "conf": 0.375538,
+      "end": 14.31,
+      "start": 14.25,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.52,
+      "start": 14.328734,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.85,
+      "start": 14.58,
+      "word": "leads"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.97,
+      "start": 14.85,
+      "word": "me"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.06,
+      "start": 14.97,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.27,
+      "start": 15.06,
+      "word": "think"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.39,
+      "start": 15.27,
+      "word": "there"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.6,
+      "start": 15.39,
+      "word": "might"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.72,
+      "start": 15.6,
+      "word": "be"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.14,
+      "start": 15.72,
+      "word": "something"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.35,
+      "start": 16.14,
+      "word": "more"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.62,
+      "start": 16.35,
+      "word": "going"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.89,
+      "start": 16.62,
+      "word": "on"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.19,
+      "start": 16.92,
+      "word": "yeah"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.37,
+      "start": 17.25,
+      "word": "there"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.58,
+      "start": 17.37,
+      "word": "might"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.82,
+      "start": 17.58,
+      "word": "be"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.12,
+      "start": 17.91,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.27,
+      "start": 18.12,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.51,
+      "start": 18.27,
+      "word": "once"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.66,
+      "start": 18.51,
+      "word": "you've"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.87,
+      "start": 18.66,
+      "word": "won"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.96,
+      "start": 18.87,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.26,
+      "start": 18.96,
+      "word": "game"
+    },
+    {
+      "conf": 0.543927,
+      "end": 19.65,
+      "start": 19.29,
+      "word": "sharply"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.98,
+      "start": 19.71,
+      "word": "also"
+    }
+  ],
+  "text": "through this entire process and then i mean there is a bigger mystery you know at what a why are you second this weird high school at why how like isn't aren't the police can to help you are sir you know some up with this parent is there something else more going on ah that a that leads me to think there might be something more going on yeah there might be and to once you've won the game sharply also"
+}

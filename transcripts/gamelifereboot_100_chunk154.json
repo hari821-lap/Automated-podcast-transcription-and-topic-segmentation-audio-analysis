@@ -1,0 +1,311 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.63,
+      "start": 0.42,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.81,
+      "start": 0.63,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.99,
+      "start": 0.81,
+      "word": "are"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.32,
+      "start": 0.99,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.79,
+      "start": 2.31,
+      "word": "secret"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.18,
+      "start": 2.79,
+      "word": "agent"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.36,
+      "start": 3.21,
+      "word": "who"
+    },
+    {
+      "conf": 0.812859,
+      "end": 3.48,
+      "start": 3.36,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.72,
+      "start": 3.48,
+      "word": "sent"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.87,
+      "start": 3.72,
+      "word": "on"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.29,
+      "start": 3.87,
+      "word": "various"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.83,
+      "start": 4.29,
+      "word": "missions"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.24,
+      "start": 5.97,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.42,
+      "start": 6.24,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.51,
+      "start": 6.42,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.72,
+      "start": 6.51,
+      "word": "say"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.96,
+      "start": 6.72,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.14,
+      "start": 6.96,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.38,
+      "start": 7.14,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.62,
+      "start": 7.41,
+      "word": "make"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.68,
+      "start": 7.62,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.95,
+      "start": 7.68,
+      "word": "sound"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.46,
+      "start": 7.95,
+      "word": "mundane"
+    },
+    {
+      "conf": 0.668857,
+      "end": 8.55,
+      "start": 8.46,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.73,
+      "start": 8.55,
+      "word": "which"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.06,
+      "start": 8.79,
+      "word": "really"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.36,
+      "start": 9.06,
+      "word": "isn't"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.48,
+      "start": 9.36,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.57,
+      "start": 9.48,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.78,
+      "start": 9.57,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.26,
+      "start": 10.08,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.38,
+      "start": 10.26,
+      "word": "is"
+    },
+    {
+      "conf": 0.693368,
+      "end": 10.62,
+      "start": 10.38,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.34,
+      "start": 10.65,
+      "word": "absurd"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.03,
+      "start": 11.37,
+      "word": "comedy"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.6,
+      "start": 12.03,
+      "word": "adventure"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.77,
+      "start": 13.59,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.34,
+      "start": 13.77,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.35,
+      "start": 15.9,
+      "word": "all"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.44,
+      "start": 16.35,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.53,
+      "start": 16.44,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.01,
+      "start": 16.53,
+      "word": "characters"
+    },
+    {
+      "conf": 0.718288,
+      "end": 17.155657,
+      "start": 17.01,
+      "word": "look"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.31,
+      "start": 17.155657,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.76,
+      "start": 17.31,
+      "word": "icons"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.88,
+      "start": 17.76,
+      "word": "on"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.12,
+      "start": 17.88,
+      "word": "men's"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.51,
+      "start": 18.12,
+      "word": "bathroom"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.96,
+      "start": 18.51,
+      "word": "doors"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.77,
+      "start": 19.53,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.98,
+      "start": 19.77,
+      "word": "some"
+    }
+  ],
+  "text": "but you are a secret agent who was sent on various missions but but to say that is to make it sound mundane and which really isn't it is a it is in absurd comedy adventure and so all of the characters look like icons on men's bathroom doors for some"
+}

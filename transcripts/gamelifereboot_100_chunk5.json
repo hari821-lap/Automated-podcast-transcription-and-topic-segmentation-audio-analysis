@@ -1,0 +1,407 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.66,
+      "start": 0.03,
+      "word": "myself"
+    },
+    {
+      "conf": 0.872768,
+      "end": 1.02,
+      "start": 0.69,
+      "word": "yeah"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.65,
+      "start": 1.02,
+      "word": "exactly"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.07,
+      "start": 1.68,
+      "word": "see"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.76,
+      "start": 2.7,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.0,
+      "start": 2.76,
+      "word": "blame"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.09,
+      "start": 3.0,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.45,
+      "start": 3.09,
+      "word": "victim"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.92,
+      "start": 4.485286,
+      "word": "victim"
+    },
+    {
+      "conf": 0.421203,
+      "end": 5.4,
+      "start": 5.19,
+      "word": "now"
+    },
+    {
+      "conf": 0.900904,
+      "end": 5.491468,
+      "start": 5.4,
+      "word": "i"
+    },
+    {
+      "conf": 0.554278,
+      "end": 5.64,
+      "start": 5.491468,
+      "word": "did"
+    },
+    {
+      "conf": 0.434056,
+      "end": 6.09,
+      "start": 5.681933,
+      "word": "imagine"
+    },
+    {
+      "conf": 0.339111,
+      "end": 6.45,
+      "start": 6.334963,
+      "word": "at"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.69,
+      "start": 6.45,
+      "word": "home"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.05,
+      "start": 6.69,
+      "word": "fast"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.47,
+      "start": 7.05,
+      "word": "forwarding"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.74,
+      "start": 7.47,
+      "word": "through"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.83,
+      "start": 7.74,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.43,
+      "start": 7.83,
+      "word": "podcast"
+    },
+    {
+      "conf": 0.535055,
+      "end": 8.55,
+      "start": 8.43,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.03,
+      "start": 8.571993,
+      "word": "everything"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.24,
+      "start": 9.03,
+      "word": "else"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.36,
+      "start": 9.24,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.72,
+      "start": 9.36,
+      "word": "anyone"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.93,
+      "start": 9.72,
+      "word": "else"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.26,
+      "start": 9.93,
+      "word": "said"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.77,
+      "start": 10.56,
+      "word": "just"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.95,
+      "start": 10.77,
+      "word": "trying"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.04,
+      "start": 10.95,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.22,
+      "start": 11.04,
+      "word": "get"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.31,
+      "start": 11.22,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.52,
+      "start": 11.31,
+      "word": "her"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.79,
+      "start": 11.52,
+      "word": "own"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.09,
+      "start": 11.82,
+      "word": "right"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.487596,
+      "start": 12.15,
+      "word": "right"
+    },
+    {
+      "conf": 0.453828,
+      "end": 12.93,
+      "start": 12.487596,
+      "word": "laura"
+    },
+    {
+      "conf": 0.967019,
+      "end": 13.32,
+      "start": 12.96,
+      "word": "name"
+    },
+    {
+      "conf": 0.457986,
+      "end": 13.679999,
+      "start": 13.32,
+      "word": "address"
+    },
+    {
+      "conf": 0.636738,
+      "end": 13.918684,
+      "start": 13.679999,
+      "word": "but"
+    },
+    {
+      "conf": 0.905226,
+      "end": 14.254751,
+      "start": 14.022647,
+      "word": "but"
+    },
+    {
+      "conf": 0.761747,
+      "end": 14.52,
+      "start": 14.31,
+      "word": "but"
+    },
+    {
+      "conf": 0.832075,
+      "end": 14.637533,
+      "start": 14.52,
+      "word": "i'd"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.76,
+      "start": 14.637533,
+      "word": "be"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.18,
+      "start": 14.76,
+      "word": "myself"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.384219,
+      "start": 15.18,
+      "word": "to"
+    },
+    {
+      "conf": 0.637313,
+      "end": 15.506907,
+      "start": 15.39,
+      "word": "as"
+    },
+    {
+      "conf": 0.960566,
+      "end": 15.606169,
+      "start": 15.506907,
+      "word": "the"
+    },
+    {
+      "conf": 0.719174,
+      "end": 15.66,
+      "start": 15.606169,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.81,
+      "start": 15.66,
+      "word": "don't"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.93,
+      "start": 15.81,
+      "word": "get"
+    },
+    {
+      "conf": 0.828692,
+      "end": 15.99,
+      "start": 15.93,
+      "word": "you"
+    },
+    {
+      "conf": 0.828692,
+      "end": 16.08,
+      "start": 15.99,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.5,
+      "start": 16.26,
+      "word": "fill"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.86,
+      "start": 16.56,
+      "word": "us"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.16,
+      "start": 16.86,
+      "word": "or"
+    },
+    {
+      "conf": 0.915983,
+      "end": 17.55,
+      "start": 17.19,
+      "word": "i'm"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.79,
+      "start": 17.577479,
+      "word": "i'm"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.0,
+      "start": 17.79,
+      "word": "chris"
+    },
+    {
+      "conf": 0.694169,
+      "end": 18.3,
+      "start": 18.0,
+      "word": "color"
+    },
+    {
+      "conf": 0.692359,
+      "end": 18.45,
+      "start": 18.3,
+      "word": "i"
+    },
+    {
+      "conf": 0.692359,
+      "end": 18.54,
+      "start": 18.45,
+      "word": "am"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.66,
+      "start": 18.54,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.02,
+      "start": 18.66,
+      "word": "editor"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.41,
+      "start": 19.08,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.77,
+      "start": 19.44,
+      "word": "game"
+    },
+    {
+      "conf": 0.668385,
+      "end": 19.98,
+      "start": 19.77,
+      "word": "like"
+    }
+  ],
+  "text": "myself yeah exactly see you blame the victim victim now i did imagine at home fast forwarding through the podcast like everything else that anyone else said just trying to get to her own right right laura name address but but but i'd be myself to as the you don't get you to fill us or i'm i'm chris color i am the editor of game like"
+}

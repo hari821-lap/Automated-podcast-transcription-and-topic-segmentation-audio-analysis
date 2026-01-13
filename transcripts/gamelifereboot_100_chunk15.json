@@ -1,0 +1,443 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.33,
+      "start": 0.06,
+      "word": "so"
+    },
+    {
+      "conf": 0.848229,
+      "end": 0.72,
+      "start": 0.33,
+      "word": "which"
+    },
+    {
+      "conf": 0.920773,
+      "end": 1.02,
+      "start": 0.78,
+      "word": "we"
+    },
+    {
+      "conf": 0.464806,
+      "end": 1.464248,
+      "start": 1.14,
+      "word": "switch"
+    },
+    {
+      "conf": 0.350474,
+      "end": 1.575842,
+      "start": 1.464248,
+      "word": "what"
+    },
+    {
+      "conf": 0.649526,
+      "end": 1.8,
+      "start": 1.71,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.1,
+      "start": 1.8,
+      "word": "talk"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.34,
+      "start": 2.1,
+      "word": "about"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.7,
+      "start": 2.34,
+      "word": "first"
+    },
+    {
+      "conf": 0.516228,
+      "end": 3.15,
+      "start": 2.91,
+      "word": "time"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.33,
+      "start": 3.18,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.78,
+      "start": 3.33,
+      "word": "titan"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.11,
+      "start": 3.78,
+      "word": "fall"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.62,
+      "start": 4.11,
+      "word": "beta"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.4,
+      "start": 5.01,
+      "word": "just"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.85,
+      "start": 5.43,
+      "word": "ended"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.66,
+      "start": 6.33,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.81,
+      "start": 6.66,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.87,
+      "start": 6.81,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.26,
+      "start": 6.87,
+      "word": "thing"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.471885,
+      "start": 7.32,
+      "word": "that"
+    },
+    {
+      "conf": 0.856386,
+      "end": 7.59,
+      "start": 7.471885,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.04,
+      "start": 7.59,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.19,
+      "start": 8.07,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.507602,
+      "start": 8.19,
+      "word": "was"
+    },
+    {
+      "conf": 0.586727,
+      "end": 8.67,
+      "start": 8.52,
+      "word": "head"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.94,
+      "start": 8.67,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.54,
+      "start": 9.27,
+      "word": "people"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.66,
+      "start": 9.54,
+      "word": "were"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.9,
+      "start": 9.66,
+      "word": "really"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.26,
+      "start": 9.9,
+      "word": "excited"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.47,
+      "start": 10.26,
+      "word": "about"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.62,
+      "start": 10.47,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.89,
+      "start": 10.62,
+      "word": "people"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.07,
+      "start": 10.89,
+      "word": "were"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.49,
+      "start": 11.07,
+      "word": "excited"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.63446,
+      "start": 11.49,
+      "word": "there"
+    },
+    {
+      "conf": 0.815328,
+      "end": 11.76,
+      "start": 11.64,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.82,
+      "start": 11.76,
+      "word": "a"
+    },
+    {
+      "conf": 0.844344,
+      "end": 12.0,
+      "start": 11.82,
+      "word": "lot"
+    },
+    {
+      "conf": 0.445559,
+      "end": 12.06,
+      "start": 12.0,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.87,
+      "start": 12.06,
+      "word": "rapturous"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.07,
+      "start": 13.59,
+      "word": "tweeting"
+    },
+    {
+      "conf": 0.821871,
+      "end": 14.16,
+      "start": 14.07,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.55,
+      "start": 14.16,
+      "word": "writing"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.7904,
+      "start": 14.55,
+      "word": "about"
+    },
+    {
+      "conf": 0.950854,
+      "end": 14.88,
+      "start": 14.7904,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.283517,
+      "start": 14.88,
+      "word": "was"
+    },
+    {
+      "conf": 0.257859,
+      "end": 15.6,
+      "start": 15.300001,
+      "word": "yeah"
+    },
+    {
+      "conf": 0.930265,
+      "end": 15.99,
+      "start": 15.81,
+      "word": "you"
+    },
+    {
+      "conf": 0.930265,
+      "end": 16.264395,
+      "start": 15.99,
+      "word": "played"
+    },
+    {
+      "conf": 0.733726,
+      "end": 16.41,
+      "start": 16.264395,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.68,
+      "start": 16.53,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.92,
+      "start": 16.68,
+      "word": "played"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.04,
+      "start": 16.92,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.37,
+      "start": 17.04,
+      "word": "played"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.52,
+      "start": 17.37,
+      "word": "it"
+    },
+    {
+      "conf": 0.484413,
+      "end": 17.64,
+      "start": 17.52,
+      "word": "and"
+    },
+    {
+      "conf": 0.936868,
+      "end": 17.91,
+      "start": 17.76,
+      "word": "what"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.0,
+      "start": 17.91,
+      "word": "did"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.12,
+      "start": 18.0,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.36,
+      "start": 18.12,
+      "word": "think"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.66,
+      "start": 18.36,
+      "word": "about"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.96,
+      "start": 18.72,
+      "word": "why"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.02,
+      "start": 18.96,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.14,
+      "start": 19.02,
+      "word": "was"
+    },
+    {
+      "conf": 0.858751,
+      "end": 19.26,
+      "start": 19.14,
+      "word": "going"
+    },
+    {
+      "conf": 0.858751,
+      "end": 19.32,
+      "start": 19.26,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.47,
+      "start": 19.32,
+      "word": "ask"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.53,
+      "start": 19.47,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.62,
+      "start": 19.53,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.83,
+      "start": 19.62,
+      "word": "same"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.98,
+      "start": 19.83,
+      "word": "thing"
+    }
+  ],
+  "text": "so which we switch what to talk about first time the titan fall beta just ended that was a thing that it was it was head of people were really excited about that people were excited there is a lot of rapturous tweeting and writing about it was yeah you played it i played i played it and what did you think about why i was going to ask you the same thing"
+}

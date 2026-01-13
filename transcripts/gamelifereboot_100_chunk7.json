@@ -1,0 +1,449 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.63,
+      "start": 0.06,
+      "word": "podcast"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.84,
+      "start": 0.66,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.96,
+      "start": 0.84,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.29,
+      "start": 0.96,
+      "word": "current"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.8,
+      "start": 1.29,
+      "word": "form"
+    },
+    {
+      "conf": 0.547565,
+      "end": 2.340186,
+      "start": 1.86,
+      "word": "our"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.82,
+      "start": 2.49,
+      "word": "audio"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.3,
+      "start": 2.82,
+      "word": "engineer"
+    },
+    {
+      "conf": 0.728593,
+      "end": 3.87,
+      "start": 3.491981,
+      "word": "surely"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.23,
+      "start": 3.87,
+      "word": "actually"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.71,
+      "start": 4.23,
+      "word": "reminded"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.86,
+      "start": 4.71,
+      "word": "me"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.98,
+      "start": 4.86,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.432812,
+      "start": 4.98,
+      "word": "this"
+    },
+    {
+      "conf": 0.398142,
+      "end": 5.996428,
+      "start": 5.79,
+      "word": "meant"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.18,
+      "start": 5.996428,
+      "word": "she"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.3,
+      "start": 6.18,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.39,
+      "start": 6.3,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.57,
+      "start": 6.39,
+      "word": "one"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.69,
+      "start": 6.57,
+      "word": "to"
+    },
+    {
+      "conf": 0.82681,
+      "end": 6.9,
+      "start": 6.69,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.17,
+      "start": 6.9,
+      "word": "because"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.47,
+      "start": 7.17,
+      "word": "she"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.801139,
+      "start": 7.47,
+      "word": "actually"
+    },
+    {
+      "conf": 0.425654,
+      "end": 7.95,
+      "start": 7.801139,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.22,
+      "start": 7.95,
+      "word": "type"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.31,
+      "start": 8.22,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.43,
+      "start": 8.31,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.85,
+      "start": 8.43,
+      "word": "episode"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.15,
+      "start": 8.85,
+      "word": "number"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.39,
+      "start": 9.15,
+      "word": "every"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.66,
+      "start": 9.39,
+      "word": "time"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.81,
+      "start": 9.66,
+      "word": "she"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.2,
+      "start": 9.81,
+      "word": "uploaded"
+    },
+    {
+      "conf": 0.752386,
+      "end": 10.29,
+      "start": 10.2,
+      "word": "and"
+    },
+    {
+      "conf": 0.896268,
+      "end": 10.41,
+      "start": 10.29,
+      "word": "be"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.74,
+      "start": 10.41,
+      "word": "three"
+    },
+    {
+      "conf": 0.818949,
+      "end": 11.82,
+      "start": 11.34,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.06,
+      "start": 11.91,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.124552,
+      "start": 12.06,
+      "word": "i"
+    },
+    {
+      "conf": 0.763421,
+      "end": 12.24,
+      "start": 12.124552,
+      "word": "had"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.6,
+      "start": 12.24,
+      "word": "noticed"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.66,
+      "start": 12.6,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.78,
+      "start": 12.66,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.11,
+      "start": 12.78,
+      "word": "coming"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.26,
+      "start": 13.11,
+      "word": "up"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.35,
+      "start": 13.26,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.44,
+      "start": 13.35,
+      "word": "then"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.53,
+      "start": 13.44,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.89,
+      "start": 13.53,
+      "word": "totally"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.25,
+      "start": 13.89,
+      "word": "forgot"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.88,
+      "start": 14.25,
+      "word": "exactly"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.33,
+      "start": 14.88,
+      "word": "reminded"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.45,
+      "start": 15.33,
+      "word": "us"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.6,
+      "start": 15.45,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.72,
+      "start": 15.6,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.17,
+      "start": 15.9,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.32,
+      "start": 16.17,
+      "word": "then"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.44,
+      "start": 16.32,
+      "word": "we"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.65,
+      "start": 16.44,
+      "word": "got"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.95,
+      "start": 16.65,
+      "word": "into"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.01,
+      "start": 16.95,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.46,
+      "start": 17.01,
+      "word": "studio"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.55,
+      "start": 17.46,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.61,
+      "start": 17.55,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.97,
+      "start": 17.61,
+      "word": "totally"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.36,
+      "start": 17.97,
+      "word": "forgot"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.54,
+      "start": 18.42,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.63,
+      "start": 18.54,
+      "word": "then"
+    },
+    {
+      "conf": 0.5875,
+      "end": 18.84,
+      "start": 18.63,
+      "word": "you"
+    },
+    {
+      "conf": 0.899709,
+      "end": 19.17,
+      "start": 18.853755,
+      "word": "reminded"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.29,
+      "start": 19.17,
+      "word": "me"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.44,
+      "start": 19.29,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.65,
+      "start": 19.44,
+      "word": "it"
+    }
+  ],
+  "text": "podcast in it's current form our audio engineer surely actually reminded me of this meant she is the one to know because she actually to type in the episode number every time she uploaded and be three and and i had noticed it was coming up and then i totally forgot exactly reminded us of it and then we got into the studio and i totally forgot and then you reminded me of it"
+}

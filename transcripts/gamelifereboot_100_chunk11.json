@@ -1,0 +1,311 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.96,
+      "start": 0.81,
+      "word": "we're"
+    },
+    {
+      "conf": 0.570899,
+      "end": 1.08,
+      "start": 0.96,
+      "word": "going"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.29,
+      "start": 1.114114,
+      "word": "shut"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.56,
+      "start": 1.35,
+      "word": "down"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.8,
+      "start": 1.56,
+      "word": "after"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.1,
+      "start": 1.83,
+      "word": "yeah"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.22,
+      "start": 2.1,
+      "word": "we're"
+    },
+    {
+      "conf": 0.871207,
+      "end": 2.43,
+      "start": 2.22,
+      "word": "done"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.64,
+      "start": 2.43,
+      "word": "that's"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.85,
+      "start": 2.64,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.33,
+      "start": 3.0,
+      "word": "that's"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.87,
+      "start": 3.57,
+      "word": "hundred"
+    },
+    {
+      "conf": 0.831564,
+      "end": 4.11,
+      "start": 3.895345,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.34,
+      "start": 4.89,
+      "word": "probably"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.7,
+      "start": 5.404679,
+      "word": "ninety"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.88,
+      "start": 5.7,
+      "word": "nine"
+    },
+    {
+      "conf": 0.851702,
+      "end": 6.03,
+      "start": 5.88,
+      "word": "too"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.36,
+      "start": 6.03,
+      "word": "many"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.05,
+      "start": 6.63,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.47,
+      "start": 7.05,
+      "word": "i'm"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.77,
+      "start": 7.53,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.1,
+      "start": 7.77,
+      "word": "anyway"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.28,
+      "start": 8.1,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.4,
+      "start": 8.28,
+      "word": "are"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.82,
+      "start": 8.4,
+      "word": "absolutely"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.034741,
+      "start": 8.82,
+      "word": "right"
+    },
+    {
+      "conf": 0.469676,
+      "end": 9.125435,
+      "start": 9.034741,
+      "word": "it"
+    },
+    {
+      "conf": 0.530324,
+      "end": 9.24,
+      "start": 9.125435,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.66,
+      "start": 9.24,
+      "word": "episode"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.93,
+      "start": 9.69,
+      "word": "one"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.38,
+      "start": 9.93,
+      "word": "hundred"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.53,
+      "start": 10.38,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.71,
+      "start": 10.53,
+      "word": "here"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.86,
+      "start": 10.71,
+      "word": "we"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.07,
+      "start": 10.86,
+      "word": "are"
+    },
+    {
+      "conf": 0.317363,
+      "end": 11.31,
+      "start": 11.07,
+      "word": "swung"
+    },
+    {
+      "conf": 0.542713,
+      "end": 11.639999,
+      "start": 11.31,
+      "word": "today"
+    },
+    {
+      "conf": 0.542713,
+      "end": 11.939999,
+      "start": 11.639999,
+      "word": "is"
+    },
+    {
+      "conf": 0.892509,
+      "end": 13.38,
+      "start": 12.78,
+      "word": "gala"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.04,
+      "start": 13.38,
+      "word": "show"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.94,
+      "start": 14.73,
+      "word": "some"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.05,
+      "start": 14.94,
+      "word": "extravaganza"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.53,
+      "start": 16.05,
+      "word": "hundredth"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.31,
+      "start": 16.53,
+      "word": "anniversary"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.4,
+      "start": 17.31,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.7,
+      "start": 17.4,
+      "word": "game"
+    },
+    {
+      "conf": 0.548115,
+      "end": 18.12,
+      "start": 17.7,
+      "word": "wife"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.47,
+      "start": 19.35,
+      "word": "we"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.8,
+      "start": 19.47,
+      "word": "started"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.893761,
+      "start": 19.8,
+      "word": "as"
+    },
+    {
+      "conf": 0.665636,
+      "end": 19.95,
+      "start": 19.893761,
+      "word": "a"
+    }
+  ],
+  "text": "we're going shut down after yeah we're done that's it that's hundred is probably ninety nine too many so i'm so anyway you are absolutely right it this episode one hundred and here we are swung today is gala show some extravaganza hundredth anniversary of game wife we started as a"
+}

@@ -1,0 +1,413 @@
+{
+  "result": [
+    {
+      "conf": 0.546219,
+      "end": 0.472573,
+      "start": 0.103552,
+      "word": "revealed"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.78,
+      "start": 0.472573,
+      "word": "terrible"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.29,
+      "start": 0.78,
+      "word": "secrets"
+    },
+    {
+      "conf": 0.776265,
+      "end": 1.41,
+      "start": 1.29,
+      "word": "or"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.74,
+      "start": 1.41,
+      "word": "offer"
+    },
+    {
+      "conf": 0.888583,
+      "end": 1.89,
+      "start": 1.74,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.43,
+      "start": 1.893342,
+      "word": "money"
+    },
+    {
+      "conf": 0.78557,
+      "end": 2.745708,
+      "start": 2.49,
+      "word": "from"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.39,
+      "start": 2.794601,
+      "word": "nightmare"
+    },
+    {
+      "conf": 0.784623,
+      "end": 3.66,
+      "start": 3.39,
+      "word": "if"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.93,
+      "start": 3.66,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.11,
+      "start": 3.96,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.53,
+      "start": 4.11,
+      "word": "between"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.77,
+      "start": 4.53,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.86,
+      "start": 4.77,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.01,
+      "start": 4.86,
+      "word": "get"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.13,
+      "start": 5.01,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.4,
+      "start": 5.13,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.85,
+      "start": 5.43,
+      "word": "spend"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.09,
+      "start": 5.85,
+      "word": "time"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.18,
+      "start": 6.09,
+      "word": "and"
+    },
+    {
+      "conf": 0.476049,
+      "end": 6.42,
+      "start": 6.18,
+      "word": "forge"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.051752,
+      "start": 6.42,
+      "word": "relationships"
+    },
+    {
+      "conf": 0.523497,
+      "end": 7.14,
+      "start": 7.051752,
+      "word": "with"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.551497,
+      "start": 7.14,
+      "word": "people"
+    },
+    {
+      "conf": 0.614298,
+      "end": 7.86,
+      "start": 7.551497,
+      "word": "on"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.13,
+      "start": 7.92,
+      "word": "who"
+    },
+    {
+      "conf": 0.343342,
+      "end": 8.64,
+      "start": 8.13,
+      "word": "loner"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.91,
+      "start": 8.73,
+      "word": "who"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.09,
+      "start": 8.91,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.257691,
+      "start": 9.12,
+      "word": "are"
+    },
+    {
+      "conf": 0.439916,
+      "end": 9.42,
+      "start": 9.33,
+      "word": "to"
+    },
+    {
+      "conf": 0.541711,
+      "end": 9.6,
+      "start": 9.42,
+      "word": "care"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.02,
+      "start": 9.604051,
+      "word": "or"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.2,
+      "start": 10.08,
+      "word": "have"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.29,
+      "start": 10.2,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.77,
+      "start": 10.29,
+      "word": "determine"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.95,
+      "start": 10.77,
+      "word": "if"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.25,
+      "start": 10.95,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.4,
+      "start": 11.25,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.58,
+      "start": 11.4,
+      "word": "then"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.73,
+      "start": 11.58,
+      "word": "there's"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.88,
+      "start": 11.73,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.54,
+      "start": 11.88,
+      "word": "paranoia"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.99,
+      "start": 12.54,
+      "word": "about"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.14,
+      "start": 13.02,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.35,
+      "start": 13.14,
+      "word": "know"
+    },
+    {
+      "conf": 0.529227,
+      "end": 13.5,
+      "start": 13.35,
+      "word": "if"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.62,
+      "start": 13.53,
+      "word": "are"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.77,
+      "start": 13.62,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.07,
+      "start": 13.77,
+      "word": "trying"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.16,
+      "start": 14.07,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.37,
+      "start": 14.16,
+      "word": "kill"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.67,
+      "start": 14.37,
+      "word": "me"
+    },
+    {
+      "conf": 0.649202,
+      "end": 14.969999,
+      "start": 14.67,
+      "word": "right"
+    },
+    {
+      "conf": 0.36234,
+      "end": 15.51,
+      "start": 15.120001,
+      "word": "on"
+    },
+    {
+      "conf": 0.448126,
+      "end": 15.69,
+      "start": 15.51,
+      "word": "is"
+    },
+    {
+      "conf": 0.969605,
+      "end": 15.9,
+      "start": 15.704244,
+      "word": "a"
+    },
+    {
+      "conf": 0.969605,
+      "end": 16.440319,
+      "start": 15.9,
+      "word": "ayers"
+    },
+    {
+      "conf": 0.628977,
+      "end": 16.56,
+      "start": 16.440319,
+      "word": "the"
+    },
+    {
+      "conf": 0.779984,
+      "end": 16.68,
+      "start": 16.59,
+      "word": "are"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.98,
+      "start": 16.68,
+      "word": "these"
+    },
+    {
+      "conf": 0.707112,
+      "end": 17.49,
+      "start": 17.34,
+      "word": "it"
+    },
+    {
+      "conf": 0.586052,
+      "end": 17.58,
+      "start": 17.49,
+      "word": "has"
+    },
+    {
+      "conf": 0.586052,
+      "end": 17.97,
+      "start": 17.58,
+      "word": "multiple"
+    },
+    {
+      "conf": 0.552931,
+      "end": 18.78,
+      "start": 18.42,
+      "word": "its"
+    },
+    {
+      "conf": 0.699545,
+      "end": 19.56,
+      "start": 19.23,
+      "word": "notes"
+    },
+    {
+      "conf": 0.630669,
+      "end": 19.92,
+      "start": 19.56,
+      "word": "ai"
+    }
+  ],
+  "text": "revealed terrible secrets or offer you money from nightmare if but in between that you get to like spend time and forge relationships with people on who loner who you are to care or have to determine if like and then there's that paranoia about you know if are they trying to kill me right on is a ayers the are these it has multiple its notes ai"
+}

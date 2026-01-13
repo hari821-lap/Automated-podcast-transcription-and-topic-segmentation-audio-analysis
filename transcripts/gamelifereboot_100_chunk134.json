@@ -1,0 +1,317 @@
+{
+  "result": [
+    {
+      "conf": 0.794207,
+      "end": 0.548164,
+      "start": 0.297669,
+      "word": "right"
+    },
+    {
+      "conf": 0.415311,
+      "end": 1.02,
+      "start": 0.9,
+      "word": "and"
+    },
+    {
+      "conf": 0.616604,
+      "end": 2.099658,
+      "start": 1.95,
+      "word": "i'll"
+    },
+    {
+      "conf": 0.644241,
+      "end": 2.361067,
+      "start": 2.099658,
+      "word": "take"
+    },
+    {
+      "conf": 0.42213,
+      "end": 2.67,
+      "start": 2.58,
+      "word": "the"
+    },
+    {
+      "conf": 0.809534,
+      "end": 3.03,
+      "start": 2.67,
+      "word": "second"
+    },
+    {
+      "conf": 0.409124,
+      "end": 3.39,
+      "start": 3.09,
+      "word": "place"
+    },
+    {
+      "conf": 0.835703,
+      "end": 3.64903,
+      "start": 3.515037,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.65,
+      "start": 7.44,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.04,
+      "start": 7.71,
+      "word": "spoke"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.25,
+      "start": 8.04,
+      "word": "with"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.91,
+      "start": 8.52,
+      "word": "rich"
+    },
+    {
+      "conf": 0.907967,
+      "end": 9.150404,
+      "start": 8.94,
+      "word": "hill"
+    },
+    {
+      "conf": 0.489388,
+      "end": 9.24,
+      "start": 9.150404,
+      "word": "him"
+    },
+    {
+      "conf": 0.384736,
+      "end": 9.39,
+      "start": 9.24,
+      "word": "and"
+    },
+    {
+      "conf": 0.841944,
+      "end": 9.6,
+      "start": 9.42,
+      "word": "now"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.84,
+      "start": 9.604742,
+      "word": "he"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.05,
+      "start": 9.84,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.29,
+      "start": 10.05,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.77,
+      "start": 10.29,
+      "word": "original"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.16,
+      "start": 10.77,
+      "word": "creator"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.49,
+      "start": 11.19,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.88,
+      "start": 11.52,
+      "word": "john"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.18,
+      "start": 11.88,
+      "word": "madden"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.81,
+      "start": 12.18,
+      "word": "football"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.2,
+      "start": 12.99,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.41,
+      "start": 13.2,
+      "word": "he's"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.77,
+      "start": 13.41,
+      "word": "currently"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.19,
+      "start": 13.77,
+      "word": "chief"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.7,
+      "start": 14.19,
+      "word": "creative"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.27,
+      "start": 14.73,
+      "word": "officer"
+    },
+    {
+      "conf": 0.686352,
+      "end": 15.45,
+      "start": 15.270001,
+      "word": "an"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.99,
+      "start": 15.45,
+      "word": "electronic"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.29,
+      "start": 15.99,
+      "word": "arts"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.38,
+      "start": 16.29,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.47,
+      "start": 16.38,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.74,
+      "start": 16.47,
+      "word": "asked"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.01,
+      "start": 16.74,
+      "word": "him"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.34,
+      "start": 17.22,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.55,
+      "start": 17.34,
+      "word": "know"
+    },
+    {
+      "conf": 0.855112,
+      "end": 18.112619,
+      "start": 17.79,
+      "word": "as"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.36,
+      "start": 18.112619,
+      "word": "somebody"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.42,
+      "start": 18.36,
+      "word": "who"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.66,
+      "start": 18.42,
+      "word": "spent"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.78,
+      "start": 18.66,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.93,
+      "start": 18.78,
+      "word": "much"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.14,
+      "start": 18.93,
+      "word": "time"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.2,
+      "start": 19.14,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.26,
+      "start": 19.2,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.56,
+      "start": 19.26,
+      "word": "video"
+    },
+    {
+      "conf": 0.878833,
+      "end": 19.74,
+      "start": 19.56,
+      "word": "game"
+    },
+    {
+      "conf": 0.216968,
+      "end": 19.89,
+      "start": 19.810091,
+      "word": "the"
+    }
+  ],
+  "text": "right and i'll take the second place that i spoke with rich hill him and now he is the original creator of john madden football and he's currently chief creative officer an electronic arts and i asked him you know as somebody who spent so much time in the video game the"
+}

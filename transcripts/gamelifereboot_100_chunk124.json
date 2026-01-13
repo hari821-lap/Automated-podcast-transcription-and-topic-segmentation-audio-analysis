@@ -1,0 +1,353 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.12,
+      "start": 0.0,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.33,
+      "start": 0.12,
+      "word": "gun"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.63,
+      "start": 0.33,
+      "word": "that"
+    },
+    {
+      "conf": 0.793371,
+      "end": 2.1,
+      "start": 1.98,
+      "word": "i'm"
+    },
+    {
+      "conf": 0.913136,
+      "end": 2.43,
+      "start": 2.1,
+      "word": "lucky"
+    },
+    {
+      "conf": 0.755699,
+      "end": 2.55,
+      "start": 2.43,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.76,
+      "start": 2.55,
+      "word": "feel"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.97,
+      "start": 2.76,
+      "word": "like"
+    },
+    {
+      "conf": 0.319026,
+      "end": 3.21,
+      "start": 2.97,
+      "word": "there's"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.48,
+      "start": 3.21,
+      "word": "going"
+    },
+    {
+      "conf": 0.899765,
+      "end": 3.823709,
+      "start": 3.48,
+      "word": "big"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.96,
+      "start": 3.853343,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.14,
+      "start": 3.96,
+      "word": "feel"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.32,
+      "start": 4.14,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.62,
+      "start": 4.35,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.16,
+      "start": 4.77,
+      "word": "wish"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.58,
+      "start": 5.16,
+      "word": "we"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.21,
+      "start": 6.0,
+      "word": "got"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.42,
+      "start": 6.21,
+      "word": "married"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.54,
+      "start": 6.42,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.6,
+      "start": 6.54,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.81,
+      "start": 6.6,
+      "word": "wish"
+    },
+    {
+      "conf": 0.815647,
+      "end": 6.93,
+      "start": 6.81,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.26,
+      "start": 6.93,
+      "word": "hadn't"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.59,
+      "start": 7.38,
+      "word": "done"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.68,
+      "start": 7.59,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.89,
+      "start": 7.68,
+      "word": "that"
+    },
+    {
+      "conf": 0.733503,
+      "end": 8.096686,
+      "start": 7.89,
+      "word": "way"
+    },
+    {
+      "conf": 0.447034,
+      "end": 8.37,
+      "start": 8.096686,
+      "word": "or"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.55,
+      "start": 8.37,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.73,
+      "start": 8.55,
+      "word": "way"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.79,
+      "start": 8.73,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.06,
+      "start": 8.79,
+      "word": "mean"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.48,
+      "start": 9.3,
+      "word": "we're"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.72,
+      "start": 9.48,
+      "word": "very"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.08,
+      "start": 9.72,
+      "word": "lucky"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.5,
+      "start": 10.14,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.74,
+      "start": 10.5,
+      "word": "not"
+    },
+    {
+      "conf": 0.787866,
+      "end": 10.77,
+      "start": 10.74,
+      "word": "a"
+    },
+    {
+      "conf": 0.76525,
+      "end": 11.07,
+      "start": 10.77,
+      "word": "very"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.85,
+      "start": 11.34,
+      "word": "big"
+    },
+    {
+      "conf": 0.296305,
+      "end": 13.787278,
+      "start": 13.26,
+      "word": "reviews"
+    },
+    {
+      "conf": 0.688777,
+      "end": 13.877975,
+      "start": 13.787278,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.943768,
+      "start": 13.883768,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.25,
+      "start": 13.943768,
+      "word": "middle"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.03,
+      "start": 14.67,
+      "word": "cerebral"
+    },
+    {
+      "conf": 0.880479,
+      "end": 15.205798,
+      "start": 15.03,
+      "word": "just"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.48,
+      "start": 15.205798,
+      "word": "stuff"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.718612,
+      "start": 15.48,
+      "word": "out"
+    },
+    {
+      "conf": 0.843884,
+      "end": 15.81,
+      "start": 15.72,
+      "word": "and"
+    },
+    {
+      "conf": 0.843884,
+      "end": 16.23,
+      "start": 15.81,
+      "word": "replace"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.32,
+      "start": 16.23,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.41,
+      "start": 16.32,
+      "word": "or"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.89,
+      "start": 16.41,
+      "word": "anything"
+    },
+    {
+      "conf": 0.731857,
+      "end": 19.17,
+      "start": 19.05,
+      "word": "you"
+    },
+    {
+      "conf": 0.597362,
+      "end": 19.38,
+      "start": 19.17,
+      "word": "go"
+    },
+    {
+      "conf": 0.597362,
+      "end": 19.5,
+      "start": 19.38,
+      "word": "is"
+    },
+    {
+      "conf": 0.689261,
+      "end": 19.71,
+      "start": 19.5,
+      "word": "which"
+    }
+  ],
+  "text": "the gun that i'm lucky the feel like there's going big i feel like i wish we got married and i wish you hadn't done it that way or this way i mean we're very lucky to not a very big reviews in the middle cerebral just stuff out and replace it or anything you go is which"
+}

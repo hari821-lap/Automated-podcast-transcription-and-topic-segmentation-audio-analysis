@@ -1,0 +1,419 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.51,
+      "start": 0.21,
+      "word": "right"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.84,
+      "start": 0.54,
+      "word": "right"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.99,
+      "start": 0.84,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.23,
+      "start": 0.99,
+      "word": "like"
+    },
+    {
+      "conf": 0.822035,
+      "end": 1.496975,
+      "start": 1.23,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.661605,
+      "start": 1.496975,
+      "word": "the"
+    },
+    {
+      "conf": 0.598146,
+      "end": 1.737576,
+      "start": 1.674708,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.89,
+      "start": 1.737576,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.25,
+      "start": 1.89,
+      "word": "very"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.7,
+      "start": 2.25,
+      "word": "popular"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.79,
+      "start": 2.7,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.0,
+      "start": 2.79,
+      "word": "people"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.09,
+      "start": 3.0,
+      "word": "were"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.36,
+      "start": 3.09,
+      "word": "making"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.45,
+      "start": 3.36,
+      "word": "all"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.6,
+      "start": 3.45,
+      "word": "these"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.87,
+      "start": 3.6,
+      "word": "knock"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.11,
+      "start": 3.87,
+      "word": "offs"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.2,
+      "start": 4.11,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.5,
+      "start": 4.2,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.62,
+      "start": 4.5,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.89,
+      "start": 4.62,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.28,
+      "start": 4.98,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.73,
+      "start": 5.31,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.57,
+      "start": 6.0,
+      "word": "period"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.08,
+      "start": 6.57,
+      "word": "pieces"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.32,
+      "start": 7.08,
+      "word": "yeah"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.89,
+      "start": 7.47,
+      "word": "i'm"
+    },
+    {
+      "conf": 0.67991,
+      "end": 8.13,
+      "start": 7.95,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.37,
+      "start": 8.13,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.7,
+      "start": 8.37,
+      "word": "modern"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.15,
+      "start": 8.7,
+      "word": "warfare"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.45,
+      "start": 9.15,
+      "word": "set"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.78,
+      "start": 9.45,
+      "word": "things"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.9,
+      "start": 9.78,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.99,
+      "start": 9.9,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.56,
+      "start": 9.99,
+      "word": "very"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.92,
+      "start": 10.56,
+      "word": "near"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.37,
+      "start": 10.92,
+      "word": "future"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.64,
+      "start": 11.37,
+      "word": "sort"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.73,
+      "start": 11.64,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.24,
+      "start": 11.73,
+      "word": "setting"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.78,
+      "start": 12.66,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.87,
+      "start": 12.78,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.99,
+      "start": 12.87,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.05,
+      "start": 12.99,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.26,
+      "start": 13.05,
+      "word": "big"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.68,
+      "start": 13.26,
+      "word": "shift"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.83,
+      "start": 13.68,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.13,
+      "start": 13.83,
+      "word": "call"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.22,
+      "start": 14.13,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.61,
+      "start": 14.22,
+      "word": "duty"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.18,
+      "start": 14.85,
+      "word": "because"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.45,
+      "start": 15.18,
+      "word": "again"
+    },
+    {
+      "conf": 0.864737,
+      "end": 15.66,
+      "start": 15.45,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.65,
+      "start": 16.32,
+      "word": "the"
+    },
+    {
+      "conf": 0.831156,
+      "end": 16.92,
+      "start": 16.68,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.25,
+      "start": 16.98,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.49,
+      "start": 17.25,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.85,
+      "start": 17.49,
+      "word": "even"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.15,
+      "start": 18.066974,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.45,
+      "start": 18.15,
+      "word": "call"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.57,
+      "start": 18.45,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.9,
+      "start": 18.57,
+      "word": "duty"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.2,
+      "start": 18.9,
+      "word": "medal"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.32,
+      "start": 19.2,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.62,
+      "start": 19.32,
+      "word": "honor"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.89,
+      "start": 19.62,
+      "word": "sort"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.95,
+      "start": 19.89,
+      "word": "of"
+    }
+  ],
+  "text": "right right but like the the it was very popular and people were making all these knock offs of like you know of of period pieces yeah i'm in so modern warfare set things in a very near future sort of setting and that was a big shift for call of duty because again the the the this this even the call of duty medal of honor sort of"
+}

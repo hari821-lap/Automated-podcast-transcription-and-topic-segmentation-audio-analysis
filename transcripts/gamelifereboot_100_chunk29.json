@@ -1,0 +1,425 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.18,
+      "start": 0.0,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.6,
+      "start": 0.18,
+      "word": "player"
+    },
+    {
+      "conf": 0.703085,
+      "end": 1.41,
+      "start": 0.81,
+      "word": "normally"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.73,
+      "start": 2.31,
+      "word": "game"
+    },
+    {
+      "conf": 0.396173,
+      "end": 2.861711,
+      "start": 2.73,
+      "word": "the"
+    },
+    {
+      "conf": 0.553082,
+      "end": 3.12,
+      "start": 2.881022,
+      "word": "i'm"
+    },
+    {
+      "conf": 0.971691,
+      "end": 3.3,
+      "start": 3.12,
+      "word": "even"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.48,
+      "start": 3.3,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.63,
+      "start": 3.48,
+      "word": "if"
+    },
+    {
+      "conf": 0.528429,
+      "end": 3.777109,
+      "start": 3.63,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.35,
+      "start": 3.777109,
+      "word": "some"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.7,
+      "start": 5.49,
+      "word": "at"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.79,
+      "start": 5.7,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.94,
+      "start": 5.79,
+      "word": "i'm"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.18,
+      "start": 5.94,
+      "word": "sure"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.33,
+      "start": 6.18,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.78,
+      "start": 6.33,
+      "word": "information"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.87,
+      "start": 6.78,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.02,
+      "start": 6.87,
+      "word": "out"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.157919,
+      "start": 7.02,
+      "word": "there"
+    },
+    {
+      "conf": 0.561798,
+      "end": 7.35,
+      "start": 7.17,
+      "word": "know"
+    },
+    {
+      "conf": 0.634275,
+      "end": 7.41,
+      "start": 7.35,
+      "word": "if"
+    },
+    {
+      "conf": 0.505965,
+      "end": 7.56,
+      "start": 7.41,
+      "word": "they're"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.98,
+      "start": 7.56353,
+      "word": "split"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.37,
+      "start": 7.98,
+      "word": "screen"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.55,
+      "start": 8.43,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.67,
+      "start": 8.55,
+      "word": "don't"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.82,
+      "start": 8.67,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.91,
+      "start": 8.82,
+      "word": "if"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.09,
+      "start": 8.91,
+      "word": "there"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.24,
+      "start": 9.09,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.48,
+      "start": 9.24,
+      "word": "any"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.96,
+      "start": 9.6,
+      "word": "off"
+    },
+    {
+      "conf": 0.862886,
+      "end": 10.32,
+      "start": 10.05,
+      "word": "that's"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.38,
+      "start": 10.32,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.53,
+      "start": 10.38,
+      "word": "good"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.89,
+      "start": 10.53,
+      "word": "question"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.01,
+      "start": 10.92,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.19,
+      "start": 11.01,
+      "word": "don't"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.55,
+      "start": 11.19,
+      "word": "yeah"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.03,
+      "start": 11.94,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.27,
+      "start": 12.03,
+      "word": "don't"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.51,
+      "start": 12.42,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.63,
+      "start": 12.51,
+      "word": "don't"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.78,
+      "start": 12.63,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.02,
+      "start": 12.78,
+      "word": "either"
+    },
+    {
+      "conf": 0.502276,
+      "end": 13.26,
+      "start": 13.02,
+      "word": "but"
+    },
+    {
+      "conf": 0.318424,
+      "end": 13.5,
+      "start": 13.35,
+      "word": "sure"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.62,
+      "start": 13.53,
+      "word": "we"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.77,
+      "start": 13.62,
+      "word": "should"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.95,
+      "start": 13.77,
+      "word": "look"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.13,
+      "start": 13.95,
+      "word": "into"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.31,
+      "start": 14.13,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.37,
+      "start": 14.31,
+      "word": "we"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.55,
+      "start": 14.37,
+      "word": "should"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.7,
+      "start": 14.55,
+      "word": "look"
+    },
+    {
+      "conf": 0.606969,
+      "end": 14.76,
+      "start": 14.7,
+      "word": "at"
+    },
+    {
+      "conf": 0.496795,
+      "end": 15.0,
+      "start": 14.767001,
+      "word": "the"
+    },
+    {
+      "conf": 0.757767,
+      "end": 15.42,
+      "start": 15.09,
+      "word": "ah"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.69,
+      "start": 15.45,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.81,
+      "start": 15.69,
+      "word": "as"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.99,
+      "start": 15.81,
+      "word": "far"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.08,
+      "start": 15.99,
+      "word": "as"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.59,
+      "start": 16.08,
+      "word": "gameplay"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.07,
+      "start": 16.59,
+      "word": "goes"
+    },
+    {
+      "conf": 0.512335,
+      "end": 17.91,
+      "start": 17.4,
+      "word": "i'm"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.84,
+      "start": 18.72,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.05,
+      "start": 18.84,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.17,
+      "start": 19.05,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.86,
+      "start": 19.17,
+      "word": "certainly"
+    }
+  ],
+  "text": "the player normally game the i'm even know if it's some at the i'm sure this information is out there know if they're split screen i don't know if there is any off that's a good question i don't yeah i don't i don't know either but sure we should look into that we should look at the ah so as far as gameplay goes i'm you know i certainly"
+}

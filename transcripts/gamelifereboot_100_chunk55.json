@@ -1,0 +1,407 @@
+{
+  "result": [
+    {
+      "conf": 0.721732,
+      "end": 0.12,
+      "start": 0.03,
+      "word": "when"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.188348,
+      "start": 0.12,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.84,
+      "start": 0.188348,
+      "word": "play"
+    },
+    {
+      "conf": 0.525848,
+      "end": 1.17,
+      "start": 0.93,
+      "word": "x"
+    },
+    {
+      "conf": 0.599822,
+      "end": 2.55,
+      "start": 2.25,
+      "word": "called"
+    },
+    {
+      "conf": 0.551965,
+      "end": 2.67,
+      "start": 2.55,
+      "word": "you"
+    },
+    {
+      "conf": 0.767075,
+      "end": 2.76,
+      "start": 2.67,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.3,
+      "start": 2.812345,
+      "word": "ghost"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.54,
+      "start": 3.33,
+      "word": "on"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.69,
+      "start": 3.54,
+      "word": "x"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.93,
+      "start": 3.69,
+      "word": "box"
+    },
+    {
+      "conf": 0.899107,
+      "end": 4.11,
+      "start": 3.93,
+      "word": "one"
+    },
+    {
+      "conf": 0.584479,
+      "end": 4.26,
+      "start": 4.11,
+      "word": "they're"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.65,
+      "start": 4.26,
+      "word": "certainly"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.92,
+      "start": 4.65,
+      "word": "people"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.04,
+      "start": 4.92,
+      "word": "with"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.64,
+      "start": 5.04,
+      "word": "headsets"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.06,
+      "start": 5.73,
+      "word": "okay"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.36,
+      "start": 6.21,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.57,
+      "start": 6.36,
+      "word": "playing"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.81,
+      "start": 6.57,
+      "word": "time"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.02,
+      "start": 6.81,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.08,
+      "start": 7.02,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.38,
+      "start": 7.08,
+      "word": "noticed"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.5,
+      "start": 7.38,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.56,
+      "start": 7.5,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.71,
+      "start": 7.56,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.13,
+      "start": 7.71,
+      "word": "silent"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.67,
+      "start": 8.34,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.91,
+      "start": 8.67,
+      "word": "one"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.45,
+      "start": 8.91,
+      "word": "possibility"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.57,
+      "start": 9.45,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.87,
+      "start": 9.57,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.29,
+      "start": 9.87,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.19,
+      "start": 11.07,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.28,
+      "start": 11.19,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.58,
+      "start": 11.31,
+      "word": "early"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.79106,
+      "start": 11.58,
+      "word": "days"
+    },
+    {
+      "conf": 0.838134,
+      "end": 11.848139,
+      "start": 11.79106,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.94,
+      "start": 11.848139,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.21,
+      "start": 11.94,
+      "word": "beta"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.39,
+      "start": 12.21,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.6,
+      "start": 12.39,
+      "word": "which"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.81,
+      "start": 12.6,
+      "word": "may"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.96,
+      "start": 12.81,
+      "word": "have"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.11,
+      "start": 12.96,
+      "word": "been"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.38,
+      "start": 13.11,
+      "word": "press"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.77,
+      "start": 13.38,
+      "word": "only"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.15,
+      "start": 14.88,
+      "word": "know"
+    },
+    {
+      "conf": 0.847531,
+      "end": 15.63,
+      "start": 15.51,
+      "word": "they"
+    },
+    {
+      "conf": 0.847531,
+      "end": 15.825125,
+      "start": 15.63,
+      "word": "were"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.99,
+      "start": 15.825125,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.26,
+      "start": 15.99,
+      "word": "always"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.59,
+      "start": 16.26,
+      "word": "open"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.8,
+      "start": 16.71,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.97543,
+      "start": 16.8,
+      "word": "think"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.13,
+      "start": 16.98457,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.4,
+      "start": 17.13,
+      "word": "always"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.58,
+      "start": 17.4,
+      "word": "open"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.67,
+      "start": 17.58,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.91,
+      "start": 17.67,
+      "word": "think"
+    },
+    {
+      "conf": 0.854841,
+      "end": 18.028566,
+      "start": 17.91,
+      "word": "there"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.27,
+      "start": 18.028566,
+      "word": "were"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.11,
+      "start": 18.6,
+      "word": "before"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.29,
+      "start": 19.11,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.68,
+      "start": 19.29,
+      "word": "started"
+    },
+    {
+      "conf": 0.347591,
+      "end": 19.98,
+      "start": 19.68,
+      "word": "sin"
+    }
+  ],
+  "text": "when i play x called you a ghost on x box one they're certainly people with headsets okay but playing time for i noticed that it was silent so one possibility for that is in the early days of the beta it which may have been press only know they were was always open i think was always open i think there were before they started sin"
+}

@@ -1,0 +1,395 @@
+{
+  "result": [
+    {
+      "conf": 0.773161,
+      "end": 0.21,
+      "start": 0.0,
+      "word": "this"
+    },
+    {
+      "conf": 0.773161,
+      "end": 0.51,
+      "start": 0.21,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.72,
+      "start": 0.57,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.02,
+      "start": 0.72,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.41,
+      "start": 1.11,
+      "word": "kind"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.47,
+      "start": 1.41,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.77,
+      "start": 1.47,
+      "word": "also"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.89,
+      "start": 1.77,
+      "word": "her"
+    },
+    {
+      "conf": 0.798241,
+      "end": 2.19,
+      "start": 1.89,
+      "word": "goodbye"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.31,
+      "start": 2.19,
+      "word": "to"
+    },
+    {
+      "conf": 0.339719,
+      "end": 2.55,
+      "start": 2.31,
+      "word": "elect"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.82,
+      "start": 2.583956,
+      "word": "she's"
+    },
+    {
+      "conf": 0.714514,
+      "end": 2.975869,
+      "start": 2.82,
+      "word": "about"
+    },
+    {
+      "conf": 0.515129,
+      "end": 3.054404,
+      "start": 2.975869,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.18,
+      "start": 3.054404,
+      "word": "go"
+    },
+    {
+      "conf": 0.913296,
+      "end": 3.42,
+      "start": 3.18,
+      "word": "off"
+    },
+    {
+      "conf": 0.913296,
+      "end": 3.54,
+      "start": 3.42,
+      "word": "and"
+    },
+    {
+      "conf": 0.494335,
+      "end": 3.81,
+      "start": 3.57,
+      "word": "joined"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.87,
+      "start": 3.81,
+      "word": "the"
+    },
+    {
+      "conf": 0.664618,
+      "end": 4.41,
+      "start": 3.87,
+      "word": "firefly"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.07,
+      "start": 4.440184,
+      "word": "saturate"
+    },
+    {
+      "conf": 0.577776,
+      "end": 5.37,
+      "start": 5.07,
+      "word": "yet"
+    },
+    {
+      "conf": 0.846808,
+      "end": 5.91,
+      "start": 5.49,
+      "word": "i'm"
+    },
+    {
+      "conf": 0.846808,
+      "end": 6.27,
+      "start": 5.94,
+      "word": "ellie"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.72,
+      "start": 6.27,
+      "word": "reacts"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.23,
+      "start": 6.72,
+      "word": "really"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.07,
+      "start": 7.23,
+      "word": "badly"
+    },
+    {
+      "conf": 0.511237,
+      "end": 8.76,
+      "start": 8.13,
+      "word": "now"
+    },
+    {
+      "conf": 0.511237,
+      "end": 9.03,
+      "start": 8.76,
+      "word": "i'm"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.66,
+      "start": 9.15,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.02,
+      "start": 9.78,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.2,
+      "start": 10.02,
+      "word": "way"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.35,
+      "start": 10.2,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.44,
+      "start": 10.35,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.68,
+      "start": 10.44,
+      "word": "kind"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.74,
+      "start": 10.68,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.04,
+      "start": 10.74,
+      "word": "spins"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.282379,
+      "start": 11.04,
+      "word": "out"
+    },
+    {
+      "conf": 0.492962,
+      "end": 11.61,
+      "start": 11.282379,
+      "word": "his"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.03,
+      "start": 11.88,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.12,
+      "start": 12.03,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.27,
+      "start": 12.12,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.39,
+      "start": 12.27,
+      "word": "end"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.63,
+      "start": 12.39,
+      "word": "up"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.87,
+      "start": 12.75,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.05,
+      "start": 12.87,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.35,
+      "start": 13.05,
+      "word": "other"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.62,
+      "start": 13.35,
+      "word": "really"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.16,
+      "start": 13.62,
+      "word": "fantastic"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.609999,
+      "start": 14.16,
+      "word": "sequence"
+    },
+    {
+      "conf": 0.741879,
+      "end": 14.699999,
+      "start": 14.609999,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.73,
+      "start": 14.7,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.06,
+      "start": 14.73,
+      "word": "music"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.42,
+      "start": 15.06,
+      "word": "store"
+    },
+    {
+      "conf": 0.839082,
+      "end": 15.685924,
+      "start": 15.42,
+      "word": "playing"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.05,
+      "start": 15.685924,
+      "word": "music"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.14,
+      "start": 16.05,
+      "word": "and"
+    },
+    {
+      "conf": 0.932631,
+      "end": 16.44,
+      "start": 16.14,
+      "word": "dance"
+    },
+    {
+      "conf": 0.932631,
+      "end": 16.828621,
+      "start": 16.44,
+      "word": "scene"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.01,
+      "start": 16.828621,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.82,
+      "start": 17.37,
+      "word": "it's"
+    },
+    {
+      "conf": 0.515177,
+      "end": 18.36,
+      "start": 17.82,
+      "word": "and"
+    },
+    {
+      "conf": 0.515177,
+      "end": 18.93,
+      "start": 18.51,
+      "word": "ellie"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.71,
+      "start": 18.93,
+      "word": "eventually"
+    },
+    {
+      "conf": 0.778018,
+      "end": 19.98,
+      "start": 19.8,
+      "word": "said"
+    }
+  ],
+  "text": "this is you know kind of also her goodbye to elect she's about to go off and joined the firefly saturate yet i'm ellie reacts really badly now i'm and the way that it kind of spins out his you know they end up in this other really fantastic sequence and a music store playing music and dance scene and it's and ellie eventually said"
+}

@@ -1,0 +1,317 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.193836,
+      "start": 0.0,
+      "word": "the"
+    },
+    {
+      "conf": 0.730599,
+      "end": 0.72,
+      "start": 0.27,
+      "word": "pentagon"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.14,
+      "start": 0.72,
+      "word": "abstract"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.53,
+      "start": 1.14,
+      "word": "cartoon"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.92,
+      "start": 1.53,
+      "word": "world"
+    },
+    {
+      "conf": 0.277463,
+      "end": 2.189052,
+      "start": 2.04,
+      "word": "then"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.31,
+      "start": 2.189052,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.67,
+      "start": 2.31,
+      "word": "swing"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.82,
+      "start": 2.67,
+      "word": "your"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.15,
+      "start": 2.82,
+      "word": "trunk"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.54,
+      "start": 3.15,
+      "word": "around"
+    },
+    {
+      "conf": 0.432433,
+      "end": 3.77865,
+      "start": 3.66,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.32,
+      "start": 3.77865,
+      "word": "smash"
+    },
+    {
+      "conf": 0.756892,
+      "end": 5.07,
+      "start": 4.68,
+      "word": "things"
+    },
+    {
+      "conf": 0.390633,
+      "end": 5.157353,
+      "start": 5.07,
+      "word": "in"
+    },
+    {
+      "conf": 0.669795,
+      "end": 5.37,
+      "start": 5.157353,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.97,
+      "start": 5.37,
+      "word": "crazy"
+    },
+    {
+      "conf": 0.673416,
+      "end": 6.24,
+      "start": 5.97,
+      "word": "as"
+    },
+    {
+      "conf": 0.993588,
+      "end": 6.694894,
+      "start": 6.394306,
+      "word": "trip"
+    },
+    {
+      "conf": 0.255701,
+      "end": 7.08,
+      "start": 6.694894,
+      "word": "girl"
+    },
+    {
+      "conf": 0.829712,
+      "end": 7.59,
+      "start": 7.32,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.97,
+      "start": 8.58,
+      "word": "something"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.3,
+      "start": 8.97,
+      "word": "else"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.01,
+      "start": 10.77,
+      "word": "and"
+    },
+    {
+      "conf": 0.716465,
+      "end": 11.1,
+      "start": 11.01,
+      "word": "we're"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.49,
+      "start": 11.1,
+      "word": "back"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.79,
+      "start": 11.49,
+      "word": "live"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.85,
+      "start": 11.79,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.94,
+      "start": 11.85,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.66,
+      "start": 11.94,
+      "word": "studio"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.99,
+      "start": 12.81,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.11,
+      "start": 12.99,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.56,
+      "start": 13.11,
+      "word": "awesome"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.86,
+      "start": 13.59,
+      "word": "wasn't"
+    },
+    {
+      "conf": 0.868224,
+      "end": 13.92,
+      "start": 13.86,
+      "word": "a"
+    },
+    {
+      "conf": 0.630455,
+      "end": 14.46,
+      "start": 13.920001,
+      "word": "grass"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.73,
+      "start": 14.46,
+      "word": "many"
+    },
+    {
+      "conf": 0.746508,
+      "end": 15.18,
+      "start": 14.73,
+      "word": "arsenic"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.54,
+      "start": 15.211711,
+      "word": "yeah"
+    },
+    {
+      "conf": 0.924618,
+      "end": 16.562272,
+      "start": 16.44,
+      "word": "i'm"
+    },
+    {
+      "conf": 0.781823,
+      "end": 16.68,
+      "start": 16.562272,
+      "word": "going"
+    },
+    {
+      "conf": 0.781823,
+      "end": 16.74,
+      "start": 16.68,
+      "word": "to"
+    },
+    {
+      "conf": 0.621734,
+      "end": 16.92,
+      "start": 16.74,
+      "word": "has"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.04,
+      "start": 16.92,
+      "word": "we"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.31,
+      "start": 17.04,
+      "word": "haven't"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.52,
+      "start": 17.31,
+      "word": "heard"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.67,
+      "start": 17.52,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.45,
+      "start": 18.225121,
+      "word": "maybe"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.57,
+      "start": 18.45,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.81,
+      "start": 18.57,
+      "word": "haven't"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.02,
+      "start": 18.81,
+      "word": "heard"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.14,
+      "start": 19.02,
+      "word": "it"
+    }
+  ],
+  "text": "the pentagon abstract cartoon world then you swing your trunk around to smash things in this crazy as trip girl it's something else and we're back live in the studio that was awesome wasn't a grass many arsenic yeah i'm going to has we haven't heard it maybe you haven't heard it"
+}

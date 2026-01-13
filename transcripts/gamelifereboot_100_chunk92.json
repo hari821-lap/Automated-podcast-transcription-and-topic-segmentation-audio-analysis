@@ -1,0 +1,479 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.3,
+      "start": 0.21,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.51,
+      "start": 0.3,
+      "word": "mean"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.66,
+      "start": 0.51,
+      "word": "at"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.9,
+      "start": 0.66,
+      "word": "least"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.11,
+      "start": 0.93,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.35,
+      "start": 1.11,
+      "word": "think"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.44,
+      "start": 1.35,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.56,
+      "start": 1.44,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.83,
+      "start": 1.56,
+      "word": "because"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.86,
+      "start": 1.83,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.01,
+      "start": 1.86,
+      "word": "mean"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.1,
+      "start": 2.01,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.28,
+      "start": 2.1,
+      "word": "have"
+    },
+    {
+      "conf": 0.628514,
+      "end": 2.55,
+      "start": 2.28,
+      "word": "do"
+    },
+    {
+      "conf": 0.918012,
+      "end": 3.27,
+      "start": 3.0,
+      "word": "i'm"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.57,
+      "start": 3.3,
+      "word": "easy"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.72,
+      "start": 3.6,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.87,
+      "start": 3.72,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.99,
+      "start": 3.87,
+      "word": "if"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.17,
+      "start": 3.99,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.29,
+      "start": 4.17,
+      "word": "if"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.41,
+      "start": 4.29,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.65,
+      "start": 4.41,
+      "word": "throw"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.744043,
+      "start": 4.65,
+      "word": "me"
+    },
+    {
+      "conf": 0.7932,
+      "end": 4.92,
+      "start": 4.744043,
+      "word": "into"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.95,
+      "start": 4.92,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.19,
+      "start": 4.95,
+      "word": "game"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.28,
+      "start": 5.19,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.4,
+      "start": 5.28,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.7,
+      "start": 5.4,
+      "word": "like"
+    },
+    {
+      "conf": 0.780923,
+      "end": 5.965697,
+      "start": 5.73,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.45,
+      "start": 5.965697,
+      "word": "story"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.72,
+      "start": 6.45,
+      "word": "click"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.9,
+      "start": 6.72,
+      "word": "on"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.23,
+      "start": 6.9,
+      "word": "things"
+    },
+    {
+      "conf": 0.974364,
+      "end": 7.35,
+      "start": 7.23,
+      "word": "in"
+    },
+    {
+      "conf": 0.974364,
+      "end": 7.47,
+      "start": 7.35,
+      "word": "your"
+    },
+    {
+      "conf": 0.692468,
+      "end": 7.68,
+      "start": 7.47,
+      "word": "get"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.13,
+      "start": 7.68,
+      "word": "story"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.460669,
+      "start": 8.13,
+      "word": "told"
+    },
+    {
+      "conf": 0.915925,
+      "end": 8.57611,
+      "start": 8.460669,
+      "word": "to"
+    },
+    {
+      "conf": 0.938338,
+      "end": 8.7,
+      "start": 8.57611,
+      "word": "you"
+    },
+    {
+      "conf": 0.465565,
+      "end": 8.82,
+      "start": 8.7,
+      "word": "on"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.06,
+      "start": 8.82,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.3,
+      "start": 9.06,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.69,
+      "start": 9.3,
+      "word": "sounds"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.14,
+      "start": 9.69,
+      "word": "great"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.35,
+      "start": 10.17,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.65,
+      "start": 10.35,
+      "word": "can't"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.86,
+      "start": 10.65,
+      "word": "wait"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.95,
+      "start": 10.86,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.1,
+      "start": 10.95,
+      "word": "do"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.37,
+      "start": 11.1,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.54,
+      "start": 12.21,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.78,
+      "start": 12.54,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.32,
+      "start": 12.78,
+      "word": "imagine"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.5,
+      "start": 13.32,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.92,
+      "start": 13.5,
+      "word": "average"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.28,
+      "start": 13.92,
+      "word": "last"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.37,
+      "start": 14.28,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.52,
+      "start": 14.37,
+      "word": "us"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.91,
+      "start": 14.52,
+      "word": "player"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.06,
+      "start": 14.91,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.57,
+      "start": 15.09,
+      "word": "not"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.26,
+      "start": 15.78,
+      "word": "really"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.62,
+      "start": 16.29,
+      "word": "me"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.8,
+      "start": 16.65,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.92,
+      "start": 16.8,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.01,
+      "start": 16.92,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.22,
+      "start": 17.01,
+      "word": "think"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.4,
+      "start": 17.22,
+      "word": "they're"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.76,
+      "start": 17.4,
+      "word": "really"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.09,
+      "start": 17.76,
+      "word": "looking"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.24,
+      "start": 18.09,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.54,
+      "start": 18.24,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.96,
+      "start": 18.54,
+      "word": "action"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.26,
+      "start": 18.96,
+      "word": "packed"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.74,
+      "start": 19.26,
+      "word": "gameplay"
+    },
+    {
+      "conf": 0.528667,
+      "end": 19.89,
+      "start": 19.74,
+      "word": "are"
+    }
+  ],
+  "text": "i mean at least i think it is because i mean they have do i'm easy you know if they if they throw me into a game and it's like it's story click on things in your get story told to you on like that sounds great i can't wait to do this but i imagine the average last of us player is not really me you know i think they're really looking for like action packed gameplay are"
+}

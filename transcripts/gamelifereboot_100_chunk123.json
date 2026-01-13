@@ -1,0 +1,437 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.9,
+      "start": 0.69,
+      "word": "one"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.96,
+      "start": 0.9,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.02,
+      "start": 0.96,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.35,
+      "start": 1.02,
+      "word": "great"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.59,
+      "start": 1.35,
+      "word": "things"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.77,
+      "start": 1.59,
+      "word": "about"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.92,
+      "start": 1.77,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.16,
+      "start": 1.92,
+      "word": "year's"
+    },
+    {
+      "conf": 0.941139,
+      "end": 2.46,
+      "start": 2.16,
+      "word": "dice"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.58,
+      "start": 2.46,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.76,
+      "start": 2.58,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.0,
+      "start": 2.76,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.54,
+      "start": 3.21,
+      "word": "finally"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.69,
+      "start": 3.54,
+      "word": "got"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.78,
+      "start": 3.69,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.99,
+      "start": 3.78,
+      "word": "meet"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.02,
+      "start": 3.99,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.2,
+      "start": 4.02,
+      "word": "lot"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.26,
+      "start": 4.2,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.41,
+      "start": 4.26,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.59,
+      "start": 4.41,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.89,
+      "start": 4.59,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.25,
+      "start": 4.95,
+      "word": "game"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.82,
+      "start": 5.25,
+      "word": "creators"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.15,
+      "start": 5.82,
+      "word": "who"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.69,
+      "start": 6.39,
+      "word": "made"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.96,
+      "start": 6.72,
+      "word": "some"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.05,
+      "start": 6.96,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.23,
+      "start": 7.05,
+      "word": "my"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.68,
+      "start": 7.23,
+      "word": "favorite"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.04,
+      "start": 7.71,
+      "word": "games"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.16,
+      "start": 8.04,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.22,
+      "start": 8.16,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.55,
+      "start": 8.22,
+      "word": "last"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.85,
+      "start": 8.55,
+      "word": "year"
+    },
+    {
+      "conf": 0.569205,
+      "end": 9.04259,
+      "start": 8.85,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.27,
+      "start": 9.04259,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.42,
+      "start": 9.27,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.75,
+      "start": 9.42,
+      "word": "actually"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.9,
+      "start": 9.75,
+      "word": "got"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.96,
+      "start": 9.9,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.26,
+      "start": 9.96,
+      "word": "speak"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.5,
+      "start": 10.26,
+      "word": "with"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.31,
+      "start": 10.8,
+      "word": "steve"
+    },
+    {
+      "conf": 0.56041,
+      "end": 11.79,
+      "start": 11.31,
+      "word": "gainer"
+    },
+    {
+      "conf": 0.619026,
+      "end": 12.359999,
+      "start": 12.059999,
+      "word": "creator"
+    },
+    {
+      "conf": 0.430329,
+      "end": 12.42,
+      "start": 12.36,
+      "word": "have"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.72,
+      "start": 12.445111,
+      "word": "gone"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.26,
+      "start": 12.72,
+      "word": "home"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.861141,
+      "start": 13.68,
+      "word": "for"
+    },
+    {
+      "conf": 0.844902,
+      "end": 13.918876,
+      "start": 13.861141,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.1,
+      "start": 13.918876,
+      "word": "little"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.31,
+      "start": 14.1,
+      "word": "bit"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.58,
+      "start": 14.34,
+      "word": "on"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.73,
+      "start": 14.58,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.03,
+      "start": 14.73,
+      "word": "red"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.45,
+      "start": 15.03,
+      "word": "carpet"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.32,
+      "start": 16.2,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.59,
+      "start": 16.32,
+      "word": "have"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.83,
+      "start": 16.65,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.07,
+      "start": 16.83,
+      "word": "have"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.4,
+      "start": 17.07,
+      "word": "any"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.241212,
+      "start": 17.55,
+      "word": "regrets"
+    },
+    {
+      "conf": 0.664091,
+      "end": 18.411041,
+      "start": 18.241212,
+      "word": "do"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.63,
+      "start": 18.42,
+      "word": "have"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.96,
+      "start": 18.63,
+      "word": "anything"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.14,
+      "start": 18.96,
+      "word": "like"
+    },
+    {
+      "conf": 0.822515,
+      "end": 19.26,
+      "start": 19.14,
+      "word": "oh"
+    },
+    {
+      "conf": 0.822515,
+      "end": 19.47,
+      "start": 19.26,
+      "word": "gee"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.59,
+      "start": 19.47,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.8,
+      "start": 19.59,
+      "word": "wish"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.92,
+      "start": 19.8,
+      "word": "the"
+    }
+  ],
+  "text": "one of the great things about this year's dice is that i finally got to meet a lot of the in the game creators who made some of my favorite games of the last year i and i actually got to speak with steve gainer creator have gone home for a little bit on the red carpet you have you have any regrets do have anything like oh gee i wish the"
+}

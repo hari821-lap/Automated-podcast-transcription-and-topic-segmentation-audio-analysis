@@ -1,0 +1,407 @@
+{
+  "result": [
+    {
+      "conf": 0.883317,
+      "end": 0.36,
+      "start": 0.06,
+      "word": "ames"
+    },
+    {
+      "conf": 0.420927,
+      "end": 0.75,
+      "start": 0.57,
+      "word": "are"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.87,
+      "start": 0.75,
+      "word": "he"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.26,
+      "start": 0.87,
+      "word": "created"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.44,
+      "start": 1.26,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.56,
+      "start": 1.44,
+      "word": "be"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.71,
+      "start": 1.56,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.25,
+      "start": 1.71,
+      "word": "jam"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.37,
+      "start": 2.25,
+      "word": "when"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.49,
+      "start": 2.37,
+      "word": "he"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.64,
+      "start": 2.49,
+      "word": "was"
+    },
+    {
+      "conf": 0.716063,
+      "end": 2.73,
+      "start": 2.64,
+      "word": "at"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.3,
+      "start": 2.73,
+      "word": "midway"
+    },
+    {
+      "conf": 0.631709,
+      "end": 3.63,
+      "start": 3.3,
+      "word": "swimming"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.78,
+      "start": 3.63,
+      "word": "he's"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.9,
+      "start": 3.78,
+      "word": "just"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.02,
+      "start": 3.9,
+      "word": "been"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.05,
+      "start": 4.02,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.56,
+      "start": 4.05,
+      "word": "fixture"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.65,
+      "start": 4.56,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.71,
+      "start": 4.65,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.95,
+      "start": 4.71,
+      "word": "game"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.4,
+      "start": 4.95,
+      "word": "industry"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.386362,
+      "start": 6.06,
+      "word": "and"
+    },
+    {
+      "conf": 0.655614,
+      "end": 6.54,
+      "start": 6.39,
+      "word": "are"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.63,
+      "start": 6.54,
+      "word": "we"
+    },
+    {
+      "conf": 0.923522,
+      "end": 6.78,
+      "start": 6.63,
+      "word": "got"
+    },
+    {
+      "conf": 0.782494,
+      "end": 6.84,
+      "start": 6.78,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.17,
+      "start": 6.84,
+      "word": "talking"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.32,
+      "start": 7.17,
+      "word": "about"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.44,
+      "start": 7.32,
+      "word": "some"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.65,
+      "start": 7.44,
+      "word": "pretty"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.86,
+      "start": 7.65,
+      "word": "fun"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.19,
+      "start": 7.86,
+      "word": "stuff"
+    },
+    {
+      "conf": 0.672097,
+      "end": 8.73,
+      "start": 8.19,
+      "word": "sells"
+    },
+    {
+      "conf": 0.501341,
+      "end": 8.82,
+      "start": 8.73,
+      "word": "and"
+    },
+    {
+      "conf": 0.538635,
+      "end": 9.0,
+      "start": 8.82,
+      "word": "him"
+    },
+    {
+      "conf": 0.883725,
+      "end": 12.72,
+      "start": 12.54,
+      "word": "you're"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.96,
+      "start": 12.72,
+      "word": "getting"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.99,
+      "start": 12.96,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.482223,
+      "start": 12.99,
+      "word": "pioneer"
+    },
+    {
+      "conf": 0.703713,
+      "end": 13.8,
+      "start": 13.5,
+      "word": "word"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.95,
+      "start": 13.8,
+      "word": "but"
+    },
+    {
+      "conf": 0.590429,
+      "end": 14.94,
+      "start": 14.82,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.21,
+      "start": 14.952287,
+      "word": "would"
+    },
+    {
+      "conf": 0.627541,
+      "end": 15.334283,
+      "start": 15.21,
+      "word": "who"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.48,
+      "start": 15.334283,
+      "word": "would"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.632172,
+      "start": 15.48,
+      "word": "be"
+    },
+    {
+      "conf": 0.774823,
+      "end": 15.96,
+      "start": 15.632172,
+      "word": "your"
+    },
+    {
+      "conf": 0.353068,
+      "end": 16.29,
+      "start": 16.05,
+      "word": "hit"
+    },
+    {
+      "conf": 0.982088,
+      "end": 16.566857,
+      "start": 16.29,
+      "word": "for"
+    },
+    {
+      "conf": 0.658084,
+      "end": 16.65,
+      "start": 16.566857,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.86,
+      "start": 16.660258,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.92,
+      "start": 16.86,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.423824,
+      "start": 16.92,
+      "word": "pioneer"
+    },
+    {
+      "conf": 0.245704,
+      "end": 17.661079,
+      "start": 17.50054,
+      "word": "or"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.847632,
+      "start": 17.680389,
+      "word": "who"
+    },
+    {
+      "conf": 0.92107,
+      "end": 17.97,
+      "start": 17.85,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.24111,
+      "start": 17.97,
+      "word": "your"
+    },
+    {
+      "conf": 0.591579,
+      "end": 18.48,
+      "start": 18.24111,
+      "word": "who's"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.63,
+      "start": 18.48,
+      "word": "your"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.99,
+      "start": 18.63,
+      "word": "favorite"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.41,
+      "start": 18.99,
+      "word": "person"
+    },
+    {
+      "conf": 0.875393,
+      "end": 19.53,
+      "start": 19.41,
+      "word": "who"
+    },
+    {
+      "conf": 0.875393,
+      "end": 19.68,
+      "start": 19.53,
+      "word": "is"
+    },
+    {
+      "conf": 0.6597,
+      "end": 19.8,
+      "start": 19.68,
+      "word": "kind"
+    },
+    {
+      "conf": 0.6597,
+      "end": 19.89,
+      "start": 19.8,
+      "word": "of"
+    }
+  ],
+  "text": "ames are he created and be a jam when he was at midway swimming he's just been a fixture in the game industry and are we got to talking about some pretty fun stuff sells and him you're getting a pioneer word but i would who would be your hit for a for a pioneer or who is your who's your favorite person who is kind of"
+}

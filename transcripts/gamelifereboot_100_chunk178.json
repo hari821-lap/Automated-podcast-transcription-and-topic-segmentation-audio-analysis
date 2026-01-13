@@ -1,0 +1,419 @@
+{
+  "result": [
+    {
+      "conf": 0.770841,
+      "end": 0.302734,
+      "start": 0.0,
+      "word": "there's"
+    },
+    {
+      "conf": 0.791928,
+      "end": 0.51,
+      "start": 0.302734,
+      "word": "up"
+    },
+    {
+      "conf": 0.646177,
+      "end": 0.628415,
+      "start": 0.54,
+      "word": "the"
+    },
+    {
+      "conf": 0.657561,
+      "end": 0.71965,
+      "start": 0.628415,
+      "word": "will"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.9,
+      "start": 0.71965,
+      "word": "there's"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.17,
+      "start": 0.9,
+      "word": "another"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.59,
+      "start": 1.17,
+      "word": "mode"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.13,
+      "start": 1.86,
+      "word": "called"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.49,
+      "start": 2.13,
+      "word": "school"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.82,
+      "start": 2.49,
+      "word": "mode"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.24,
+      "start": 3.03,
+      "word": "which"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.45,
+      "start": 3.24,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.87,
+      "start": 3.51,
+      "word": "extra"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.29,
+      "start": 3.87,
+      "word": "bizarre"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.92,
+      "start": 4.53,
+      "word": "because"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.13,
+      "start": 4.92,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.34,
+      "start": 5.13,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.67,
+      "start": 5.34,
+      "word": "takes"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.91,
+      "start": 5.67,
+      "word": "out"
+    },
+    {
+      "conf": 0.731405,
+      "end": 6.03,
+      "start": 5.97,
+      "word": "a"
+    },
+    {
+      "conf": 0.731405,
+      "end": 6.21,
+      "start": 6.03,
+      "word": "whole"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.3,
+      "start": 6.21,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.39,
+      "start": 6.3,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.84,
+      "start": 6.39,
+      "word": "murder"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.41,
+      "start": 7.2,
+      "word": "and"
+    },
+    {
+      "conf": 0.367907,
+      "end": 7.62,
+      "start": 7.41,
+      "word": "slip"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.83,
+      "start": 7.621975,
+      "word": "what"
+    },
+    {
+      "conf": 0.801263,
+      "end": 7.89,
+      "start": 7.83,
+      "word": "have"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.98,
+      "start": 7.89,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.16,
+      "start": 7.98,
+      "word": "just"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.4,
+      "start": 8.19,
+      "word": "hung"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.58,
+      "start": 8.4,
+      "word": "out"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.7,
+      "start": 8.58,
+      "word": "with"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.15,
+      "start": 8.7,
+      "word": "everybody"
+    },
+    {
+      "conf": 0.767753,
+      "end": 9.81,
+      "start": 9.24,
+      "word": "over"
+    },
+    {
+      "conf": 0.928891,
+      "end": 10.26,
+      "start": 9.84,
+      "word": "and"
+    },
+    {
+      "conf": 0.743008,
+      "end": 10.525836,
+      "start": 10.38,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.65,
+      "start": 10.525836,
+      "word": "then"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.83,
+      "start": 10.65,
+      "word": "there's"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.98,
+      "start": 10.83,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.22,
+      "start": 10.98,
+      "word": "whole"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.52,
+      "start": 11.28,
+      "word": "other"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.03,
+      "start": 11.52,
+      "word": "gameplay"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.45,
+      "start": 12.03,
+      "word": "element"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.63,
+      "start": 12.45,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.78,
+      "start": 12.63,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.99,
+      "start": 12.78,
+      "word": "make"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.11,
+      "start": 12.99,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.38,
+      "start": 13.11,
+      "word": "do"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.59,
+      "start": 13.38,
+      "word": "were"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.89,
+      "start": 13.59,
+      "word": "like"
+    },
+    {
+      "conf": 0.802339,
+      "end": 14.19,
+      "start": 14.07,
+      "word": "you're"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.37,
+      "start": 14.19,
+      "word": "just"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.91,
+      "start": 14.4,
+      "word": "allocating"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.24,
+      "start": 14.91,
+      "word": "people"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.36,
+      "start": 15.24,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.51,
+      "start": 15.36,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.78,
+      "start": 15.51,
+      "word": "different"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.26,
+      "start": 15.78,
+      "word": "tasks"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.35,
+      "start": 16.26,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.59,
+      "start": 16.35,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.95,
+      "start": 16.59,
+      "word": "trying"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.01,
+      "start": 16.95,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.25,
+      "start": 17.01,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.76,
+      "start": 17.34,
+      "word": "build"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.3,
+      "start": 18.0,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.72,
+      "start": 18.36,
+      "word": "different"
+    },
+    {
+      "conf": 0.649803,
+      "end": 19.05,
+      "start": 18.72,
+      "word": "mona"
+    },
+    {
+      "conf": 0.628927,
+      "end": 19.65,
+      "start": 19.05,
+      "word": "koumas"
+    }
+  ],
+  "text": "there's up the will there's another mode called school mode which is extra bizarre because it's it takes out a whole of the murder and slip what have you just hung out with everybody over and but then there's this whole other gameplay element that they make you do were like you're just allocating people to like different tasks and like trying to like build like different mona koumas"
+}

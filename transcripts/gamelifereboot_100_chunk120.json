@@ -1,0 +1,353 @@
+{
+  "result": [
+    {
+      "conf": 0.486753,
+      "end": 2.28,
+      "start": 1.92,
+      "word": "oh"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.82,
+      "start": 2.76,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.03,
+      "start": 2.82,
+      "word": "think"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.09,
+      "start": 3.03,
+      "word": "at"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.24,
+      "start": 3.09,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.57,
+      "start": 3.24,
+      "word": "point"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.69,
+      "start": 3.57,
+      "word": "we"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.84,
+      "start": 3.69,
+      "word": "should"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.26,
+      "start": 3.84,
+      "word": "probably"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.44,
+      "start": 4.26,
+      "word": "cut"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.56,
+      "start": 4.44,
+      "word": "out"
+    },
+    {
+      "conf": 0.474117,
+      "end": 4.62,
+      "start": 4.56,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.83,
+      "start": 4.624212,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.16,
+      "start": 4.86,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.46,
+      "start": 5.19,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.09,
+      "start": 5.82,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.33,
+      "start": 6.12,
+      "word": "pre"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.84,
+      "start": 6.33,
+      "word": "recorded"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.38,
+      "start": 6.84,
+      "word": "segment"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.77,
+      "start": 7.59,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.86,
+      "start": 7.77,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.34,
+      "start": 7.86,
+      "word": "mentioned"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.45,
+      "start": 9.21,
+      "word": "which"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.57,
+      "start": 9.45,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.69,
+      "start": 9.57,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.93,
+      "start": 9.69,
+      "word": "say"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.05,
+      "start": 9.93,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.11,
+      "start": 10.05,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.29,
+      "start": 10.11,
+      "word": "went"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.38,
+      "start": 10.29,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.633048,
+      "start": 10.38,
+      "word": "the"
+    },
+    {
+      "conf": 0.896551,
+      "end": 11.01,
+      "start": 10.77,
+      "word": "that"
+    },
+    {
+      "conf": 0.910827,
+      "end": 11.22,
+      "start": 11.07,
+      "word": "the"
+    },
+    {
+      "conf": 0.910827,
+      "end": 11.541484,
+      "start": 11.22,
+      "word": "dice"
+    },
+    {
+      "conf": 0.748059,
+      "end": 11.76,
+      "start": 11.541484,
+      "word": "some"
+    },
+    {
+      "conf": 0.748059,
+      "end": 11.88,
+      "start": 11.76,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.06,
+      "start": 11.91,
+      "word": "out"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.15,
+      "start": 12.06,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.36,
+      "start": 12.15,
+      "word": "las"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.69,
+      "start": 12.36,
+      "word": "vegas"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.96,
+      "start": 12.69,
+      "word": "couple"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.2,
+      "start": 12.96,
+      "word": "weeks"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.44,
+      "start": 13.2,
+      "word": "ago"
+    },
+    {
+      "conf": 0.375506,
+      "end": 14.16,
+      "start": 14.13,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.73,
+      "start": 14.25,
+      "word": "spoke"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.09,
+      "start": 14.73,
+      "word": "with"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.48,
+      "start": 15.12,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.78,
+      "start": 15.48,
+      "word": "fair"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.44,
+      "start": 15.78,
+      "word": "few"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.49,
+      "start": 17.04,
+      "word": "people"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.24,
+      "start": 18.06,
+      "word": "let's"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.45,
+      "start": 18.24,
+      "word": "see"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.66,
+      "start": 18.45,
+      "word": "who's"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.78,
+      "start": 18.66,
+      "word": "in"
+    },
+    {
+      "conf": 0.615268,
+      "end": 18.96,
+      "start": 18.78,
+      "word": "there"
+    },
+    {
+      "conf": 0.448142,
+      "end": 19.17,
+      "start": 18.96,
+      "word": "these"
+    },
+    {
+      "conf": 0.844096,
+      "end": 19.41,
+      "start": 19.17,
+      "word": "yeah"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.89,
+      "start": 19.41,
+      "word": "eugene"
+    }
+  ],
+  "text": "oh i think at this point we should probably cut out to that that that that pre recorded segment that i mentioned which is to say that i went to the that the dice some it out in las vegas couple weeks ago i spoke with a fair few people let's see who's in there these yeah eugene"
+}

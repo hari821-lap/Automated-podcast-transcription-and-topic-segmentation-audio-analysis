@@ -1,0 +1,275 @@
+{
+  "result": [
+    {
+      "conf": 0.882728,
+      "end": 0.39,
+      "start": 0.03,
+      "word": "wheatley"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.854667,
+      "start": 0.39,
+      "word": "different"
+    },
+    {
+      "conf": 0.744457,
+      "end": 1.29,
+      "start": 0.87,
+      "word": "effect"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.47,
+      "start": 1.29,
+      "word": "than"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.56,
+      "start": 1.47,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.77,
+      "start": 1.56,
+      "word": "one"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.86,
+      "start": 1.77,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.98,
+      "start": 1.86,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.82,
+      "start": 1.98,
+      "word": "expected"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.24,
+      "start": 3.03,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.45,
+      "start": 3.24,
+      "word": "by"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.99,
+      "start": 3.45,
+      "word": "virtue"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.29,
+      "start": 3.99,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.04,
+      "start": 4.32,
+      "word": "subverting"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.19,
+      "start": 5.04,
+      "word": "your"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.12,
+      "start": 5.19,
+      "word": "expectations"
+    },
+    {
+      "conf": 0.872864,
+      "end": 6.24,
+      "start": 6.12,
+      "word": "we"
+    },
+    {
+      "conf": 0.872864,
+      "end": 6.72,
+      "start": 6.24,
+      "word": "find"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.8,
+      "start": 7.29,
+      "word": "really"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.16,
+      "start": 7.8,
+      "word": "some"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.28,
+      "start": 8.16,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.52,
+      "start": 8.28,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.33,
+      "start": 8.7,
+      "word": "best"
+    },
+    {
+      "conf": 0.758318,
+      "end": 9.9,
+      "start": 9.51,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.28,
+      "start": 10.08,
+      "word": "physical"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.09,
+      "start": 11.37,
+      "word": "humor"
+    },
+    {
+      "conf": 0.654164,
+      "end": 13.14,
+      "start": 12.6,
+      "word": "i'm"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.89,
+      "start": 13.41,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.34,
+      "start": 14.04,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.67,
+      "start": 14.37,
+      "word": "have"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.24,
+      "start": 14.76,
+      "word": "ever"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.51,
+      "start": 15.27,
+      "word": "kind"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.6,
+      "start": 15.51,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.47,
+      "start": 15.6,
+      "word": "experienced"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.71,
+      "start": 16.47,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.83,
+      "start": 16.71,
+      "word": "a"
+    },
+    {
+      "conf": 0.540088,
+      "end": 17.19,
+      "start": 16.83,
+      "word": "video"
+    },
+    {
+      "conf": 0.540088,
+      "end": 17.52,
+      "start": 17.19,
+      "word": "game"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.91,
+      "start": 17.76,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.42,
+      "start": 17.91,
+      "word": "writing"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.72,
+      "start": 18.42,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.93,
+      "start": 18.78,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.26,
+      "start": 18.93,
+      "word": "writing"
+    },
+    {
+      "conf": 0.744536,
+      "end": 19.377393,
+      "start": 19.26,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.95,
+      "start": 19.377393,
+      "word": "solid"
+    }
+  ],
+  "text": "wheatley different effect than the one that you expected and by virtue of subverting your expectations we find really some of the best like physical humor i'm that i have ever kind of experienced in a video game the writing is the writing is solid"
+}

@@ -1,0 +1,287 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 2.85,
+      "start": 2.55,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.06,
+      "start": 2.85,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.12,
+      "start": 3.06,
+      "word": "i"
+    },
+    {
+      "conf": 0.661847,
+      "end": 3.3,
+      "start": 3.12,
+      "word": "get"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.57,
+      "start": 3.3,
+      "word": "big"
+    },
+    {
+      "conf": 0.701824,
+      "end": 3.69,
+      "start": 3.57,
+      "word": "i'm"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.81,
+      "start": 3.69,
+      "word": "going"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.93,
+      "start": 3.81,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.08,
+      "start": 3.93,
+      "word": "get"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.26,
+      "start": 4.08,
+      "word": "out"
+    },
+    {
+      "conf": 0.677925,
+      "end": 4.74,
+      "start": 4.47,
+      "word": "there's"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.1,
+      "start": 4.74,
+      "word": "there's"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.31,
+      "start": 5.19,
+      "word": "i'm"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.49,
+      "start": 5.31,
+      "word": "sure"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.67,
+      "start": 5.49,
+      "word": "there's"
+    },
+    {
+      "conf": 0.929051,
+      "end": 5.97,
+      "start": 5.67,
+      "word": "something"
+    },
+    {
+      "conf": 0.929051,
+      "end": 6.36,
+      "start": 6.06,
+      "word": "about"
+    },
+    {
+      "conf": 0.37049,
+      "end": 7.56,
+      "start": 7.389359,
+      "word": "are"
+    },
+    {
+      "conf": 0.818074,
+      "end": 7.715688,
+      "start": 7.568209,
+      "word": "you"
+    },
+    {
+      "conf": 0.53865,
+      "end": 7.83,
+      "start": 7.715688,
+      "word": "got"
+    },
+    {
+      "conf": 0.813521,
+      "end": 8.723272,
+      "start": 8.4,
+      "word": "a"
+    },
+    {
+      "conf": 0.801653,
+      "end": 9.0,
+      "start": 8.723272,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.87,
+      "start": 9.69,
+      "word": "i've"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.11,
+      "start": 9.87,
+      "word": "known"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.14,
+      "start": 10.11,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.38,
+      "start": 10.14,
+      "word": "lot"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.44,
+      "start": 10.38,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.89,
+      "start": 10.44,
+      "word": "people"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.43,
+      "start": 11.28,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.55,
+      "start": 11.43,
+      "word": "my"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.94,
+      "start": 11.55,
+      "word": "life"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.71,
+      "start": 13.17,
+      "word": "lucas"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.13,
+      "start": 13.71,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.6,
+      "start": 15.36,
+      "word": "about"
+    },
+    {
+      "conf": 0.63627,
+      "end": 16.77,
+      "start": 16.74,
+      "word": "i"
+    },
+    {
+      "conf": 0.708861,
+      "end": 16.86,
+      "start": 16.77,
+      "word": "was"
+    },
+    {
+      "conf": 0.750178,
+      "end": 16.977883,
+      "start": 16.86,
+      "word": "going"
+    },
+    {
+      "conf": 0.636228,
+      "end": 17.031502,
+      "start": 16.977883,
+      "word": "to"
+    },
+    {
+      "conf": 0.889205,
+      "end": 17.19,
+      "start": 17.031502,
+      "word": "say"
+    },
+    {
+      "conf": 0.975695,
+      "end": 17.43,
+      "start": 17.195887,
+      "word": "one"
+    },
+    {
+      "conf": 0.975695,
+      "end": 17.52,
+      "start": 17.43,
+      "word": "of"
+    },
+    {
+      "conf": 0.975695,
+      "end": 17.61,
+      "start": 17.52,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.932899,
+      "start": 17.61,
+      "word": "people"
+    },
+    {
+      "conf": 0.398376,
+      "end": 18.21,
+      "start": 17.94,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.32,
+      "start": 19.11,
+      "word": "let's"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.481717,
+      "start": 19.32,
+      "word": "just"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.908609,
+      "start": 19.661717,
+      "word": "say"
+    }
+  ],
+  "text": "i know i get big i'm going to get out there's there's i'm sure there's something about are you got a i i've known a lot of people in my life lucas is about i was going to say one of the people like let's just say"
+}

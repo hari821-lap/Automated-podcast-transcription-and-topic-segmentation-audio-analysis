@@ -1,0 +1,281 @@
+{
+  "result": [
+    {
+      "conf": 0.786513,
+      "end": 0.3,
+      "start": 0.06,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.08,
+      "start": 0.84,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.41,
+      "start": 1.14,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.77,
+      "start": 1.44,
+      "word": "says"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.92,
+      "start": 1.77,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.04,
+      "start": 1.92,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.97,
+      "start": 2.04,
+      "word": "inspired"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.66,
+      "start": 3.09,
+      "word": "by"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.99,
+      "start": 3.81,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.32,
+      "start": 3.99,
+      "word": "naked"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.74,
+      "start": 4.32,
+      "word": "gun"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.43,
+      "start": 5.25,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.73,
+      "start": 5.43,
+      "word": "things"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.82,
+      "start": 5.73,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.03,
+      "start": 5.82,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.51,
+      "start": 6.03,
+      "word": "nature"
+    },
+    {
+      "conf": 0.685019,
+      "end": 7.29,
+      "start": 6.75,
+      "word": "i'm"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.71,
+      "start": 7.41,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.95,
+      "start": 7.74,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.04,
+      "start": 7.95,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.22,
+      "start": 8.04,
+      "word": "can"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.55,
+      "start": 8.22,
+      "word": "sort"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.64,
+      "start": 8.55,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.94,
+      "start": 8.64,
+      "word": "see"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.3,
+      "start": 8.94,
+      "word": "that"
+    },
+    {
+      "conf": 0.742406,
+      "end": 9.96,
+      "start": 9.42,
+      "word": "i'm"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.53,
+      "start": 10.14,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.1,
+      "start": 10.92,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.28,
+      "start": 11.1,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.91,
+      "start": 11.28,
+      "word": "really"
+    },
+    {
+      "conf": 0.822667,
+      "end": 12.09,
+      "start": 11.91,
+      "word": "be"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.54,
+      "start": 12.09,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.83,
+      "start": 12.9,
+      "word": "animated"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.03,
+      "start": 14.01,
+      "word": "physical"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.14,
+      "start": 15.51,
+      "word": "humor"
+    },
+    {
+      "conf": 0.814037,
+      "end": 16.74,
+      "start": 16.53,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.83,
+      "start": 16.745579,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.34,
+      "start": 16.83,
+      "word": "game"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.97,
+      "start": 17.46,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.87,
+      "start": 18.39,
+      "word": "makes"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.99,
+      "start": 18.87,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.17,
+      "start": 18.99,
+      "word": "as"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.44,
+      "start": 19.17,
+      "word": "good"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.53,
+      "start": 19.44,
+      "word": "as"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.65,
+      "start": 19.53,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.95,
+      "start": 19.65,
+      "word": "is"
+    }
+  ],
+  "text": "it's it it says that it's inspired by the naked gun and things of that nature i'm and and you can sort of see that i'm but it is really be like animated physical humor of the game that makes it as good as it is"
+}

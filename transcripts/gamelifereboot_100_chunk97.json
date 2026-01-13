@@ -1,0 +1,407 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.24,
+      "start": 0.0,
+      "word": "there's"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.39,
+      "start": 0.24,
+      "word": "always"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.54,
+      "start": 0.39,
+      "word": "been"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.57,
+      "start": 0.54,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.08,
+      "start": 0.57,
+      "word": "closeness"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.47,
+      "start": 1.35,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.56,
+      "start": 1.47,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.89,
+      "start": 1.56,
+      "word": "course"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.04,
+      "start": 1.92,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.25,
+      "start": 2.04,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.43,
+      "start": 2.25,
+      "word": "l"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.55,
+      "start": 2.43,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.82,
+      "start": 2.55,
+      "word": "very"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.18,
+      "start": 2.82,
+      "word": "angry"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.27,
+      "start": 3.18,
+      "word": "at"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.48,
+      "start": 3.27,
+      "word": "her"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.11,
+      "start": 3.51,
+      "word": "because"
+    },
+    {
+      "conf": 0.913883,
+      "end": 4.32,
+      "start": 4.2,
+      "word": "you"
+    },
+    {
+      "conf": 0.913883,
+      "end": 4.41,
+      "start": 4.32,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.59,
+      "start": 4.41,
+      "word": "she"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.92,
+      "start": 4.59,
+      "word": "abandoned"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.25,
+      "start": 4.92,
+      "word": "her"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.43,
+      "start": 5.25,
+      "word": "as"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.46,
+      "start": 5.43,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.73,
+      "start": 5.46,
+      "word": "friend"
+    },
+    {
+      "conf": 0.795272,
+      "end": 5.85,
+      "start": 5.73,
+      "word": "were"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.09,
+      "start": 5.85,
+      "word": "told"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.21,
+      "start": 6.09,
+      "word": "she"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.54,
+      "start": 6.21,
+      "word": "said"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.66,
+      "start": 6.57,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.05,
+      "start": 6.66,
+      "word": "few"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.26,
+      "start": 7.05,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.77,
+      "start": 7.53,
+      "word": "took"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.1,
+      "start": 7.77,
+      "word": "off"
+    },
+    {
+      "conf": 0.745603,
+      "end": 8.31,
+      "start": 8.1,
+      "word": "or"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.55,
+      "start": 8.34,
+      "word": "sort"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.61,
+      "start": 8.55,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.12,
+      "start": 8.61,
+      "word": "unexplained"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.78,
+      "start": 9.12,
+      "word": "reasons"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.77,
+      "start": 10.56,
+      "word": "but"
+    },
+    {
+      "conf": 0.599964,
+      "end": 10.890001,
+      "start": 10.770001,
+      "word": "you"
+    },
+    {
+      "conf": 0.599964,
+      "end": 10.950001,
+      "start": 10.890001,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.19,
+      "start": 10.962001,
+      "word": "there's"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.31,
+      "start": 11.19,
+      "word": "an"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.79,
+      "start": 11.34,
+      "word": "anger"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.97,
+      "start": 11.79,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.33,
+      "start": 12.0,
+      "word": "really"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.5,
+      "start": 12.48,
+      "word": "persists"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.65,
+      "start": 13.53,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.83,
+      "start": 13.65,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.01,
+      "start": 13.83,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.52,
+      "start": 14.01,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.85,
+      "start": 14.73,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.0,
+      "start": 14.85,
+      "word": "don't"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.24,
+      "start": 15.0,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.29,
+      "start": 15.78,
+      "word": "maybe"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.8,
+      "start": 16.38,
+      "word": "deeper"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.07,
+      "start": 16.8,
+      "word": "than"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.34,
+      "start": 17.1,
+      "word": "one"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.46,
+      "start": 17.34,
+      "word": "would"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.0,
+      "start": 17.46,
+      "word": "expect"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.51,
+      "start": 18.33,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.9,
+      "start": 18.51,
+      "word": "also"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.26,
+      "start": 18.9,
+      "word": "eventually"
+    },
+    {
+      "conf": 0.755947,
+      "end": 19.59,
+      "start": 19.26,
+      "word": "riley"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.891961,
+      "start": 19.59,
+      "word": "says"
+    },
+    {
+      "conf": 0.392945,
+      "end": 19.98,
+      "start": 19.891961,
+      "word": "that"
+    }
+  ],
+  "text": "there's always been a closeness and of course you know l is very angry at her because you know she abandoned her as a friend were told she said a few and took off or sort of unexplained reasons but you know there's an anger that really persists you know that is i don't know maybe deeper than one would expect and also eventually riley says that"
+}

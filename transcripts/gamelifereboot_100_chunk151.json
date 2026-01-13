@@ -1,0 +1,431 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.69,
+      "start": 0.57,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.02,
+      "start": 0.69,
+      "word": "wasn't"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.26,
+      "start": 1.02,
+      "word": "really"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.77,
+      "start": 1.26,
+      "word": "carefully"
+    },
+    {
+      "conf": 0.511123,
+      "end": 1.912555,
+      "start": 1.77,
+      "word": "while"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.01,
+      "start": 1.912555,
+      "word": "we"
+    },
+    {
+      "conf": 0.931753,
+      "end": 2.217818,
+      "start": 2.01,
+      "word": "made"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.4,
+      "start": 2.217818,
+      "word": "that"
+    },
+    {
+      "conf": 0.809288,
+      "end": 2.58,
+      "start": 2.4,
+      "word": "at"
+    },
+    {
+      "conf": 0.95349,
+      "end": 2.76,
+      "start": 2.58,
+      "word": "it"
+    },
+    {
+      "conf": 0.988074,
+      "end": 3.237123,
+      "start": 2.9169,
+      "word": "is"
+    },
+    {
+      "conf": 0.414634,
+      "end": 3.650936,
+      "start": 3.45,
+      "word": "yeah"
+    },
+    {
+      "conf": 0.275175,
+      "end": 3.87,
+      "start": 3.78,
+      "word": "see"
+    },
+    {
+      "conf": 0.751493,
+      "end": 4.23,
+      "start": 4.02,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.07,
+      "start": 4.92,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.16,
+      "start": 5.07,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.31,
+      "start": 5.16,
+      "word": "have"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.4,
+      "start": 5.31,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.82,
+      "start": 5.4,
+      "word": "say"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.51,
+      "start": 6.27,
+      "word": "high"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.87,
+      "start": 6.51,
+      "word": "quality"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.2,
+      "start": 6.87,
+      "word": "stuff"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.462708,
+      "start": 8.07,
+      "word": "so"
+    },
+    {
+      "conf": 0.356266,
+      "end": 9.03,
+      "start": 8.528323,
+      "word": "as"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.18,
+      "start": 9.03,
+      "word": "we"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.39,
+      "start": 9.18,
+      "word": "have"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.45,
+      "start": 9.39,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.69,
+      "start": 9.45,
+      "word": "couple"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.87,
+      "start": 9.69,
+      "word": "more"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.14,
+      "start": 9.87,
+      "word": "video"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.38,
+      "start": 10.14,
+      "word": "games"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.47,
+      "start": 10.38,
+      "word": "we"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.62,
+      "start": 10.47,
+      "word": "can"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.83,
+      "start": 10.62,
+      "word": "talk"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.07,
+      "start": 10.83,
+      "word": "about"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.16,
+      "start": 11.07,
+      "word": "i"
+    },
+    {
+      "conf": 0.596432,
+      "end": 11.314276,
+      "start": 11.16,
+      "word": "want"
+    },
+    {
+      "conf": 0.570306,
+      "end": 11.414774,
+      "start": 11.322391,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.79,
+      "start": 11.473357,
+      "word": "okay"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.54,
+      "start": 12.45,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.69,
+      "start": 12.54,
+      "word": "want"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.75,
+      "start": 12.69,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.99,
+      "start": 12.75,
+      "word": "talk"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.2,
+      "start": 12.99,
+      "word": "about"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.59,
+      "start": 13.2,
+      "word": "jazz"
+    },
+    {
+      "conf": 0.645693,
+      "end": 13.92,
+      "start": 13.59,
+      "word": "punk"
+    },
+    {
+      "conf": 0.505427,
+      "end": 14.13,
+      "start": 13.98,
+      "word": "going"
+    },
+    {
+      "conf": 0.50023,
+      "end": 14.339999,
+      "start": 14.13,
+      "word": "around"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.52,
+      "start": 14.34,
+      "word": "about"
+    },
+    {
+      "conf": 0.871956,
+      "end": 14.88,
+      "start": 14.55,
+      "word": "octo"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.24,
+      "start": 14.88,
+      "word": "dad"
+    },
+    {
+      "conf": 0.696074,
+      "end": 15.51,
+      "start": 15.24,
+      "word": "last"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.6,
+      "start": 15.51,
+      "word": "we"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.87,
+      "start": 15.6,
+      "word": "talked"
+    },
+    {
+      "conf": 0.97472,
+      "end": 16.054893,
+      "start": 15.87,
+      "word": "about"
+    },
+    {
+      "conf": 0.560338,
+      "end": 16.16892,
+      "start": 16.054893,
+      "word": "not"
+    },
+    {
+      "conf": 0.488836,
+      "end": 16.38,
+      "start": 16.16892,
+      "word": "talk"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.56,
+      "start": 16.38,
+      "word": "about"
+    },
+    {
+      "conf": 0.196792,
+      "end": 16.795596,
+      "start": 16.56,
+      "word": "after"
+    },
+    {
+      "conf": 0.902424,
+      "end": 17.07,
+      "start": 16.795596,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.55,
+      "start": 17.1,
+      "word": "okay"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.94,
+      "start": 17.64,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.0,
+      "start": 17.94,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.33,
+      "start": 18.0,
+      "word": "mean"
+    },
+    {
+      "conf": 0.722759,
+      "end": 18.81,
+      "start": 18.48,
+      "word": "there's"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.96,
+      "start": 18.81,
+      "word": "there"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.11,
+      "start": 18.96,
+      "word": "was"
+    },
+    {
+      "conf": 0.79364,
+      "end": 19.47,
+      "start": 19.11,
+      "word": "octo"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.71,
+      "start": 19.47,
+      "word": "dad"
+    },
+    {
+      "conf": 0.678999,
+      "end": 19.83,
+      "start": 19.71,
+      "word": "and"
+    },
+    {
+      "conf": 0.328521,
+      "end": 19.95,
+      "start": 19.83,
+      "word": "yeah"
+    }
+  ],
+  "text": "i wasn't really carefully while we made that at it is yeah see that and i have to say high quality stuff so as we have a couple more video games we can talk about i want to okay i want to talk about jazz punk going around about octo dad last we talked about not talk about after that okay so i mean there's there was octo dad and yeah"
+}

@@ -1,0 +1,377 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.48,
+      "start": 0.0,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.62,
+      "start": 1.41,
+      "word": "what"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.74,
+      "start": 1.62,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.89,
+      "start": 1.74,
+      "word": "want"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.95,
+      "start": 1.89,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.46,
+      "start": 1.95,
+      "word": "toaster"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.61,
+      "start": 2.46,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.76,
+      "start": 2.61,
+      "word": "want"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.82,
+      "start": 2.76,
+      "word": "to"
+    },
+    {
+      "conf": 0.934894,
+      "end": 3.03,
+      "start": 2.85,
+      "word": "be"
+    },
+    {
+      "conf": 0.527048,
+      "end": 3.3,
+      "start": 3.03,
+      "word": "see"
+    },
+    {
+      "conf": 0.426647,
+      "end": 3.57,
+      "start": 3.3,
+      "word": "our"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.66,
+      "start": 3.57,
+      "word": "i"
+    },
+    {
+      "conf": 0.827679,
+      "end": 3.96,
+      "start": 3.66,
+      "word": "love"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.08,
+      "start": 3.96,
+      "word": "the"
+    },
+    {
+      "conf": 0.79968,
+      "end": 4.47,
+      "start": 4.08,
+      "word": "chin"
+    },
+    {
+      "conf": 0.79968,
+      "end": 5.01,
+      "start": 4.47,
+      "word": "see"
+    },
+    {
+      "conf": 0.54593,
+      "end": 5.573485,
+      "start": 5.43,
+      "word": "you've"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.73,
+      "start": 5.573485,
+      "word": "just"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.15,
+      "start": 5.73,
+      "word": "murdered"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.54,
+      "start": 6.15,
+      "word": "fifty"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.9,
+      "start": 6.54,
+      "word": "people"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.11,
+      "start": 6.9,
+      "word": "say"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.317436,
+      "start": 7.17,
+      "word": "when"
+    },
+    {
+      "conf": 0.914523,
+      "end": 7.38,
+      "start": 7.32,
+      "word": "a"
+    },
+    {
+      "conf": 0.694314,
+      "end": 7.77,
+      "start": 7.38,
+      "word": "pc"
+    },
+    {
+      "conf": 0.557258,
+      "end": 8.16,
+      "start": 7.77,
+      "word": "our"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.73,
+      "start": 8.34,
+      "word": "nature"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.88,
+      "start": 8.73,
+      "word": "of"
+    },
+    {
+      "conf": 0.917597,
+      "end": 8.998005,
+      "start": 8.88,
+      "word": "and"
+    },
+    {
+      "conf": 0.812355,
+      "end": 9.057786,
+      "start": 8.998005,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.15,
+      "start": 9.057786,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.33,
+      "start": 9.15,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.63,
+      "start": 9.33,
+      "word": "funny"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.11,
+      "start": 9.84,
+      "word": "yeah"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.56,
+      "start": 10.35,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.89,
+      "start": 10.56,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.79,
+      "start": 11.64,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.123193,
+      "start": 11.79,
+      "word": "only"
+    },
+    {
+      "conf": 0.760584,
+      "end": 12.39,
+      "start": 12.123193,
+      "word": "know"
+    },
+    {
+      "conf": 0.721138,
+      "end": 12.93,
+      "start": 12.6,
+      "word": "what's"
+    },
+    {
+      "conf": 0.991242,
+      "end": 13.29,
+      "start": 12.937469,
+      "word": "around"
+    },
+    {
+      "conf": 0.49779,
+      "end": 13.780012,
+      "start": 13.56,
+      "word": "trying"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.844389,
+      "start": 13.780012,
+      "word": "to"
+    },
+    {
+      "conf": 0.816388,
+      "end": 14.340001,
+      "start": 13.888266,
+      "word": "scare"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.94,
+      "start": 14.52,
+      "word": "oh"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.51,
+      "start": 15.33,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.676979,
+      "start": 15.51,
+      "word": "was"
+    },
+    {
+      "conf": 0.629176,
+      "end": 15.78,
+      "start": 15.676979,
+      "word": "as"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.035335,
+      "start": 15.911669,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.449633,
+      "start": 16.287374,
+      "word": "was"
+    },
+    {
+      "conf": 0.716211,
+      "end": 16.62,
+      "start": 16.47,
+      "word": "as"
+    },
+    {
+      "conf": 0.507759,
+      "end": 16.74,
+      "start": 16.620502,
+      "word": "to"
+    },
+    {
+      "conf": 0.507759,
+      "end": 16.95,
+      "start": 16.74,
+      "word": "get"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.57,
+      "start": 18.39,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.75,
+      "start": 18.57,
+      "word": "much"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.93,
+      "start": 18.75,
+      "word": "fun"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.11,
+      "start": 18.93,
+      "word": "with"
+    },
+    {
+      "conf": 0.882376,
+      "end": 19.2,
+      "start": 19.11,
+      "word": "a"
+    },
+    {
+      "conf": 0.320423,
+      "end": 19.53,
+      "start": 19.2,
+      "word": "pig"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.77,
+      "start": 19.59,
+      "word": "kind"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.89,
+      "start": 19.77,
+      "word": "of"
+    }
+  ],
+  "text": "the what you want to toaster you want to be see our i love the chin see you've just murdered fifty people say when a pc our nature of and it was so funny yeah that was the only know what's around trying to scare oh that was as i was as to get so much fun with a pig kind of"
+}

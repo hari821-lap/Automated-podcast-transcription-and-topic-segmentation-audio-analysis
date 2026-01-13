@@ -1,0 +1,305 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 1.14,
+      "start": 0.51,
+      "word": "everything"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.38,
+      "start": 1.14,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.07,
+      "start": 1.41,
+      "word": "great"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.7,
+      "start": 2.46,
+      "word": "up"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.36,
+      "start": 2.7,
+      "word": "until"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.66,
+      "start": 3.42,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.17,
+      "start": 3.66,
+      "word": "very"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.59,
+      "start": 4.17,
+      "word": "very"
+    },
+    {
+      "conf": 0.644717,
+      "end": 5.1,
+      "start": 4.59,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.97,
+      "start": 5.37,
+      "word": "where"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.69,
+      "start": 6.51,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.99,
+      "start": 6.69,
+      "word": "found"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.44,
+      "start": 6.99,
+      "word": "myself"
+    },
+    {
+      "conf": 0.863176,
+      "end": 7.53,
+      "start": 7.44,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.8,
+      "start": 7.53,
+      "word": "another"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.95,
+      "start": 7.8,
+      "word": "one"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.01,
+      "start": 7.95,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.28,
+      "start": 8.01,
+      "word": "those"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.76,
+      "start": 8.28,
+      "word": "forced"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.42,
+      "start": 8.76,
+      "word": "combat"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.32,
+      "start": 9.42,
+      "word": "situations"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.77,
+      "start": 10.53,
+      "word": "which"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.89,
+      "start": 10.77,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.01,
+      "start": 10.89,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.28,
+      "start": 11.01,
+      "word": "thing"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.37,
+      "start": 11.28,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.46,
+      "start": 11.37,
+      "word": "i"
+    },
+    {
+      "conf": 0.856324,
+      "end": 11.76,
+      "start": 11.46,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.88,
+      "start": 11.76431,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.27,
+      "start": 11.88,
+      "word": "least"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.45,
+      "start": 12.27,
+      "word": "about"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.54,
+      "start": 12.45,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.84,
+      "start": 12.54,
+      "word": "last"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.93,
+      "start": 12.84,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.17,
+      "start": 12.93,
+      "word": "us"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.46,
+      "start": 13.86,
+      "word": "everything"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.76,
+      "start": 14.49,
+      "word": "up"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.18,
+      "start": 14.79,
+      "word": "prior"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.27,
+      "start": 15.18,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.45,
+      "start": 15.27,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.81,
+      "start": 15.45,
+      "word": "point"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.35,
+      "start": 16.23,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.56,
+      "start": 16.35,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.04,
+      "start": 16.59,
+      "word": "able"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.76,
+      "start": 17.31,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.51,
+      "start": 17.79,
+      "word": "stealth"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.78,
+      "start": 18.57,
+      "word": "my"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.23,
+      "start": 18.78,
+      "word": "way"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.86,
+      "start": 19.5,
+      "word": "through"
+    },
+    {
+      "conf": 0.727796,
+      "end": 19.95,
+      "start": 19.86,
+      "word": "the"
+    }
+  ],
+  "text": "everything was great up until the very very and where i found myself in another one of those forced combat situations which is the thing that i like the least about the last of us everything up prior to that point i was able to stealth my way through the"
+}

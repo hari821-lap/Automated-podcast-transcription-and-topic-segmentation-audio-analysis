@@ -1,0 +1,401 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.39,
+      "start": 0.18,
+      "word": "you're"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.776692,
+      "start": 0.39,
+      "word": "not"
+    },
+    {
+      "conf": 0.889749,
+      "end": 0.9,
+      "start": 0.78,
+      "word": "the"
+    },
+    {
+      "conf": 0.781532,
+      "end": 1.32,
+      "start": 0.9,
+      "word": "works"
+    },
+    {
+      "conf": 0.499152,
+      "end": 1.71,
+      "start": 1.56,
+      "word": "here"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.04,
+      "start": 1.720312,
+      "word": "not"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.13,
+      "start": 2.04,
+      "word": "the"
+    },
+    {
+      "conf": 0.785408,
+      "end": 2.426705,
+      "start": 2.13,
+      "word": "worst"
+    },
+    {
+      "conf": 0.645125,
+      "end": 2.55,
+      "start": 2.426705,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.76,
+      "start": 2.55,
+      "word": "every"
+    },
+    {
+      "conf": 0.574165,
+      "end": 2.91,
+      "start": 2.76,
+      "word": "have"
+    },
+    {
+      "conf": 0.916504,
+      "end": 3.09,
+      "start": 2.91,
+      "word": "any"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.39,
+      "start": 3.091526,
+      "word": "person"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.48,
+      "start": 3.39,
+      "word": "i've"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.66,
+      "start": 3.48,
+      "word": "ever"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.860876,
+      "start": 3.66,
+      "word": "had"
+    },
+    {
+      "conf": 0.332155,
+      "end": 3.996595,
+      "start": 3.966595,
+      "word": "a"
+    },
+    {
+      "conf": 0.644871,
+      "end": 5.64,
+      "start": 5.49,
+      "word": "that"
+    },
+    {
+      "conf": 0.541374,
+      "end": 5.94,
+      "start": 5.67,
+      "word": "works"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.24,
+      "start": 5.94,
+      "word": "person"
+    },
+    {
+      "conf": 0.72625,
+      "end": 6.36,
+      "start": 6.24,
+      "word": "i've"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.51,
+      "start": 6.36,
+      "word": "ever"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.753537,
+      "start": 6.51,
+      "word": "met"
+    },
+    {
+      "conf": 0.818367,
+      "end": 7.56,
+      "start": 6.96,
+      "word": "carpet"
+    },
+    {
+      "conf": 0.523262,
+      "end": 7.77,
+      "start": 7.62,
+      "word": "i'd"
+    },
+    {
+      "conf": 0.999167,
+      "end": 8.34,
+      "start": 8.07,
+      "word": "have"
+    },
+    {
+      "conf": 0.991867,
+      "end": 8.58,
+      "start": 8.34,
+      "word": "i'd"
+    },
+    {
+      "conf": 0.809363,
+      "end": 8.864062,
+      "start": 8.58,
+      "word": "sell"
+    },
+    {
+      "conf": 0.379371,
+      "end": 9.03,
+      "start": 8.88,
+      "word": "out"
+    },
+    {
+      "conf": 0.58311,
+      "end": 9.15,
+      "start": 9.03,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.750213,
+      "start": 9.51,
+      "word": "this"
+    },
+    {
+      "conf": 0.987688,
+      "end": 10.08,
+      "start": 9.750213,
+      "word": "is"
+    },
+    {
+      "conf": 0.747735,
+      "end": 10.35,
+      "start": 10.08,
+      "word": "i'd"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.59,
+      "start": 10.47,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.77,
+      "start": 10.59,
+      "word": "didn't"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.95,
+      "start": 10.77,
+      "word": "know"
+    },
+    {
+      "conf": 0.911591,
+      "end": 11.19,
+      "start": 10.95,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.009056,
+      "start": 11.278173,
+      "word": "that"
+    },
+    {
+      "conf": 0.965725,
+      "end": 12.274414,
+      "start": 12.092639,
+      "word": "all"
+    },
+    {
+      "conf": 0.82114,
+      "end": 12.45,
+      "start": 12.274414,
+      "word": "with"
+    },
+    {
+      "conf": 0.853709,
+      "end": 12.54,
+      "start": 12.45,
+      "word": "the"
+    },
+    {
+      "conf": 0.735473,
+      "end": 12.66,
+      "start": 12.54,
+      "word": "end"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.72,
+      "start": 12.66,
+      "word": "of"
+    },
+    {
+      "conf": 0.898769,
+      "end": 12.78,
+      "start": 12.72,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.14,
+      "start": 12.786074,
+      "word": "scale"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.83,
+      "start": 13.77,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.01,
+      "start": 13.83,
+      "word": "didn't"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.133701,
+      "start": 14.01,
+      "word": "know"
+    },
+    {
+      "conf": 0.699858,
+      "end": 14.22,
+      "start": 14.133701,
+      "word": "i"
+    },
+    {
+      "conf": 0.844764,
+      "end": 14.37,
+      "start": 14.228068,
+      "word": "would"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.46,
+      "start": 14.37,
+      "word": "be"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.03,
+      "start": 14.46,
+      "word": "receiving"
+    },
+    {
+      "conf": 0.567203,
+      "end": 16.11,
+      "start": 16.05,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.35,
+      "start": 16.122984,
+      "word": "very"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.62,
+      "start": 16.35,
+      "word": "great"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.86,
+      "start": 16.62,
+      "word": "lot"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.92,
+      "start": 16.86,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.19,
+      "start": 16.92,
+      "word": "scale"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.28,
+      "start": 17.19,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.490428,
+      "start": 17.31,
+      "word": "one"
+    },
+    {
+      "conf": 0.906292,
+      "end": 17.58,
+      "start": 17.490428,
+      "word": "the"
+    },
+    {
+      "conf": 0.501156,
+      "end": 18.03,
+      "start": 17.58,
+      "word": "baby"
+    },
+    {
+      "conf": 0.887301,
+      "end": 18.57,
+      "start": 18.45,
+      "word": "he's"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.72,
+      "start": 18.57,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.78,
+      "start": 18.72,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.17,
+      "start": 18.78,
+      "word": "baby"
+    }
+  ],
+  "text": "you're not the works here not the worst that every have any person i've ever had a that works person i've ever met carpet i'd have i'd sell out a this is i'd i didn't know that that all with the end of the scale i didn't know i would be receiving a very great lot of scale of one the baby he's like a baby"
+}

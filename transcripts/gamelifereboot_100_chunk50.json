@@ -1,0 +1,473 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.3,
+      "start": 0.09,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.45,
+      "start": 0.33,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.63,
+      "start": 0.45,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.87,
+      "start": 0.63,
+      "word": "really"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.17,
+      "start": 0.87,
+      "word": "great"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.23,
+      "start": 1.17,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.53,
+      "start": 1.23,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.22,
+      "start": 1.98,
+      "word": "after"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.43,
+      "start": 2.22,
+      "word": "getting"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.76,
+      "start": 2.43,
+      "word": "blown"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.91,
+      "start": 2.76,
+      "word": "up"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.0,
+      "start": 2.91,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.06,
+      "start": 3.0,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.45,
+      "start": 3.06,
+      "word": "titan"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.66,
+      "start": 3.45,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.84,
+      "start": 3.66,
+      "word": "many"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.11,
+      "start": 3.84,
+      "word": "times"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.26,
+      "start": 4.11,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.53,
+      "start": 4.26,
+      "word": "thirty"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.92,
+      "start": 4.53,
+      "word": "seconds"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.16,
+      "start": 4.92,
+      "word": "after"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.22,
+      "start": 5.16,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.37,
+      "start": 5.22,
+      "word": "get"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.49,
+      "start": 5.37,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.73,
+      "start": 5.49,
+      "word": "there"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.91,
+      "start": 5.73,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.0,
+      "start": 5.91,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.15,
+      "start": 6.0,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.39,
+      "start": 6.15,
+      "word": "really"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.63,
+      "start": 6.39,
+      "word": "fun"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.75,
+      "start": 6.63,
+      "word": "when"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.78,
+      "start": 6.75,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.99,
+      "start": 6.78,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.35,
+      "start": 7.02,
+      "word": "able"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.5,
+      "start": 7.35,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.92,
+      "start": 7.5,
+      "word": "stick"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.46,
+      "start": 7.92,
+      "word": "around"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.64,
+      "start": 8.49,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.7,
+      "start": 8.64,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.18,
+      "start": 8.7,
+      "word": "titan"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.36,
+      "start": 9.18,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.42,
+      "start": 9.36,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.66,
+      "start": 9.42,
+      "word": "little"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.78,
+      "start": 9.66,
+      "word": "bit"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.29,
+      "start": 9.78,
+      "word": "longer"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.74,
+      "start": 10.5,
+      "word": "by"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.58,
+      "start": 10.74,
+      "word": "judiciously"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.97,
+      "start": 11.58,
+      "word": "running"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.42,
+      "start": 11.97,
+      "word": "away"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.57,
+      "start": 12.42,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.9,
+      "start": 12.63,
+      "word": "when"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.05,
+      "start": 12.93,
+      "word": "we"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.17,
+      "start": 13.05,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.74,
+      "start": 13.17,
+      "word": "recharging"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.86,
+      "start": 13.74,
+      "word": "my"
+    },
+    {
+      "conf": 0.643695,
+      "end": 14.489999,
+      "start": 13.86,
+      "word": "shields"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.24,
+      "start": 14.76,
+      "word": "coming"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.66,
+      "start": 15.24,
+      "word": "back"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.99,
+      "start": 15.66,
+      "word": "doing"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.17,
+      "start": 15.99,
+      "word": "some"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.29,
+      "start": 16.17,
+      "word": "more"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.83,
+      "start": 16.29,
+      "word": "damage"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.34,
+      "start": 16.83,
+      "word": "leaving"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.73,
+      "start": 17.55,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.03,
+      "start": 17.73,
+      "word": "then"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.36,
+      "start": 18.24,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.48,
+      "start": 18.36,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.63,
+      "start": 18.48,
+      "word": "as"
+    },
+    {
+      "conf": 0.697408,
+      "end": 18.75,
+      "start": 18.63,
+      "word": "if"
+    },
+    {
+      "conf": 0.594246,
+      "end": 18.87,
+      "start": 18.75,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.02,
+      "start": 18.874237,
+      "word": "will"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.23,
+      "start": 19.02,
+      "word": "ever"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.41,
+      "start": 19.26,
+      "word": "have"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.47,
+      "start": 19.41,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.56,
+      "start": 19.47,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.65,
+      "start": 19.56,
+      "word": "i"
+    },
+    {
+      "conf": 0.314785,
+      "end": 19.850001,
+      "start": 19.65,
+      "word": "sit"
+    },
+    {
+      "conf": 0.480931,
+      "end": 19.95,
+      "start": 19.850001,
+      "word": "that"
+    }
+  ],
+  "text": "like it was really great to like after getting blown up in a titan so many times like thirty seconds after i get in there was it was really fun when i was able to stick around in a titan for a little bit longer by judiciously running away and when we know recharging my shields coming back doing some more damage leaving and then you know as if they will ever have you know i sit that"
+}

@@ -1,0 +1,431 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.42,
+      "start": 0.0,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.6,
+      "start": 0.51,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.75,
+      "start": 0.6,
+      "word": "mean"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.93,
+      "start": 0.75,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.2,
+      "start": 0.93,
+      "word": "either"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.32,
+      "start": 1.2,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.5,
+      "start": 1.32,
+      "word": "really"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.712066,
+      "start": 1.5,
+      "word": "cool"
+    },
+    {
+      "conf": 0.807307,
+      "end": 1.83,
+      "start": 1.712066,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.07,
+      "start": 1.83,
+      "word": "they"
+    },
+    {
+      "conf": 0.583784,
+      "end": 2.43,
+      "start": 2.07,
+      "word": "introduce"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.61,
+      "start": 2.442486,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.91,
+      "start": 2.61,
+      "word": "element"
+    },
+    {
+      "conf": 0.755691,
+      "end": 3.12,
+      "start": 2.91,
+      "word": "into"
+    },
+    {
+      "conf": 0.906981,
+      "end": 3.209364,
+      "start": 3.12,
+      "word": "it"
+    },
+    {
+      "conf": 0.59378,
+      "end": 3.78,
+      "start": 3.209364,
+      "word": "to"
+    },
+    {
+      "conf": 0.942277,
+      "end": 4.952591,
+      "start": 4.68,
+      "word": "yeah"
+    },
+    {
+      "conf": 0.70837,
+      "end": 5.01,
+      "start": 4.952591,
+      "word": "i"
+    },
+    {
+      "conf": 0.70837,
+      "end": 5.19,
+      "start": 5.01,
+      "word": "mean"
+    },
+    {
+      "conf": 0.70837,
+      "end": 5.37,
+      "start": 5.19,
+      "word": "it's"
+    },
+    {
+      "conf": 0.724198,
+      "end": 5.458261,
+      "start": 5.37,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.79,
+      "start": 5.458261,
+      "word": "takes"
+    },
+    {
+      "conf": 0.785335,
+      "end": 5.94,
+      "start": 5.79,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.18,
+      "start": 5.94644,
+      "word": "takes"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.54,
+      "start": 6.21,
+      "word": "one"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.84,
+      "start": 6.54,
+      "word": "game"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.08,
+      "start": 6.84,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.322547,
+      "start": 7.08,
+      "word": "that"
+    },
+    {
+      "conf": 0.915123,
+      "end": 7.438186,
+      "start": 7.35,
+      "word": "to"
+    },
+    {
+      "conf": 0.515671,
+      "end": 7.575389,
+      "start": 7.438186,
+      "word": "make"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.68,
+      "start": 7.575389,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.92,
+      "start": 7.68,
+      "word": "go"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.16,
+      "start": 7.95,
+      "word": "oh"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.7,
+      "start": 8.16,
+      "word": "cheese"
+    },
+    {
+      "conf": 0.508822,
+      "end": 8.88,
+      "start": 8.7,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.15,
+      "start": 8.94,
+      "word": "this"
+    },
+    {
+      "conf": 0.577384,
+      "end": 9.87,
+      "start": 9.15,
+      "word": "experiences"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.17,
+      "start": 9.87,
+      "word": "doesn't"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.68,
+      "start": 10.17,
+      "word": "exist"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.8,
+      "start": 10.68,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.92,
+      "start": 10.8,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.31,
+      "start": 10.92,
+      "word": "medium"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.64,
+      "start": 11.31,
+      "word": "outside"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.73,
+      "start": 11.64,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.91,
+      "start": 11.73,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.24,
+      "start": 11.91,
+      "word": "this"
+    },
+    {
+      "conf": 0.63605,
+      "end": 12.420001,
+      "start": 12.240001,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.87,
+      "start": 12.72,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.99,
+      "start": 12.87,
+      "word": "know"
+    },
+    {
+      "conf": 0.746945,
+      "end": 13.26,
+      "start": 12.99,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.5,
+      "start": 13.26,
+      "word": "other"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.83,
+      "start": 13.5,
+      "word": "things"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.92,
+      "start": 13.83,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.01,
+      "start": 13.92,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.19,
+      "start": 14.01,
+      "word": "could"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.52,
+      "start": 14.19,
+      "word": "name"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.88,
+      "start": 14.55,
+      "word": "right"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.24,
+      "start": 15.09,
+      "word": "and"
+    },
+    {
+      "conf": 0.795889,
+      "end": 15.48,
+      "start": 15.24,
+      "word": "soda"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.81,
+      "start": 15.57,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.02,
+      "start": 15.81,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.5,
+      "start": 16.02,
+      "word": "especially"
+    },
+    {
+      "conf": 0.593324,
+      "end": 16.616067,
+      "start": 16.5,
+      "word": "with"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.86,
+      "start": 16.616067,
+      "word": "see"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.98,
+      "start": 16.86,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.16,
+      "start": 16.98,
+      "word": "at"
+    },
+    {
+      "conf": 0.731969,
+      "end": 17.73,
+      "start": 17.28,
+      "word": "home"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.9,
+      "start": 18.72,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.93,
+      "start": 18.9,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.5,
+      "start": 18.93,
+      "word": "game"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.98,
+      "start": 19.62,
+      "word": "that"
+    }
+  ],
+  "text": "that i mean it's either is really cool that they introduce that element into it to yeah i mean it's it takes a takes one game like that to make you go oh cheese that this experiences doesn't exist in this medium outside of like this and you know to other things that i could name right and soda and and especially with see it at home in a game that"
+}

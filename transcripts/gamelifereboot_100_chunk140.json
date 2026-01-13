@@ -1,0 +1,239 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 2.25,
+      "start": 2.19,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.4,
+      "start": 2.25,
+      "word": "mean"
+    },
+    {
+      "conf": 0.825898,
+      "end": 2.46,
+      "start": 2.4,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.7,
+      "start": 2.465223,
+      "word": "gotta"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.82,
+      "start": 2.7,
+      "word": "go"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.94,
+      "start": 2.82,
+      "word": "with"
+    },
+    {
+      "conf": 0.591638,
+      "end": 3.148969,
+      "start": 2.94,
+      "word": "no"
+    },
+    {
+      "conf": 0.687394,
+      "end": 3.48,
+      "start": 3.15,
+      "word": "english"
+    },
+    {
+      "conf": 0.997155,
+      "end": 3.66,
+      "start": 3.48,
+      "word": "out"
+    },
+    {
+      "conf": 0.495786,
+      "end": 3.81,
+      "start": 3.66,
+      "word": "here"
+    },
+    {
+      "conf": 0.482842,
+      "end": 4.088513,
+      "start": 3.92232,
+      "word": "yet"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.621963,
+      "start": 4.39215,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.83,
+      "start": 4.621963,
+      "word": "mean"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.3,
+      "start": 6.15,
+      "word": "he"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.72,
+      "start": 6.3,
+      "word": "almost"
+    },
+    {
+      "conf": 0.543148,
+      "end": 7.71,
+      "start": 6.84,
+      "word": "singlehandedly"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.25,
+      "start": 7.71,
+      "word": "created"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.34,
+      "start": 8.25,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.73,
+      "start": 8.34,
+      "word": "arcade"
+    },
+    {
+      "conf": 0.52302,
+      "end": 9.21,
+      "start": 8.73,
+      "word": "research"
+    },
+    {
+      "conf": 0.662382,
+      "end": 10.65,
+      "start": 10.23,
+      "word": "and"
+    },
+    {
+      "conf": 0.662382,
+      "end": 12.263408,
+      "start": 11.79,
+      "word": "find"
+    },
+    {
+      "conf": 0.516847,
+      "end": 12.300001,
+      "start": 12.270001,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.48,
+      "start": 12.300001,
+      "word": "way"
+    },
+    {
+      "conf": 0.770708,
+      "end": 12.6,
+      "start": 12.48,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.034793,
+      "start": 12.63,
+      "word": "was"
+    },
+    {
+      "conf": 0.852705,
+      "end": 13.44,
+      "start": 13.128111,
+      "word": "be"
+    },
+    {
+      "conf": 0.852705,
+      "end": 13.5,
+      "start": 13.44,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.89,
+      "start": 13.53,
+      "word": "video"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.28,
+      "start": 13.89,
+      "word": "game"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.06,
+      "start": 14.85,
+      "word": "and"
+    },
+    {
+      "conf": 0.91263,
+      "end": 15.240001,
+      "start": 15.060001,
+      "word": "even"
+    },
+    {
+      "conf": 0.535333,
+      "end": 16.05,
+      "start": 15.48,
+      "word": "all"
+    },
+    {
+      "conf": 0.70186,
+      "end": 17.37,
+      "start": 16.98,
+      "word": "is"
+    },
+    {
+      "conf": 0.549015,
+      "end": 18.24,
+      "start": 18.09,
+      "word": "this"
+    },
+    {
+      "conf": 0.56637,
+      "end": 18.66,
+      "start": 18.24,
+      "word": "power"
+    },
+    {
+      "conf": 0.465147,
+      "end": 19.26,
+      "start": 19.11,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.38,
+      "start": 19.26,
+      "word": "his"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.95,
+      "start": 19.38,
+      "word": "disciples"
+    }
+  ],
+  "text": "i mean i gotta go with no english out here yet i mean he almost singlehandedly created the arcade research and find a way that was be a video game and even all is this power of his disciples"
+}

@@ -1,0 +1,365 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.63,
+      "start": 0.067937,
+      "word": "absolute"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.02,
+      "start": 0.66,
+      "word": "game"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.68,
+      "start": 1.02,
+      "word": "industry"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.37,
+      "start": 1.8,
+      "word": "legends"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.79,
+      "start": 2.37,
+      "word": "eugene"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.39,
+      "start": 2.79,
+      "word": "jarvis"
+    },
+    {
+      "conf": 0.903173,
+      "end": 3.66,
+      "start": 3.39,
+      "word": "us"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.752905,
+      "start": 3.662905,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.11,
+      "start": 3.752905,
+      "word": "creator"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.23,
+      "start": 4.11,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.56,
+      "start": 4.23,
+      "word": "robo"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.95,
+      "start": 4.56,
+      "word": "tron"
+    },
+    {
+      "conf": 0.901016,
+      "end": 5.04,
+      "start": 4.95,
+      "word": "and"
+    },
+    {
+      "conf": 0.613101,
+      "end": 5.424282,
+      "start": 5.04,
+      "word": "smashed"
+    },
+    {
+      "conf": 0.511424,
+      "end": 5.82,
+      "start": 5.424282,
+      "word": "tv"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.18,
+      "start": 6.0,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.3,
+      "start": 6.18,
+      "word": "he"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.45,
+      "start": 6.3,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.63,
+      "start": 6.45,
+      "word": "being"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.87,
+      "start": 6.63,
+      "word": "given"
+    },
+    {
+      "conf": 0.694947,
+      "end": 7.122131,
+      "start": 6.87,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.29,
+      "start": 7.122131,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.65,
+      "start": 7.29,
+      "word": "dice"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.37,
+      "start": 7.65,
+      "word": "pioneer"
+    },
+    {
+      "conf": 0.84518,
+      "end": 8.76,
+      "start": 8.37,
+      "word": "award"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.0,
+      "start": 8.76,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.3,
+      "start": 9.0,
+      "word": "night"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.6,
+      "start": 9.45,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.72,
+      "start": 9.6,
+      "word": "he"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.93,
+      "start": 9.72,
+      "word": "was"
+    },
+    {
+      "conf": 0.671081,
+      "end": 10.29,
+      "start": 9.93,
+      "word": "there"
+    },
+    {
+      "conf": 0.654054,
+      "end": 10.616945,
+      "start": 10.41,
+      "word": "out"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.8,
+      "start": 10.616945,
+      "word": "with"
+    },
+    {
+      "conf": 0.858073,
+      "end": 11.25,
+      "start": 10.8,
+      "word": "marked"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.43,
+      "start": 11.254258,
+      "word": "her"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.85,
+      "start": 11.43,
+      "word": "male"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.06,
+      "start": 11.88,
+      "word": "who"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.33,
+      "start": 12.06,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.93,
+      "start": 12.33,
+      "word": "absolutely"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.02,
+      "start": 12.93,
+      "word": "a"
+    },
+    {
+      "conf": 0.700307,
+      "end": 13.35,
+      "start": 13.02,
+      "word": "video"
+    },
+    {
+      "conf": 0.700307,
+      "end": 13.59,
+      "start": 13.35,
+      "word": "game"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.16,
+      "start": 13.59,
+      "word": "industry"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.09,
+      "start": 14.31,
+      "word": "mainstay"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.36,
+      "start": 15.12,
+      "word": "he's"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.42,
+      "start": 15.36,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.81,
+      "start": 15.42,
+      "word": "senior"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.14,
+      "start": 15.81,
+      "word": "creative"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.47,
+      "start": 16.14,
+      "word": "director"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.68,
+      "start": 16.47,
+      "word": "now"
+    },
+    {
+      "conf": 0.71812,
+      "end": 16.83,
+      "start": 16.68,
+      "word": "at"
+    },
+    {
+      "conf": 0.844828,
+      "end": 17.28,
+      "start": 16.86,
+      "word": "zynga"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.67,
+      "start": 17.46,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.73,
+      "start": 17.67,
+      "word": "he"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.12,
+      "start": 17.73,
+      "word": "started"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.69,
+      "start": 18.12,
+      "word": "programming"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.02,
+      "start": 18.69,
+      "word": "atari"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.32,
+      "start": 19.02,
+      "word": "twenty"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.56,
+      "start": 19.32,
+      "word": "six"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.92,
+      "start": 19.56,
+      "word": "hundred"
+    }
+  ],
+  "text": "absolute game industry legends eugene jarvis us the creator of robo tron and smashed tv and he was being given that the dice pioneer award that night and he was there out with marked her male who was absolutely a video game industry mainstay he's a senior creative director now at zynga but he started programming atari twenty six hundred"
+}

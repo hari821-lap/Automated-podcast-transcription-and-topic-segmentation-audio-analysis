@@ -1,0 +1,461 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.33,
+      "start": 0.03,
+      "word": "level"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.48,
+      "start": 0.33,
+      "word": "up"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.69,
+      "start": 0.48,
+      "word": "enough"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.9,
+      "start": 0.69,
+      "word": "within"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.99,
+      "start": 0.9,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.41,
+      "start": 0.99,
+      "word": "classes"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.5,
+      "start": 1.41,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.65,
+      "start": 1.5,
+      "word": "play"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.8,
+      "start": 1.65,
+      "word": "with"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.22,
+      "start": 1.8,
+      "word": "scope"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.37,
+      "start": 2.22,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.46,
+      "start": 2.37,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.73,
+      "start": 2.46,
+      "word": "played"
+    },
+    {
+      "conf": 0.818027,
+      "end": 3.06,
+      "start": 2.76,
+      "word": "iron"
+    },
+    {
+      "conf": 0.818027,
+      "end": 3.45,
+      "start": 3.06,
+      "word": "sights"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.05,
+      "start": 3.63,
+      "word": "only"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.56,
+      "start": 4.05,
+      "word": "essentially"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.71,
+      "start": 4.56,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.8,
+      "start": 4.71,
+      "word": "all"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.89,
+      "start": 4.8,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.25,
+      "start": 4.89,
+      "word": "weapons"
+    },
+    {
+      "conf": 0.754323,
+      "end": 5.330154,
+      "start": 5.25,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.43,
+      "start": 5.330154,
+      "word": "are"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.58,
+      "start": 5.43,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.73,
+      "start": 5.58,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.79,
+      "start": 5.73,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.03,
+      "start": 5.79,
+      "word": "can't"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.21,
+      "start": 6.03,
+      "word": "really"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.48,
+      "start": 6.21,
+      "word": "speak"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.57,
+      "start": 6.48,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.66,
+      "start": 6.57,
+      "word": "the"
+    },
+    {
+      "conf": 0.723859,
+      "end": 7.23,
+      "start": 6.66,
+      "word": "modifications"
+    },
+    {
+      "conf": 0.599018,
+      "end": 7.28686,
+      "start": 7.23,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.38,
+      "start": 7.28686,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.83,
+      "start": 7.38,
+      "word": "weapons"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.12,
+      "start": 8.79,
+      "word": "which"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.6,
+      "start": 9.18,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.02,
+      "start": 9.69,
+      "word": "always"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.05,
+      "start": 10.02,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.23,
+      "start": 10.05,
+      "word": "big"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.44,
+      "start": 10.23,
+      "word": "draw"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.53,
+      "start": 10.44,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.83,
+      "start": 10.53,
+      "word": "shooter"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.98,
+      "start": 10.83,
+      "word": "but"
+    },
+    {
+      "conf": 0.506453,
+      "end": 11.180982,
+      "start": 10.98,
+      "word": "there's"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.31,
+      "start": 11.180982,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.43,
+      "start": 11.31,
+      "word": "many"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.61,
+      "start": 11.43,
+      "word": "other"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.053318,
+      "start": 11.61,
+      "word": "elements"
+    },
+    {
+      "conf": 0.777252,
+      "end": 12.118375,
+      "start": 12.06,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.3,
+      "start": 12.118375,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.6,
+      "start": 12.3,
+      "word": "game"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.75,
+      "start": 12.6,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.84,
+      "start": 12.75,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.11,
+      "start": 12.84,
+      "word": "don't"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.38,
+      "start": 13.11,
+      "word": "think"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.62,
+      "start": 13.38,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.98,
+      "start": 13.68,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.1,
+      "start": 13.98,
+      "word": "will"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.34,
+      "start": 14.1,
+      "word": "be"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.49,
+      "start": 14.34,
+      "word": "as"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.73,
+      "start": 14.49,
+      "word": "much"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.88,
+      "start": 14.73,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.06,
+      "start": 14.88,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.78,
+      "start": 15.24,
+      "word": "compelling"
+    },
+    {
+      "conf": 0.646332,
+      "end": 15.99,
+      "start": 15.78,
+      "word": "yea"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.08,
+      "start": 15.99,
+      "word": "or"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.41,
+      "start": 16.08,
+      "word": "nay"
+    },
+    {
+      "conf": 0.544979,
+      "end": 16.95,
+      "start": 16.71,
+      "word": "i'm"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.43,
+      "start": 16.95,
+      "word": "certainly"
+    },
+    {
+      "conf": 0.704975,
+      "end": 17.79,
+      "start": 17.43,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.001492,
+      "start": 17.810687,
+      "word": "the"
+    },
+    {
+      "conf": 0.485734,
+      "end": 18.27,
+      "start": 18.09,
+      "word": "kind"
+    },
+    {
+      "conf": 0.704975,
+      "end": 18.33,
+      "start": 18.27,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.11,
+      "start": 18.36,
+      "word": "acrobatic"
+    },
+    {
+      "conf": 0.432215,
+      "end": 19.98,
+      "start": 19.77,
+      "word": "soup"
+    }
+  ],
+  "text": "level up enough within the classes to play with scope so i played iron sights only essentially for all the weapons that are you so i can't really speak to the modifications of the weapons which is always a big draw the shooter but there's so many other elements of this game that i don't think that that will be as much of a compelling yea or nay i'm certainly the the kind of acrobatic soup"
+}

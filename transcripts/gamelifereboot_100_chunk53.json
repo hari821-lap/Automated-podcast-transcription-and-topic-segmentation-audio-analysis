@@ -1,0 +1,383 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.36,
+      "start": 0.03,
+      "word": "style"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.45,
+      "start": 0.36,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.96,
+      "start": 0.45,
+      "word": "play"
+    },
+    {
+      "conf": 0.506696,
+      "end": 1.259323,
+      "start": 0.99,
+      "word": "un"
+    },
+    {
+      "conf": 0.67277,
+      "end": 1.35,
+      "start": 1.259323,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.59,
+      "start": 1.35,
+      "word": "most"
+    },
+    {
+      "conf": 0.904033,
+      "end": 1.74,
+      "start": 1.59,
+      "word": "other"
+    },
+    {
+      "conf": 0.904033,
+      "end": 2.34,
+      "start": 1.74,
+      "word": "franchises"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.55,
+      "start": 2.34,
+      "word": "which"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.64,
+      "start": 2.55,
+      "word": "i"
+    },
+    {
+      "conf": 0.910598,
+      "end": 3.0,
+      "start": 2.64,
+      "word": "enjoyed"
+    },
+    {
+      "conf": 0.544213,
+      "end": 3.42,
+      "start": 3.18,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.35,
+      "start": 4.17,
+      "word": "we'll"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.59,
+      "start": 4.35,
+      "word": "see"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.92,
+      "start": 4.59,
+      "word": "how"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.13,
+      "start": 4.92,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.79,
+      "start": 5.13,
+      "word": "realizes"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.88,
+      "start": 5.79,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.33,
+      "start": 5.88,
+      "word": "promise"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.45,
+      "start": 6.33,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.48,
+      "start": 6.45,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.72,
+      "start": 6.48,
+      "word": "game"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.93,
+      "start": 6.72,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.5,
+      "start": 6.93,
+      "word": "brink"
+    },
+    {
+      "conf": 0.316583,
+      "end": 8.625174,
+      "start": 8.46,
+      "word": "when"
+    },
+    {
+      "conf": 0.926341,
+      "end": 8.79,
+      "start": 8.625174,
+      "word": "which"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.42,
+      "start": 8.79,
+      "word": "purported"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.93,
+      "start": 9.42,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.68,
+      "start": 10.17,
+      "word": "meld"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.1,
+      "start": 10.68,
+      "word": "single"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.22,
+      "start": 11.1,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.03,
+      "start": 11.22,
+      "word": "multiplayer"
+    },
+    {
+      "conf": 0.666147,
+      "end": 13.05,
+      "start": 12.66,
+      "word": "ah"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.32,
+      "start": 13.14,
+      "word": "oh"
+    },
+    {
+      "conf": 0.802541,
+      "end": 13.476079,
+      "start": 13.32,
+      "word": "yeah"
+    },
+    {
+      "conf": 0.748213,
+      "end": 13.65,
+      "start": 13.476079,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.04,
+      "start": 13.65,
+      "word": "pains"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.16,
+      "start": 14.04,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.37,
+      "start": 14.16,
+      "word": "kind"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.46,
+      "start": 14.37,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.76,
+      "start": 14.46,
+      "word": "failed"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.285949,
+      "start": 14.76,
+      "word": "miserably"
+    },
+    {
+      "conf": 0.531644,
+      "end": 15.42,
+      "start": 15.300001,
+      "word": "i"
+    },
+    {
+      "conf": 0.507697,
+      "end": 15.6869,
+      "start": 15.45,
+      "word": "sure"
+    },
+    {
+      "conf": 0.419739,
+      "end": 15.81,
+      "start": 15.69,
+      "word": "did"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.96,
+      "start": 15.81,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.02,
+      "start": 15.96,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.23,
+      "start": 16.02,
+      "word": "think"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.5,
+      "start": 16.23,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.77,
+      "start": 16.56,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.89,
+      "start": 16.77,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.16,
+      "start": 16.89,
+      "word": "ironed"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.28,
+      "start": 17.16,
+      "word": "out"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.34,
+      "start": 17.28,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.49,
+      "start": 17.34,
+      "word": "lot"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.55,
+      "start": 17.49,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.7,
+      "start": 17.55,
+      "word": "those"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.03,
+      "start": 17.7,
+      "word": "kicks"
+    },
+    {
+      "conf": 0.326205,
+      "end": 18.78,
+      "start": 18.66,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.11,
+      "start": 18.78,
+      "word": "anybody"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.53,
+      "start": 19.11,
+      "word": "talk"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.65,
+      "start": 19.53,
+      "word": "on"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.92,
+      "start": 19.65,
+      "word": "micro"
+    }
+  ],
+  "text": "style of play un in most other franchises which i enjoyed and we'll see how it realizes the promise of a game like brink when which purported to meld single and multiplayer ah oh yeah and pains and kind of failed miserably i sure did but i think this this is ironed out a lot of those kicks that anybody talk on micro"
+}

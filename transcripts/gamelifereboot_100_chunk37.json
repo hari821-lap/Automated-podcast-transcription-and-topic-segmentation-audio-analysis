@@ -1,0 +1,431 @@
+{
+  "result": [
+    {
+      "conf": 0.631042,
+      "end": 0.3,
+      "start": 0.0,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.81,
+      "start": 0.54,
+      "word": "out"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.02,
+      "start": 0.84,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.14,
+      "start": 1.02,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.47,
+      "start": 1.14,
+      "word": "drop"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.8,
+      "start": 1.47,
+      "word": "ship"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.95,
+      "start": 1.8,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.13,
+      "start": 1.95,
+      "word": "then"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.31,
+      "start": 2.13,
+      "word": "you're"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.49,
+      "start": 2.31,
+      "word": "in"
+    },
+    {
+      "conf": 0.649067,
+      "end": 2.64,
+      "start": 2.49,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.82,
+      "start": 2.64,
+      "word": "then"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.24,
+      "start": 3.0,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.51,
+      "start": 3.24,
+      "word": "there's"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.84,
+      "start": 3.51,
+      "word": "like"
+    },
+    {
+      "conf": 0.592154,
+      "end": 4.06498,
+      "start": 3.87,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.29,
+      "start": 4.06498,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.1,
+      "start": 4.29,
+      "word": "compelling"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.55,
+      "start": 5.1,
+      "word": "reason"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.79,
+      "start": 5.55,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.3,
+      "start": 5.88,
+      "word": "why"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.48,
+      "start": 6.3,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.78,
+      "start": 6.48,
+      "word": "battle"
+    },
+    {
+      "conf": 0.531726,
+      "end": 6.898065,
+      "start": 6.78,
+      "word": "was"
+    },
+    {
+      "conf": 0.77265,
+      "end": 7.23,
+      "start": 6.898065,
+      "word": "beginning"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.32,
+      "start": 7.23,
+      "word": "out"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.38,
+      "start": 7.32,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.8,
+      "start": 7.38,
+      "word": "nowhere"
+    },
+    {
+      "conf": 0.553826,
+      "end": 8.07,
+      "start": 7.8,
+      "word": "fisher"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.13,
+      "start": 8.07,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.67,
+      "start": 8.13,
+      "word": "soldier"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.12,
+      "start": 8.94,
+      "word": "you're"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.42,
+      "start": 9.12,
+      "word": "going"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.51,
+      "start": 9.42,
+      "word": "out"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.578699,
+      "start": 9.51,
+      "word": "of"
+    },
+    {
+      "conf": 0.38744,
+      "end": 9.66,
+      "start": 9.578699,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.9,
+      "start": 9.678558,
+      "word": "that's"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.05,
+      "start": 9.9,
+      "word": "why"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.17,
+      "start": 10.05,
+      "word": "you're"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.8,
+      "start": 10.17,
+      "word": "starting"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.98,
+      "start": 10.8,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.31,
+      "start": 10.98,
+      "word": "battle"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.73,
+      "start": 11.31,
+      "word": "now"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.63,
+      "start": 12.09,
+      "word": "everything's"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.78,
+      "start": 12.63,
+      "word": "kind"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.84,
+      "start": 12.78,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.14,
+      "start": 12.84,
+      "word": "going"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.29,
+      "start": 13.14,
+      "word": "on"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.59,
+      "start": 13.29,
+      "word": "around"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.83,
+      "start": 13.59,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.04,
+      "start": 13.89,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.31,
+      "start": 14.04,
+      "word": "fight"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.4,
+      "start": 14.31,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.76,
+      "start": 14.4,
+      "word": "battle"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.88,
+      "start": 14.76,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.03,
+      "start": 14.88,
+      "word": "then"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.09,
+      "start": 15.03,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.33,
+      "start": 15.09,
+      "word": "doesn't"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.54,
+      "start": 15.33,
+      "word": "just"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.99,
+      "start": 15.54,
+      "word": "abruptly"
+    },
+    {
+      "conf": 0.715923,
+      "end": 16.352648,
+      "start": 16.02,
+      "word": "end"
+    },
+    {
+      "conf": 0.523148,
+      "end": 16.467114,
+      "start": 16.352648,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.92,
+      "start": 16.467114,
+      "word": "says"
+    },
+    {
+      "conf": 0.499781,
+      "end": 17.94,
+      "start": 17.58,
+      "word": "were"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.12,
+      "start": 17.97,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.42,
+      "start": 18.12,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.63,
+      "start": 18.48,
+      "word": "we're"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.87,
+      "start": 18.63,
+      "word": "getting"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.41,
+      "start": 18.87,
+      "word": "killed"
+    },
+    {
+      "conf": 0.938867,
+      "end": 19.892631,
+      "start": 19.53,
+      "word": "drops"
+    },
+    {
+      "conf": 0.514805,
+      "end": 19.98,
+      "start": 19.892631,
+      "word": "you"
+    }
+  ],
+  "text": "the out of the drop ship and then you're in and then so there's like a a compelling reason for why this battle was beginning out of nowhere fisher a soldier you're going out of that that's why you're starting this battle now everything's kind of going on around you you fight the battle and then it doesn't just abruptly end it says were you know we're getting killed drops you"
+}

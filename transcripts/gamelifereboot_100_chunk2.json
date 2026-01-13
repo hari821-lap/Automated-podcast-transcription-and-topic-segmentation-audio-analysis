@@ -1,0 +1,335 @@
+{
+  "result": [
+    {
+      "conf": 0.737719,
+      "end": 0.204471,
+      "start": 0.0,
+      "word": "the"
+    },
+    {
+      "conf": 0.701624,
+      "end": 0.48,
+      "start": 0.24,
+      "word": "thing"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.54,
+      "start": 0.48,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.87,
+      "start": 0.54,
+      "word": "liked"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.14,
+      "start": 0.87,
+      "word": "if"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.95,
+      "start": 1.26,
+      "word": "i'm"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.174476,
+      "start": 2.4,
+      "word": "and"
+    },
+    {
+      "conf": 0.51591,
+      "end": 3.42,
+      "start": 3.3,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.72,
+      "start": 3.42,
+      "word": "yes"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.93,
+      "start": 3.72,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.14,
+      "start": 3.93,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.83,
+      "start": 4.44,
+      "word": "your"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.16,
+      "start": 4.86,
+      "word": "game"
+    },
+    {
+      "conf": 0.380709,
+      "end": 5.4,
+      "start": 5.16,
+      "word": "live"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.18,
+      "start": 5.4,
+      "word": "podcast"
+    },
+    {
+      "conf": 0.878028,
+      "end": 6.72,
+      "start": 6.422335,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.96,
+      "start": 6.727318,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.44,
+      "start": 6.96,
+      "word": "particular"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.74,
+      "start": 7.44,
+      "word": "day"
+    },
+    {
+      "conf": 0.850994,
+      "end": 7.83,
+      "start": 7.74,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.98,
+      "start": 7.83,
+      "word": "that"
+    },
+    {
+      "conf": 0.842105,
+      "end": 8.37,
+      "start": 7.98,
+      "word": "curricular"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.79,
+      "start": 8.37,
+      "word": "month"
+    },
+    {
+      "conf": 0.340392,
+      "end": 9.57,
+      "start": 9.18,
+      "word": "arm"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.17,
+      "start": 9.6,
+      "word": "hello"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.65,
+      "start": 10.29,
+      "word": "hello"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.28,
+      "start": 10.65,
+      "word": "everyone"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.09,
+      "start": 11.52,
+      "word": "i'm"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.51,
+      "start": 12.24,
+      "word": "we"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.69,
+      "start": 12.54,
+      "word": "we"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.96,
+      "start": 12.69,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.08,
+      "start": 12.96,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.2,
+      "start": 13.08,
+      "word": "we"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.32,
+      "start": 13.2,
+      "word": "have"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.71,
+      "start": 13.32,
+      "word": "had"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.43,
+      "start": 14.13,
+      "word": "some"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.97,
+      "start": 14.43,
+      "word": "technical"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.36,
+      "start": 14.97,
+      "word": "issues"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.51,
+      "start": 15.36,
+      "word": "with"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.6,
+      "start": 15.51,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.23,
+      "start": 15.6,
+      "word": "podcast"
+    },
+    {
+      "conf": 0.828432,
+      "end": 16.35,
+      "start": 16.23,
+      "word": "and"
+    },
+    {
+      "conf": 0.714891,
+      "end": 16.53,
+      "start": 16.35,
+      "word": "three"
+    },
+    {
+      "conf": 0.886459,
+      "end": 16.83,
+      "start": 16.53,
+      "word": "vs"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.22,
+      "start": 16.83,
+      "word": "weeks"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.67,
+      "start": 17.22,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.88,
+      "start": 17.73,
+      "word": "we"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.15,
+      "start": 17.88,
+      "word": "hope"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.42,
+      "start": 18.15,
+      "word": "that"
+    },
+    {
+      "conf": 0.656892,
+      "end": 19.29,
+      "start": 19.11,
+      "word": "as"
+    },
+    {
+      "conf": 0.656892,
+      "end": 19.38,
+      "start": 19.29,
+      "word": "you"
+    },
+    {
+      "conf": 0.656892,
+      "end": 19.5,
+      "start": 19.38,
+      "word": "were"
+    },
+    {
+      "conf": 0.656892,
+      "end": 19.83,
+      "start": 19.5,
+      "word": "listening"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.92,
+      "start": 19.83,
+      "word": "to"
+    },
+    {
+      "conf": 0.599562,
+      "end": 19.98,
+      "start": 19.92,
+      "word": "the"
+    }
+  ],
+  "text": "the thing i liked if i'm and that yes this is your game live podcast for that particular day and that curricular month arm hello hello everyone i'm we we know that we have had some technical issues with the podcast and three vs weeks and we hope that as you were listening to the"
+}

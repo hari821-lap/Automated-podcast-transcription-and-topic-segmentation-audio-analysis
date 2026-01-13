@@ -1,0 +1,425 @@
+{
+  "result": [
+    {
+      "conf": 0.85205,
+      "end": 0.15,
+      "start": 0.0,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.63,
+      "start": 0.175561,
+      "word": "recommend"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.14,
+      "start": 0.63,
+      "word": "altering"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.44,
+      "start": 1.14,
+      "word": "your"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.62,
+      "start": 1.47,
+      "word": "your"
+    },
+    {
+      "conf": 0.618858,
+      "end": 1.89,
+      "start": 1.62,
+      "word": "my"
+    },
+    {
+      "conf": 0.618858,
+      "end": 2.01,
+      "start": 1.89,
+      "word": "you"
+    },
+    {
+      "conf": 0.618858,
+      "end": 2.16,
+      "start": 2.01,
+      "word": "know"
+    },
+    {
+      "conf": 0.684871,
+      "end": 2.61,
+      "start": 2.16,
+      "word": "everything"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.79,
+      "start": 2.61,
+      "word": "that's"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.97,
+      "start": 2.79,
+      "word": "what"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.18,
+      "start": 2.97,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.6,
+      "start": 3.18,
+      "word": "sounds"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.72,
+      "start": 3.6,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.02,
+      "start": 3.75,
+      "word": "yeah"
+    },
+    {
+      "conf": 0.739196,
+      "end": 4.44,
+      "start": 4.02,
+      "word": "no"
+    },
+    {
+      "conf": 0.661169,
+      "end": 4.83,
+      "start": 4.47,
+      "word": "noted"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.01,
+      "start": 4.832655,
+      "word": "i'm"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.16,
+      "start": 5.01,
+      "word": "not"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.37,
+      "start": 5.16,
+      "word": "saying"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.43,
+      "start": 5.37,
+      "word": "it"
+    },
+    {
+      "conf": 0.911185,
+      "end": 5.67,
+      "start": 5.43,
+      "word": "sounds"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.79,
+      "start": 5.67,
+      "word": "like"
+    },
+    {
+      "conf": 0.560311,
+      "end": 6.068118,
+      "start": 5.79,
+      "word": "someone"
+    },
+    {
+      "conf": 0.750161,
+      "end": 6.45,
+      "start": 6.15,
+      "word": "drops"
+    },
+    {
+      "conf": 0.519704,
+      "end": 6.48,
+      "start": 6.45,
+      "word": "a"
+    },
+    {
+      "conf": 0.473819,
+      "end": 6.87,
+      "start": 6.48,
+      "word": "massive"
+    },
+    {
+      "conf": 0.746108,
+      "end": 7.11,
+      "start": 6.87,
+      "word": "before"
+    },
+    {
+      "conf": 0.707413,
+      "end": 7.352951,
+      "start": 7.171475,
+      "word": "you"
+    },
+    {
+      "conf": 0.707413,
+      "end": 8.1,
+      "start": 7.71,
+      "word": "guys"
+    },
+    {
+      "conf": 0.834874,
+      "end": 8.375428,
+      "start": 8.13,
+      "word": "ice"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.575323,
+      "start": 8.375428,
+      "word": "ice"
+    },
+    {
+      "conf": 0.627913,
+      "end": 8.7,
+      "start": 8.61,
+      "word": "and"
+    },
+    {
+      "conf": 0.834874,
+      "end": 9.0,
+      "start": 8.79,
+      "word": "really"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.33,
+      "start": 9.0,
+      "word": "not"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.69,
+      "start": 9.33,
+      "word": "recommend"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.87,
+      "start": 9.69,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.38,
+      "start": 10.2,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.92,
+      "start": 10.38,
+      "word": "he"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.79,
+      "start": 11.22,
+      "word": "informs"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.06,
+      "start": 11.79,
+      "word": "all"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.12,
+      "start": 12.06,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.24,
+      "start": 12.12,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.36,
+      "start": 12.24,
+      "word": "that"
+    },
+    {
+      "conf": 0.374262,
+      "end": 12.54,
+      "start": 12.36,
+      "word": "your"
+    },
+    {
+      "conf": 0.457708,
+      "end": 12.69,
+      "start": 12.54,
+      "word": "new"
+    },
+    {
+      "conf": 0.770638,
+      "end": 12.99,
+      "start": 12.693023,
+      "word": "trapped"
+    },
+    {
+      "conf": 0.932049,
+      "end": 13.08,
+      "start": 12.991573,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.14,
+      "start": 13.08,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.26,
+      "start": 13.14,
+      "word": "high"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.59,
+      "start": 13.26,
+      "word": "school"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.71,
+      "start": 13.59,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.77,
+      "start": 13.71,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.98,
+      "start": 13.77,
+      "word": "rest"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.13,
+      "start": 13.989083,
+      "word": "your"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.55,
+      "start": 14.13,
+      "word": "life"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.39,
+      "start": 15.09,
+      "word": "not"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.66,
+      "start": 15.39,
+      "word": "only"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.17,
+      "start": 15.66,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.47,
+      "start": 16.2,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.71,
+      "start": 16.47,
+      "word": "there's"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.98,
+      "start": 16.71,
+      "word": "another"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.19,
+      "start": 16.98,
+      "word": "way"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.61,
+      "start": 17.19,
+      "word": "out"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.85,
+      "start": 17.67,
+      "word": "and"
+    },
+    {
+      "conf": 0.896519,
+      "end": 18.09,
+      "start": 17.85,
+      "word": "that's"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.48,
+      "start": 18.12,
+      "word": "if"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.93,
+      "start": 18.66,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.2,
+      "start": 18.93,
+      "word": "kill"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.71,
+      "start": 19.2,
+      "word": "somebody"
+    }
+  ],
+  "text": "the recommend altering your your my you know everything that's what that sounds like yeah no noted i'm not saying it sounds like someone drops a massive before you guys ice ice and really not recommend that so he informs all of you that your new trapped in the high school for the rest your life not only that but there's another way out and that's if you kill somebody"
+}

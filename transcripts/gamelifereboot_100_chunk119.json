@@ -1,0 +1,419 @@
+{
+  "result": [
+    {
+      "conf": 0.838736,
+      "end": 0.12,
+      "start": 0.0,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.15,
+      "start": 0.12,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.33,
+      "start": 0.15,
+      "word": "little"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.48,
+      "start": 0.33,
+      "word": "bit"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.54,
+      "start": 0.48,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.05,
+      "start": 0.54,
+      "word": "bias"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.47,
+      "start": 1.05,
+      "word": "going"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.8,
+      "start": 1.5,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.37,
+      "start": 1.8,
+      "word": "basically"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.67,
+      "start": 2.37,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.24,
+      "start": 3.03,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.48,
+      "start": 3.24,
+      "word": "yeah"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.57,
+      "start": 3.48,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.87,
+      "start": 3.57,
+      "word": "mean"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.14,
+      "start": 4.02,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.41,
+      "start": 4.14,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.56,
+      "start": 4.44,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.92,
+      "start": 4.56,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.64,
+      "start": 5.31,
+      "word": "yeah"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.82,
+      "start": 5.67,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.97,
+      "start": 5.82,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.09,
+      "start": 5.97,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.36,
+      "start": 6.09,
+      "word": "one"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.48,
+      "start": 6.36,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.6,
+      "start": 6.48,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.69,
+      "start": 6.6,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.99,
+      "start": 6.69,
+      "word": "one"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.23,
+      "start": 6.99,
+      "word": "sort"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.44,
+      "start": 7.23,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.56,
+      "start": 7.47,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.71,
+      "start": 7.56,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.92,
+      "start": 7.71,
+      "word": "kind"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.98,
+      "start": 7.92,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.37,
+      "start": 7.98,
+      "word": "niggling"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.73,
+      "start": 8.37,
+      "word": "complaint"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.85,
+      "start": 8.73,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.91,
+      "start": 8.85,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.24,
+      "start": 8.91,
+      "word": "still"
+    },
+    {
+      "conf": 0.695019,
+      "end": 9.39,
+      "start": 9.24,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.45,
+      "start": 9.39,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.69,
+      "start": 9.45,
+      "word": "still"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.87,
+      "start": 9.69,
+      "word": "had"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.14,
+      "start": 9.87,
+      "word": "about"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.23,
+      "start": 10.14,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.34,
+      "start": 11.13,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.91,
+      "start": 11.34,
+      "word": "otherwise"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.3,
+      "start": 11.97,
+      "word": "again"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.48,
+      "start": 12.3,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.81,
+      "start": 12.48,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.05,
+      "start": 12.84,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.38,
+      "start": 13.05,
+      "word": "really"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.62,
+      "start": 13.38,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.83,
+      "start": 13.62,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.37,
+      "start": 13.83,
+      "word": "crazy"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.53,
+      "start": 16.26,
+      "word": "what"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.68,
+      "start": 16.53,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.22,
+      "start": 16.68,
+      "word": "decided"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.34,
+      "start": 17.22,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.55,
+      "start": 17.34,
+      "word": "do"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.73,
+      "start": 17.55,
+      "word": "with"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.85,
+      "start": 17.73,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.06,
+      "start": 17.85,
+      "word": "piece"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.15,
+      "start": 18.06,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.63,
+      "start": 18.15,
+      "word": "dlc"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.72,
+      "start": 18.63,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.87,
+      "start": 18.72,
+      "word": "how"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.08,
+      "start": 18.87,
+      "word": "well"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.2,
+      "start": 19.08,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.5,
+      "start": 19.2,
+      "word": "did"
+    }
+  ],
+  "text": "the a little bit of bias going in basically but but yeah i mean it was it was yeah it was the one it was the one sort of you know kind of niggling complaint that i still that i still had about it but otherwise again it's it's it's really it's it's crazy what they decided to do with this piece of dlc and how well they did"
+}
