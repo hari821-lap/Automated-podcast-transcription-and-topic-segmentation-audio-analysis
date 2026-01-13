@@ -1,0 +1,401 @@
+{
+  "result": [
+    {
+      "conf": 0.480988,
+      "end": 0.14629,
+      "start": 0.0,
+      "word": "it"
+    },
+    {
+      "conf": 0.911105,
+      "end": 0.39,
+      "start": 0.14629,
+      "word": "takes"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.57,
+      "start": 0.39,
+      "word": "here"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.75,
+      "start": 0.57,
+      "word": "let's"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.93,
+      "start": 0.75,
+      "word": "talk"
+    },
+    {
+      "conf": 0.77886,
+      "end": 1.02,
+      "start": 0.93,
+      "word": "for"
+    },
+    {
+      "conf": 0.537938,
+      "end": 1.11,
+      "start": 1.02,
+      "word": "him"
+    },
+    {
+      "conf": 0.718183,
+      "end": 1.23,
+      "start": 1.11,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.47,
+      "start": 1.23,
+      "word": "about"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.59,
+      "start": 1.47,
+      "word": "the"
+    },
+    {
+      "conf": 0.74699,
+      "end": 1.74,
+      "start": 1.59,
+      "word": "u"
+    },
+    {
+      "conf": 0.74699,
+      "end": 1.89,
+      "start": 1.74,
+      "word": "s"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.43,
+      "start": 1.89,
+      "word": "internal"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.94,
+      "start": 2.43,
+      "word": "politics"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.21,
+      "start": 2.94,
+      "word": "because"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.36,
+      "start": 3.21,
+      "word": "they're"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.93,
+      "start": 3.36,
+      "word": "different"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.08,
+      "start": 3.93,
+      "word": "than"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.17,
+      "start": 4.08,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.35,
+      "start": 4.17,
+      "word": "would"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.41,
+      "start": 4.35,
+      "word": "have"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.65,
+      "start": 4.41,
+      "word": "been"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.86,
+      "start": 4.65,
+      "word": "just"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.92,
+      "start": 4.86,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.4,
+      "start": 4.92,
+      "word": "few"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.88,
+      "start": 5.43,
+      "word": "years"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.42,
+      "start": 5.88,
+      "word": "ago"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.02,
+      "start": 6.72,
+      "word": "by"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.14,
+      "start": 7.02,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.47,
+      "start": 7.14,
+      "word": "large"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.59,
+      "start": 7.47,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.16,
+      "start": 7.59,
+      "word": "republican"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.52,
+      "start": 8.16,
+      "word": "party"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.61,
+      "start": 8.52,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.76,
+      "start": 8.61,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.82,
+      "start": 8.76,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.12,
+      "start": 8.82,
+      "word": "long"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.45,
+      "start": 9.12,
+      "word": "track"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.75,
+      "start": 9.45,
+      "word": "record"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.81,
+      "start": 9.75,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.02,
+      "start": 9.81,
+      "word": "being"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.11,
+      "start": 10.02,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.8,
+      "start": 10.11,
+      "word": "hawkish"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.15,
+      "start": 11.55,
+      "word": "party"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.66,
+      "start": 12.42,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.81,
+      "start": 12.66,
+      "word": "would"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.35,
+      "start": 12.81,
+      "word": "be"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.13,
+      "start": 13.56,
+      "word": "incredibly"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.73,
+      "start": 14.13,
+      "word": "supportive"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.85,
+      "start": 14.73,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.09,
+      "start": 14.85,
+      "word": "any"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.39,
+      "start": 15.09,
+      "word": "sort"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.51,
+      "start": 15.39,
+      "word": "of"
+    },
+    {
+      "conf": 0.617363,
+      "end": 15.87,
+      "start": 15.51,
+      "word": "efforts"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.02,
+      "start": 15.881479,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.41,
+      "start": 16.02,
+      "word": "bolster"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.89,
+      "start": 16.41,
+      "word": "ukraine"
+    },
+    {
+      "conf": 0.834774,
+      "end": 17.263282,
+      "start": 16.89,
+      "word": "deter"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.79,
+      "start": 17.28,
+      "word": "russian"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.24,
+      "start": 17.82,
+      "word": "attacks"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.33,
+      "start": 18.24,
+      "word": "on"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.48,
+      "start": 18.33,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.99,
+      "start": 18.48,
+      "word": "country"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.62,
+      "start": 19.41,
+      "word": "that's"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.71,
+      "start": 19.62,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.98,
+      "start": 19.71,
+      "word": "case"
+    }
+  ],
+  "text": "it takes here let's talk for him in about the u s internal politics because they're different than they would have been just a few years ago by and large the republican party is that a long track record of being a hawkish party that would be incredibly supportive of any sort of efforts to bolster ukraine deter russian attacks on that country that's the case"
+}

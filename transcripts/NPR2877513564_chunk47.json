@@ -1,0 +1,281 @@
+{
+  "result": [
+    {
+      "conf": 0.769141,
+      "end": 0.15,
+      "start": 0.0,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.36,
+      "start": 0.15,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.72,
+      "start": 0.36,
+      "word": "today"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.08,
+      "start": 0.72,
+      "word": "charles"
+    },
+    {
+      "conf": 0.339833,
+      "end": 1.41,
+      "start": 1.08,
+      "word": "mains"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.65,
+      "start": 1.41,
+      "word": "thanks"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.74,
+      "start": 1.65,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.98,
+      "start": 1.74,
+      "word": "coming"
+    },
+    {
+      "conf": 0.404751,
+      "end": 2.04,
+      "start": 1.98,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.31,
+      "start": 2.057857,
+      "word": "talk"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.49,
+      "start": 2.31,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.73,
+      "start": 2.49,
+      "word": "us"
+    },
+    {
+      "conf": 0.604115,
+      "end": 3.06,
+      "start": 2.94,
+      "word": "have"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.19918,
+      "start": 3.121282,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.36,
+      "start": 3.19918,
+      "word": "do"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.51,
+      "start": 3.36,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.08,
+      "start": 3.96,
+      "word": "i'm"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.26,
+      "start": 4.08,
+      "word": "scared"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.44,
+      "start": 4.29,
+      "word": "that"
+    },
+    {
+      "conf": 0.767039,
+      "end": 4.68,
+      "start": 4.44,
+      "word": "throw"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.86,
+      "start": 4.71,
+      "word": "i"
+    },
+    {
+      "conf": 0.54432,
+      "end": 5.07,
+      "start": 4.86,
+      "word": "cover"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.16,
+      "start": 5.078749,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.34,
+      "start": 5.16,
+      "word": "white"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.61,
+      "start": 5.34,
+      "word": "house"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.27,
+      "start": 6.12,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.48,
+      "start": 6.27,
+      "word": "i'm"
+    },
+    {
+      "conf": 0.643744,
+      "end": 6.63,
+      "start": 6.48,
+      "word": "our"
+    },
+    {
+      "conf": 0.780973,
+      "end": 7.05,
+      "start": 6.63,
+      "word": "alliance"
+    },
+    {
+      "conf": 0.780973,
+      "end": 7.2,
+      "start": 7.05,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.68,
+      "start": 7.23,
+      "word": "national"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.1,
+      "start": 7.68,
+      "word": "political"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.7,
+      "start": 8.1,
+      "word": "correspondent"
+    },
+    {
+      "conf": 0.62761,
+      "end": 9.09,
+      "start": 8.94,
+      "word": "will"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.33,
+      "start": 9.09,
+      "word": "talk"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.436363,
+      "start": 9.33,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.69,
+      "start": 9.463637,
+      "word": "again"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.23,
+      "start": 9.69,
+      "word": "tomorrow"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.56,
+      "start": 10.32,
+      "word": "thank"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.65,
+      "start": 10.56,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.74,
+      "start": 10.65,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.13,
+      "start": 10.74,
+      "word": "listening"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.19,
+      "start": 11.13,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.31,
+      "start": 11.19,
+      "word": "the"
+    },
+    {
+      "conf": 0.839522,
+      "end": 11.58,
+      "start": 11.31,
+      "word": "npr"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.0,
+      "start": 11.58,
+      "word": "politics"
+    }
+  ],
+  "text": "it for today charles mains thanks for coming to talk to us have to do it i'm scared that throw i cover the white house and i'm our alliance and national political correspondent will talk to again tomorrow thank you for listening to the npr politics"
+}

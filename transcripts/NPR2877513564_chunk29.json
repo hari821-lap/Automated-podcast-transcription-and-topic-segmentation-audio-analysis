@@ -1,0 +1,323 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.18,
+      "start": 0.0,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.39,
+      "start": 0.18,
+      "word": "lot"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.48,
+      "start": 0.39,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.11,
+      "start": 0.48,
+      "word": "republican"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.19,
+      "start": 1.11,
+      "word": "lawmakers"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.91,
+      "start": 2.79,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.03,
+      "start": 2.91,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.21,
+      "start": 3.03,
+      "word": "really"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.45,
+      "start": 3.21,
+      "word": "not"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.54,
+      "start": 3.45,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.96,
+      "start": 3.54,
+      "word": "case"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.11,
+      "start": 3.96,
+      "word": "with"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.35,
+      "start": 4.11,
+      "word": "big"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.83,
+      "start": 4.35,
+      "word": "chunks"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.22,
+      "start": 4.89,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.43,
+      "start": 5.25,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.64,
+      "start": 5.43,
+      "word": "kind"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.76,
+      "start": 5.64,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.85,
+      "start": 5.76,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.3,
+      "start": 5.85,
+      "word": "party"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.48,
+      "start": 6.3,
+      "word": "as"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.57,
+      "start": 6.48,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.08,
+      "start": 6.57,
+      "word": "whole"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.56,
+      "start": 7.11,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.92,
+      "start": 7.56,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.06,
+      "start": 8.46,
+      "word": "activist"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.39,
+      "start": 9.06,
+      "word": "type"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.75,
+      "start": 9.566138,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.11,
+      "start": 9.75,
+      "word": "loud"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.59,
+      "start": 10.11,
+      "word": "voices"
+    },
+    {
+      "conf": 0.782043,
+      "end": 10.68,
+      "start": 10.59,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.86,
+      "start": 10.68,
+      "word": "right"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.01,
+      "start": 10.86,
+      "word": "wing"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.49,
+      "start": 11.01,
+      "word": "politics"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.67,
+      "start": 11.49,
+      "word": "right"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.94,
+      "start": 11.67,
+      "word": "now"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.3,
+      "start": 12.09,
+      "word": "what's"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.51,
+      "start": 12.3,
+      "word": "going"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.66,
+      "start": 12.51,
+      "word": "on"
+    },
+    {
+      "conf": 0.597197,
+      "end": 12.93,
+      "start": 12.66,
+      "word": "there"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.74,
+      "start": 13.5,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.86,
+      "start": 13.74,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.01,
+      "start": 13.86,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.88,
+      "start": 14.01,
+      "word": "lasting"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.78,
+      "start": 15.27,
+      "word": "effect"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.9,
+      "start": 15.78,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.44,
+      "start": 15.9,
+      "word": "trump"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.31,
+      "start": 16.86,
+      "word": "trump"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.73,
+      "start": 17.31,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.88,
+      "start": 17.76,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.96,
+      "start": 17.88,
+      "word": "remarkably"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.59,
+      "start": 18.96,
+      "word": "pro"
+    },
+    {
+      "conf": 0.437938,
+      "end": 19.98,
+      "start": 19.59,
+      "word": "pool"
+    }
+  ],
+  "text": "the lot of republican lawmakers but it's really not the case with big chunks of of kind of the party as a whole and the activist type the loud voices and right wing politics right now what's going on there this is the lasting effect of trump trump was a remarkably pro pool"
+}

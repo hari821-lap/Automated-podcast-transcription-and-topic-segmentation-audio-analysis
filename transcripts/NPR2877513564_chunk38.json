@@ -1,0 +1,431 @@
+{
+  "result": [
+    {
+      "conf": 0.639921,
+      "end": 0.39,
+      "start": 0.06,
+      "word": "crane"
+    },
+    {
+      "conf": 0.639921,
+      "end": 0.66,
+      "start": 0.39,
+      "word": "into"
+    },
+    {
+      "conf": 0.738934,
+      "end": 0.93,
+      "start": 0.66,
+      "word": "wanted"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.05,
+      "start": 0.937832,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.35,
+      "start": 1.05,
+      "word": "join"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.74,
+      "start": 1.35,
+      "word": "nato"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.89,
+      "start": 1.74,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.04,
+      "start": 1.89,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.25,
+      "start": 2.04,
+      "word": "course"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.433299,
+      "start": 2.25,
+      "word": "now"
+    },
+    {
+      "conf": 0.657521,
+      "end": 2.52,
+      "start": 2.433299,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.09,
+      "start": 2.544734,
+      "word": "majority"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.05,
+      "start": 3.69,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.32,
+      "start": 4.05,
+      "word": "charles"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.56,
+      "start": 4.32,
+      "word": "last"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.95,
+      "start": 4.56,
+      "word": "question"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.1,
+      "start": 4.95,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.55,
+      "start": 5.1,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.15,
+      "start": 5.91,
+      "word": "there's"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.3,
+      "start": 6.15,
+      "word": "been"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.42,
+      "start": 6.3,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.2,
+      "start": 6.42,
+      "word": "consensus"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.62,
+      "start": 7.2,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.92,
+      "start": 7.65,
+      "word": "that"
+    },
+    {
+      "conf": 0.39875,
+      "end": 8.22,
+      "start": 7.92,
+      "word": "poon"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.37,
+      "start": 8.234698,
+      "word": "would"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.67,
+      "start": 8.37,
+      "word": "probably"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.94,
+      "start": 8.67,
+      "word": "wait"
+    },
+    {
+      "conf": 0.648601,
+      "end": 9.09,
+      "start": 8.94,
+      "word": "till"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.39,
+      "start": 9.09,
+      "word": "after"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.51,
+      "start": 9.39,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.93,
+      "start": 9.51,
+      "word": "olympics"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.32,
+      "start": 9.93,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.8,
+      "start": 10.35,
+      "word": "because"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.1,
+      "start": 10.83,
+      "word": "first"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.19,
+      "start": 11.1,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.31,
+      "start": 11.19,
+      "word": "all"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.4,
+      "start": 11.31,
+      "word": "of"
+    },
+    {
+      "conf": 0.822445,
+      "end": 11.52,
+      "start": 11.4,
+      "word": "us"
+    },
+    {
+      "conf": 0.947695,
+      "end": 11.64,
+      "start": 11.52,
+      "word": "when"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.73,
+      "start": 11.64,
+      "word": "he"
+    },
+    {
+      "conf": 0.403886,
+      "end": 11.91,
+      "start": 11.73,
+      "word": "did"
+    },
+    {
+      "conf": 0.403886,
+      "end": 12.0,
+      "start": 11.91,
+      "word": "and"
+    },
+    {
+      "conf": 0.621931,
+      "end": 12.210001,
+      "start": 12.0,
+      "word": "twenty"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.72,
+      "start": 12.210001,
+      "word": "fourteen"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.38,
+      "start": 12.72,
+      "word": "secondly"
+    },
+    {
+      "conf": 0.884915,
+      "end": 13.77,
+      "start": 13.62,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.8,
+      "start": 13.77,
+      "word": "a"
+    },
+    {
+      "conf": 0.658211,
+      "end": 13.98,
+      "start": 13.8,
+      "word": "xi"
+    },
+    {
+      "conf": 0.658211,
+      "end": 14.427634,
+      "start": 13.98,
+      "word": "jinping"
+    },
+    {
+      "conf": 0.544259,
+      "end": 14.579999,
+      "start": 14.427634,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.73,
+      "start": 14.58,
+      "word": "one"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.82,
+      "start": 14.73,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.06,
+      "start": 14.82,
+      "word": "his"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.33,
+      "start": 15.06,
+      "word": "few"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.84,
+      "start": 15.33,
+      "word": "remaining"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.29,
+      "start": 15.87,
+      "word": "close"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.77,
+      "start": 16.29,
+      "word": "allies"
+    },
+    {
+      "conf": 0.724727,
+      "end": 16.86,
+      "start": 16.77,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.92,
+      "start": 16.86,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.22,
+      "start": 16.92,
+      "word": "world"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.7,
+      "start": 17.22,
+      "word": "stage"
+    },
+    {
+      "conf": 0.827009,
+      "end": 17.79,
+      "start": 17.7,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.88,
+      "start": 17.79,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.24,
+      "start": 17.88,
+      "word": "thinking"
+    },
+    {
+      "conf": 0.601558,
+      "end": 18.39,
+      "start": 18.24,
+      "word": "as"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.48,
+      "start": 18.39,
+      "word": "he"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.78,
+      "start": 18.48,
+      "word": "wouldn't"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.05,
+      "start": 18.78,
+      "word": "want"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.26,
+      "start": 19.05,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.98,
+      "start": 19.29,
+      "word": "upstage"
+    }
+  ],
+  "text": "crane into wanted to join nato and of course now it's majority and charles last question for you there's been this consensus that that poon would probably wait till after the olympics and because first of all of us when he did and twenty fourteen secondly in a xi jinping is one of his few remaining close allies in the world stage and the thinking as he wouldn't want to upstage"
+}

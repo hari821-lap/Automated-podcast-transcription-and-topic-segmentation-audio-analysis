@@ -1,0 +1,419 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.45,
+      "start": 0.06,
+      "word": "stand"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.78,
+      "start": 0.45,
+      "word": "for"
+    },
+    {
+      "conf": 0.521654,
+      "end": 1.68,
+      "start": 1.41,
+      "word": "rain"
+    },
+    {
+      "conf": 0.8453,
+      "end": 1.86,
+      "start": 1.68,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.04,
+      "start": 1.86,
+      "word": "think"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.13,
+      "start": 2.04,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.34,
+      "start": 2.13,
+      "word": "worth"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.73,
+      "start": 2.34,
+      "word": "pointing"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.0,
+      "start": 2.73,
+      "word": "out"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.09,
+      "start": 3.0,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.3,
+      "start": 3.09,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.42,
+      "start": 3.3,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.84,
+      "start": 3.42,
+      "word": "not"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.26,
+      "start": 3.84,
+      "word": "because"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.47,
+      "start": 4.26,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.95,
+      "start": 4.5,
+      "word": "something"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.16,
+      "start": 4.95,
+      "word": "that"
+    },
+    {
+      "conf": 0.962864,
+      "end": 5.55,
+      "start": 5.16,
+      "word": "save"
+    },
+    {
+      "conf": 0.615247,
+      "end": 5.94,
+      "start": 5.55,
+      "word": "level"
+    },
+    {
+      "conf": 0.615247,
+      "end": 6.03,
+      "start": 5.94,
+      "word": "of"
+    },
+    {
+      "conf": 0.860134,
+      "end": 6.12,
+      "start": 6.03,
+      "word": "him"
+    },
+    {
+      "conf": 0.681196,
+      "end": 6.27,
+      "start": 6.12,
+      "word": "as"
+    },
+    {
+      "conf": 0.898413,
+      "end": 6.33,
+      "start": 6.27,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.78,
+      "start": 6.33,
+      "word": "lenski"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.05,
+      "start": 6.78,
+      "word": "did"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.23,
+      "start": 7.05,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.41,
+      "start": 7.23,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.92,
+      "start": 7.44,
+      "word": "ukrainian"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.43,
+      "start": 7.92,
+      "word": "president"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.58,
+      "start": 8.43,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.73,
+      "start": 8.58,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.0,
+      "start": 8.73,
+      "word": "because"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.09,
+      "start": 9.0,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.45,
+      "start": 9.09,
+      "word": "russia's"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.05,
+      "start": 9.57,
+      "word": "actions"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.23,
+      "start": 10.05,
+      "word": "in"
+    },
+    {
+      "conf": 0.636843,
+      "end": 10.8,
+      "start": 10.23,
+      "word": "crimean"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.07,
+      "start": 10.810895,
+      "word": "twenty"
+    },
+    {
+      "conf": 0.703723,
+      "end": 11.67,
+      "start": 11.07,
+      "word": "fourteen"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.94,
+      "start": 11.67,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.03,
+      "start": 11.94,
+      "word": "the"
+    },
+    {
+      "conf": 0.797814,
+      "end": 12.69,
+      "start": 12.03,
+      "word": "donbass"
+    },
+    {
+      "conf": 0.776572,
+      "end": 13.02,
+      "start": 12.69,
+      "word": "words"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.41,
+      "start": 13.02,
+      "word": "backing"
+    },
+    {
+      "conf": 0.674819,
+      "end": 13.5,
+      "start": 13.41,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.22,
+      "start": 13.512858,
+      "word": "separatists"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.42,
+      "start": 15.24,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.72,
+      "start": 15.42,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.9,
+      "start": 15.72,
+      "word": "kind"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.96,
+      "start": 15.9,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.41,
+      "start": 15.96,
+      "word": "proxy"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.8,
+      "start": 16.41,
+      "word": "war"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.43,
+      "start": 17.34,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.49,
+      "start": 17.43,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.55,
+      "start": 17.49,
+      "word": "if"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.64,
+      "start": 17.55,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.76,
+      "start": 17.64,
+      "word": "go"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.0,
+      "start": 17.76,
+      "word": "back"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.09,
+      "start": 18.0,
+      "word": "to"
+    },
+    {
+      "conf": 0.521169,
+      "end": 18.21,
+      "start": 18.09,
+      "word": "two"
+    },
+    {
+      "conf": 0.521169,
+      "end": 18.36,
+      "start": 18.21,
+      "word": "thousand"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.93,
+      "start": 18.430336,
+      "word": "twelve"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.02,
+      "start": 18.93,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.14,
+      "start": 19.02,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.29,
+      "start": 19.14,
+      "word": "only"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.44,
+      "start": 19.29,
+      "word": "about"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.47,
+      "start": 19.44,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.862302,
+      "start": 19.47,
+      "word": "quarter"
+    },
+    {
+      "conf": 0.790026,
+      "end": 19.95,
+      "start": 19.862302,
+      "word": "of"
+    }
+  ],
+  "text": "stand for rain a think it's worth pointing out that this is not because of something that save level of him as a lenski did that the ukrainian president this is because of russia's actions in crimean twenty fourteen in the donbass words backing the separatists in this kind of proxy war you know if you go back to two thousand twelve it was only about a quarter of"
+}

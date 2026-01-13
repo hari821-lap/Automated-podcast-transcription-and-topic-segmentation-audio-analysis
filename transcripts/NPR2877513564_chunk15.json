@@ -1,0 +1,413 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.78,
+      "start": 0.33,
+      "word": "biden"
+    },
+    {
+      "conf": 0.603504,
+      "end": 0.9,
+      "start": 0.78,
+      "word": "in"
+    },
+    {
+      "conf": 0.676031,
+      "end": 1.47,
+      "start": 0.917595,
+      "word": "shots"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.68,
+      "start": 1.5,
+      "word": "are"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.28,
+      "start": 1.68,
+      "word": "meeting"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.64,
+      "start": 2.34,
+      "word": "as"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.76,
+      "start": 2.64,
+      "word": "we"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.24,
+      "start": 2.76,
+      "word": "speak"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.45,
+      "start": 3.24,
+      "word": "by"
+    },
+    {
+      "conf": 0.69531,
+      "end": 3.63,
+      "start": 3.45,
+      "word": "were"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.11,
+      "start": 3.63,
+      "word": "recording"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.26,
+      "start": 4.11,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.56,
+      "start": 4.26,
+      "word": "before"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.68,
+      "start": 4.56,
+      "word": "we"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.86,
+      "start": 4.68,
+      "word": "hear"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.04,
+      "start": 4.86,
+      "word": "from"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.16,
+      "start": 5.04,
+      "word": "them"
+    },
+    {
+      "conf": 0.634695,
+      "end": 5.25,
+      "start": 5.16,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.28,
+      "start": 5.25,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.55,
+      "start": 5.28,
+      "word": "joint"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.79,
+      "start": 5.55,
+      "word": "press"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.27,
+      "start": 5.79,
+      "word": "conference"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.42,
+      "start": 6.27,
+      "word": "but"
+    },
+    {
+      "conf": 0.830696,
+      "end": 6.63,
+      "start": 6.42,
+      "word": "one"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.08,
+      "start": 6.63,
+      "word": "interesting"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.62,
+      "start": 7.08,
+      "word": "dynamic"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.74,
+      "start": 7.62,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.01,
+      "start": 7.74,
+      "word": "all"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.13,
+      "start": 8.01,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.52,
+      "start": 8.13,
+      "word": "this"
+    },
+    {
+      "conf": 0.95096,
+      "end": 8.94,
+      "start": 8.85,
+      "word": "you"
+    },
+    {
+      "conf": 0.678903,
+      "end": 9.03,
+      "start": 8.94,
+      "word": "know"
+    },
+    {
+      "conf": 0.727943,
+      "end": 9.39,
+      "start": 9.03,
+      "word": "biden"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.51,
+      "start": 9.39,
+      "word": "has"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.02,
+      "start": 9.51,
+      "word": "repeatedly"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.44,
+      "start": 10.02,
+      "word": "stressed"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.743018,
+      "start": 10.44,
+      "word": "nato"
+    },
+    {
+      "conf": 0.69194,
+      "end": 10.89,
+      "start": 10.743018,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.16,
+      "start": 10.89,
+      "word": "on"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.25,
+      "start": 11.16,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.58,
+      "start": 11.25,
+      "word": "same"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.18,
+      "start": 11.58,
+      "word": "page"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.72,
+      "start": 12.57,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.11,
+      "start": 12.72,
+      "word": "germany's"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.29,
+      "start": 13.11,
+      "word": "kind"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.38,
+      "start": 13.29,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.44,
+      "start": 13.38,
+      "word": "an"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.07,
+      "start": 13.44,
+      "word": "outlier"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.251227,
+      "start": 14.07,
+      "word": "and"
+    },
+    {
+      "conf": 0.40095,
+      "end": 14.37,
+      "start": 14.251227,
+      "word": "an"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.581003,
+      "start": 14.378768,
+      "word": "it's"
+    },
+    {
+      "conf": 0.89058,
+      "end": 14.67,
+      "start": 14.581003,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.91,
+      "start": 14.67,
+      "word": "really"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.27,
+      "start": 14.91,
+      "word": "important"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.63,
+      "start": 15.27,
+      "word": "outlier"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.9,
+      "start": 15.63,
+      "word": "because"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.02,
+      "start": 15.9,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.2,
+      "start": 16.02,
+      "word": "such"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.29,
+      "start": 16.2,
+      "word": "an"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.95,
+      "start": 16.32,
+      "word": "enormous"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.31,
+      "start": 16.95,
+      "word": "part"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.46,
+      "start": 17.34,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.55,
+      "start": 17.46,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.06,
+      "start": 17.55,
+      "word": "european"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.81,
+      "start": 18.06,
+      "word": "coalition"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.47,
+      "start": 19.2,
+      "word": "what's"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.59,
+      "start": 19.47,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.98,
+      "start": 19.59,
+      "word": "general"
+    }
+  ],
+  "text": "biden in shots are meeting as we speak by were recording this before we hear from them in a joint press conference but one interesting dynamic to all of this you know biden has repeatedly stressed nato was on the same page but germany's kind of an outlier and an it's a really important outlier because it's such an enormous part of the european coalition what's the general"
+}

@@ -1,0 +1,395 @@
+{
+  "result": [
+    {
+      "conf": 0.416928,
+      "end": 0.606065,
+      "start": 0.42,
+      "word": "they"
+    },
+    {
+      "conf": 0.884297,
+      "end": 0.81,
+      "start": 0.648838,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.11,
+      "start": 0.81,
+      "word": "big"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.68,
+      "start": 1.14,
+      "word": "show"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.98,
+      "start": 1.83,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.13,
+      "start": 1.98,
+      "word": "big"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.46,
+      "start": 2.13,
+      "word": "moment"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.58,
+      "start": 2.46,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.09,
+      "start": 2.58,
+      "word": "china"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.84,
+      "start": 3.45,
+      "word": "given"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.23,
+      "start": 3.84,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.19,
+      "start": 4.5,
+      "word": "what"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.55,
+      "start": 5.4,
+      "word": "are"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.91,
+      "start": 5.55,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.39,
+      "start": 5.97,
+      "word": "looking"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.75,
+      "start": 6.39,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.93,
+      "start": 6.75,
+      "word": "over"
+    },
+    {
+      "conf": 0.837091,
+      "end": 7.11,
+      "start": 6.93,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.41,
+      "start": 7.11,
+      "word": "next"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.62,
+      "start": 7.41,
+      "word": "week"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.71,
+      "start": 7.62,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.74,
+      "start": 7.71,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.01,
+      "start": 7.74,
+      "word": "half"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.1,
+      "start": 8.01,
+      "word": "or"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.34,
+      "start": 8.1,
+      "word": "two"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.76,
+      "start": 8.34,
+      "word": "weeks"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.0,
+      "start": 8.76,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.18,
+      "start": 9.06,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.3,
+      "start": 9.18,
+      "word": "give"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.42,
+      "start": 9.3,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.48,
+      "start": 9.42,
+      "word": "an"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.96,
+      "start": 9.48,
+      "word": "indication"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.05,
+      "start": 9.96,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.23,
+      "start": 10.05,
+      "word": "which"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.41,
+      "start": 10.23,
+      "word": "way"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.56,
+      "start": 10.41,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.71,
+      "start": 10.56,
+      "word": "could"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.98,
+      "start": 10.71,
+      "word": "go"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.88,
+      "start": 11.7,
+      "word": "well"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.15,
+      "start": 11.88,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.45,
+      "start": 12.27,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.75,
+      "start": 12.45,
+      "word": "one"
+    },
+    {
+      "conf": 0.649045,
+      "end": 12.870001,
+      "start": 12.750001,
+      "word": "were"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.2,
+      "start": 12.870001,
+      "word": "looking"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.35,
+      "start": 13.2,
+      "word": "at"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.44,
+      "start": 13.35,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.8,
+      "start": 13.44,
+      "word": "media"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.31,
+      "start": 13.8,
+      "word": "coverage"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.46,
+      "start": 14.31,
+      "word": "if"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.58,
+      "start": 14.46,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.79,
+      "start": 14.58,
+      "word": "go"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.09,
+      "start": 14.79,
+      "word": "back"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.21,
+      "start": 15.09,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.48,
+      "start": 15.21,
+      "word": "twenty"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.08,
+      "start": 15.48,
+      "word": "fourteen"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.17,
+      "start": 16.08,
+      "word": "there"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.41,
+      "start": 16.17,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.62,
+      "start": 16.41,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.98,
+      "start": 16.62,
+      "word": "really"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.46,
+      "start": 16.98,
+      "word": "intense"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.21,
+      "start": 17.46,
+      "word": "campaign"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.57,
+      "start": 18.21,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.99,
+      "start": 18.57,
+      "word": "paint"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.65,
+      "start": 18.99,
+      "word": "ukraine"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.92,
+      "start": 19.65,
+      "word": "is"
+    }
+  ],
+  "text": "they this big show this big moment for china given that what are you looking for over this next week and a half or two weeks to to give you an indication of which way this could go well for for one were looking at the media coverage if you go back to twenty fourteen there was this really intense campaign to paint ukraine is"
+}

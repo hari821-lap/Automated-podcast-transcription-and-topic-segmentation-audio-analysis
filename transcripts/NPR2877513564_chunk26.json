@@ -1,0 +1,359 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.36,
+      "start": 0.037549,
+      "word": "forces"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.48,
+      "start": 0.36,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.84,
+      "start": 0.51,
+      "word": "evil"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.08,
+      "start": 0.84,
+      "word": "one"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.38,
+      "start": 1.08,
+      "word": "last"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.8,
+      "start": 1.38,
+      "word": "time"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.55,
+      "start": 2.07,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.79,
+      "start": 2.64,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.27,
+      "start": 2.79,
+      "word": "course"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.51,
+      "start": 3.33,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.02,
+      "start": 3.51,
+      "word": "terrible"
+    },
+    {
+      "conf": 0.545982,
+      "end": 4.47,
+      "start": 4.02,
+      "word": "wigs"
+    },
+    {
+      "conf": 0.846388,
+      "end": 5.13,
+      "start": 4.83,
+      "word": "listen"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.22,
+      "start": 5.134608,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.49,
+      "start": 5.22,
+      "word": "pop"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.79,
+      "start": 5.49,
+      "word": "culture"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.12,
+      "start": 5.79,
+      "word": "happy"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.39,
+      "start": 6.12,
+      "word": "hour"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.51,
+      "start": 6.39,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.63,
+      "start": 6.51,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.14,
+      "start": 6.63,
+      "word": "npr"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.53,
+      "start": 7.14,
+      "word": "app"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.86,
+      "start": 7.59,
+      "word": "or"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.34,
+      "start": 7.86,
+      "word": "wherever"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.49,
+      "start": 8.34,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.7,
+      "start": 8.49,
+      "word": "get"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.82,
+      "start": 8.7,
+      "word": "your"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.63,
+      "start": 8.82,
+      "word": "podcasts"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.95,
+      "start": 10.68,
+      "word": "this"
+    },
+    {
+      "conf": 0.619013,
+      "end": 11.247281,
+      "start": 10.95,
+      "word": "week"
+    },
+    {
+      "conf": 0.562895,
+      "end": 11.37,
+      "start": 11.25,
+      "word": "on"
+    },
+    {
+      "conf": 0.51224,
+      "end": 11.43,
+      "start": 11.37,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.91,
+      "start": 11.49,
+      "word": "burst"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.09,
+      "start": 11.97,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.48,
+      "start": 12.09,
+      "word": "trump"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.29,
+      "start": 12.48,
+      "word": "administration"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.53,
+      "start": 13.35,
+      "word": "and"
+    },
+    {
+      "conf": 0.585733,
+      "end": 13.68,
+      "start": 13.53,
+      "word": "bit"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.83,
+      "start": 13.68,
+      "word": "as"
+    },
+    {
+      "conf": 0.399209,
+      "end": 14.34,
+      "start": 13.83,
+      "word": "wayland"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.52,
+      "start": 14.37,
+      "word": "can"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.58,
+      "start": 14.52,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.76,
+      "start": 14.58,
+      "word": "u"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.94,
+      "start": 14.76,
+      "word": "s"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.45,
+      "start": 14.94,
+      "word": "run"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.63,
+      "start": 15.51,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.99,
+      "start": 15.63,
+      "word": "foreign"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.47,
+      "start": 15.99,
+      "word": "government"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.68,
+      "start": 16.47,
+      "word": "as"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.77,
+      "start": 16.68,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.16,
+      "start": 16.77,
+      "word": "president"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.64,
+      "start": 17.16,
+      "word": "says"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.0,
+      "start": 17.82,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.42,
+      "start": 18.0,
+      "word": "simply"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.69,
+      "start": 18.42,
+      "word": "may"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.96,
+      "start": 18.69,
+      "word": "not"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.350412,
+      "start": 18.96,
+      "word": "adopt"
+    },
+    {
+      "conf": 0.926502,
+      "end": 19.44,
+      "start": 19.350412,
+      "word": "the"
+    },
+    {
+      "conf": 0.926502,
+      "end": 19.98,
+      "start": 19.44,
+      "word": "policy"
+    }
+  ],
+  "text": "forces of evil one last time and of course the terrible wigs listen to pop culture happy hour in the npr app or wherever you get your podcasts this week on a burst the trump administration and bit as wayland can the u s run a foreign government as the president says they simply may not adopt the policy"
+}

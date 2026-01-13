@@ -1,0 +1,359 @@
+{
+  "result": [
+    {
+      "conf": 0.763981,
+      "end": 0.259475,
+      "start": 0.03,
+      "word": "looking"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.338758,
+      "start": 0.259475,
+      "word": "at"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.42,
+      "start": 0.36,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.81,
+      "start": 0.42,
+      "word": "media"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.93,
+      "start": 0.81,
+      "word": "i'll"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.05,
+      "start": 0.93,
+      "word": "be"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.44,
+      "start": 1.05,
+      "word": "looking"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.59,
+      "start": 1.44,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.07,
+      "start": 1.59,
+      "word": "more"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.15,
+      "start": 2.28,
+      "word": "information"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.87,
+      "start": 3.21,
+      "word": "about"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.53,
+      "start": 4.17,
+      "word": "russian"
+    },
+    {
+      "conf": 0.731173,
+      "end": 5.31,
+      "start": 4.53,
+      "word": "volunteers"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.4,
+      "start": 5.31,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.82,
+      "start": 5.4,
+      "word": "fighters"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.15,
+      "start": 5.82,
+      "word": "going"
+    },
+    {
+      "conf": 0.808289,
+      "end": 6.75,
+      "start": 6.18,
+      "word": "into"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.87,
+      "start": 6.75,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.47,
+      "start": 6.87,
+      "word": "donbass"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.53,
+      "start": 7.47,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.68,
+      "start": 7.53,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.89,
+      "start": 7.68,
+      "word": "just"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.16,
+      "start": 7.89,
+      "word": "down"
+    },
+    {
+      "conf": 0.510262,
+      "end": 8.31,
+      "start": 8.16,
+      "word": "in"
+    },
+    {
+      "conf": 0.661963,
+      "end": 8.76,
+      "start": 8.31,
+      "word": "rostov"
+    },
+    {
+      "conf": 0.598711,
+      "end": 9.09,
+      "start": 8.85,
+      "word": "non"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.42,
+      "start": 9.102038,
+      "word": "done"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.6,
+      "start": 9.42,
+      "word": "this"
+    },
+    {
+      "conf": 0.66344,
+      "end": 9.72,
+      "start": 9.6,
+      "word": "is"
+    },
+    {
+      "conf": 0.66344,
+      "end": 9.81,
+      "start": 9.72,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.87,
+      "start": 9.81,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.29,
+      "start": 9.87,
+      "word": "southern"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.56,
+      "start": 10.32,
+      "word": "in"
+    },
+    {
+      "conf": 0.390234,
+      "end": 11.01,
+      "start": 10.65,
+      "word": "rug"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.34,
+      "start": 11.056079,
+      "word": "southern"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.7,
+      "start": 11.34,
+      "word": "russia"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.94,
+      "start": 11.73,
+      "word": "near"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.06,
+      "start": 11.94,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.48,
+      "start": 12.06,
+      "word": "ukrainian"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.93,
+      "start": 12.48,
+      "word": "border"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.43,
+      "start": 13.86,
+      "word": "talking"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.88,
+      "start": 14.43,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.24,
+      "start": 14.91,
+      "word": "people"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.36,
+      "start": 15.24,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.48,
+      "start": 15.36,
+      "word": "were"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.81,
+      "start": 15.48,
+      "word": "part"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.9,
+      "start": 15.81,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.2,
+      "start": 15.9,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.83,
+      "start": 16.2,
+      "word": "militia"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.22,
+      "start": 16.89,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.37,
+      "start": 17.22,
+      "word": "kind"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.43,
+      "start": 17.37,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.76,
+      "start": 17.43,
+      "word": "russian"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.27,
+      "start": 17.76,
+      "word": "volunteer"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.57,
+      "start": 18.27,
+      "word": "group"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.72,
+      "start": 18.57,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.9,
+      "start": 18.72,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.59,
+      "start": 18.9,
+      "word": "intermingling"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.92,
+      "start": 19.59,
+      "word": "with"
+    }
+  ],
+  "text": "looking at the media i'll be looking for more information about russian volunteers and fighters going into the donbass i was just down in rostov non done this is in the southern in rug southern russia near the ukrainian border talking to people that were part of this militia this kind of russian volunteer group that was intermingling with"
+}

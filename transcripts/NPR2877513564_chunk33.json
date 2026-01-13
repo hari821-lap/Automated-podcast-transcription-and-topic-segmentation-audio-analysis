@@ -1,0 +1,419 @@
+{
+  "result": [
+    {
+      "conf": 0.612928,
+      "end": 0.72,
+      "start": 0.45,
+      "word": "try"
+    },
+    {
+      "conf": 0.542966,
+      "end": 0.806941,
+      "start": 0.72,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.05,
+      "start": 0.806941,
+      "word": "way"
+    },
+    {
+      "conf": 0.894782,
+      "end": 1.255672,
+      "start": 1.05,
+      "word": "had"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.35,
+      "start": 1.255672,
+      "word": "the"
+    },
+    {
+      "conf": 0.510513,
+      "end": 1.59,
+      "start": 1.35,
+      "word": "us"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.74,
+      "start": 1.59,
+      "word": "would"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.25,
+      "start": 1.74,
+      "word": "respond"
+    },
+    {
+      "conf": 0.418121,
+      "end": 3.503389,
+      "start": 3.3,
+      "word": "there's"
+    },
+    {
+      "conf": 0.615092,
+      "end": 3.72,
+      "start": 3.503389,
+      "word": "certain"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.11,
+      "start": 3.72,
+      "word": "promoting"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.29,
+      "start": 4.11,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.59,
+      "start": 4.29,
+      "word": "idea"
+    },
+    {
+      "conf": 0.842116,
+      "end": 4.68,
+      "start": 4.59,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.98,
+      "start": 4.68,
+      "word": "russian"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.49,
+      "start": 4.98,
+      "word": "media"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.58,
+      "start": 5.49,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.85,
+      "start": 5.58,
+      "word": "certainly"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.97,
+      "start": 5.85,
+      "word": "by"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.09,
+      "start": 5.97,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.63,
+      "start": 6.09,
+      "word": "kremlin"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.05,
+      "start": 6.63,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.56,
+      "start": 7.32,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.71,
+      "start": 7.59,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.8,
+      "start": 7.71,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.92,
+      "start": 7.8,
+      "word": "the"
+    },
+    {
+      "conf": 0.807376,
+      "end": 8.37,
+      "start": 7.92,
+      "word": "west"
+    },
+    {
+      "conf": 0.42702,
+      "end": 8.49,
+      "start": 8.37,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.06,
+      "start": 8.501411,
+      "word": "washington"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.12,
+      "start": 9.06,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.81,
+      "start": 9.12,
+      "word": "particular"
+    },
+    {
+      "conf": 0.850684,
+      "end": 10.38,
+      "start": 10.2,
+      "word": "is"
+    },
+    {
+      "conf": 0.572681,
+      "end": 10.56,
+      "start": 10.38,
+      "word": "being"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.37,
+      "start": 10.56,
+      "word": "hysterical"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.12,
+      "start": 11.73,
+      "word": "about"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.27,
+      "start": 12.15,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.6,
+      "start": 12.27,
+      "word": "threat"
+    },
+    {
+      "conf": 0.933436,
+      "end": 12.701423,
+      "start": 12.629399,
+      "word": "of"
+    },
+    {
+      "conf": 0.628518,
+      "end": 12.81,
+      "start": 12.701423,
+      "word": "a"
+    },
+    {
+      "conf": 0.765956,
+      "end": 13.275561,
+      "start": 12.834617,
+      "word": "possibility"
+    },
+    {
+      "conf": 0.83252,
+      "end": 13.334425,
+      "start": 13.275561,
+      "word": "of"
+    },
+    {
+      "conf": 0.933436,
+      "end": 13.438697,
+      "start": 13.38,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.74,
+      "start": 13.438697,
+      "word": "russian"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.37,
+      "start": 13.74,
+      "word": "invasion"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.91,
+      "start": 14.73,
+      "word": "i'm"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.36,
+      "start": 14.91,
+      "word": "strangely"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.63,
+      "start": 15.36,
+      "word": "enough"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.72,
+      "start": 15.63,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.96,
+      "start": 15.72,
+      "word": "think"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.08,
+      "start": 15.96,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.35,
+      "start": 16.08,
+      "word": "some"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.71,
+      "start": 16.35,
+      "word": "ways"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.83,
+      "start": 16.71,
+      "word": "that"
+    },
+    {
+      "conf": 0.514139,
+      "end": 16.98,
+      "start": 16.83,
+      "word": "we"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.16,
+      "start": 17.04,
+      "word": "we"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.34,
+      "start": 17.16,
+      "word": "still"
+    },
+    {
+      "conf": 0.633329,
+      "end": 17.479266,
+      "start": 17.34,
+      "word": "don't"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.572822,
+      "start": 17.479266,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.76,
+      "start": 17.58,
+      "word": "what"
+    },
+    {
+      "conf": 0.544307,
+      "end": 17.94,
+      "start": 17.76,
+      "word": "put"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.12,
+      "start": 18.004158,
+      "word": "will"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.36,
+      "start": 18.12,
+      "word": "do"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.48,
+      "start": 18.36,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.57,
+      "start": 18.48,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.75,
+      "start": 18.57,
+      "word": "does"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.23,
+      "start": 18.75,
+      "word": "provide"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.26,
+      "start": 19.23,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.71,
+      "start": 19.26,
+      "word": "certain"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.98,
+      "start": 19.74,
+      "word": "hour"
+    }
+  ],
+  "text": "try and way had the us would respond there's certain promoting this idea in russian media and certainly by the kremlin that that you know the west in washington in particular is being hysterical about the threat of a possibility of a russian invasion i'm strangely enough i think in some ways that we we still don't know what put will do but it does provide a certain hour"
+}

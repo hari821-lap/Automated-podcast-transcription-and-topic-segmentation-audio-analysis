@@ -1,0 +1,449 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.24,
+      "start": 0.068399,
+      "word": "think"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.33,
+      "start": 0.24,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.66,
+      "start": 0.33,
+      "word": "biggest"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.87,
+      "start": 0.66,
+      "word": "thing"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.99,
+      "start": 0.87,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.05,
+      "start": 0.99,
+      "word": "he"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.2,
+      "start": 1.05,
+      "word": "can"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.5,
+      "start": 1.2,
+      "word": "do"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.68,
+      "start": 1.53,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.92,
+      "start": 1.68,
+      "word": "keep"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.01,
+      "start": 1.92,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.46,
+      "start": 2.01,
+      "word": "alliance"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.03,
+      "start": 2.46,
+      "word": "together"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.48,
+      "start": 3.27,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.6,
+      "start": 3.48,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.78,
+      "start": 3.6,
+      "word": "what"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.93,
+      "start": 3.78,
+      "word": "he"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.53,
+      "start": 3.93,
+      "word": "said"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.89,
+      "start": 4.71,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.92,
+      "start": 4.89,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.19,
+      "start": 4.92,
+      "word": "kind"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.31,
+      "start": 5.19,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.18,
+      "start": 5.31,
+      "word": "impolitic"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.78,
+      "start": 6.18,
+      "word": "moment"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.77,
+      "start": 7.53,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.98,
+      "start": 7.77,
+      "word": "his"
+    },
+    {
+      "conf": 0.852597,
+      "end": 8.19,
+      "start": 7.98,
+      "word": "for"
+    },
+    {
+      "conf": 0.525637,
+      "end": 8.43,
+      "start": 8.19,
+      "word": "his"
+    },
+    {
+      "conf": 0.812142,
+      "end": 8.85,
+      "start": 8.55,
+      "word": "with"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.21,
+      "start": 8.855636,
+      "word": "second"
+    },
+    {
+      "conf": 0.899749,
+      "end": 9.6,
+      "start": 9.21,
+      "word": "formal"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.84,
+      "start": 9.6,
+      "word": "press"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.2,
+      "start": 9.84,
+      "word": "conference"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.32,
+      "start": 10.2,
+      "word": "where"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.41,
+      "start": 10.32,
+      "word": "he"
+    },
+    {
+      "conf": 0.8747,
+      "end": 10.652049,
+      "start": 10.41,
+      "word": "said"
+    },
+    {
+      "conf": 0.775848,
+      "end": 10.74,
+      "start": 10.652049,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.01,
+      "start": 10.74,
+      "word": "russia"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.22,
+      "start": 11.01,
+      "word": "does"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.67,
+      "start": 11.22,
+      "word": "something"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.18,
+      "start": 11.79,
+      "word": "less"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.33,
+      "start": 12.18,
+      "word": "than"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.39,
+      "start": 12.33,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.54,
+      "start": 12.39,
+      "word": "full"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.84,
+      "start": 12.54,
+      "word": "scale"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.29,
+      "start": 12.84,
+      "word": "invasion"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.41,
+      "start": 13.29,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.56,
+      "start": 13.41,
+      "word": "don't"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.77,
+      "start": 13.56,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.89,
+      "start": 13.77,
+      "word": "if"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.95,
+      "start": 13.89,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.13,
+      "start": 13.95,
+      "word": "can"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.31,
+      "start": 14.13,
+      "word": "keep"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.67,
+      "start": 14.31,
+      "word": "everyone"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.79,
+      "start": 14.67,
+      "word": "on"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.09,
+      "start": 14.79,
+      "word": "board"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.72,
+      "start": 15.48,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.84,
+      "start": 15.72,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.08,
+      "start": 15.84,
+      "word": "think"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.23,
+      "start": 16.08,
+      "word": "i'm"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.41,
+      "start": 16.23,
+      "word": "just"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.53,
+      "start": 16.41,
+      "word": "going"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.59,
+      "start": 16.53,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.71,
+      "start": 16.59,
+      "word": "be"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.16,
+      "start": 16.71,
+      "word": "watching"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.73,
+      "start": 17.16,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.15,
+      "start": 17.76,
+      "word": "whether"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.3,
+      "start": 18.15,
+      "word": "he"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.48,
+      "start": 18.3,
+      "word": "can"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.84,
+      "start": 18.48,
+      "word": "keep"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.38,
+      "start": 18.87,
+      "word": "nato"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.5,
+      "start": 19.38,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.59,
+      "start": 19.5,
+      "word": "the"
+    },
+    {
+      "conf": 0.657816,
+      "end": 19.98,
+      "start": 19.59,
+      "word": "us"
+    }
+  ],
+  "text": "think the biggest thing that he can do is keep the alliance together this is what he said in a kind of impolitic moment in his for his with second formal press conference where he said of russia does something less than a full scale invasion i don't know if i can keep everyone on board but i think i'm just going to be watching for whether he can keep nato and the us"
+}

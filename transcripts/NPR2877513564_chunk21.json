@@ -1,0 +1,461 @@
+{
+  "result": [
+    {
+      "conf": 0.650258,
+      "end": 0.51,
+      "start": 0.33,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.63,
+      "start": 0.520492,
+      "word": "were"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.99,
+      "start": 0.63,
+      "word": "allies"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.14,
+      "start": 0.99,
+      "word": "have"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.5,
+      "start": 1.14,
+      "word": "never"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.68,
+      "start": 1.5,
+      "word": "been"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.22,
+      "start": 1.68,
+      "word": "clear"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.37,
+      "start": 2.22,
+      "word": "on"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.55,
+      "start": 2.37,
+      "word": "what"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.76,
+      "start": 2.55,
+      "word": "kind"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.85,
+      "start": 2.76,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.39,
+      "start": 2.85,
+      "word": "sanctions"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.54,
+      "start": 3.39,
+      "word": "what"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.69,
+      "start": 3.54,
+      "word": "kind"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.78,
+      "start": 3.69,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.23,
+      "start": 3.78,
+      "word": "measures"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.38,
+      "start": 4.23,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.56,
+      "start": 4.38,
+      "word": "would"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.89,
+      "start": 4.56,
+      "word": "take"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.07,
+      "start": 4.92,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.34,
+      "start": 5.07,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.97,
+      "start": 5.34,
+      "word": "scenario"
+    },
+    {
+      "conf": 0.514557,
+      "end": 6.45,
+      "start": 6.24,
+      "word": "yeah"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.57,
+      "start": 6.465437,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.75,
+      "start": 6.57,
+      "word": "just"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.96,
+      "start": 6.75,
+      "word": "one"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.23,
+      "start": 6.96,
+      "word": "final"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.468672,
+      "start": 7.23,
+      "word": "point"
+    },
+    {
+      "conf": 0.2911,
+      "end": 7.56,
+      "start": 7.47,
+      "word": "no"
+    },
+    {
+      "conf": 0.554779,
+      "end": 7.98,
+      "start": 7.56,
+      "word": "mccrone"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.28,
+      "start": 7.98,
+      "word": "came"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.46,
+      "start": 8.28,
+      "word": "here"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.85,
+      "start": 8.46,
+      "word": "today"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.3,
+      "start": 8.85,
+      "word": "talking"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.78,
+      "start": 9.3,
+      "word": "about"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.9,
+      "start": 9.81,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.26,
+      "start": 9.9,
+      "word": "new"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.77,
+      "start": 10.26,
+      "word": "european"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.34,
+      "start": 10.77,
+      "word": "security"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.73,
+      "start": 11.34,
+      "word": "order"
+    },
+    {
+      "conf": 0.871435,
+      "end": 12.3,
+      "start": 12.18,
+      "word": "of"
+    },
+    {
+      "conf": 0.556171,
+      "end": 12.39,
+      "start": 12.3,
+      "word": "well"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.57,
+      "start": 12.39,
+      "word": "that's"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.75,
+      "start": 12.57,
+      "word": "kind"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.81,
+      "start": 12.75,
+      "word": "of"
+    },
+    {
+      "conf": 0.638724,
+      "end": 12.929147,
+      "start": 12.81,
+      "word": "would"
+    },
+    {
+      "conf": 0.881863,
+      "end": 13.139999,
+      "start": 12.929147,
+      "word": "put"
+    },
+    {
+      "conf": 0.604042,
+      "end": 13.229999,
+      "start": 13.139999,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.65,
+      "start": 13.29,
+      "word": "talking"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.92,
+      "start": 13.65,
+      "word": "about"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.04,
+      "start": 13.92,
+      "word": "when"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.19,
+      "start": 14.04,
+      "word": "he"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.34,
+      "start": 14.19,
+      "word": "has"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.46,
+      "start": 14.34,
+      "word": "all"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.67,
+      "start": 14.46,
+      "word": "these"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.18,
+      "start": 14.67,
+      "word": "demands"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.57,
+      "start": 15.33,
+      "word": "what"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.75,
+      "start": 15.57,
+      "word": "he's"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.11,
+      "start": 15.75,
+      "word": "after"
+    },
+    {
+      "conf": 0.68482,
+      "end": 16.23,
+      "start": 16.11,
+      "word": "his"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.56,
+      "start": 16.23,
+      "word": "different"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.68,
+      "start": 16.56,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.01,
+      "start": 16.68,
+      "word": "course"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.19,
+      "start": 17.01,
+      "word": "but"
+    },
+    {
+      "conf": 0.48066,
+      "end": 17.37,
+      "start": 17.19,
+      "word": "there"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.67,
+      "start": 17.43,
+      "word": "does"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.0,
+      "start": 17.67,
+      "word": "sense"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.18,
+      "start": 18.0,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.36,
+      "start": 18.18,
+      "word": "there's"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.39,
+      "start": 18.36,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.661084,
+      "start": 18.39,
+      "word": "sense"
+    },
+    {
+      "conf": 0.881391,
+      "end": 18.778601,
+      "start": 18.661084,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.96,
+      "start": 18.778601,
+      "word": "these"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.14,
+      "start": 18.96,
+      "word": "two"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.35,
+      "start": 19.14,
+      "word": "men"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.77,
+      "start": 19.35,
+      "word": "have"
+    }
+  ],
+  "text": "they were allies have never been clear on what kind of sanctions what kind of measures they would take in that scenario yeah and just one final point no mccrone came here today talking about a new european security order of well that's kind of would put and talking about when he has all these demands what he's after his different of course but there does sense that there's a sense that these two men have"
+}
