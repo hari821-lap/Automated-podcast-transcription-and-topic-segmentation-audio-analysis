@@ -1,0 +1,20 @@
+# env & secrets
+.env
+
+# audio files
+*.wav
+*.mp3
+
+# generated data
+preprocessed_audio/
+dataset/raw_data/
+transcripts/
+outputs/
+
+# python cache
+__pycache__/
+*.pyc
+
+# models & embeddings
+*.bin
+*.index
