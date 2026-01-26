@@ -1,0 +1,377 @@
+{
+  "result": [
+    {
+      "conf": 0.825884,
+      "end": 0.36,
+      "start": 0.0,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.69,
+      "start": 0.42,
+      "word": "sort"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.84,
+      "start": 0.69,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.71,
+      "start": 0.84,
+      "word": "unprecedented"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.04,
+      "start": 1.71,
+      "word": "border"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.94,
+      "start": 2.04,
+      "word": "operation"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.35,
+      "start": 3.9,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.65,
+      "start": 4.38,
+      "word": "that"
+    },
+    {
+      "conf": 0.419393,
+      "end": 4.8,
+      "start": 4.65,
+      "word": "at"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.92,
+      "start": 4.8,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.01,
+      "start": 4.92,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.1,
+      "start": 5.01,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.43,
+      "start": 5.1,
+      "word": "state"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.61,
+      "start": 5.43,
+      "word": "has"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.85,
+      "start": 5.61,
+      "word": "said"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.0,
+      "start": 5.85,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.21,
+      "start": 6.0,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.6,
+      "start": 6.21,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.96,
+      "start": 6.66,
+      "word": "part"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.02,
+      "start": 6.96,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.17,
+      "start": 7.02,
+      "word": "why"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.32,
+      "start": 7.17,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.53,
+      "start": 7.32,
+      "word": "think"
+    },
+    {
+      "conf": 0.61925,
+      "end": 7.74,
+      "start": 7.53,
+      "word": "there's"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.22,
+      "start": 7.74,
+      "word": "confusion"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.43,
+      "start": 8.22,
+      "word": "over"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.58,
+      "start": 8.43,
+      "word": "what"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.73,
+      "start": 8.58,
+      "word": "these"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.03,
+      "start": 8.73,
+      "word": "orders"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.27,
+      "start": 9.03,
+      "word": "might"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.72,
+      "start": 9.27,
+      "word": "mean"
+    },
+    {
+      "conf": 0.634315,
+      "end": 10.8,
+      "start": 10.11,
+      "word": "i'm"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.76,
+      "start": 11.28,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.91,
+      "start": 11.79,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.0,
+      "start": 11.91,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.06,
+      "start": 12.0,
+      "word": "if"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.36,
+      "start": 12.06,
+      "word": "somebody"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.69,
+      "start": 12.36,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.38,
+      "start": 12.99,
+      "word": "working"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.47,
+      "start": 13.38,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.19,
+      "start": 13.47,
+      "word": "dallas"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.43,
+      "start": 14.28,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.91,
+      "start": 14.43,
+      "word": "example"
+    },
+    {
+      "conf": 0.829826,
+      "end": 15.33,
+      "start": 14.91,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.66,
+      "start": 15.45,
+      "word": "gets"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.08,
+      "start": 15.66,
+      "word": "assigned"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.29,
+      "start": 16.11,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.47,
+      "start": 16.29,
+      "word": "go"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.8,
+      "start": 16.47,
+      "word": "down"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.01,
+      "start": 16.83,
+      "word": "to"
+    },
+    {
+      "conf": 0.83894,
+      "end": 17.22,
+      "start": 17.01,
+      "word": "eagle"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.64,
+      "start": 17.22,
+      "word": "pass"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.09,
+      "start": 17.64,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.6,
+      "start": 18.3,
+      "word": "however"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.9,
+      "start": 18.6,
+      "word": "long"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.99,
+      "start": 18.9,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.11,
+      "start": 18.99,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.23,
+      "start": 19.11,
+      "word": "they"
+    },
+    {
+      "conf": 0.869029,
+      "end": 19.497664,
+      "start": 19.23,
+      "word": "might"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.68,
+      "start": 19.497664,
+      "word": "come"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.8,
+      "start": 19.68,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.92,
+      "start": 19.8,
+      "word": "and"
+    }
+  ],
+  "text": "this sort of unprecedented border operation and that at you know the state has said that that is part of why they think there's confusion over what these orders might mean i'm and you know if somebody is working in dallas for example and gets assigned to go down to eagle pass for however long you know they might come in and"
+}

@@ -1,0 +1,413 @@
+{
+  "result": [
+    {
+      "conf": 0.574796,
+      "end": 0.24,
+      "start": 0.09,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.63,
+      "start": 0.24,
+      "word": "all"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.77,
+      "start": 1.59,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.01,
+      "start": 1.77,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.25,
+      "start": 2.01,
+      "word": "just"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.4,
+      "start": 2.25,
+      "word": "from"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.82,
+      "start": 2.4,
+      "word": "talking"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.12,
+      "start": 3.0,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.45,
+      "start": 3.12,
+      "word": "people"
+    },
+    {
+      "conf": 0.502287,
+      "end": 3.63,
+      "start": 3.45,
+      "word": "any"
+    },
+    {
+      "conf": 0.695225,
+      "end": 3.78,
+      "start": 3.63,
+      "word": "will"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.11,
+      "start": 3.78,
+      "word": "pass"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.2,
+      "start": 4.11,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.5,
+      "start": 4.2,
+      "word": "think"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.74,
+      "start": 4.56,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.25,
+      "start": 4.74,
+      "word": "go"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.46,
+      "start": 5.28,
+      "word": "they"
+    },
+    {
+      "conf": 0.712418,
+      "end": 5.73,
+      "start": 5.46,
+      "word": "cross"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.82,
+      "start": 5.738627,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.12,
+      "start": 5.82,
+      "word": "border"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.48,
+      "start": 6.12,
+      "word": "fairly"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.32,
+      "start": 6.48,
+      "word": "regularly"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.73,
+      "start": 8.01,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.42,
+      "start": 9.27,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.570069,
+      "start": 9.42,
+      "word": "know"
+    },
+    {
+      "conf": 0.335046,
+      "end": 9.69,
+      "start": 9.570069,
+      "word": "at"
+    },
+    {
+      "conf": 0.26873,
+      "end": 9.90188,
+      "start": 9.72,
+      "word": "there"
+    },
+    {
+      "conf": 0.294586,
+      "end": 10.02,
+      "start": 9.90188,
+      "word": "if"
+    },
+    {
+      "conf": 0.93472,
+      "end": 10.2,
+      "start": 10.02,
+      "word": "there"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.56,
+      "start": 10.2,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.8,
+      "start": 10.56,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.98,
+      "start": 10.8,
+      "word": "sort"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.07,
+      "start": 10.98,
+      "word": "of"
+    },
+    {
+      "conf": 0.658788,
+      "end": 11.789999,
+      "start": 11.07,
+      "word": "longstanding"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.94,
+      "start": 11.79,
+      "word": "as"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.09,
+      "start": 11.94,
+      "word": "there"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.24,
+      "start": 12.09,
+      "word": "are"
+    },
+    {
+      "conf": 0.914459,
+      "end": 12.33,
+      "start": 12.24,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.39,
+      "start": 12.33,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.57,
+      "start": 12.39,
+      "word": "lot"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.63,
+      "start": 12.57,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.87,
+      "start": 12.63,
+      "word": "these"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.14,
+      "start": 12.87,
+      "word": "border"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.47,
+      "start": 13.14,
+      "word": "towns"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.65,
+      "start": 13.47,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.83,
+      "start": 13.65,
+      "word": "sort"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.89,
+      "start": 13.83,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.34,
+      "start": 13.89,
+      "word": "connection"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.67,
+      "start": 14.34,
+      "word": "across"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.76,
+      "start": 14.67,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.21,
+      "start": 14.76,
+      "word": "border"
+    },
+    {
+      "conf": 0.673263,
+      "end": 15.66,
+      "start": 15.54,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.08,
+      "start": 15.679605,
+      "word": "why"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.2,
+      "start": 16.08,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.29,
+      "start": 16.2,
+      "word": "it"
+    },
+    {
+      "conf": 0.810341,
+      "end": 16.61588,
+      "start": 16.29,
+      "word": "becomes"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.74,
+      "start": 16.61588,
+      "word": "such"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.8,
+      "start": 16.74,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.19,
+      "start": 16.8,
+      "word": "popular"
+    },
+    {
+      "conf": 0.807644,
+      "end": 17.46,
+      "start": 17.19,
+      "word": "place"
+    },
+    {
+      "conf": 0.807644,
+      "end": 17.55,
+      "start": 17.46,
+      "word": "to"
+    },
+    {
+      "conf": 0.807644,
+      "end": 18.12,
+      "start": 17.55,
+      "word": "cross"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.84,
+      "start": 18.75,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.05,
+      "start": 18.84,
+      "word": "think"
+    },
+    {
+      "conf": 0.511961,
+      "end": 19.14,
+      "start": 19.05,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.56,
+      "start": 19.154641,
+      "word": "third"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.86,
+      "start": 19.68,
+      "word": "kind"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.95,
+      "start": 19.86,
+      "word": "of"
+    }
+  ],
+  "text": "and all you know just from talking to people any will pass i think they go they cross the border fairly regularly and you know at there if there is that sort of longstanding as there are in a lot of these border towns that sort of connection across the border a why is it becomes such a popular place to cross i think the third kind of"
+}

@@ -1,0 +1,263 @@
+{
+  "result": [
+    {
+      "conf": 0.590401,
+      "end": 0.48,
+      "start": 0.03,
+      "word": "order"
+    },
+    {
+      "conf": 0.810348,
+      "end": 1.23,
+      "start": 0.84,
+      "word": "under"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.47,
+      "start": 1.23,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.98,
+      "start": 1.47,
+      "word": "disaster"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.58,
+      "start": 1.98,
+      "word": "declaration"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.7,
+      "start": 2.58,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.834932,
+      "start": 2.7,
+      "word": "the"
+    },
+    {
+      "conf": 0.801012,
+      "end": 2.97,
+      "start": 2.834932,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.39,
+      "start": 3.3,
+      "word": "the"
+    },
+    {
+      "conf": 0.594949,
+      "end": 3.81,
+      "start": 3.39,
+      "word": "governor"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.41,
+      "start": 3.822152,
+      "word": "signs"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.74,
+      "start": 4.44,
+      "word": "when"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.89,
+      "start": 4.74,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.98,
+      "start": 4.89,
+      "word": "whole"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.19,
+      "start": 4.98,
+      "word": "thing"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.64,
+      "start": 5.19,
+      "word": "started"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.21,
+      "start": 6.06,
+      "word": "as"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.24,
+      "start": 6.21,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.87,
+      "start": 6.24,
+      "word": "reporter"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.03,
+      "start": 8.85,
+      "word": "how"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.18,
+      "start": 9.03,
+      "word": "much"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.27,
+      "start": 9.18,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.39,
+      "start": 9.27,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.81,
+      "start": 9.39,
+      "word": "government"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.62,
+      "start": 9.81,
+      "word": "response"
+    },
+    {
+      "conf": 0.830872,
+      "end": 11.810047,
+      "start": 11.64,
+      "word": "to"
+    },
+    {
+      "conf": 0.507198,
+      "end": 11.91,
+      "start": 11.810047,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.51,
+      "start": 11.91,
+      "word": "believe"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.56,
+      "start": 13.29,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.65,
+      "start": 13.56,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.8,
+      "start": 13.65,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.811924,
+      "start": 14.46,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.09,
+      "start": 14.85,
+      "word": "think"
+    },
+    {
+      "conf": 0.693671,
+      "end": 15.42,
+      "start": 15.12,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.84,
+      "start": 15.63,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.99,
+      "start": 15.84,
+      "word": "can"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.47,
+      "start": 15.99,
+      "word": "understand"
+    },
+    {
+      "conf": 0.801863,
+      "end": 16.95,
+      "start": 16.59,
+      "word": "there"
+    },
+    {
+      "conf": 0.801863,
+      "end": 17.1,
+      "start": 16.98,
+      "word": "are"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.03,
+      "start": 17.1,
+      "word": "misunderstandings"
+    },
+    {
+      "conf": 0.80951,
+      "end": 18.36,
+      "start": 18.03,
+      "word": "right"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.17,
+      "start": 18.42,
+      "word": "misunderstandings"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.95,
+      "start": 19.17,
+      "word": "happen"
+    }
+  ],
+  "text": "order under a disaster declaration that the a the governor signs when this whole thing started as a reporter how much of the government response to you believe like it and i think it you can understand there are misunderstandings right misunderstandings happen"
+}

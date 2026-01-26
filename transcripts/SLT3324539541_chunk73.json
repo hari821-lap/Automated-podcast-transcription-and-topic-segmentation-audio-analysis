@@ -1,0 +1,359 @@
+{
+  "result": [
+    {
+      "conf": 0.688862,
+      "end": 0.18,
+      "start": 0.0,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.48,
+      "start": 0.24,
+      "word": "burn"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.72,
+      "start": 0.48,
+      "word": "and"
+    },
+    {
+      "conf": 0.393259,
+      "end": 1.14,
+      "start": 0.72,
+      "word": "madeline"
+    },
+    {
+      "conf": 0.96784,
+      "end": 1.29,
+      "start": 1.153927,
+      "word": "do"
+    },
+    {
+      "conf": 0.884326,
+      "end": 1.8,
+      "start": 1.29,
+      "word": "sharm"
+    },
+    {
+      "conf": 0.766199,
+      "end": 2.34,
+      "start": 2.16,
+      "word": "we"
+    },
+    {
+      "conf": 0.766199,
+      "end": 2.4,
+      "start": 2.34,
+      "word": "are"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.64,
+      "start": 2.4,
+      "word": "led"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.79,
+      "start": 2.64,
+      "word": "by"
+    },
+    {
+      "conf": 0.953212,
+      "end": 2.85,
+      "start": 2.79,
+      "word": "a"
+    },
+    {
+      "conf": 0.406022,
+      "end": 3.093081,
+      "start": 2.85,
+      "word": "legion"
+    },
+    {
+      "conf": 0.827185,
+      "end": 3.48,
+      "start": 3.093081,
+      "word": "rigamer"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.6,
+      "start": 3.48,
+      "word": "with"
+    },
+    {
+      "conf": 0.8406,
+      "end": 3.66,
+      "start": 3.6,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.84,
+      "start": 3.66,
+      "word": "little"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.11,
+      "start": 3.84,
+      "word": "boost"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.26,
+      "start": 4.11,
+      "word": "from"
+    },
+    {
+      "conf": 0.382292,
+      "end": 4.5,
+      "start": 4.26,
+      "word": "season"
+    },
+    {
+      "conf": 0.873209,
+      "end": 5.07,
+      "start": 4.5,
+      "word": "matthews"
+    },
+    {
+      "conf": 0.609515,
+      "end": 5.61,
+      "start": 5.43,
+      "word": "been"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.97,
+      "start": 5.61,
+      "word": "richmond"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.108958,
+      "start": 5.97,
+      "word": "is"
+    },
+    {
+      "conf": 0.63192,
+      "end": 6.15,
+      "start": 6.12,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.48,
+      "start": 6.161042,
+      "word": "senior"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.87,
+      "start": 6.48,
+      "word": "director"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.96,
+      "start": 6.87,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.53,
+      "start": 6.96,
+      "word": "podcast"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.34,
+      "start": 7.53,
+      "word": "operations"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.49,
+      "start": 8.34,
+      "word": "here"
+    },
+    {
+      "conf": 0.743062,
+      "end": 8.64,
+      "start": 8.49,
+      "word": "it's"
+    },
+    {
+      "conf": 0.743062,
+      "end": 9.03,
+      "start": 8.64,
+      "word": "late"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.66,
+      "start": 9.54,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.78,
+      "start": 9.66,
+      "word": "i'm"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.99,
+      "start": 9.78,
+      "word": "mary"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.41,
+      "start": 9.99,
+      "word": "harris"
+    },
+    {
+      "conf": 0.701915,
+      "end": 10.77,
+      "start": 10.65,
+      "word": "and"
+    },
+    {
+      "conf": 0.71623,
+      "end": 10.86,
+      "start": 10.77,
+      "word": "go"
+    },
+    {
+      "conf": 0.436997,
+      "end": 11.07,
+      "start": 10.86664,
+      "word": "tracked"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.13,
+      "start": 11.07,
+      "word": "me"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.28,
+      "start": 11.13,
+      "word": "down"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.37,
+      "start": 11.28,
+      "word": "on"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.82,
+      "start": 11.37,
+      "word": "twitter"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.09,
+      "start": 11.82,
+      "word": "or"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.63,
+      "start": 12.27,
+      "word": "acts"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.69,
+      "start": 12.63,
+      "word": "or"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.99,
+      "start": 12.69,
+      "word": "whatever"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.08,
+      "start": 12.99,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.29,
+      "start": 13.08,
+      "word": "called"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.62,
+      "start": 13.29,
+      "word": "now"
+    },
+    {
+      "conf": 0.688166,
+      "end": 14.042759,
+      "start": 13.89,
+      "word": "i'm"
+    },
+    {
+      "conf": 0.570335,
+      "end": 14.22,
+      "start": 14.042759,
+      "word": "not"
+    },
+    {
+      "conf": 0.557332,
+      "end": 14.49,
+      "start": 14.22,
+      "word": "mary's"
+    },
+    {
+      "conf": 0.969938,
+      "end": 14.91,
+      "start": 14.49,
+      "word": "dusk"
+    },
+    {
+      "conf": 0.709153,
+      "end": 15.84,
+      "start": 15.63,
+      "word": "think"
+    },
+    {
+      "conf": 0.827603,
+      "end": 16.26,
+      "start": 15.84,
+      "word": "forcing"
+    },
+    {
+      "conf": 0.464254,
+      "end": 16.588125,
+      "start": 16.47,
+      "word": "kids"
+    },
+    {
+      "conf": 0.535746,
+      "end": 16.74,
+      "start": 16.588125,
+      "word": "kitchen"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.07,
+      "start": 16.74,
+      "word": "tomorrow"
+    }
+  ],
+  "text": "the burn and madeline do sharm we are led by a legion rigamer with a little boost from season matthews been richmond is a senior director of podcast operations here it's late and i'm mary harris and go tracked me down on twitter or acts or whatever it's called now i'm not mary's dusk think forcing kids kitchen tomorrow"
+}

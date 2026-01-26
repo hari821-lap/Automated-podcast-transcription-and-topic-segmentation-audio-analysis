@@ -1,0 +1,281 @@
+{
+  "result": [
+    {
+      "conf": 0.634725,
+      "end": 0.084835,
+      "start": 0.0,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.54,
+      "start": 0.084835,
+      "word": "hospital"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.72,
+      "start": 0.54,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.84,
+      "start": 0.72,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.05,
+      "start": 0.84,
+      "word": "been"
+    },
+    {
+      "conf": 0.46366,
+      "end": 1.47,
+      "start": 1.05,
+      "word": "full"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.62,
+      "start": 1.5,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.04,
+      "start": 1.62,
+      "word": "people"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.43,
+      "start": 2.04,
+      "word": "who"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.64,
+      "start": 2.43,
+      "word": "are"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.09,
+      "start": 2.64,
+      "word": "suffering"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.54,
+      "start": 3.09,
+      "word": "from"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.55,
+      "start": 4.89,
+      "word": "injuries"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.88,
+      "start": 5.55,
+      "word": "or"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.03,
+      "start": 5.88,
+      "word": "heat"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.63,
+      "start": 6.03,
+      "word": "exhaustion"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.72,
+      "start": 6.63,
+      "word": "or"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.993783,
+      "start": 6.72,
+      "word": "whatever"
+    },
+    {
+      "conf": 0.611746,
+      "end": 7.078358,
+      "start": 6.993783,
+      "word": "it"
+    },
+    {
+      "conf": 0.600993,
+      "end": 7.2,
+      "start": 7.078358,
+      "word": "may"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.71,
+      "start": 7.206503,
+      "word": "be"
+    },
+    {
+      "conf": 0.94952,
+      "end": 8.58,
+      "start": 8.1,
+      "word": "ah"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.0,
+      "start": 8.64,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.42,
+      "start": 9.03,
+      "word": "fire"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.99,
+      "start": 9.42,
+      "word": "chief"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.35,
+      "start": 10.02,
+      "word": "told"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.65,
+      "start": 10.35,
+      "word": "us"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.16,
+      "start": 10.65,
+      "word": "that"
+    },
+    {
+      "conf": 0.611758,
+      "end": 11.765815,
+      "start": 11.669802,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.94,
+      "start": 11.815058,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.06,
+      "start": 11.94,
+      "word": "know"
+    },
+    {
+      "conf": 0.802169,
+      "end": 12.296875,
+      "start": 12.06,
+      "word": "there's"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.51,
+      "start": 12.296875,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.05,
+      "start": 12.51,
+      "word": "many"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.43,
+      "start": 13.74,
+      "word": "calls"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.91,
+      "start": 14.49,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.33,
+      "start": 14.94,
+      "word": "from"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.75,
+      "start": 15.36,
+      "word": "from"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.9,
+      "start": 15.81,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.496884,
+      "start": 15.9,
+      "word": "border"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.01,
+      "start": 16.74,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.19,
+      "start": 17.01,
+      "word": "heat"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.12,
+      "start": 17.19,
+      "word": "exhaustion"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.51,
+      "start": 18.12,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.26,
+      "start": 18.6,
+      "word": "related"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.86,
+      "start": 19.32,
+      "word": "issues"
+    }
+  ],
+  "text": "the hospital but it's been full of people who are suffering from injuries or heat exhaustion or whatever it may be ah the fire chief told us that the you know there's so many calls that from from the border for heat exhaustion and related issues"
+}

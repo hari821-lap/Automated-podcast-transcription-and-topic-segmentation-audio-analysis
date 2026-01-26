@@ -1,0 +1,371 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.33,
+      "start": 0.0,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.57,
+      "start": 0.33,
+      "word": "far"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.96,
+      "start": 0.57,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.14,
+      "start": 1.02,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.38,
+      "start": 1.14,
+      "word": "drove"
+    },
+    {
+      "conf": 0.496915,
+      "end": 1.5,
+      "start": 1.38,
+      "word": "their"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.62,
+      "start": 1.5,
+      "word": "from"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.83,
+      "start": 1.62,
+      "word": "san"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.230924,
+      "start": 1.83,
+      "word": "antonio"
+    },
+    {
+      "conf": 0.492685,
+      "end": 2.37,
+      "start": 2.335409,
+      "word": "a"
+    },
+    {
+      "conf": 0.930198,
+      "end": 2.55,
+      "start": 2.37,
+      "word": "two"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.64,
+      "start": 2.55,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.67,
+      "start": 2.64,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.12,
+      "start": 2.67,
+      "word": "half"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.72,
+      "start": 3.18,
+      "word": "hour"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.32,
+      "start": 3.81,
+      "word": "drive"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.92,
+      "start": 4.32,
+      "word": "roughly"
+    },
+    {
+      "conf": 0.49251,
+      "end": 5.4381,
+      "start": 5.04,
+      "word": "by"
+    },
+    {
+      "conf": 0.590643,
+      "end": 5.61,
+      "start": 5.4381,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.57,
+      "start": 6.12,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.23,
+      "start": 6.96,
+      "word": "right"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.5,
+      "start": 7.23,
+      "word": "across"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.59,
+      "start": 7.5,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.86,
+      "start": 7.59,
+      "word": "border"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.041329,
+      "start": 7.86,
+      "word": "from"
+    },
+    {
+      "conf": 0.346744,
+      "end": 8.37,
+      "start": 8.041329,
+      "word": "pages"
+    },
+    {
+      "conf": 0.622079,
+      "end": 8.67,
+      "start": 8.37,
+      "word": "niggers"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.79,
+      "start": 8.67,
+      "word": "which"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.88,
+      "start": 8.79,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.94,
+      "start": 8.88,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.21,
+      "start": 8.94,
+      "word": "huge"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.54,
+      "start": 9.21,
+      "word": "city"
+    },
+    {
+      "conf": 0.847006,
+      "end": 9.63,
+      "start": 9.54,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.26,
+      "start": 9.63,
+      "word": "mexico"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.86,
+      "start": 10.59,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.07,
+      "start": 10.92,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.22,
+      "start": 11.07,
+      "word": "know"
+    },
+    {
+      "conf": 0.455917,
+      "end": 11.43,
+      "start": 11.22,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.61,
+      "start": 11.470932,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.91,
+      "start": 11.61,
+      "word": "mayor"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.09,
+      "start": 11.91,
+      "word": "told"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.18,
+      "start": 12.09,
+      "word": "me"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.33,
+      "start": 12.18,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.63,
+      "start": 12.33,
+      "word": "fifty"
+    },
+    {
+      "conf": 0.68026,
+      "end": 12.99,
+      "start": 12.63,
+      "word": "percent"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.05,
+      "start": 12.99,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.38114,
+      "start": 13.184507,
+      "word": "the"
+    },
+    {
+      "conf": 0.885349,
+      "end": 13.89,
+      "start": 13.421434,
+      "word": "city's"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.94,
+      "start": 14.34,
+      "word": "revenue"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.24,
+      "start": 14.97,
+      "word": "comes"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.51,
+      "start": 15.24,
+      "word": "from"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.47,
+      "start": 15.51,
+      "word": "international"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.73,
+      "start": 17.19,
+      "word": "commerce"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.94,
+      "start": 17.73,
+      "word": "from"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.39,
+      "start": 18.06,
+      "word": "from"
+    },
+    {
+      "conf": 0.542279,
+      "end": 18.81,
+      "start": 18.42,
+      "word": "trucks"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.17,
+      "start": 18.87,
+      "word": "coming"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.381366,
+      "start": 19.17,
+      "word": "across"
+    },
+    {
+      "conf": 0.845885,
+      "end": 19.47,
+      "start": 19.381366,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.890888,
+      "start": 19.47,
+      "word": "bridge"
+    },
+    {
+      "conf": 0.830586,
+      "end": 19.98,
+      "start": 19.890888,
+      "word": "and"
+    }
+  ],
+  "text": "it's far so i drove their from san antonio a two and a half hour drive roughly by it it's right across the border from pages niggers which is a huge city and mexico and you know that the mayor told me that fifty percent of the city's revenue comes from international commerce from from trucks coming across the bridge and"
+}

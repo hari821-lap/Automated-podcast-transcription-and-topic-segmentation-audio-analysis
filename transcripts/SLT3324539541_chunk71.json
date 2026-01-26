@@ -1,0 +1,335 @@
+{
+  "result": [
+    {
+      "conf": 0.481246,
+      "end": 0.63,
+      "start": 0.0,
+      "word": "though"
+    },
+    {
+      "conf": 0.824651,
+      "end": 0.78,
+      "start": 0.69,
+      "word": "i'll"
+    },
+    {
+      "conf": 0.824651,
+      "end": 0.935647,
+      "start": 0.78,
+      "word": "see"
+    },
+    {
+      "conf": 0.603806,
+      "end": 1.02,
+      "start": 0.935647,
+      "word": "you"
+    },
+    {
+      "conf": 0.603806,
+      "end": 1.08,
+      "start": 1.02,
+      "word": "in"
+    },
+    {
+      "conf": 0.603806,
+      "end": 1.56,
+      "start": 1.08,
+      "word": "court"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.98,
+      "start": 1.74,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.13,
+      "start": 1.98,
+      "word": "he"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.37,
+      "start": 2.13,
+      "word": "has"
+    },
+    {
+      "conf": 0.3549,
+      "end": 2.58,
+      "start": 2.37,
+      "word": "don't"
+    },
+    {
+      "conf": 0.605289,
+      "end": 2.79,
+      "start": 2.58,
+      "word": "show"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.0,
+      "start": 2.801841,
+      "word": "any"
+    },
+    {
+      "conf": 0.914776,
+      "end": 3.306042,
+      "start": 3.0,
+      "word": "sign"
+    },
+    {
+      "conf": 0.626812,
+      "end": 3.45,
+      "start": 3.306042,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.08,
+      "start": 3.521196,
+      "word": "wanted"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.77,
+      "start": 4.59,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.19,
+      "start": 4.77,
+      "word": "shift"
+    },
+    {
+      "conf": 0.814789,
+      "end": 5.46,
+      "start": 5.19,
+      "word": "here"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.67,
+      "start": 5.52,
+      "word": "do"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.0,
+      "start": 5.67,
+      "word": "anything"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.48,
+      "start": 6.0,
+      "word": "different"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.77,
+      "start": 7.59,
+      "word": "mean"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.83,
+      "start": 7.77,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.01,
+      "start": 7.83,
+      "word": "think"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.07,
+      "start": 8.01,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.28,
+      "start": 8.07,
+      "word": "lot"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.37,
+      "start": 8.28,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.58,
+      "start": 8.37,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.91,
+      "start": 8.58,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.54,
+      "start": 9.36,
+      "word": "is"
+    },
+    {
+      "conf": 0.608026,
+      "end": 9.66,
+      "start": 9.54,
+      "word": "going"
+    },
+    {
+      "conf": 0.608026,
+      "end": 9.72,
+      "start": 9.66,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.9,
+      "start": 9.72,
+      "word": "have"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.99,
+      "start": 9.9,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.11,
+      "start": 9.99,
+      "word": "get"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.65,
+      "start": 10.11,
+      "word": "results"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.64,
+      "start": 11.46,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.7,
+      "start": 11.64,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.3,
+      "start": 11.7,
+      "word": "courts"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.38,
+      "start": 16.14,
+      "word": "then"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.5,
+      "start": 16.38,
+      "word": "i'm"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.8,
+      "start": 16.5,
+      "word": "super"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.1,
+      "start": 16.8,
+      "word": "grateful"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.22,
+      "start": 17.1,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.31,
+      "start": 17.22,
+      "word": "your"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.614913,
+      "start": 17.31,
+      "word": "time"
+    },
+    {
+      "conf": 0.383534,
+      "end": 17.73,
+      "start": 17.614913,
+      "word": "the"
+    },
+    {
+      "conf": 0.611232,
+      "end": 18.33,
+      "start": 17.73,
+      "word": "reporting"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.69,
+      "start": 18.51,
+      "word": "thanks"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.78,
+      "start": 18.69,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.96,
+      "start": 18.78,
+      "word": "coming"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.052183,
+      "start": 18.96,
+      "word": "on"
+    },
+    {
+      "conf": 0.811214,
+      "end": 19.109019,
+      "start": 19.052183,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.38,
+      "start": 19.109019,
+      "word": "show"
+    },
+    {
+      "conf": 0.462339,
+      "end": 19.95,
+      "start": 19.77,
+      "word": "they"
+    }
+  ],
+  "text": "though i'll see you in court a he has don't show any sign that wanted to shift here do anything different mean i think a lot of this is is going to have to get results in the courts then i'm super grateful for your time the reporting thanks for coming on the show they"
+}

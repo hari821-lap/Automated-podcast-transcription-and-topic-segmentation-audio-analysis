@@ -1,0 +1,359 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.72,
+      "start": 0.51,
+      "word": "not"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.81,
+      "start": 0.72,
+      "word": "have"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.9,
+      "start": 0.81,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.08,
+      "start": 0.9,
+      "word": "full"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.612113,
+      "start": 1.08,
+      "word": "context"
+    },
+    {
+      "conf": 0.506873,
+      "end": 1.678297,
+      "start": 1.62,
+      "word": "or"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.89,
+      "start": 1.678297,
+      "word": "really"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.46,
+      "start": 1.89,
+      "word": "understand"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.67,
+      "start": 2.46,
+      "word": "what"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.82,
+      "start": 2.67,
+      "word": "some"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.88,
+      "start": 2.82,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.03,
+      "start": 2.88,
+      "word": "these"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.27,
+      "start": 3.03,
+      "word": "orders"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.45,
+      "start": 3.27,
+      "word": "may"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.87,
+      "start": 3.45,
+      "word": "mean"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.77,
+      "start": 4.59,
+      "word": "that's"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.98,
+      "start": 4.77,
+      "word": "not"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.22,
+      "start": 4.98,
+      "word": "really"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.28,
+      "start": 5.22,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.58,
+      "start": 5.28,
+      "word": "great"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.18,
+      "start": 5.58,
+      "word": "excuse"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.54,
+      "start": 6.18,
+      "word": "though"
+    },
+    {
+      "conf": 0.778738,
+      "end": 7.438087,
+      "start": 7.29,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.65,
+      "start": 7.438087,
+      "word": "just"
+    },
+    {
+      "conf": 0.922486,
+      "end": 7.8,
+      "start": 7.65,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.1,
+      "start": 7.8,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.94,
+      "start": 8.61,
+      "word": "well"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.12,
+      "start": 8.94,
+      "word": "they're"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.3,
+      "start": 9.12,
+      "word": "not"
+    },
+    {
+      "conf": 0.862235,
+      "end": 10.05,
+      "start": 9.3,
+      "word": "experience"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.2,
+      "start": 10.058266,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.38,
+      "start": 10.2,
+      "word": "me"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.59,
+      "start": 10.38,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.77,
+      "start": 10.59,
+      "word": "kind"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.89,
+      "start": 10.77,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.73,
+      "start": 10.89,
+      "word": "underlines"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.12,
+      "start": 11.94,
+      "word": "one"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.18,
+      "start": 12.12,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.24,
+      "start": 12.18,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.689999,
+      "start": 12.24,
+      "word": "problems"
+    },
+    {
+      "conf": 0.64977,
+      "end": 12.80092,
+      "start": 12.689999,
+      "word": "with"
+    },
+    {
+      "conf": 0.465511,
+      "end": 12.93,
+      "start": 12.81,
+      "word": "his"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.71,
+      "start": 12.93,
+      "word": "operation"
+    },
+    {
+      "conf": 0.525491,
+      "end": 14.970001,
+      "start": 14.790001,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.18,
+      "start": 14.970001,
+      "word": "yeah"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.21,
+      "start": 15.18,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.36,
+      "start": 15.21,
+      "word": "mean"
+    },
+    {
+      "conf": 0.777587,
+      "end": 15.45,
+      "start": 15.36,
+      "word": "it"
+    },
+    {
+      "conf": 0.777587,
+      "end": 15.81,
+      "start": 15.45,
+      "word": "definitely"
+    },
+    {
+      "conf": 0.809082,
+      "end": 16.284509,
+      "start": 15.81,
+      "word": "highlights"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.8,
+      "start": 16.284509,
+      "word": "sort"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.07,
+      "start": 16.8,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.43,
+      "start": 17.16,
+      "word": "why"
+    },
+    {
+      "conf": 0.90421,
+      "end": 17.61,
+      "start": 17.43,
+      "word": "this"
+    },
+    {
+      "conf": 0.90421,
+      "end": 18.0,
+      "start": 17.61,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.233904,
+      "start": 18.053904,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.379768,
+      "start": 18.233904,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.69,
+      "start": 18.417127,
+      "word": "such"
+    },
+    {
+      "conf": 0.860877,
+      "end": 18.93,
+      "start": 18.69,
+      "word": "a"
+    }
+  ],
+  "text": "not have the full context or really understand what some of these orders may mean that's not really a great excuse though and just that like well they're not experience to me that kind of underlines one of the problems with his operation a yeah i mean it definitely highlights sort of why this is this is such a"
+}

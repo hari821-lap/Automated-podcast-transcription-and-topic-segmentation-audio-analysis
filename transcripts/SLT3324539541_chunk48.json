@@ -1,0 +1,323 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.54,
+      "start": 0.0,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.11,
+      "start": 0.84,
+      "word": "what"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.26,
+      "start": 1.11,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.47,
+      "start": 1.26,
+      "word": "can"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.13,
+      "start": 1.47,
+      "word": "do"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.03,
+      "start": 2.88,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.42,
+      "start": 3.03,
+      "word": "prevent"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.63,
+      "start": 3.42,
+      "word": "these"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.9,
+      "start": 3.63,
+      "word": "types"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.02,
+      "start": 3.9,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.8,
+      "start": 4.02,
+      "word": "injuries"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.7,
+      "start": 5.31,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.85,
+      "start": 5.73,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.03,
+      "start": 5.85,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.24,
+      "start": 6.03,
+      "word": "they've"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.54,
+      "start": 6.24,
+      "word": "also"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.84,
+      "start": 6.54,
+      "word": "stood"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.14,
+      "start": 6.84,
+      "word": "by"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.345031,
+      "start": 7.14,
+      "word": "it"
+    },
+    {
+      "conf": 0.834347,
+      "end": 7.77,
+      "start": 7.35,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.16,
+      "start": 7.86,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.43,
+      "start": 8.22,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.7,
+      "start": 8.43,
+      "word": "does"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.0,
+      "start": 8.7,
+      "word": "seem"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.21,
+      "start": 9.0,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.51,
+      "start": 9.21,
+      "word": "the"
+    },
+    {
+      "conf": 0.719888,
+      "end": 10.02,
+      "start": 9.51,
+      "word": "ultimate"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.29,
+      "start": 10.02,
+      "word": "sort"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.457308,
+      "start": 10.29,
+      "word": "of"
+    },
+    {
+      "conf": 0.548704,
+      "end": 10.68,
+      "start": 10.457308,
+      "word": "his"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.34,
+      "start": 10.74,
+      "word": "mentality"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.49,
+      "start": 11.34,
+      "word": "here"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.64,
+      "start": 11.49,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.79,
+      "start": 11.64,
+      "word": "that"
+    },
+    {
+      "conf": 0.89272,
+      "end": 11.97,
+      "start": 11.79,
+      "word": "this"
+    },
+    {
+      "conf": 0.89272,
+      "end": 12.388133,
+      "start": 11.97,
+      "word": "is"
+    },
+    {
+      "conf": 0.567272,
+      "end": 12.77327,
+      "start": 12.54,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.99,
+      "start": 12.77327,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.05,
+      "start": 12.99,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.8,
+      "start": 13.05,
+      "word": "necessary"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.1,
+      "start": 13.8,
+      "word": "thing"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.25,
+      "start": 14.1,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.49,
+      "start": 14.25,
+      "word": "has"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.61,
+      "start": 14.49,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.0,
+      "start": 14.61,
+      "word": "happen"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.06,
+      "start": 15.0,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.48,
+      "start": 15.06,
+      "word": "keep"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.08,
+      "start": 15.48,
+      "word": "these"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.83,
+      "start": 16.29,
+      "word": "migrants"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.13,
+      "start": 16.83,
+      "word": "from"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.49,
+      "start": 17.22,
+      "word": "from"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.82,
+      "start": 17.49,
+      "word": "coming"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.21,
+      "start": 17.82,
+      "word": "here"
+    }
+  ],
+  "text": "they what they can do to prevent these types of injuries but you know they've also stood by it and a it does seem like the ultimate sort of his mentality here is that this is it is a necessary thing that has to happen to keep these migrants from from coming here"
+}

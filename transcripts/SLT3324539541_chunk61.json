@@ -1,0 +1,395 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.69,
+      "start": 0.54,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.02,
+      "start": 0.69,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.38,
+      "start": 1.05,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.56,
+      "start": 1.38,
+      "word": "do"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.8,
+      "start": 1.56,
+      "word": "think"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.98,
+      "start": 1.8,
+      "word": "he"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.28,
+      "start": 1.98,
+      "word": "sees"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.4,
+      "start": 2.28,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.64,
+      "start": 2.4,
+      "word": "more"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.12,
+      "start": 2.64,
+      "word": "as"
+    },
+    {
+      "conf": 0.488347,
+      "end": 3.45,
+      "start": 3.18,
+      "word": "they're"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.53,
+      "start": 3.467231,
+      "word": "defending"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.98,
+      "start": 4.53,
+      "word": "taxes"
+    },
+    {
+      "conf": 0.620153,
+      "end": 5.272591,
+      "start": 4.98,
+      "word": "against"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.88,
+      "start": 5.272591,
+      "word": "something"
+    },
+    {
+      "conf": 0.710618,
+      "end": 6.78,
+      "start": 5.97,
+      "word": "ends"
+    },
+    {
+      "conf": 0.467246,
+      "end": 7.344261,
+      "start": 7.08,
+      "word": "yeah"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.476235,
+      "start": 7.344261,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.98,
+      "start": 7.53,
+      "word": "injuries"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.07,
+      "start": 7.98,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.4,
+      "start": 8.07,
+      "word": "everything"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.55,
+      "start": 8.4,
+      "word": "else"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.76,
+      "start": 8.55,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.94,
+      "start": 8.79,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.09,
+      "start": 8.94,
+      "word": "come"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.36,
+      "start": 9.09,
+      "word": "along"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.530942,
+      "start": 9.36,
+      "word": "with"
+    },
+    {
+      "conf": 0.849027,
+      "end": 9.78,
+      "start": 9.54,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.96,
+      "start": 9.87,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.35,
+      "start": 9.96,
+      "word": "mean"
+    },
+    {
+      "conf": 0.580173,
+      "end": 11.19,
+      "start": 10.98,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.37,
+      "start": 11.198095,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.64,
+      "start": 11.37,
+      "word": "seems"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.27,
+      "start": 11.64,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.87,
+      "start": 12.539073,
+      "word": "at"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.02,
+      "start": 12.87,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.32,
+      "start": 13.02,
+      "word": "point"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.38,
+      "start": 13.32,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.65,
+      "start": 13.38,
+      "word": "state"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.74,
+      "start": 13.65,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.98,
+      "start": 13.74,
+      "word": "trying"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.04,
+      "start": 13.98,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.22,
+      "start": 14.04,
+      "word": "figure"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.28,
+      "start": 14.22,
+      "word": "out"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.37,
+      "start": 14.28,
+      "word": "how"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.43,
+      "start": 14.37,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.88,
+      "start": 14.43,
+      "word": "minimize"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.18,
+      "start": 14.88,
+      "word": "that"
+    },
+    {
+      "conf": 0.321157,
+      "end": 15.39,
+      "start": 15.209999,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.56116,
+      "start": 15.438212,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.75,
+      "start": 15.57,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.84,
+      "start": 15.75,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.17,
+      "start": 15.84,
+      "word": "hasn't"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.68,
+      "start": 16.17,
+      "word": "shifted"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.8,
+      "start": 16.68,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.132968,
+      "start": 16.8,
+      "word": "approach"
+    },
+    {
+      "conf": 0.522434,
+      "end": 17.22,
+      "start": 17.132968,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.52,
+      "start": 17.22,
+      "word": "all"
+    },
+    {
+      "conf": 0.929208,
+      "end": 18.657039,
+      "start": 18.42,
+      "word": "there's"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.93,
+      "start": 18.657039,
+      "word": "something"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.17,
+      "start": 18.93,
+      "word": "else"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.32,
+      "start": 19.17,
+      "word": "has"
+    },
+    {
+      "conf": 0.890175,
+      "end": 19.41,
+      "start": 19.32,
+      "word": "to"
+    },
+    {
+      "conf": 0.529138,
+      "end": 19.649542,
+      "start": 19.41,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.89,
+      "start": 19.649542,
+      "word": "me"
+    }
+  ],
+  "text": "and so i do think he sees it more as they're defending taxes against something ends yeah the injuries and everything else that that come along with it i mean a it seems like at this point the state is trying to figure out how to minimize that but the but it hasn't shifted the approach it all there's something else has to that me"
+}

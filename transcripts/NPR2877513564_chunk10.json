@@ -1,0 +1,365 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.45,
+      "start": 0.09,
+      "word": "say"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.81,
+      "start": 0.45,
+      "word": "yes"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.23,
+      "start": 0.81,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.53,
+      "start": 1.32,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.16,
+      "start": 1.53,
+      "word": "reverse"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.57,
+      "start": 2.97,
+      "word": "possibly"
+    },
+    {
+      "conf": 0.770187,
+      "end": 3.63,
+      "start": 3.57,
+      "word": "i"
+    },
+    {
+      "conf": 0.770187,
+      "end": 3.78,
+      "start": 3.63,
+      "word": "mean"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.96,
+      "start": 3.78,
+      "word": "these"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.05,
+      "start": 3.96,
+      "word": "are"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.41,
+      "start": 4.05,
+      "word": "things"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.62,
+      "start": 4.41,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.045944,
+      "start": 4.62,
+      "word": "russia"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.79,
+      "start": 5.46,
+      "word": "says"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.91,
+      "start": 5.79,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.291237,
+      "start": 5.91,
+      "word": "wanted"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.42,
+      "start": 6.3,
+      "word": "has"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.66,
+      "start": 6.42,
+      "word": "said"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.78,
+      "start": 6.66,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.276094,
+      "start": 6.81,
+      "word": "wanted"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.74,
+      "start": 7.53,
+      "word": "many"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.16,
+      "start": 7.74,
+      "word": "times"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.31,
+      "start": 8.175344,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.61,
+      "start": 8.31,
+      "word": "recent"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.09,
+      "start": 8.61,
+      "word": "years"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.21,
+      "start": 9.09,
+      "word": "the"
+    },
+    {
+      "conf": 0.572081,
+      "end": 9.48,
+      "start": 9.21,
+      "word": "problem"
+    },
+    {
+      "conf": 0.572081,
+      "end": 9.54,
+      "start": 9.48,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.69,
+      "start": 9.54,
+      "word": "that"
+    },
+    {
+      "conf": 0.926581,
+      "end": 9.78,
+      "start": 9.69,
+      "word": "they"
+    },
+    {
+      "conf": 0.571181,
+      "end": 10.08,
+      "start": 9.78,
+      "word": "raise"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.2,
+      "start": 10.092865,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.730195,
+      "start": 10.2,
+      "word": "stakes"
+    },
+    {
+      "conf": 0.691746,
+      "end": 10.92,
+      "start": 10.77,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.1,
+      "start": 10.92,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.19,
+      "start": 11.1,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.37,
+      "start": 11.19,
+      "word": "no"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.76,
+      "start": 11.37,
+      "word": "longer"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.15,
+      "start": 11.76,
+      "word": "just"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.45,
+      "start": 12.15,
+      "word": "about"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.32,
+      "start": 12.45,
+      "word": "renegotiating"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.71,
+      "start": 13.32,
+      "word": "some"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.67,
+      "start": 14.04,
+      "word": "lapsed"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.6,
+      "start": 15.21,
+      "word": "nuclear"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.9,
+      "start": 15.6,
+      "word": "missile"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.2,
+      "start": 15.9,
+      "word": "tree"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.41,
+      "start": 16.2,
+      "word": "these"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.5,
+      "start": 16.41,
+      "word": "are"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.74,
+      "start": 16.5,
+      "word": "things"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.86,
+      "start": 16.74,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.19,
+      "start": 16.86,
+      "word": "russia"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.65183,
+      "start": 17.19,
+      "word": "wanted"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.21,
+      "start": 17.91,
+      "word": "mobo"
+    },
+    {
+      "conf": 0.701011,
+      "end": 18.51,
+      "start": 18.21,
+      "word": "that"
+    },
+    {
+      "conf": 0.847431,
+      "end": 18.904277,
+      "start": 18.56434,
+      "word": "us"
+    },
+    {
+      "conf": 0.645435,
+      "end": 19.08,
+      "start": 18.904277,
+      "word": "says"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.17,
+      "start": 19.08,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.29,
+      "start": 19.17,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.65,
+      "start": 19.29,
+      "word": "left"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.92,
+      "start": 19.65,
+      "word": "these"
+    }
+  ],
+  "text": "say yes to and reverse possibly i mean these are things that russia says it wanted has said it wanted many times in recent years the problem is that they raise the stakes so this is no longer just about renegotiating some lapsed nuclear missile tree these are things that russia wanted mobo that us says that they left these"
+}

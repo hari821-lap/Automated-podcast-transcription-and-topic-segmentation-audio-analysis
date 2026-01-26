@@ -1,0 +1,401 @@
+{
+  "result": [
+    {
+      "conf": 0.445179,
+      "end": 0.38003,
+      "start": 0.09,
+      "word": "dab"
+    },
+    {
+      "conf": 0.517819,
+      "end": 0.44806,
+      "start": 0.38003,
+      "word": "the"
+    },
+    {
+      "conf": 0.688804,
+      "end": 0.78,
+      "start": 0.44806,
+      "word": "stage"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.05,
+      "start": 0.87,
+      "word": "come"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.17,
+      "start": 1.05,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.26,
+      "start": 1.17,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.56,
+      "start": 1.26,
+      "word": "drops"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.65,
+      "start": 1.56,
+      "word": "and"
+    },
+    {
+      "conf": 0.56722,
+      "end": 1.95,
+      "start": 1.65,
+      "word": "buoys"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.04,
+      "start": 1.95,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.22,
+      "start": 2.04,
+      "word": "there"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.52,
+      "start": 2.22,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.17,
+      "start": 3.48,
+      "word": "legally"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.83,
+      "start": 4.2,
+      "word": "questionable"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.82,
+      "start": 5.58,
+      "word": "what's"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.27,
+      "start": 5.82,
+      "word": "mexico"
+    },
+    {
+      "conf": 0.886886,
+      "end": 6.57,
+      "start": 6.27,
+      "word": "saying"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.72,
+      "start": 6.57,
+      "word": "about"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.81,
+      "start": 6.72,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.99,
+      "start": 6.81,
+      "word": "whole"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.62,
+      "start": 6.99,
+      "word": "international"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.13,
+      "start": 7.62,
+      "word": "waters"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.43,
+      "start": 8.13,
+      "word": "thing"
+    },
+    {
+      "conf": 0.842913,
+      "end": 8.696573,
+      "start": 8.46,
+      "word": "find"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.785288,
+      "start": 8.696573,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.94,
+      "start": 8.785288,
+      "word": "these"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.36,
+      "start": 8.94,
+      "word": "buoys"
+    },
+    {
+      "conf": 0.807571,
+      "end": 9.45,
+      "start": 9.36,
+      "word": "are"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.87,
+      "start": 9.45,
+      "word": "sitting"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.23,
+      "start": 9.87,
+      "word": "there"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.95,
+      "start": 10.71,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.04,
+      "start": 10.95,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.28,
+      "start": 11.04,
+      "word": "rio"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.79,
+      "start": 11.28,
+      "word": "grande"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.3,
+      "start": 11.88,
+      "word": "mexico"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.39,
+      "start": 12.3,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.72,
+      "start": 12.39,
+      "word": "not"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.99,
+      "start": 12.72,
+      "word": "happy"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.2,
+      "start": 12.99,
+      "word": "about"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.32,
+      "start": 13.2,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.62,
+      "start": 13.53,
+      "word": "the"
+    },
+    {
+      "conf": 0.808311,
+      "end": 14.01,
+      "start": 13.62,
+      "word": "buoys"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.13,
+      "start": 14.01,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.55,
+      "start": 14.13,
+      "word": "sure"
+    },
+    {
+      "conf": 0.588949,
+      "end": 15.299999,
+      "start": 15.119999,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.42,
+      "start": 15.3,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.75,
+      "start": 15.48,
+      "word": "seems"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.87,
+      "start": 15.75,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.99,
+      "start": 15.87,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.2,
+      "start": 15.99,
+      "word": "headed"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.32,
+      "start": 16.2,
+      "word": "for"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.35,
+      "start": 16.32,
+      "word": "a"
+    },
+    {
+      "conf": 0.500383,
+      "end": 16.71,
+      "start": 16.35,
+      "word": "lawsuit"
+    },
+    {
+      "conf": 0.75587,
+      "end": 16.92,
+      "start": 16.81014,
+      "word": "is"
+    },
+    {
+      "conf": 0.300405,
+      "end": 17.16,
+      "start": 16.92,
+      "word": "growing"
+    },
+    {
+      "conf": 0.507668,
+      "end": 17.277909,
+      "start": 17.192911,
+      "word": "and"
+    },
+    {
+      "conf": 0.748242,
+      "end": 17.37,
+      "start": 17.277909,
+      "word": "end"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.46,
+      "start": 17.37,
+      "word": "up"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.79,
+      "start": 17.46,
+      "word": "getting"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.24,
+      "start": 17.85,
+      "word": "settled"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.33,
+      "start": 18.24,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.51,
+      "start": 18.33,
+      "word": "some"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.663873,
+      "start": 18.51,
+      "word": "way"
+    },
+    {
+      "conf": 0.69989,
+      "end": 18.78,
+      "start": 18.663873,
+      "word": "and"
+    },
+    {
+      "conf": 0.808766,
+      "end": 19.23,
+      "start": 18.78,
+      "word": "court"
+    },
+    {
+      "conf": 0.779809,
+      "end": 19.95,
+      "start": 19.83,
+      "word": "the"
+    }
+  ],
+  "text": "dab the stage come in and drops and buoys in there is legally questionable what's mexico saying about the whole international waters thing find that these buoys are sitting there in the rio grande mexico is not happy about the the buoys for sure it it seems like it's headed for a lawsuit is growing and end up getting settled in some way and court the"
+}

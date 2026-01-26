@@ -1,0 +1,323 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.36,
+      "start": 0.0,
+      "word": "these"
+    },
+    {
+      "conf": 0.647159,
+      "end": 0.45,
+      "start": 0.36,
+      "word": "are"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.78,
+      "start": 0.45,
+      "word": "mostly"
+    },
+    {
+      "conf": 0.717398,
+      "end": 1.53,
+      "start": 0.78,
+      "word": "nonstarters"
+    },
+    {
+      "conf": 0.609677,
+      "end": 1.65,
+      "start": 1.53,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.01,
+      "start": 1.65,
+      "word": "moscow"
+    },
+    {
+      "conf": 0.616342,
+      "end": 2.28,
+      "start": 2.01,
+      "word": "new"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.49,
+      "start": 2.28,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.36,
+      "start": 3.03,
+      "word": "charles"
+    },
+    {
+      "conf": 0.701193,
+      "end": 3.48,
+      "start": 3.36,
+      "word": "if"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.6,
+      "start": 3.48,
+      "word": "we"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.9,
+      "start": 3.6,
+      "word": "assume"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.05,
+      "start": 3.9,
+      "word": "that"
+    },
+    {
+      "conf": 0.723913,
+      "end": 4.35,
+      "start": 4.05,
+      "word": "potent"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.71,
+      "start": 4.35,
+      "word": "hasn't"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.46,
+      "start": 5.07,
+      "word": "quite"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.15,
+      "start": 5.46,
+      "word": "decided"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.39,
+      "start": 6.15,
+      "word": "yet"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.63,
+      "start": 6.39,
+      "word": "whether"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.81,
+      "start": 6.63,
+      "word": "he's"
+    },
+    {
+      "conf": 0.737835,
+      "end": 7.05,
+      "start": 6.81,
+      "word": "gonna"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.53,
+      "start": 7.26,
+      "word": "mount"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.59,
+      "start": 7.53,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.77,
+      "start": 7.59,
+      "word": "full"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.07,
+      "start": 7.77,
+      "word": "scale"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.55,
+      "start": 8.07,
+      "word": "invasion"
+    },
+    {
+      "conf": 0.708205,
+      "end": 8.61,
+      "start": 8.55,
+      "word": "are"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.91,
+      "start": 8.61,
+      "word": "not"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.78,
+      "start": 9.3,
+      "word": "among"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.99,
+      "start": 9.78,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.47,
+      "start": 9.99,
+      "word": "things"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.83,
+      "start": 10.47,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.04,
+      "start": 10.89,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.58,
+      "start": 11.04,
+      "word": "west"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.85,
+      "start": 11.58,
+      "word": "has"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.57,
+      "start": 11.88,
+      "word": "offered"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.99,
+      "start": 12.75,
+      "word": "as"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.01,
+      "start": 13.02,
+      "word": "possible"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.64,
+      "start": 14.28,
+      "word": "off"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.27,
+      "start": 14.64,
+      "word": "ramps"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.63,
+      "start": 15.3,
+      "word": "or"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.41,
+      "start": 15.63,
+      "word": "concessions"
+    },
+    {
+      "conf": 0.798022,
+      "end": 16.83,
+      "start": 16.56,
+      "word": "are"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.22,
+      "start": 16.86,
+      "word": "any"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.34,
+      "start": 17.22,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.82,
+      "start": 17.34,
+      "word": "those"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.94,
+      "start": 17.82,
+      "word": "do"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.12,
+      "start": 17.94,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.45,
+      "start": 18.12,
+      "word": "think"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.78,
+      "start": 18.45,
+      "word": "enough"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.93,
+      "start": 18.78,
+      "word": "for"
+    },
+    {
+      "conf": 0.446584,
+      "end": 19.35,
+      "start": 18.93,
+      "word": "potent"
+    },
+    {
+      "conf": 0.405315,
+      "end": 19.92,
+      "start": 19.375972,
+      "word": "to"
+    }
+  ],
+  "text": "these are mostly nonstarters and moscow new it charles if we assume that potent hasn't quite decided yet whether he's gonna mount a full scale invasion are not among the things that the west has offered as possible off ramps or concessions are any of those do you think enough for potent to"
+}

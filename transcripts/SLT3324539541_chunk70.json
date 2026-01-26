@@ -1,0 +1,317 @@
+{
+  "result": [
+    {
+      "conf": 0.413049,
+      "end": 0.75,
+      "start": 0.48,
+      "word": "aiden"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.2,
+      "start": 0.78,
+      "word": "attempt"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.38299,
+      "start": 1.2,
+      "word": "to"
+    },
+    {
+      "conf": 0.690772,
+      "end": 1.47,
+      "start": 1.38299,
+      "word": "the"
+    },
+    {
+      "conf": 0.792438,
+      "end": 1.948762,
+      "start": 1.473849,
+      "word": "responded"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.25,
+      "start": 1.948762,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.6,
+      "start": 6.09,
+      "word": "obviously"
+    },
+    {
+      "conf": 0.690739,
+      "end": 6.78,
+      "start": 6.6,
+      "word": "there"
+    },
+    {
+      "conf": 0.592248,
+      "end": 6.93,
+      "start": 6.78,
+      "word": "as"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.08,
+      "start": 6.93,
+      "word": "the"
+    },
+    {
+      "conf": 0.860495,
+      "end": 7.493477,
+      "start": 7.08,
+      "word": "audit"
+    },
+    {
+      "conf": 0.673394,
+      "end": 7.65,
+      "start": 7.5,
+      "word": "and"
+    },
+    {
+      "conf": 0.60409,
+      "end": 7.914521,
+      "start": 7.65,
+      "word": "there"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.1,
+      "start": 7.98,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.37,
+      "start": 8.1,
+      "word": "know"
+    },
+    {
+      "conf": 0.588625,
+      "end": 8.64,
+      "start": 8.4,
+      "word": "are"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.88,
+      "start": 8.64,
+      "word": "these"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.15,
+      "start": 8.88,
+      "word": "sort"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.36,
+      "start": 9.15,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.93,
+      "start": 9.51,
+      "word": "steps"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.05,
+      "start": 9.93,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.14,
+      "start": 10.05,
+      "word": "are"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.32,
+      "start": 10.14,
+      "word": "being"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.68,
+      "start": 10.32,
+      "word": "taken"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.07,
+      "start": 10.68,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.12,
+      "start": 11.76,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.08,
+      "start": 12.15,
+      "word": "minimize"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.44,
+      "start": 13.17,
+      "word": "people"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.68,
+      "start": 13.44,
+      "word": "getting"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.98,
+      "start": 13.68,
+      "word": "caught"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.1,
+      "start": 13.98,
+      "word": "on"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.16,
+      "start": 14.1,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.46,
+      "start": 14.16,
+      "word": "razor"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.73,
+      "start": 14.46,
+      "word": "wire"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.06,
+      "start": 14.73,
+      "word": "whatever"
+    },
+    {
+      "conf": 0.462171,
+      "end": 15.21,
+      "start": 15.06,
+      "word": "may"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.45,
+      "start": 15.216952,
+      "word": "be"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.69,
+      "start": 15.45,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.93,
+      "start": 15.69,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.74,
+      "start": 16.35,
+      "word": "governor"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.89,
+      "start": 16.74,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.52,
+      "start": 16.89,
+      "word": "clearly"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.0,
+      "start": 17.61,
+      "word": "doubling"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.303464,
+      "start": 18.0,
+      "word": "down"
+    },
+    {
+      "conf": 0.515302,
+      "end": 18.388636,
+      "start": 18.303464,
+      "word": "and"
+    },
+    {
+      "conf": 0.757922,
+      "end": 18.51,
+      "start": 18.388636,
+      "word": "mean"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.63,
+      "start": 18.51,
+      "word": "he's"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.99,
+      "start": 18.63,
+      "word": "telling"
+    },
+    {
+      "conf": 0.886865,
+      "end": 19.088051,
+      "start": 18.99,
+      "word": "the"
+    },
+    {
+      "conf": 0.46209,
+      "end": 19.23,
+      "start": 19.088051,
+      "word": "d"
+    },
+    {
+      "conf": 0.46209,
+      "end": 19.32,
+      "start": 19.23,
+      "word": "o"
+    },
+    {
+      "conf": 0.46209,
+      "end": 19.92,
+      "start": 19.32,
+      "word": "j"
+    }
+  ],
+  "text": "aiden attempt to the responded that obviously there as the audit and there you know are these sort of steps that are being taken to to minimize people getting caught on the razor wire whatever may be but the governor is clearly doubling down and mean he's telling the d o j"
+}

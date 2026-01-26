@@ -1,0 +1,353 @@
+{
+  "result": [
+    {
+      "conf": 0.595803,
+      "end": 0.301106,
+      "start": 0.12,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.54,
+      "start": 0.301106,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.84,
+      "start": 0.54,
+      "word": "seems"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.11,
+      "start": 0.84,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.44,
+      "start": 1.11,
+      "word": "there"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.77,
+      "start": 1.53,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.8,
+      "start": 1.77,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.1,
+      "start": 1.8,
+      "word": "lot"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.34,
+      "start": 2.1,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.12,
+      "start": 2.4,
+      "word": "scrutiny"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.39,
+      "start": 3.12,
+      "word": "over"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.57,
+      "start": 3.39,
+      "word": "who"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.84,
+      "start": 3.57,
+      "word": "gets"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.05,
+      "start": 3.84,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.23,
+      "start": 4.05,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.38,
+      "start": 4.23,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.62,
+      "start": 4.44,
+      "word": "at"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.77,
+      "start": 4.62,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.22,
+      "start": 4.77,
+      "word": "point"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.52,
+      "start": 5.31,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.82,
+      "start": 5.52,
+      "word": "really"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.36,
+      "start": 5.82,
+      "word": "only"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.02,
+      "start": 6.42,
+      "word": "children"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.17,
+      "start": 7.02,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.71,
+      "start": 7.17,
+      "word": "people"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.01,
+      "start": 7.74,
+      "word": "sort"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.07,
+      "start": 8.01,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.49,
+      "start": 8.07,
+      "word": "suffering"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.67,
+      "start": 8.49,
+      "word": "from"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.82,
+      "start": 8.67,
+      "word": "heat"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.45,
+      "start": 8.82,
+      "word": "exhaustion"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.444306,
+      "start": 10.32,
+      "word": "is"
+    },
+    {
+      "conf": 0.648251,
+      "end": 10.524819,
+      "start": 10.444306,
+      "word": "there"
+    },
+    {
+      "conf": 0.83173,
+      "end": 10.65,
+      "start": 10.524819,
+      "word": "any"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.89,
+      "start": 10.65,
+      "word": "sense"
+    },
+    {
+      "conf": 0.701141,
+      "end": 10.976109,
+      "start": 10.89,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.07,
+      "start": 10.976109,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.16,
+      "start": 11.07,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.64,
+      "start": 11.16,
+      "word": "weeks"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.45,
+      "start": 11.7,
+      "word": "since"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.23,
+      "start": 12.6,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.13,
+      "start": 13.65,
+      "word": "email"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.37,
+      "start": 14.13,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.94,
+      "start": 14.37,
+      "word": "sent"
+    },
+    {
+      "conf": 0.812429,
+      "end": 15.63,
+      "start": 15.42,
+      "word": "their"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.84,
+      "start": 15.63,
+      "word": "been"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.11,
+      "start": 15.84,
+      "word": "more"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.77,
+      "start": 16.11,
+      "word": "incidents"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.16,
+      "start": 16.95,
+      "word": "like"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.25,
+      "start": 17.16,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.67,
+      "start": 17.25,
+      "word": "ones"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.82,
+      "start": 17.67,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.88,
+      "start": 17.82,
+      "word": "are"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.3,
+      "start": 17.88,
+      "word": "detailed"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.69,
+      "start": 18.3,
+      "word": "here"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.41,
+      "start": 19.26,
+      "word": "is"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.56,
+      "start": 19.41,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.98,
+      "start": 19.56,
+      "word": "happening"
+    }
+  ],
+  "text": "it it seems like there is a lot of scrutiny over who gets it and it at this point is really only children and people sort of suffering from heat exhaustion is there any sense in in the weeks since this email was sent their been more incidents like the ones that are detailed here is that happening"
+}

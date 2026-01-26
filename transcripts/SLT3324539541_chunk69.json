@@ -1,0 +1,329 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.6,
+      "start": 0.12,
+      "word": "recently"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.81,
+      "start": 0.6,
+      "word": "won"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.59,
+      "start": 0.81,
+      "word": "reelection"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.01,
+      "start": 1.59,
+      "word": "fairly"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.64,
+      "start": 2.01,
+      "word": "easily"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.21,
+      "start": 2.7,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.66,
+      "start": 3.45469,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.84,
+      "start": 3.66,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.47,
+      "start": 3.84,
+      "word": "absolutely"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.5,
+      "start": 4.47,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.71,
+      "start": 4.5,
+      "word": "big"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.98,
+      "start": 4.71,
+      "word": "part"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.25,
+      "start": 4.98,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.67,
+      "start": 5.501526,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.85,
+      "start": 5.67,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.420974,
+      "start": 5.85,
+      "word": "campaign"
+    },
+    {
+      "conf": 0.863977,
+      "end": 6.6,
+      "start": 6.420974,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.78,
+      "start": 6.63,
+      "word": "an"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.08,
+      "start": 6.78,
+      "word": "issue"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.2,
+      "start": 7.08,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.35,
+      "start": 7.2,
+      "word": "was"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.92,
+      "start": 7.35,
+      "word": "raised"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.43,
+      "start": 8.22,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.55,
+      "start": 8.43,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.73,
+      "start": 8.58,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.97,
+      "start": 8.73,
+      "word": "didn't"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.18,
+      "start": 8.97,
+      "word": "seem"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.27,
+      "start": 9.18,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.63,
+      "start": 9.27,
+      "word": "bother"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.08,
+      "start": 9.63,
+      "word": "voters"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.17,
+      "start": 10.08,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.47,
+      "start": 10.17,
+      "word": "mean"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.16,
+      "start": 10.95,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.61,
+      "start": 11.16,
+      "word": "have"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.27,
+      "start": 12.06,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.42,
+      "start": 12.27,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.51,
+      "start": 12.42,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.78,
+      "start": 12.51,
+      "word": "lot"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.14,
+      "start": 12.78,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.8,
+      "start": 13.44,
+      "word": "texas"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.16,
+      "start": 13.8,
+      "word": "voters"
+    },
+    {
+      "conf": 0.768613,
+      "end": 14.34,
+      "start": 14.16,
+      "word": "are"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.64,
+      "start": 14.43,
+      "word": "are"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.21,
+      "start": 14.64,
+      "word": "very"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.69,
+      "start": 15.24,
+      "word": "concerned"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.87,
+      "start": 15.69,
+      "word": "about"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.02,
+      "start": 15.87,
+      "word": "what's"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.68,
+      "start": 16.02,
+      "word": "happening"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.16,
+      "start": 16.71,
+      "word": "on"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.22,
+      "start": 17.16,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.82,
+      "start": 17.22,
+      "word": "border"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.02,
+      "start": 18.33,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.35,
+      "start": 19.14,
+      "word": "this"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.89,
+      "start": 19.35,
+      "word": "is"
+    }
+  ],
+  "text": "recently won reelection fairly easily and this was absolutely a big part of of that campaign and an issue that was raised so it it didn't seem to bother voters i mean you have you know a lot of texas voters are are very concerned about what's happening on the border and this is"
+}

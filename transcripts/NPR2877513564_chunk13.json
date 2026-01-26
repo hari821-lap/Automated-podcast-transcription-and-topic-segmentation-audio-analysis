@@ -1,0 +1,395 @@
+{
+  "result": [
+    {
+      "conf": 0.449358,
+      "end": 0.14383,
+      "start": 0.0,
+      "word": "the"
+    },
+    {
+      "conf": 0.606147,
+      "end": 0.3,
+      "start": 0.15,
+      "word": "are"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.93,
+      "start": 0.3,
+      "word": "presenting"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.38,
+      "start": 0.96,
+      "word": "something"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.47,
+      "start": 1.38,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.53,
+      "start": 1.47,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.89,
+      "start": 1.53,
+      "word": "third"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.19,
+      "start": 1.89,
+      "word": "way"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.25,
+      "start": 2.19,
+      "word": "i"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.4,
+      "start": 2.25,
+      "word": "mean"
+    },
+    {
+      "conf": 0.654825,
+      "end": 2.49,
+      "start": 2.4,
+      "word": "he"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.7,
+      "start": 2.510711,
+      "word": "sort"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.76,
+      "start": 2.7,
+      "word": "of"
+    },
+    {
+      "conf": 0.525029,
+      "end": 3.12,
+      "start": 2.82,
+      "word": "right"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.18,
+      "start": 3.12,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.42,
+      "start": 3.18,
+      "word": "very"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.81,
+      "start": 3.42,
+      "word": "fine"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.2,
+      "start": 3.81,
+      "word": "line"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.77,
+      "start": 4.2,
+      "word": "between"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.61,
+      "start": 5.136917,
+      "word": "certain"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.27,
+      "start": 5.76,
+      "word": "degree"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.42,
+      "start": 6.27,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.81,
+      "start": 6.42,
+      "word": "unity"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.11,
+      "start": 6.81,
+      "word": "among"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.5,
+      "start": 7.11,
+      "word": "western"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.07,
+      "start": 7.5,
+      "word": "nations"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.4,
+      "start": 8.07,
+      "word": "about"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.58,
+      "start": 8.4,
+      "word": "how"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.73,
+      "start": 8.58,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.21,
+      "start": 8.76,
+      "word": "handle"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.66,
+      "start": 9.27,
+      "word": "any"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.93,
+      "start": 9.75,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.44,
+      "start": 10.05,
+      "word": "puppet"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.98,
+      "start": 10.44,
+      "word": "potential"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.31,
+      "start": 10.98,
+      "word": "russian"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.76,
+      "start": 11.31,
+      "word": "invasion"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.82,
+      "start": 11.76,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.3,
+      "start": 11.82,
+      "word": "ukraine"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.96,
+      "start": 12.84,
+      "word": "at"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.05,
+      "start": 12.96,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.32,
+      "start": 13.05,
+      "word": "same"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.65234,
+      "start": 13.32,
+      "word": "time"
+    },
+    {
+      "conf": 0.373194,
+      "end": 13.71,
+      "start": 13.65234,
+      "word": "a"
+    },
+    {
+      "conf": 0.510845,
+      "end": 14.04,
+      "start": 13.714148,
+      "word": "krona"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.4,
+      "start": 14.04,
+      "word": "same"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.49,
+      "start": 14.4,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.61,
+      "start": 14.49,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.76,
+      "start": 14.61,
+      "word": "we"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.15,
+      "start": 14.76,
+      "word": "don't"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.51,
+      "start": 15.36,
+      "word": "we"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.72,
+      "start": 15.51,
+      "word": "can"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.81,
+      "start": 15.75,
+      "word": "we"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.96,
+      "start": 15.81,
+      "word": "can"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.32,
+      "start": 15.96,
+      "word": "find"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.68,
+      "start": 16.32,
+      "word": "ways"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.83,
+      "start": 16.68,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.55,
+      "start": 16.83,
+      "word": "negotiate"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.6,
+      "start": 18.39,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.96,
+      "start": 18.6,
+      "word": "certainly"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.14,
+      "start": 18.96,
+      "word": "isn't"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.26,
+      "start": 19.14,
+      "word": "as"
+    },
+    {
+      "conf": 0.61762,
+      "end": 19.41,
+      "start": 19.26,
+      "word": "much"
+    },
+    {
+      "conf": 0.61762,
+      "end": 19.56,
+      "start": 19.41,
+      "word": "on"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.8,
+      "start": 19.56,
+      "word": "comes"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.95,
+      "start": 19.8,
+      "word": "in"
+    }
+  ],
+  "text": "the are presenting something of a third way i mean he sort of right a very fine line between certain degree of unity among western nations about how to handle any a puppet potential russian invasion of ukraine at the same time a krona same you know we don't we can we can find ways to negotiate so certainly isn't as much on comes in"
+}

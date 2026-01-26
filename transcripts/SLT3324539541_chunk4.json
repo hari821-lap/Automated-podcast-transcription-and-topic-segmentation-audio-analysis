@@ -1,0 +1,401 @@
+{
+  "result": [
+    {
+      "conf": 0.697287,
+      "end": 0.12,
+      "start": 0.09,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.36,
+      "start": 0.12,
+      "word": "lot"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.54,
+      "start": 0.36,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.96,
+      "start": 0.54,
+      "word": "places"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.11,
+      "start": 0.96,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.44,
+      "start": 1.11,
+      "word": "see"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.92,
+      "start": 1.44,
+      "word": "shirts"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.22,
+      "start": 1.92,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.73,
+      "start": 2.25,
+      "word": "jeans"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.85,
+      "start": 2.73,
+      "word": "and"
+    },
+    {
+      "conf": 0.527771,
+      "end": 3.27,
+      "start": 2.85,
+      "word": "close"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.39,
+      "start": 3.27,
+      "word": "that"
+    },
+    {
+      "conf": 0.848651,
+      "end": 3.48,
+      "start": 3.39,
+      "word": "have"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.66,
+      "start": 3.48,
+      "word": "been"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.32,
+      "start": 3.78,
+      "word": "sort"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.41,
+      "start": 4.32,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.8,
+      "start": 4.41,
+      "word": "thrown"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.95,
+      "start": 4.8,
+      "word": "over"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.07,
+      "start": 4.95,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.49,
+      "start": 5.07,
+      "word": "wire"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.88,
+      "start": 5.49,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.18,
+      "start": 5.94,
+      "word": "make"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.27,
+      "start": 6.18,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.6,
+      "start": 6.27,
+      "word": "more"
+    },
+    {
+      "conf": 0.499149,
+      "end": 6.99,
+      "start": 6.66,
+      "word": "cross"
+    },
+    {
+      "conf": 0.691042,
+      "end": 7.08,
+      "start": 6.99,
+      "word": "of"
+    },
+    {
+      "conf": 0.412156,
+      "end": 7.32,
+      "start": 7.08,
+      "word": "all"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.07,
+      "start": 7.8,
+      "word": "there's"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.52,
+      "start": 8.107926,
+      "word": "fence"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.79,
+      "start": 8.52,
+      "word": "that's"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.12,
+      "start": 8.79,
+      "word": "up"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.72,
+      "start": 9.6,
+      "word": "in"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.75,
+      "start": 9.72,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.9,
+      "start": 9.75,
+      "word": "lot"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.96,
+      "start": 9.9,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.77,
+      "start": 9.96,
+      "word": "places"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.19,
+      "start": 11.07,
+      "word": "that"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.34,
+      "start": 11.19,
+      "word": "you'd"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.46,
+      "start": 11.34,
+      "word": "have"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.55,
+      "start": 11.46,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.7,
+      "start": 11.55,
+      "word": "get"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.21,
+      "start": 11.7,
+      "word": "across"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.36,
+      "start": 12.21,
+      "word": "you'd"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.54,
+      "start": 12.36,
+      "word": "have"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.839136,
+      "start": 12.54,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.77,
+      "start": 13.47,
+      "word": "then"
+    },
+    {
+      "conf": 0.736863,
+      "end": 14.19,
+      "start": 13.77,
+      "word": "cross"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.46,
+      "start": 14.197894,
+      "word": "these"
+    },
+    {
+      "conf": 0.391885,
+      "end": 15.0,
+      "start": 14.46,
+      "word": "ranchers"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.15,
+      "start": 15.0,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.36,
+      "start": 15.15,
+      "word": "make"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.48,
+      "start": 15.36,
+      "word": "it"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.72,
+      "start": 15.48,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.84,
+      "start": 15.72,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.23,
+      "start": 15.84,
+      "word": "highway"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.41,
+      "start": 16.23,
+      "word": "which"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.62,
+      "start": 16.41,
+      "word": "is"
+    },
+    {
+      "conf": 0.827077,
+      "end": 16.86,
+      "start": 16.65,
+      "word": "it's"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.13,
+      "start": 16.86,
+      "word": "not"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.31,
+      "start": 17.13,
+      "word": "too"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.7,
+      "start": 17.31,
+      "word": "far"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.03,
+      "start": 17.7,
+      "word": "but"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.17,
+      "start": 18.96,
+      "word": "you're"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.47,
+      "start": 19.17,
+      "word": "not"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.86,
+      "start": 19.68,
+      "word": "you're"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.98,
+      "start": 19.86,
+      "word": "not"
+    }
+  ],
+  "text": "a lot of places you see shirts and jeans and close that have been sort of thrown over the wire to make it more cross of all there's fence that's up in a lot of places that you'd have to get across you'd have to then cross these ranchers to make it to the highway which is it's not too far but you're not you're not"
+}

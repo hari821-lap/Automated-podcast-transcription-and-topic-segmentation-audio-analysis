@@ -1,0 +1,377 @@
+{
+  "result": [
+    {
+      "conf": 0.359177,
+      "end": 0.12,
+      "start": 0.0,
+      "word": "the"
+    },
+    {
+      "conf": 0.957858,
+      "end": 0.45,
+      "start": 0.12,
+      "word": "not"
+    },
+    {
+      "conf": 1.0,
+      "end": 1.56,
+      "start": 1.41,
+      "word": "and"
+    },
+    {
+      "conf": 0.686646,
+      "end": 1.86,
+      "start": 1.56,
+      "word": "that's"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.16,
+      "start": 1.959401,
+      "word": "that's"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.37,
+      "start": 2.16,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.88,
+      "start": 2.46,
+      "word": "centrally"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.18,
+      "start": 2.88,
+      "word": "been"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.27,
+      "start": 3.18,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.75,
+      "start": 3.27,
+      "word": "driving"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.11,
+      "start": 3.75,
+      "word": "force"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.41,
+      "start": 4.11,
+      "word": "behind"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.56,
+      "start": 4.41,
+      "word": "these"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.13,
+      "start": 4.56,
+      "word": "demands"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.67,
+      "start": 5.13,
+      "word": "including"
+    },
+    {
+      "conf": 0.364459,
+      "end": 5.97,
+      "start": 5.7,
+      "word": "what"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.36,
+      "start": 6.261439,
+      "word": "they"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.63,
+      "start": 6.36,
+      "word": "want"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.72,
+      "start": 6.63,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.87,
+      "start": 6.72,
+      "word": "see"
+    },
+    {
+      "conf": 0.732015,
+      "end": 7.17,
+      "start": 6.87,
+      "word": "happen"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.44,
+      "start": 7.17804,
+      "word": "with"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.62,
+      "start": 7.44,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.1,
+      "start": 7.62,
+      "word": "ukraine"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.88,
+      "start": 8.61,
+      "word": "so"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.3,
+      "start": 8.88,
+      "word": "biden"
+    },
+    {
+      "conf": 1.0,
+      "end": 9.45,
+      "start": 9.3,
+      "word": "has"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.05,
+      "start": 9.45,
+      "word": "said"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.77,
+      "start": 10.38,
+      "word": "most"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.86,
+      "start": 10.77,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.01,
+      "start": 10.86,
+      "word": "these"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.34,
+      "start": 11.01,
+      "word": "demands"
+    },
+    {
+      "conf": 0.824606,
+      "end": 11.43,
+      "start": 11.34,
+      "word": "are"
+    },
+    {
+      "conf": 0.668288,
+      "end": 12.24,
+      "start": 11.430001,
+      "word": "nonstarters"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.42,
+      "start": 12.24,
+      "word": "that's"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.87,
+      "start": 12.42,
+      "word": "generally"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.02,
+      "start": 12.87,
+      "word": "been"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.11,
+      "start": 13.02,
+      "word": "the"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.32,
+      "start": 13.11,
+      "word": "view"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.41,
+      "start": 13.32,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.62,
+      "start": 13.41,
+      "word": "much"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.74,
+      "start": 13.62,
+      "word": "of"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.04,
+      "start": 13.74,
+      "word": "nato"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.16,
+      "start": 14.04,
+      "word": "as"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.55,
+      "start": 14.16,
+      "word": "well"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.85,
+      "start": 14.58,
+      "word": "what"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.06,
+      "start": 14.85,
+      "word": "is"
+    },
+    {
+      "conf": 0.790974,
+      "end": 15.33,
+      "start": 15.06,
+      "word": "there"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.48,
+      "start": 15.33,
+      "word": "for"
+    },
+    {
+      "conf": 0.75072,
+      "end": 16.02,
+      "start": 15.48,
+      "word": "potent"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.26,
+      "start": 16.05,
+      "word": "and"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.65,
+      "start": 16.26,
+      "word": "mccrone"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.74,
+      "start": 16.65,
+      "word": "to"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.01,
+      "start": 16.74,
+      "word": "talk"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.22,
+      "start": 17.01,
+      "word": "about"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.52,
+      "start": 17.22,
+      "word": "today"
+    },
+    {
+      "conf": 0.519147,
+      "end": 18.99,
+      "start": 18.63,
+      "word": "well"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.11,
+      "start": 19.02,
+      "word": "you"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.2,
+      "start": 19.11,
+      "word": "know"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.56,
+      "start": 19.2,
+      "word": "mccrone"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.83,
+      "start": 19.56,
+      "word": "comes"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.95,
+      "start": 19.83,
+      "word": "in"
+    }
+  ],
+  "text": "the not and that's that's the centrally been the driving force behind these demands including what they want to see happen with the ukraine so biden has said most of these demands are nonstarters that's generally been the view of much of nato as well what is there for potent and mccrone to talk about today well you know mccrone comes in"
+}
