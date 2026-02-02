@@ -1,61 +1,113 @@
+import os
 import json
 import streamlit as st
 
-# -------- FILE PATHS --------
+# ---------------- CONFIG ----------------
 
-FULL_TRANSCRIPT_FILE = r"C:\Users\hari\Desktop\podcast\transcripts\full_transcript.txt"
-SEGMENTS_FILE = r"C:\Users\hari\Desktop\podcast\week3_outputs\topic_segments.json"
+BASE_DIR = "outputs"
 
-# -------- LOAD FULL TRANSCRIPT --------
+st.set_page_config(
+    page_title="Podcast Transcript Navigator",
+    layout="wide"
+)
 
-with open(FULL_TRANSCRIPT_FILE, "r", encoding="utf-8") as f:
-    full_transcript = f.read()
+st.title("🎧 Podcast Transcript Navigator")
 
-# -------- LOAD SEGMENTS (CASE 2 FIX) --------
+# ---------------- LOAD PODCASTS ----------------
 
-with open(SEGMENTS_FILE, "r", encoding="utf-8") as f:
-    data = json.load(f)
+if not os.path.exists(BASE_DIR):
+    st.error("❌ Outputs directory not found")
+    st.stop()
 
-segments = data["segments"]   # 🔥 IMPORTANT FIX
-
-# -------- STREAMLIT UI --------
-
-st.set_page_config(page_title="Podcast Navigator", layout="wide")
-
-st.title("🎧 Podcast Transcript Navigation & Segment Jumping")
-
-st.markdown("""
-Browse the **full transcript** or instantly jump to **any topic segment**.
-""")
-
-# -------- SIDEBAR --------
-
-st.sidebar.header("📌 Topics")
-
-topic_list = ["Full Transcript"] + [
-    f"{i+1}. {seg['topic']}" for i, seg in enumerate(segments)
+podcasts = [
+    p for p in os.listdir(BASE_DIR)
+    if os.path.isdir(os.path.join(BASE_DIR, p))
 ]
 
-choice = st.sidebar.radio("Choose View", topic_list)
+if not podcasts:
+    st.warning("⚠ No podcasts found in outputs folder")
+    st.stop()
 
-# -------- DISPLAY --------
+selected_podcast = st.selectbox("🎙 Select Podcast", podcasts)
 
-if choice == "Full Transcript":
+# ---------------- LOAD FILES ----------------
 
-    st.subheader("📜 Full Transcript")
-    st.text_area("Complete Transcript", full_transcript, height=550)
+transcript_path = os.path.join(
+    BASE_DIR, selected_podcast, "transcript", "full_transcript.txt"
+)
 
+segments_path = os.path.join(
+    BASE_DIR, selected_podcast, "week3", "topic_segments.json"
+)
+
+if not os.path.exists(transcript_path):
+    st.error("❌ full_transcript.txt not found")
+    st.stop()
+
+if not os.path.exists(segments_path):
+    st.error("❌ topic_segments.json not found")
+    st.stop()
+
+with open(transcript_path, encoding="utf-8") as f:
+    full_text = f.read()
+
+with open(segments_path, encoding="utf-8") as f:
+    segments_data = json.load(f)
+
+segments = segments_data.get("segments", [])
+
+if not segments:
+    st.warning("⚠ No topic segments available")
+
+# ---------------- SIDEBAR NAVIGATION ----------------
+
+st.sidebar.header("📚 Navigate Topics")
+
+nav_items = ["📜 Full Transcript"]
+nav_items += [f"{i+1}. {seg['topic']}" for i, seg in enumerate(segments)]
+
+choice = st.sidebar.radio(
+    "Go to",
+    nav_items,
+    key="navigation_radio"
+)
+
+# ---------------- DISPLAY ----------------
+
+st.markdown("---")
+
+# ===== FULL TRANSCRIPT VIEW =====
+if choice == "📜 Full Transcript":
+    st.header("📜 Full Transcript")
+    st.text_area(
+        "Transcript",
+        full_text,
+        height=550,
+        key="full_transcript_area"
+    )
+
+# ===== TOPIC VIEW =====
 else:
-    idx = topic_list.index(choice) - 1
-    seg = segments[idx]
+    index = int(choice.split(".")[0]) - 1
+    seg = segments[index]
 
-    st.subheader(f"📌 {seg['topic']}")
+    st.header(f"🎯 Topic: {seg.get('topic', 'N/A')}")
 
-    st.markdown(f"**Summary:** {seg['summary']}")
-    st.markdown(f"**Keywords:** {', '.join(seg['keywords'])}")
+    col1, col2 = st.columns([1, 1.5])
 
-    st.markdown("### 📜 Transcript Segment")
+    with col1:
+        st.subheader("📝 Summary")
+        st.write(seg.get("summary", "Not available"))
 
-    st.text_area("Segment Text", seg['text'], height=450)
+        st.subheader("🔑 Keywords")
+        keywords = seg.get("keywords", [])
+        st.write(", ".join(keywords) if keywords else "Not available")
 
-    st.info("⬅ Select another topic from the sidebar")
+    with col2:
+        st.subheader("📄 Segment Text")
+        st.text_area(
+            "Segment Content",
+            seg.get("text", ""),
+            height=350,
+            key=f"segment_text_{index}"
+        )

@@ -200,141 +200,99 @@ from nltk.tokenize import sent_tokenize
 from sklearn.feature_extraction.text import TfidfVectorizer
 from groq import Groq
 
-# ---------------- CONFIG ----------------
-TRANSCRIPT_FILE = r"C:\Users\hari\Desktop\podcast\transcripts\full_transcript.txt"
-OUTPUT_DIR = r"C:\Users\hari\Desktop\podcast\week3_outputs"
-
-CHUNK_SIZE = 1200
+BASE_DIR = "outputs"
 MODEL_NAME = "llama-3.1-8b-instant"
+CHUNK_SIZE = 1200
 
-# API KEY
-GROQ_API_KEY = os.getenv("GROQ_API_KEY")
-if not GROQ_API_KEY:
-    raise ValueError("❌ GROQ_API_KEY not found. Run: setx GROQ_API_KEY \"your_key\"")
+nltk.download("punkt", quiet=True)
 
-os.makedirs(OUTPUT_DIR, exist_ok=True)
+client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 
-# ---------------- HELPERS ----------------
 
 def extract_json(text):
     match = re.search(r"\[\s*{.*?}\s*\]", text, re.S)
-    if match:
-        return match.group()
-    return None
+    return match.group() if match else None
 
-# ---------------- CORE PIPELINE ----------------
-
-def load_transcript(path):
-    print("Loading transcript...")
-    with open(path, "r", encoding="utf-8") as f:
-        return f.read()
 
 def chunk_text(text, size):
-    print("Splitting into small chunks...")
     return [text[i:i+size] for i in range(0, len(text), size)]
 
-def groq_topic_segmentation(chunks):
-    print("Running LLM topic segmentation using GROQ...")
-    client = Groq(api_key=GROQ_API_KEY)
-    all_segments = []
 
-    for i, chunk in enumerate(chunks, 1):
-        print(f"Processing chunk {i}/{len(chunks)}")
+def topic_segmentation(text):
+    segments = []
 
+    for chunk in chunk_text(text, CHUNK_SIZE):
         prompt = f"""
-You are an NLP system.
+Split transcript into topic segments.
+Return JSON only:
 
-Split the transcript into logical topic segments.
-
-Return ONLY valid JSON.
-
-FORMAT:
-[
-  {{"topic":"...", "text":"..."}}
-]
+[{{"topic":"...", "text":"..."}}]
 
 Transcript:
 {chunk}
 """
+        res = client.chat.completions.create(
+            model=MODEL_NAME,
+            messages=[{"role": "user", "content": prompt}],
+            temperature=0.1
+        )
 
-        try:
-            response = client.chat.completions.create(
-                model=MODEL_NAME,
-                messages=[{"role": "user", "content": prompt}],
-                temperature=0.1,
-            )
+        raw = res.choices[0].message.content.strip()
+        js = extract_json(raw)
 
-            raw = response.choices[0].message.content.strip()
-            json_text = extract_json(raw)
+        if js:
+            segments.extend(json.loads(js))
+        else:
+            segments.append({"topic":"General","text":chunk})
 
-            if not json_text:
-                print("⚠ JSON parse failed → fallback used")
-                all_segments.append({"topic": "General Discussion", "text": chunk})
-                continue
+    return segments
 
-            segments = json.loads(json_text)
-            all_segments.extend(segments)
 
-        except Exception as e:
-            print("⚠ LLM Error:", e)
-            all_segments.append({"topic": "General Discussion", "text": chunk})
-
-    return all_segments
-
-def extract_keywords(segments, top_n=6):
-    print("Extracting keywords (TF-IDF)...")
+def extract_keywords(segments):
     texts = [s["text"] for s in segments]
-
     vectorizer = TfidfVectorizer(stop_words="english", max_features=5000)
     tfidf = vectorizer.fit_transform(texts)
     words = vectorizer.get_feature_names_out()
 
     for i, seg in enumerate(segments):
         scores = tfidf[i].toarray()[0]
-        top_idx = scores.argsort()[-top_n:][::-1]
+        top_idx = scores.argsort()[-6:][::-1]
         seg["keywords"] = [words[j] for j in top_idx]
 
     return segments
 
+
 def generate_summaries(segments):
-    print("Generating short summaries...")
     for seg in segments:
-        sents = sent_tokenize(seg["text"])
-        seg["summary"] = " ".join(sents[:2])
+        seg["summary"] = " ".join(sent_tokenize(seg["text"])[:2])
     return segments
 
-def save_outputs(segments):
-    json_path = os.path.join(OUTPUT_DIR, "topic_segments.json")
-    with open(json_path, "w", encoding="utf-8") as f:
-        json.dump({"segments": segments}, f, indent=4, ensure_ascii=False)
 
-    print("\n✅ Output saved:", json_path)
+def process_all():
+    for podcast in os.listdir(BASE_DIR):
+        transcript_path = os.path.join(BASE_DIR, podcast, "transcript", "full_transcript.txt")
 
-def preview(segments, n=5):
-    print("\n🔹 Preview:\n")
-    for i, seg in enumerate(segments[:n], 1):
-        print(f"{i}. {seg['topic']}")
-        print("   Keywords:", ", ".join(seg['keywords']))
-        print("   Summary:", seg['summary'])
-        print("-"*80)
+        if not os.path.exists(transcript_path):
+            continue
 
-# ---------------- MAIN ----------------
+        print("\nSegmenting:", podcast)
 
-def main():
-    nltk.download("punkt", quiet=True)
+        week3_dir = os.path.join(BASE_DIR, podcast, "week3")
+        os.makedirs(week3_dir, exist_ok=True)
 
-    transcript = load_transcript(TRANSCRIPT_FILE)
-    chunks = chunk_text(transcript, CHUNK_SIZE)
+        text = open(transcript_path, encoding="utf-8").read()
 
-    segments = groq_topic_segmentation(chunks)
-    segments = extract_keywords(segments)
-    segments = generate_summaries(segments)
+        segments = topic_segmentation(text)
+        segments = extract_keywords(segments)
+        segments = generate_summaries(segments)
 
-    save_outputs(segments)
-    preview(segments)
+        out = os.path.join(week3_dir, "topic_segments.json")
+        json.dump({"segments":segments}, open(out,"w",encoding="utf-8"), indent=4)
 
-if __name__ == "__main__":
-    main()
+        print("Saved →", out)
+
+
+process_all()
 
 
 
