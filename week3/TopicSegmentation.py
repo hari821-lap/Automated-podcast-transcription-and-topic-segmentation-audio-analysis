@@ -203,20 +203,22 @@ from groq import Groq
 BASE_DIR = "outputs"
 MODEL_NAME = "llama-3.1-8b-instant"
 CHUNK_SIZE = 1200
+TOTAL_DURATION = 3600  # seconds (1 hour estimate)
 
 nltk.download("punkt", quiet=True)
 
 client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 
+# ---------------- HELPERS ----------------
 
 def extract_json(text):
     match = re.search(r"\[\s*{.*?}\s*\]", text, re.S)
     return match.group() if match else None
 
-
 def chunk_text(text, size):
     return [text[i:i+size] for i in range(0, len(text), size)]
 
+# ---------------- TOPIC SEGMENTATION ----------------
 
 def topic_segmentation(text):
     segments = []
@@ -243,10 +245,11 @@ Transcript:
         if js:
             segments.extend(json.loads(js))
         else:
-            segments.append({"topic":"General","text":chunk})
+            segments.append({"topic": "General", "text": chunk})
 
     return segments
 
+# ---------------- KEYWORDS ----------------
 
 def extract_keywords(segments):
     texts = [s["text"] for s in segments]
@@ -261,21 +264,38 @@ def extract_keywords(segments):
 
     return segments
 
+# ---------------- SUMMARIES ----------------
 
 def generate_summaries(segments):
     for seg in segments:
         seg["summary"] = " ".join(sent_tokenize(seg["text"])[:2])
     return segments
 
+# ---------------- TIMESTAMPS (FIXED) ----------------
+
+def assign_timestamps(segments, duration=TOTAL_DURATION):
+    total = len(segments)
+    for i, seg in enumerate(segments):
+        start = int((i / total) * duration)
+        end = int(((i + 1) / total) * duration)
+        seg["timestamp"] = {
+            "start": start,
+            "end": end
+        }
+    return segments
+
+# ---------------- MAIN ----------------
 
 def process_all():
     for podcast in os.listdir(BASE_DIR):
-        transcript_path = os.path.join(BASE_DIR, podcast, "transcript", "full_transcript.txt")
+        transcript_path = os.path.join(
+            BASE_DIR, podcast, "transcript", "full_transcript.txt"
+        )
 
         if not os.path.exists(transcript_path):
             continue
 
-        print("\nSegmenting:", podcast)
+        print("Processing:", podcast)
 
         week3_dir = os.path.join(BASE_DIR, podcast, "week3")
         os.makedirs(week3_dir, exist_ok=True)
@@ -285,12 +305,12 @@ def process_all():
         segments = topic_segmentation(text)
         segments = extract_keywords(segments)
         segments = generate_summaries(segments)
+        segments = assign_timestamps(segments)  # ✅ FIX
 
         out = os.path.join(week3_dir, "topic_segments.json")
-        json.dump({"segments":segments}, open(out,"w",encoding="utf-8"), indent=4)
+        json.dump({"segments": segments}, open(out, "w", encoding="utf-8"), indent=4)
 
         print("Saved →", out)
-
 
 process_all()
 

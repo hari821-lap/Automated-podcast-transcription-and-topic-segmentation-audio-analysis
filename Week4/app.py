@@ -1,22 +1,24 @@
 import os
 import json
 import streamlit as st
+from wordcloud import WordCloud
+import matplotlib.pyplot as plt
 
 # ---------------- CONFIG ----------------
 
 BASE_DIR = "outputs"
 
 st.set_page_config(
-    page_title="Podcast Transcript Navigator",
+    page_title="Podcast AI Navigator",
     layout="wide"
 )
 
-st.title("🎧 Podcast Transcript Navigator")
+st.title("🎧 Podcast AI Navigator")
 
 # ---------------- LOAD PODCASTS ----------------
 
 if not os.path.exists(BASE_DIR):
-    st.error("❌ Outputs directory not found")
+    st.error("❌ Outputs folder not found")
     st.stop()
 
 podcasts = [
@@ -24,90 +26,132 @@ podcasts = [
     if os.path.isdir(os.path.join(BASE_DIR, p))
 ]
 
-if not podcasts:
-    st.warning("⚠ No podcasts found in outputs folder")
-    st.stop()
-
 selected_podcast = st.selectbox("🎙 Select Podcast", podcasts)
 
-# ---------------- LOAD FILES ----------------
-
-transcript_path = os.path.join(
-    BASE_DIR, selected_podcast, "transcript", "full_transcript.txt"
-)
+# ---------------- LOAD DATA ----------------
 
 segments_path = os.path.join(
     BASE_DIR, selected_podcast, "week3", "topic_segments.json"
 )
 
-if not os.path.exists(transcript_path):
-    st.error("❌ full_transcript.txt not found")
-    st.stop()
+transcript_path = os.path.join(
+    BASE_DIR, selected_podcast, "transcript", "full_transcript.txt"
+)
 
-if not os.path.exists(segments_path):
-    st.error("❌ topic_segments.json not found")
-    st.stop()
+with open(segments_path, encoding="utf-8") as f:
+    segments = json.load(f)["segments"]
 
 with open(transcript_path, encoding="utf-8") as f:
     full_text = f.read()
 
-with open(segments_path, encoding="utf-8") as f:
-    segments_data = json.load(f)
+# ---------------- SESSION STATE ----------------
 
-segments = segments_data.get("segments", [])
+if "selected_index" not in st.session_state:
+    st.session_state.selected_index = 0
 
-if not segments:
-    st.warning("⚠ No topic segments available")
+# ---------------- COLORS ----------------
 
-# ---------------- SIDEBAR NAVIGATION ----------------
+COLORS = [
+    "#4CAF50", "#2196F3", "#FF9800",
+    "#9C27B0", "#F44336", "#00BCD4",
+    "#795548", "#3F51B5"
+]
 
-st.sidebar.header("📚 Navigate Topics")
+def color(i):
+    return COLORS[i % len(COLORS)]
 
-nav_items = ["📜 Full Transcript"]
-nav_items += [f"{i+1}. {seg['topic']}" for i, seg in enumerate(segments)]
+# ---------------- SIDEBAR ----------------
 
-choice = st.sidebar.radio(
-    "Go to",
-    nav_items,
-    key="navigation_radio"
+st.sidebar.header("📚 Topics")
+
+topics = [f"{i+1}. {s['topic']}" for i, s in enumerate(segments)]
+choice = st.sidebar.radio("Navigate", topics)
+
+st.session_state.selected_index = int(choice.split(".")[0]) - 1
+
+# ---------------- TIMELINE ----------------
+
+st.subheader("🕒 Podcast Timeline")
+
+total_segments = len(segments)
+
+selected = st.slider(
+    "Move across podcast",
+    min_value=1,
+    max_value=total_segments,
+    value=st.session_state.selected_index + 1
 )
 
-# ---------------- DISPLAY ----------------
+st.session_state.selected_index = selected - 1
+
+# ---- VISUAL SEGMENT BAR ----
+
+bar_html = ""
+for i in range(total_segments):
+    bar_html += f"""
+    <div style="
+        flex:1;
+        height:10px;
+        background:{color(i)};
+        margin-right:2px;
+        border-radius:4px;">
+    </div>
+    """
+
+st.markdown(
+    f"""
+    <div style="display:flex; width:100%; margin-top:-10px;">
+        {bar_html}
+    </div>
+    """,
+    unsafe_allow_html=True
+)
 
 st.markdown("---")
 
-# ===== FULL TRANSCRIPT VIEW =====
-if choice == "📜 Full Transcript":
-    st.header("📜 Full Transcript")
+# ---------------- DISPLAY CONTENT ----------------
+
+seg = segments[st.session_state.selected_index]
+
+st.header(f"🎯 Topic {st.session_state.selected_index + 1}: {seg['topic']}")
+
+left, right = st.columns([1, 1.6])
+
+with left:
+    st.subheader("📝 Summary")
+    st.write(seg.get("summary", "Not available"))
+
+    st.subheader("🔑 Keywords")
+    st.write(", ".join(seg.get("keywords", [])))
+
+    ts = seg.get("timestamp", {})
+    st.subheader("⏱ Timestamp")
+    st.write(f"{ts.get('start', '?')}s → {ts.get('end', '?')}s")
+
+    # ---- WORD CLOUD ----
+    st.subheader("☁ Word Cloud")
+
+    wc_text = " ".join(seg.get("keywords", [])) or seg.get("text", "")
+    wc = WordCloud(
+        width=400,
+        height=300,
+        background_color="white"
+    ).generate(wc_text)
+
+    fig, ax = plt.subplots()
+    ax.imshow(wc)
+    ax.axis("off")
+    st.pyplot(fig)
+
+with right:
+    st.subheader("📄 Segment Transcript")
     st.text_area(
-        "Transcript",
-        full_text,
-        height=550,
-        key="full_transcript_area"
+        "Segment Text",
+        seg.get("text", ""),
+        height=420
     )
 
-# ===== TOPIC VIEW =====
-else:
-    index = int(choice.split(".")[0]) - 1
-    seg = segments[index]
+# ---------------- FULL TRANSCRIPT ----------------
 
-    st.header(f"🎯 Topic: {seg.get('topic', 'N/A')}")
-
-    col1, col2 = st.columns([1, 1.5])
-
-    with col1:
-        st.subheader("📝 Summary")
-        st.write(seg.get("summary", "Not available"))
-
-        st.subheader("🔑 Keywords")
-        keywords = seg.get("keywords", [])
-        st.write(", ".join(keywords) if keywords else "Not available")
-
-    with col2:
-        st.subheader("📄 Segment Text")
-        st.text_area(
-            "Segment Content",
-            seg.get("text", ""),
-            height=350,
-            key=f"segment_text_{index}"
-        )
+with st.expander("📜 View Full Transcript"):
+    st.text_area("Transcript", full_text, height=400)
