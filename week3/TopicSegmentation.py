@@ -192,6 +192,129 @@
 
 # print("Week 3 pipeline completed successfully!")
 
+# import os
+# import json
+# import re
+# import nltk
+# from nltk.tokenize import sent_tokenize
+# from sklearn.feature_extraction.text import TfidfVectorizer
+# from groq import Groq
+
+# BASE_DIR = "outputs"
+# MODEL_NAME = "llama-3.1-8b-instant"
+# CHUNK_SIZE = 1200
+# TOTAL_DURATION = 3600  # seconds (1 hour estimate)
+
+# nltk.download("punkt", quiet=True)
+
+# client = Groq(api_key=os.getenv("GROQ_API_KEY"))
+
+# # ---------------- HELPERS ----------------
+
+# def extract_json(text):
+#     match = re.search(r"\[\s*{.*?}\s*\]", text, re.S)
+#     return match.group() if match else None
+
+# def chunk_text(text, size):
+#     return [text[i:i+size] for i in range(0, len(text), size)]
+
+# # ---------------- TOPIC SEGMENTATION ----------------
+
+# def topic_segmentation(text):
+#     segments = []
+
+#     for chunk in chunk_text(text, CHUNK_SIZE):
+#         prompt = f"""
+# Split transcript into topic segments.
+# Return JSON only:
+
+# [{{"topic":"...", "text":"..."}}]
+
+# Transcript:
+# {chunk}
+# """
+#         res = client.chat.completions.create(
+#             model=MODEL_NAME,
+#             messages=[{"role": "user", "content": prompt}],
+#             temperature=0.1
+#         )
+
+#         raw = res.choices[0].message.content.strip()
+#         js = extract_json(raw)
+
+#         if js:
+#             segments.extend(json.loads(js))
+#         else:
+#             segments.append({"topic": "General", "text": chunk})
+
+#     return segments
+
+# # ---------------- KEYWORDS ----------------
+
+# def extract_keywords(segments):
+#     texts = [s["text"] for s in segments]
+#     vectorizer = TfidfVectorizer(stop_words="english", max_features=5000)
+#     tfidf = vectorizer.fit_transform(texts)
+#     words = vectorizer.get_feature_names_out()
+
+#     for i, seg in enumerate(segments):
+#         scores = tfidf[i].toarray()[0]
+#         top_idx = scores.argsort()[-6:][::-1]
+#         seg["keywords"] = [words[j] for j in top_idx]
+
+#     return segments
+
+# # ---------------- SUMMARIES ----------------
+
+# def generate_summaries(segments):
+#     for seg in segments:
+#         seg["summary"] = " ".join(sent_tokenize(seg["text"])[:2])
+#     return segments
+
+# # ---------------- TIMESTAMPS (FIXED) ----------------
+
+# def assign_timestamps(segments, duration=TOTAL_DURATION):
+#     total = len(segments)
+#     for i, seg in enumerate(segments):
+#         start = int((i / total) * duration)
+#         end = int(((i + 1) / total) * duration)
+#         seg["timestamp"] = {
+#             "start": start,
+#             "end": end
+#         }
+#     return segments
+
+# # ---------------- MAIN ----------------
+
+# def process_all():
+#     for podcast in os.listdir(BASE_DIR):
+#         transcript_path = os.path.join(
+#             BASE_DIR, podcast, "transcript", "full_transcript.txt"
+#         )
+
+#         if not os.path.exists(transcript_path):
+#             continue
+
+#         print("Processing:", podcast)
+
+#         week3_dir = os.path.join(BASE_DIR, podcast, "week3")
+#         os.makedirs(week3_dir, exist_ok=True)
+
+#         text = open(transcript_path, encoding="utf-8").read()
+
+#         segments = topic_segmentation(text)
+#         segments = extract_keywords(segments)
+#         segments = generate_summaries(segments)
+#         segments = assign_timestamps(segments)  # ✅ FIX
+
+#         out = os.path.join(week3_dir, "topic_segments.json")
+#         json.dump({"segments": segments}, open(out, "w", encoding="utf-8"), indent=4)
+
+#         print("Saved →", out)
+
+# process_all()
+
+
 import os
 import json
 import re
@@ -200,10 +323,11 @@ from nltk.tokenize import sent_tokenize
 from sklearn.feature_extraction.text import TfidfVectorizer
 from groq import Groq
 
-BASE_DIR = "outputs"
+TRANSCRIPT_DIR = "transcripts"
+OUTPUT_BASE = "outputs"
+
 MODEL_NAME = "llama-3.1-8b-instant"
-CHUNK_SIZE = 1200
-TOTAL_DURATION = 3600  # seconds (1 hour estimate)
+SEGMENT_DURATION = 180  # 3 minutes
 
 nltk.download("punkt", quiet=True)
 
@@ -211,28 +335,86 @@ client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 
 # ---------------- HELPERS ----------------
 
+def seconds_to_mmss(sec):
+    m = int(sec // 60)
+    s = int(sec % 60)
+    return f"{m:02d}:{s:02d}"
+
 def extract_json(text):
     match = re.search(r"\[\s*{.*?}\s*\]", text, re.S)
     return match.group() if match else None
 
-def chunk_text(text, size):
-    return [text[i:i+size] for i in range(0, len(text), size)]
+# ---------------- LOAD WORD TIMINGS ----------------
+
+def load_word_timings(base_name):
+    words = []
+
+    files = sorted([
+        f for f in os.listdir(TRANSCRIPT_DIR)
+        if f.startswith(base_name) and f.endswith(".json")
+    ])
+
+    for f in files:
+        with open(os.path.join(TRANSCRIPT_DIR, f), encoding="utf-8") as jf:
+            data = json.load(jf)
+            for w in data.get("result", []):
+                words.append({
+                    "word": w["word"],
+                    "start": w["start"],
+                    "end": w["end"]
+                })
+
+    return words
+
+# ---------------- BUILD 3-MINUTE SEGMENTS ----------------
+
+def build_time_segments(words):
+
+    segments = []
+    if not words:
+        return segments
+
+    current = []
+    seg_start = words[0]["start"]
+
+    for w in words:
+        current.append(w["word"])
+
+        if w["end"] - seg_start >= SEGMENT_DURATION:
+            segments.append({
+                "text": " ".join(current),
+                "start": seg_start,
+                "end": w["end"]
+            })
+            current = []
+            seg_start = w["end"]
+
+    if current:
+        segments.append({
+            "text": " ".join(current),
+            "start": seg_start,
+            "end": words[-1]["end"]
+        })
+
+    return segments
 
 # ---------------- TOPIC SEGMENTATION ----------------
 
-def topic_segmentation(text):
-    segments = []
+def topic_segmentation(time_segments):
 
-    for chunk in chunk_text(text, CHUNK_SIZE):
+    final_segments = []
+
+    for seg in time_segments:
         prompt = f"""
-Split transcript into topic segments.
+Find the main topic of this podcast segment.
 Return JSON only:
 
 [{{"topic":"...", "text":"..."}}]
 
 Transcript:
-{chunk}
+{seg["text"]}
 """
+
         res = client.chat.completions.create(
             model=MODEL_NAME,
             messages=[{"role": "user", "content": prompt}],
@@ -243,11 +425,19 @@ Transcript:
         js = extract_json(raw)
 
         if js:
-            segments.extend(json.loads(js))
+            data = json.loads(js)[0]
+            data["start"] = seg["start"]
+            data["end"] = seg["end"]
+            final_segments.append(data)
         else:
-            segments.append({"topic": "General", "text": chunk})
+            final_segments.append({
+                "topic": "General",
+                "text": seg["text"],
+                "start": seg["start"],
+                "end": seg["end"]
+            })
 
-    return segments
+    return final_segments
 
 # ---------------- KEYWORDS ----------------
 
@@ -264,55 +454,61 @@ def extract_keywords(segments):
 
     return segments
 
-# ---------------- SUMMARIES ----------------
+# ---------------- SUMMARY ----------------
 
 def generate_summaries(segments):
     for seg in segments:
         seg["summary"] = " ".join(sent_tokenize(seg["text"])[:2])
     return segments
 
-# ---------------- TIMESTAMPS (FIXED) ----------------
+# ---------------- FORMAT TIMESTAMPS ----------------
 
-def assign_timestamps(segments, duration=TOTAL_DURATION):
-    total = len(segments)
-    for i, seg in enumerate(segments):
-        start = int((i / total) * duration)
-        end = int(((i + 1) / total) * duration)
+def format_timestamps(segments):
+    for seg in segments:
         seg["timestamp"] = {
-            "start": start,
-            "end": end
+            "start": seconds_to_mmss(seg["start"]),
+            "end": seconds_to_mmss(seg["end"])
         }
+        del seg["start"]
+        del seg["end"]
     return segments
 
 # ---------------- MAIN ----------------
 
 def process_all():
-    for podcast in os.listdir(BASE_DIR):
-        transcript_path = os.path.join(
-            BASE_DIR, podcast, "transcript", "full_transcript.txt"
-        )
 
-        if not os.path.exists(transcript_path):
-            continue
+    transcripts = [
+        f for f in os.listdir(TRANSCRIPT_DIR)
+        if f.endswith("_full_transcript.txt")
+    ]
 
-        print("Processing:", podcast)
+    for file in transcripts:
 
-        week3_dir = os.path.join(BASE_DIR, podcast, "week3")
-        os.makedirs(week3_dir, exist_ok=True)
+        base_name = file.replace("_full_transcript.txt", "")
+        print("Processing:", base_name)
 
-        text = open(transcript_path, encoding="utf-8").read()
+        words = load_word_timings(base_name)
+        time_segments = build_time_segments(words)
 
-        segments = topic_segmentation(text)
+        segments = topic_segmentation(time_segments)
         segments = extract_keywords(segments)
         segments = generate_summaries(segments)
-        segments = assign_timestamps(segments)  # ✅ FIX
+        segments = format_timestamps(segments)
 
-        out = os.path.join(week3_dir, "topic_segments.json")
-        json.dump({"segments": segments}, open(out, "w", encoding="utf-8"), indent=4)
+        podcast_dir = os.path.join(OUTPUT_BASE, base_name, "week3")
+        os.makedirs(podcast_dir, exist_ok=True)
+
+        out = os.path.join(podcast_dir, "topic_segments.json")
+
+        with open(out, "w", encoding="utf-8") as f:
+            json.dump({"segments": segments}, f, indent=4)
 
         print("Saved →", out)
 
 process_all()
+
+
+
 
 
 

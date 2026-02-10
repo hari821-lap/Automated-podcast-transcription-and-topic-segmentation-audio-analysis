@@ -5,7 +5,8 @@ import soundfile as sf
 from vosk import Model, KaldiRecognizer
 import numpy as np
 
-# FOLDERS
+# ---------------- FOLDERS ----------------
+
 RAW_DIR = "dataset/raw_data/"
 WAV_DIR = "preprocessed_audio/wav16k/"
 NORM_DIR = "preprocessed_audio/normalized/"
@@ -16,21 +17,21 @@ TRANSCRIPT_DIR = "transcripts/"
 for d in [WAV_DIR, NORM_DIR, CHUNK_DIR, TRANSCRIPT_DIR]:
     os.makedirs(d, exist_ok=True)
 
-# LOAD MODEL
+# ---------------- LOAD VOSK MODEL ----------------
+
 print("Loading Vosk Model...")
-
 model = Model(r"C:\Users\hari\Desktop\podcast\models\vosk-model-small-en-us-0.15")
-
 print("Vosk Model Loaded Successfully.\n")
 
+# ---------------- CONVERT TO WAV 16k ----------------
 
-# CONVERT TO WAV 16k
 def convert_to_wav16k(filepath):
     print(f"Converting to 16k WAV -> {os.path.basename(filepath)}")
-
     try:
         audio, sr = librosa.load(filepath, sr=16000, mono=True)
-        out = os.path.join(WAV_DIR, os.path.splitext(os.path.basename(filepath))[0] + ".wav")
+        out = os.path.join(
+            WAV_DIR, os.path.splitext(os.path.basename(filepath))[0] + ".wav"
+        )
         sf.write(out, audio, 16000)
         print("   Conversion completed.")
         return out
@@ -38,11 +39,10 @@ def convert_to_wav16k(filepath):
         print("   Conversion error:", e)
         return None
 
+# ---------------- NORMALIZE AUDIO ----------------
 
-# NORMALIZE AUDIO
 def normalize_audio(filepath):
     print(f"Normalizing audio -> {os.path.basename(filepath)}")
-
     try:
         audio, sr = librosa.load(filepath, sr=16000)
         audio = audio / (np.max(np.abs(audio)) + 1e-9)
@@ -54,9 +54,9 @@ def normalize_audio(filepath):
         print("   Normalize error:", e)
         return None
 
+# ---------------- CHUNK AUDIO (30 SECONDS) ----------------
 
-# CHUNK AUDIO
-def chunk_audio(filepath, chunk_sec=20):
+def chunk_audio(filepath, chunk_sec=30):
     print(f"Splitting audio into {chunk_sec}-second chunks -> {os.path.basename(filepath)}")
 
     audio, sr = librosa.load(filepath, sr=16000)
@@ -79,15 +79,14 @@ def chunk_audio(filepath, chunk_sec=20):
         chunks.append(out_path)
 
         print(f"   Created chunk {index}")
-
         start += chunk_samples
         index += 1
 
     print(f"   Total chunks created: {len(chunks)}\n")
     return chunks
 
+# ---------------- TRANSCRIBE AUDIO ----------------
 
-# TRANSCRIBE AUDIO
 def transcribe(chunk_path):
     print(f"Transcribing -> {os.path.basename(chunk_path)}")
 
@@ -105,34 +104,42 @@ def transcribe(chunk_path):
 
     result = json.loads(rec.FinalResult())
 
-    out_json = chunk_path.replace("preprocessed_audio/chunks/", "transcripts/").replace(".wav", ".json")
+    out_json = os.path.join(
+        TRANSCRIPT_DIR,
+        os.path.splitext(os.path.basename(chunk_path))[0] + ".json"
+    )
 
-    with open(out_json, "w") as f:
+    with open(out_json, "w", encoding="utf-8") as f:
         json.dump(result, f, indent=2)
 
     print(f"   Saved transcript: {os.path.basename(out_json)}\n")
 
+# ---------------- MERGE TRANSCRIPTS PER AUDIO ----------------
 
-# MERGE ALL TRANSCRIPTS
-def merge_transcripts():
-    print("Merging all transcripts into one file...")
+def merge_transcripts(base_name):
+    print(f"Merging transcripts for {base_name}...")
 
-    txt_output = os.path.join(TRANSCRIPT_DIR, "full_transcript.txt")
+    txt_output = os.path.join(
+        TRANSCRIPT_DIR, f"{base_name}_full_transcript.txt"
+    )
 
     with open(txt_output, "w", encoding="utf-8") as outfile:
-        files = sorted([f for f in os.listdir(TRANSCRIPT_DIR) if f.endswith(".json")])
+        files = sorted([
+            f for f in os.listdir(TRANSCRIPT_DIR)
+            if f.startswith(base_name) and f.endswith(".json")
+        ])
 
         for f in files:
             path = os.path.join(TRANSCRIPT_DIR, f)
-            with open(path, "r") as jf:
+            with open(path, "r", encoding="utf-8") as jf:
                 data = json.load(jf)
                 if data.get("text"):
                     outfile.write(data["text"] + "\n\n")
 
-    print("   Transcript merged -> full_transcript.txt\n")
+    print(f"   Transcript saved -> {txt_output}\n")
 
+# ---------------- MAIN PIPELINE ----------------
 
-# MAIN PIPELINE
 def run():
     print("Starting Audio Processing Pipeline...\n")
 
@@ -143,10 +150,11 @@ def run():
         return
 
     for f in files:
-        print(f"\n=======================================")
+        print("\n=======================================")
         print(f"Processing file: {f}")
-        print(f"=======================================\n")
+        print("=======================================\n")
 
+        base_name = os.path.splitext(f)[0]
         raw_path = os.path.join(RAW_DIR, f)
 
         wav = convert_to_wav16k(raw_path)
@@ -157,14 +165,15 @@ def run():
         if not norm:
             continue
 
-        chunks = chunk_audio(norm)
+        chunks = chunk_audio(norm, chunk_sec=30)
 
         for c in chunks:
             transcribe(c)
 
-    merge_transcripts()
+        merge_transcripts(base_name)
 
     print("All processing completed successfully.")
 
+# ---------------- RUN ----------------
 
 run()

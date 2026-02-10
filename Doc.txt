@@ -1,0 +1,30 @@
+| Issue Type    | Description                      | Severity |
+| ------------- | -------------------------------- | -------- |
+| Transcription | Few missing words in noisy audio | Medium   |
+| Segmentation  | Long discussion merged           | Low      |
+| Keywords      | Irrelevant filler words          | Low      |
+| UI            | Slider delay once                | Low      |
+| Timestamp     | 2–3 sec mismatch                 | Low      |
+
+Final System Performance
+
+| Component     | Result                     |
+| ------------- | -------------------------- |
+| Transcription | Good for clear audio       |
+| Segmentation  | Mostly accurate            |
+| Summaries     | Clear and short            |
+| Keywords      | Relevant after cleanup     |
+| Sentiment     | Mostly correct             |
+| UI            | Stable and responsive      |
+| Timestamps    | Accurate with real timings |
+
+
+User Feedback
+
+| Test User | Background              | Podcast Type Tested         | Issues Observed                             | Feedback Summary                                                                              | Suggested Improvement                              |
+| --------- | ----------------------- | --------------------------- | ------------------------------------------- | --------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| User 1    | Technical (Classmate)   | Interview / Discussion      | Long conversations grouped into one segment | Transcription accuracy is good. Topic segmentation works well but some segments are too long. | Split long discussions into smaller topic segments |
+| User 2    | Non-Technical           | Storytelling Podcast        | Summaries slightly lengthy                  | UI is easy to understand. Timeline navigation is very useful.                                 | Make summaries more concise                        |
+| User 3    | IT Background           | Tech / News Podcast         | Few irrelevant keywords                     | Keywords are mostly accurate. Sentiment labels match tone correctly.                          | Clean up low-value keywords                        |
+| User 4    | Senior Student / Mentor | Mixed Topics Podcast        | Topic labels could be clearer               | System works well across different podcast lengths. Timestamp alignment is accurate.          | Improve descriptiveness of topic labels            |
+| User 5    | First-Time User         | Casual Conversation Podcast | None critical                               | Easy to navigate without instructions. Audio sync with topics works well.                     | Shorten summaries and improve focus                |
